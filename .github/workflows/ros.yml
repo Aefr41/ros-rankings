@@ -2,8 +2,13 @@ name: ROS Pipeline
 
 on:
   schedule:
-    - cron: '*/15 * * * *'   # every 15 min in season
-  workflow_dispatch:            # allow manual run
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+# ↓↓↓  add this  ↓↓↓
+permissions:
+  contents: write    # allow push to gh-pages
+# ↑↑↑  add this  ↑↑↑
 
 jobs:
   build:
@@ -20,4 +25,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
-          publish_dir: ./public          # export_json writes here
+          publish_dir: ./public
