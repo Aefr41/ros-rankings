@@ -2,7 +2,7 @@ name: ROS Pipeline
 
 on:
   schedule:
-    - cron: '*/15 15-5 * 9-1 *'   # every 15 min in season
+    - cron: '*/15 * * *'   # every 15 min in season
   workflow_dispatch:            # allow manual run
 
 jobs:
