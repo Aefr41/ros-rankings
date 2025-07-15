@@ -10,23 +10,35 @@ Output  : Python dict ready for JSON dump.
 
 import json, csv, datetime as dt
 from pathlib import Path
+import json, csv
 
-# ---------- helpers ----------
 def load_sleeper():
-    return json.loads(Path("data/sleeper_players.json").read_text())
+    path = Path("data/sleeper_players.json")
+    if not path.exists():
+        return {}                        # fallback: empty dict
+    return json.loads(path.read_text())
 
 def load_ktc():
-    with open("data/ktc_values.csv") as f:
+    path = Path("data/ktc_values.csv")
+    if not path.exists():
+        return {}                        # fallback: empty dict
+    with path.open() as f:
         return {row["player_name"]: float(row["value"])
                 for row in csv.DictReader(f)}
 
 def load_usage():
-    with open("data/nflverse_usage.csv") as f:
+    path = Path("data/nflverse_usage.csv")
+    if not path.exists():
+        return {}
+    with path.open() as f:
         return {row["player_name"]: float(row["route_run_share"])
                 for row in csv.DictReader(f)}
 
 def load_odds():
-    return json.loads(Path("data/odds_totals.json").read_text())
+    path = Path("data/odds_totals.json")
+    if not path.exists():
+        return {}
+    return json.loads(path.read_text())
 
 # ---------- core rank logic ----------
 def calc_rank():
