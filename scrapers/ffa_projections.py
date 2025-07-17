@@ -2,27 +2,34 @@ import pandas as pd, requests, io
 from pathlib import Path
 
 URLS = [
-    # primary (2025 raw projections)
+    # 2025 projections (not yet posted—kept here for future use)
     "https://raw.githubusercontent.com/FantasyFootballAnalytics/"
     "ffanalytics/master/data-raw/ffa_2025_projection_raw.csv",
-    # fallback (2024 file, still better than nothing)
+    # 2024 projections (still may 404 if repo moved)
     "https://raw.githubusercontent.com/FantasyFootballAnalytics/"
-    "ffanalytics/master/data-raw/ffa_2024_projection_raw.csv"
+    "ffanalytics/master/data-raw/ffa_2024_projection_raw.csv",
 ]
 
-def fetch_csv():
+OUTFILE = Path("data/ffa_proj.csv")
+HEADERS = ["player_name", "position", "team", "season_proj"]
+
+def fetch_first_available() -> pd.DataFrame | None:
     for url in URLS:
         r = requests.get(url, timeout=30)
         if r.status_code == 200:
             return pd.read_csv(io.StringIO(r.text))
-    raise RuntimeError("FFA projection CSV unavailable")
+    return None
 
-def main():
-    df = fetch_csv()
-    keep = df[["player_name", "position", "team", "season_proj"]]
+def main() -> None:
     Path("data").mkdir(exist_ok=True)
-    keep.to_csv("data/ffa_proj.csv", index=False)
-    print("✅  updated data/ffa_proj.csv")
+    df = fetch_first_available()
+    if df is None:
+        # Write header-only placeholder so downstream code doesn’t crash
+        pd.DataFrame(columns=HEADERS).to_csv(OUTFILE, index=False)
+        print("⚠️  No FFA CSV available; wrote empty ffa_proj.csv")
+    else:
+        df[HEADERS].to_csv(OUTFILE, index=False)
+        print("✅  updated data/ffa_proj.csv")
 
 if __name__ == "__main__":
     main()
