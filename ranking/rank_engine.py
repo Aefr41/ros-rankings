@@ -4,59 +4,49 @@ from pathlib import Path
 # ---------- data loaders ----------
 def load_sleeper():
     path = Path("data/sleeper_players.json")
-    if not path.exists():
-        return {}
-    return json.loads(path.read_text())
+    return json.loads(path.read_text()) if path.exists() else {}
 
 def load_ktc():
     path = Path("data/ktc_values.csv")
-    if not path.exists():
-        return {}
+    if not path.exists(): return {}
     with path.open() as f:
-        return {row["player_name"]: float(row["value"])
-                for row in csv.DictReader(f)}
+        return {row["player_name"]: float(row["value"]) for row in csv.DictReader(f)}
 
 def load_usage():
     path = Path("data/nflverse_usage.csv")
-    if not path.exists():
-        return {}
+    if not path.exists(): return {}
     with path.open() as f:
-        return {row["player_name"]: float(row["route_run_share"])
-                for row in csv.DictReader(f)}
+        return {row["player_name"]: float(row["route_run_share"]) for row in csv.DictReader(f)}
 
 def load_ffa_proj():
     path = Path("data/ffa_proj.csv")
-    if not path.exists():
-        return {}
+    if not path.exists(): return {}
     with path.open() as f:
-        return {row["player_name"]: float(row["season_proj"])
-                for row in csv.DictReader(f)}
+        return {row["player_name"]: float(row["season_proj"]) for row in csv.DictReader(f)}
 
 def load_team_sched():
     path = Path("data/team_sched.json")
-    if not path.exists():
-        return {}
-    return json.loads(path.read_text())
+    return json.loads(path.read_text()) if path.exists() else {}
 
 def load_pos_sched():
     path = Path("data/pos_sched.json")
-    if not path.exists():
-        return {}
-    return json.loads(path.read_text())
+    return json.loads(path.read_text()) if path.exists() else {}
 
 def load_weights():
     path = Path("data/weights.json")
-    if not path.exists():
-        return {
-            "season_proj": 1.0,
-            "team_sched": 1.0,
-            "pos_sched": 1.0,
-            "usage": 1.0,
-            "injury": 1.0,
-            "bye": 1.0,
-            "age_penalty": 1.0
-        }
-    return json.loads(path.read_text())
+    return json.loads(path.read_text()) if path.exists() else {
+        "season_proj": 1.0,
+        "team_sched": 1.0,
+        "pos_sched": 1.0,
+        "usage": 1.0,
+        "injury": 1.0,
+        "bye": 1.0,
+        "age_penalty": 1.0
+    }
+
+def load_prev():
+    path = Path("public/prev_ros.json")
+    return json.loads(path.read_text()) if path.exists() else {}
 
 # ---------- core rank logic ----------
 def calc_rank():
@@ -67,6 +57,7 @@ def calc_rank():
     t_sched = load_team_sched()
     p_sched = load_pos_sched()
     weights = load_weights()
+    prev = load_prev()
 
     ranked = []
     for pid, p in players.items():
@@ -97,14 +88,34 @@ def calc_rank():
     for pos in {"QB", "RB", "WR", "TE", "K", "DST"}:
         seq = [r for r in ranked if r[0] == pos]
         seq.sort(key=lambda x: -x[1])
-        final[pos] = [
-            dict(rank=i + 1,
-                 player_id=r[2],
-                 name=r[3],
-                 injury_status=r[4],
-                 ros_pts=round(r[1], 1))
-            for i, r in enumerate(seq)
-        ]
+
+        # build lookup for previous ranks
+        prev_ranks = {
+            p["name"]: p["rank"]
+            for p in prev.get("players", {}).get(pos, [])
+        }
+
+        final[pos] = []
+        for i, r in enumerate(seq):
+            name = r[3]
+            new_rank = i + 1
+            old_rank = prev_ranks.get(name)
+            if old_rank is not None:
+                delta = old_rank - new_rank
+                trend = "▲" if delta > 0 else ("▼" if delta < 0 else "")
+            else:
+                delta, trend = 0, ""
+
+            final[pos].append({
+                "rank": new_rank,
+                "player_id": r[2],
+                "name": name,
+                "injury_status": r[4],
+                "ros_pts": round(r[1], 1),
+                "rank_change": delta,
+                "trend": trend
+            })
+
     return {"timestamp": dt.datetime.utcnow().isoformat(), "players": final}
 
 if __name__ == "__main__":
