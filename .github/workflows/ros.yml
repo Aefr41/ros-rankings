@@ -19,6 +19,9 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install -r requirements.txt
+      - run: python scrapers/ffa_projections.py
+      - run: python scrapers/schedule_weights.py
+      - run: python scrapers/usage_sync.py
       - run: python export_json.py
       - name: Publish JSON to gh-pages
         uses: peaceiris/actions-gh-pages@v4
