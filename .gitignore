@@ -7,4 +7,8 @@ __pycache__/
 
 # Generated folders
 /data/
-/public/
+/public/*
+!/public/
+!/public/prev_ros.json
+!/public/current_ros.json
+!/public/ros_rankings.json
