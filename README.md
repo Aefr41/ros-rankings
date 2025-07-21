@@ -35,13 +35,15 @@ Each scraper pulls data from public sources and saves it under `data/`:
 python scrapers/ffa_projections.py   # projections from FFA
 python scrapers/schedule_weights.py  # strength of schedule
 python scrapers/usage_sync.py        # usage data from nflverse
+python scrapers/sleeper_players.py   # active player list from Sleeper
 ```
 
 ## How rankings are produced
 
 Run `python export_json.py` to execute `ranking/rank_engine.py`. The
 engine combines the downloaded datasets, computes the rest-of-season
-rankings and writes them to `public/current_ros.json`.
+rankings and writes them to `public/current_ros.json` and the simplified
+`public/ros_rankings.json`.
 
 ## Publishing the JSON
 
