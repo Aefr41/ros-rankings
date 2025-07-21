@@ -1,4 +1,4 @@
-import json, csv, datetime as dt
+import json, datetime as dt
 from pathlib import Path
 
 # ---------- data loaders ----------
@@ -6,38 +6,6 @@ def load_sleeper():
     path = Path("data/sleeper_players.json")
     return json.loads(path.read_text()) if path.exists() else {}
 
-
-def load_usage():
-    path = Path("data/nflverse_usage.csv")
-    if not path.exists(): return {}
-    with path.open() as f:
-        return {row["player_name"]: float(row["route_run_share"]) for row in csv.DictReader(f)}
-
-def load_ffa_proj():
-    path = Path("data/ffa_proj.csv")
-    if not path.exists(): return {}
-    with path.open() as f:
-        return {row["player_name"]: float(row["season_proj"]) for row in csv.DictReader(f)}
-
-def load_team_sched():
-    path = Path("data/team_sched.json")
-    return json.loads(path.read_text()) if path.exists() else {}
-
-def load_pos_sched():
-    path = Path("data/pos_sched.json")
-    return json.loads(path.read_text()) if path.exists() else {}
-
-def load_weights():
-    path = Path("data/weights.json")
-    return json.loads(path.read_text()) if path.exists() else {
-        "season_proj": 1.0,
-        "team_sched": 1.0,
-        "pos_sched": 1.0,
-        "usage": 1.0,
-        "injury": 1.0,
-        "bye": 1.0,
-        "age_penalty": 1.0
-    }
 
 def load_prev():
     path = Path("public/prev_ros.json")
@@ -59,7 +27,8 @@ def _quick_reason(p: dict, trend_val: float) -> str:
         return "Injury concern"
     if p.get("bye_week") == dt.datetime.now().isocalendar().week:
         return "Bye week"
-    if p.get("age", 25) > 30:
+    age = p.get("age")
+    if age is not None and age > 30:
         return "Veteran downgrade"
     if trend_val > 1.5:
         return "Trending up"
@@ -68,58 +37,29 @@ def _quick_reason(p: dict, trend_val: float) -> str:
     return "Steady"
 
 
-def compute_ros_points(player: dict, data_sources: dict, weights: dict) -> float:
-    """Return weighted rest-of-season points for a player."""
-    season_proj = data_sources["proj"].get(player["full_name"], 0)
-    team_adj = data_sources["team_sched"].get(player["team"], 1.0)
-    pos_adj = data_sources["pos_sched"].get(player["full_name"], 1.0)
-    snap = data_sources["usage"].get(player["full_name"], 0)
-    inj = 1 if player["injury_status"] in {"Doubtful", "Out", "IR"} else 0
-    bye = (
-        1
-        if player.get("bye_week") == dt.datetime.now().isocalendar().week
-        else 0
-    )
-    age_penalty = 0.95 if player.get("age", 25) > 30 else 1.0
-
-    return (
-        weights["season_proj"] * season_proj
-        + weights["team_sched"] * team_adj * 10
-        + weights["pos_sched"] * pos_adj * 10
-        + weights["usage"] * snap * 10
-        + weights["injury"] * (-10 * inj)
-        + weights["bye"] * (-5 * bye)
-        + weights["age_penalty"] * age_penalty * 5
-    )
+def compute_ros_points(player: dict) -> float:
+    """Return a basic rest-of-season score using player age."""
+    age = player.get("age")
+    if age is None:
+        return 0.0
+    return max(0.0, 100 - age)
 
 # ---------- core rank logic ----------
 def calc_rank():
     players = load_sleeper()
-    usage = load_usage()
-    proj = load_ffa_proj()
-    t_sched = load_team_sched()
-    p_sched = load_pos_sched()
-    weights = load_weights()
     prev = load_prev()
-
-    data_sources = {
-        "usage": usage,
-        "proj": proj,
-        "team_sched": t_sched,
-        "pos_sched": p_sched,
-    }
 
     ranked = []
     for pid, p in players.items():
-        if p["position"] not in {"QB", "RB", "WR", "TE", "K", "DST"}:
+        if p["position"] not in {"QB", "RB", "WR", "TE", "DST"}:
             continue
 
-        ros_pts = compute_ros_points(p, data_sources, weights)
+        ros_pts = compute_ros_points(p)
 
         ranked.append((p["position"], ros_pts, pid, p["full_name"], p["injury_status"]))
 
     final = {}
-    for pos in ["QB", "RB", "WR", "TE", "K", "DST"]:
+    for pos in ["QB", "RB", "WR", "TE", "DST"]:
         seq = [r for r in ranked if r[0] == pos]
         seq.sort(key=lambda x: -x[1])
 
@@ -156,27 +96,15 @@ def calc_rank():
 def calc_rank_list() -> list:
     """Return simplified ranking list used for publishing."""
     players = load_sleeper()
-    usage = load_usage()
-    proj = load_ffa_proj()
-    t_sched = load_team_sched()
-    p_sched = load_pos_sched()
-    weights = load_weights()
     prev = load_prev()
     prev_pts = _prev_points_lookup(prev)
 
-    data_sources = {
-        "usage": usage,
-        "proj": proj,
-        "team_sched": t_sched,
-        "pos_sched": p_sched,
-    }
-
     results = []
     for pid, p in players.items():
-        if p["position"] not in {"QB", "RB", "WR", "TE", "K", "DST"}:
+        if p["position"] not in {"QB", "RB", "WR", "TE", "DST"}:
             continue
 
-        ros_pts = compute_ros_points(p, data_sources, weights)
+        ros_pts = compute_ros_points(p)
 
         prev_val = prev_pts.get(p["full_name"])  # type: ignore[index]
         trend_val = ros_pts - prev_val if prev_val is not None else 0.0
