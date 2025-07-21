@@ -1,10 +1,17 @@
 import json, pandas as pd, requests, io
 from pathlib import Path
 
-TEAM_URL = ("https://raw.githubusercontent.com/nflverse/nflverse-data/master/"
-            "fantasy/sos/2025_team_sos.csv")
-POS_URL  = ("https://raw.githubusercontent.com/nflverse/nflverse-data/master/"
-            "fantasy/sos/2025_player_sos.csv")
+TEAM_URL = (
+    "https://raw.githubusercontent.com/nflverse/nflverse-data/master/"
+    "fantasy/sos/2025_team_sos.csv"
+)
+POS_URL = (
+    "https://raw.githubusercontent.com/nflverse/nflverse-data/master/"
+    "fantasy/sos/2025_player_sos.csv"
+)
+
+TEAM_FILE = Path("data/team_sched.json")
+POS_FILE = Path("data/pos_sched.json")
 
 def fetch_csv(url: str) -> pd.DataFrame | None:
     try:
@@ -15,19 +22,23 @@ def fetch_csv(url: str) -> pd.DataFrame | None:
 
 def main() -> None:
     team_df = fetch_csv(TEAM_URL)
-    pos_df  = fetch_csv(POS_URL)
+    pos_df = fetch_csv(POS_URL)
 
     # if nflverse hasn’t published yet, write empty JSON so pipeline continues
     if team_df is None or pos_df is None:
-        team_file = Path("data/team_sched.json")
-        pos_file  = Path("data/pos_sched.json")
         Path("data").mkdir(exist_ok=True)
-        if team_file.exists() and pos_file.exists():
+        team_exists = TEAM_FILE.exists()
+        pos_exists = POS_FILE.exists()
+
+        if team_df is None and not team_exists:
+            TEAM_FILE.write_text("{}")
+        if pos_df is None and not pos_exists:
+            POS_FILE.write_text("{}")
+
+        if team_exists or pos_exists:
             print("⚠️  fetch failed; using previous data")
-            return
-        team_file.write_text("{}")
-        pos_file.write_text("{}")
-        print("⚠️  fetch failed; wrote empty JSON")
+        else:
+            print("⚠️  fetch failed; wrote empty JSON")
         return
 
     team_adj = (team_df.set_index("team")["ros_fp_allowed"]
