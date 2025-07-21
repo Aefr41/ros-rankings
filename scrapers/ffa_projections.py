@@ -15,7 +15,10 @@ HEADERS = ["player_name", "position", "team", "season_proj"]
 
 def fetch_first_available() -> pd.DataFrame | None:
     for url in URLS:
-        r = requests.get(url, timeout=30)
+        try:
+            r = requests.get(url, timeout=30)
+        except requests.RequestException:
+            continue
         if r.status_code == 200:
             return pd.read_csv(io.StringIO(r.text))
     return None
@@ -24,9 +27,12 @@ def main() -> None:
     Path("data").mkdir(exist_ok=True)
     df = fetch_first_available()
     if df is None:
+        if OUTFILE.exists():
+            print("⚠️  fetch failed; using previous data")
+            return
         # Write header-only placeholder so downstream code doesn’t crash
         pd.DataFrame(columns=HEADERS).to_csv(OUTFILE, index=False)
-        print("⚠️  No FFA CSV available; wrote empty ffa_proj.csv")
+        print("⚠️  fetch failed; wrote empty ffa_proj.csv")
     else:
         df[HEADERS].to_csv(OUTFILE, index=False)
         print("✅  updated data/ffa_proj.csv")
