@@ -28,6 +28,11 @@ def main() -> None:
     Path("data").mkdir(exist_ok=True)
     df = fetch_first_available()
     if df is None:
+        if OUTFILE.exists():
+            print(
+                "⚠️  No FFA CSV available; kept existing ffa_proj.csv"
+            )
+            return
         # Write header-only placeholder so downstream code doesn’t crash
         pd.DataFrame(columns=HEADERS).to_csv(OUTFILE, index=False)
         print("⚠️  No FFA CSV available; wrote empty ffa_proj.csv")
