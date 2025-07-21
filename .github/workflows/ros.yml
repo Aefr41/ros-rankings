@@ -5,10 +5,8 @@ on:
     - cron: '*/15 * * * *'
   workflow_dispatch:
 
-# ↓↓↓  add this  ↓↓↓
 permissions:
   contents: write    # allow push to gh-pages
-# ↑↑↑  add this  ↑↑↑
 
 jobs:
   build:
