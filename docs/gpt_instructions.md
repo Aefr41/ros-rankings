@@ -11,5 +11,5 @@ meaningful amount.
 ```
 
 Downstream tooling feeds the model a JSON changelog (see
-`ranking/changelog.py` for an example structure) and asks for a short
+`ranking/changelog_example.json` for an example structure) and asks for a short
 narrative suitable for a newsletter or social post.

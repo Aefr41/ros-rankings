@@ -7,7 +7,7 @@ ros-rankings/
 │   ├── schedule_weights.py
 │   └── usage_sync.py
 ├── ranking/
-│   ├── changelog.py
+│   ├── changelog_example.json
 │   └── rank_engine.py         # sample below
 ├── data/
 ├── public/
