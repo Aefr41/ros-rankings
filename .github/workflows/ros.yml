@@ -23,6 +23,8 @@ jobs:
         continue-on-error: true
       - run: python scrapers/usage_sync.py
         continue-on-error: true
+      - run: python scrapers/sleeper_players.py
+        continue-on-error: true
       - run: python export_json.py
       - name: Commit prev_ros.json
         run: |
