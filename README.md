@@ -3,12 +3,14 @@ ros-rankings/
 │   └── workflows/
 │       └── ros.yml            # GitHub-Actions workflow
 ├── scrapers/
-│   ├── sleeper_poll.py
-│   ├── pushshift_stream.py
-│   ├── nflverse_sync.py
-│   └── oddsapi_poll.py
+│   ├── ffa_projections.py
+│   ├── schedule_weights.py
+│   └── usage_sync.py
 ├── ranking/
+│   ├── changelog.py
 │   └── rank_engine.py         # sample below
+├── data/
+├── public/
 ├── export_json.py
 ├── requirements.txt
 └── README.md
