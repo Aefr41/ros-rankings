@@ -54,3 +54,6 @@ feed.
 The ranking engine consumes projections and usage metrics from the scrapers
 under `scrapers/`. Previous revisions referenced KeepTradeCut (KTC) values, but
 that data is no longer loaded or used in the scoring formula.
+
+## Disclaimer
+See [docs/disclaimers.md](docs/disclaimers.md) for details on data permissions, predictive limitations and why these rankings are for informational purposes only.
