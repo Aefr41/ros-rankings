@@ -1,4 +1,5 @@
 import pandas as pd, requests, io
+from requests import RequestException
 from pathlib import Path
 
 CSV_URL = (
@@ -7,7 +8,10 @@ CSV_URL = (
 )
 
 def fetch_usage() -> pd.DataFrame | None:
-    r = requests.get(CSV_URL, timeout=30)
+    try:
+        r = requests.get(CSV_URL, timeout=30)
+    except RequestException:
+        return None
     if r.status_code != 200:
         return None
     df = pd.read_csv(io.StringIO(r.text))

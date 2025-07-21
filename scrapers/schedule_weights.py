@@ -1,4 +1,5 @@
 import json, pandas as pd, requests, io
+from requests import RequestException
 from pathlib import Path
 
 TEAM_URL = ("https://raw.githubusercontent.com/nflverse/nflverse-data/master/"
@@ -7,7 +8,10 @@ POS_URL  = ("https://raw.githubusercontent.com/nflverse/nflverse-data/master/"
             "fantasy/sos/2025_player_sos.csv")
 
 def fetch_csv(url: str) -> pd.DataFrame | None:
-    r = requests.get(url, timeout=30)
+    try:
+        r = requests.get(url, timeout=30)
+    except RequestException:
+        return None
     return pd.read_csv(io.StringIO(r.text)) if r.status_code == 200 else None
 
 def main() -> None:
