@@ -7,7 +7,10 @@ POS_URL  = ("https://raw.githubusercontent.com/nflverse/nflverse-data/master/"
             "fantasy/sos/2025_player_sos.csv")
 
 def fetch_csv(url: str) -> pd.DataFrame | None:
-    r = requests.get(url, timeout=30)
+    try:
+        r = requests.get(url, timeout=30)
+    except requests.RequestException:
+        return None
     return pd.read_csv(io.StringIO(r.text)) if r.status_code == 200 else None
 
 def main() -> None:
@@ -16,10 +19,15 @@ def main() -> None:
 
     # if nflverse hasn’t published yet, write empty JSON so pipeline continues
     if team_df is None or pos_df is None:
+        team_file = Path("data/team_sched.json")
+        pos_file  = Path("data/pos_sched.json")
         Path("data").mkdir(exist_ok=True)
-        Path("data/team_sched.json").write_text("{}")
-        Path("data/pos_sched.json").write_text("{}")
-        print("⚠️  SOS CSVs unavailable; wrote empty JSON")
+        if team_file.exists() and pos_file.exists():
+            print("⚠️  fetch failed; using previous data")
+            return
+        team_file.write_text("{}")
+        pos_file.write_text("{}")
+        print("⚠️  fetch failed; wrote empty JSON")
         return
 
     team_adj = (team_df.set_index("team")["ros_fp_allowed"]
