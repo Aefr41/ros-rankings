@@ -47,8 +47,8 @@ def main() -> None:
                / pos_df["ros_fp_allowed"].mean()).round(3).to_dict()
 
     Path("data").mkdir(exist_ok=True)
-    Path("data/team_sched.json").write_text(json.dumps(team_adj, indent=2))
-    Path("data/pos_sched.json").write_text(json.dumps(pos_adj, indent=2))
+    TEAM_FILE.write_text(json.dumps(team_adj, indent=2))
+    POS_FILE.write_text(json.dumps(pos_adj, indent=2))
     print("✅  wrote team_sched.json & pos_sched.json")
 
 if __name__ == "__main__":
