@@ -1,4 +1,5 @@
 import pandas as pd, requests, io
+from requests import RequestException
 from pathlib import Path
 
 URLS = [
@@ -15,7 +16,10 @@ HEADERS = ["player_name", "position", "team", "season_proj"]
 
 def fetch_first_available() -> pd.DataFrame | None:
     for url in URLS:
-        r = requests.get(url, timeout=30)
+        try:
+            r = requests.get(url, timeout=30)
+        except RequestException:
+            return None
         if r.status_code == 200:
             return pd.read_csv(io.StringIO(r.text))
     return None
