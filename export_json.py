@@ -4,7 +4,7 @@ Runs the ranking engine and writes ./public/current_ros.json
 """
 
 import json, pathlib
-from ranking.rank_engine import calc_rank   # make sure function name matches
+from ranking.rank_engine import calc_rank, calc_rank_list
 
 def main():
     data = calc_rank()
@@ -13,6 +13,11 @@ def main():
     curr = out_dir / "current_ros.json"
     curr.write_text(json.dumps(data, indent=2))
     print(f"Wrote {curr}")
+
+    flat = calc_rank_list()
+    ros = out_dir / "ros_rankings.json"
+    ros.write_text(json.dumps(flat, indent=2))
+    print(f"Wrote {ros}")
 
     # stash this run for next time
     prev = out_dir / "prev_ros.json"
