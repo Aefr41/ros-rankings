@@ -32,7 +32,8 @@ jobs:
           git config user.email github-actions@github.com
           git add public/prev_ros.json
           git commit -m "Update prev_ros.json" || echo "No changes"
-          git push
+          # explicit ref to handle detached HEAD on schedule runs
+          git push origin HEAD:main
       - name: Publish JSON to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
