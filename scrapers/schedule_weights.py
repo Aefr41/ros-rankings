@@ -18,12 +18,18 @@ def main() -> None:
     team_df = fetch_csv(TEAM_URL)
     pos_df  = fetch_csv(POS_URL)
 
-    # if nflverse hasn’t published yet, write empty JSON so pipeline continues
+    Path("data").mkdir(exist_ok=True)
+    team_path = Path("data/team_sched.json")
+    pos_path = Path("data/pos_sched.json")
+
+    # if nflverse hasn’t published yet, keep existing JSON or write placeholders
     if team_df is None or pos_df is None:
-        Path("data").mkdir(exist_ok=True)
-        Path("data/team_sched.json").write_text("{}")
-        Path("data/pos_sched.json").write_text("{}")
-        print("⚠️  SOS CSVs unavailable; wrote empty JSON")
+        if team_path.exists() and pos_path.exists():
+            print("⚠️  SOS CSVs unavailable; kept existing JSON")
+        else:
+            team_path.write_text("{}")
+            pos_path.write_text("{}")
+            print("⚠️  SOS CSVs unavailable; wrote empty JSON")
         return
 
     team_adj = (team_df.set_index("team")["ros_fp_allowed"]

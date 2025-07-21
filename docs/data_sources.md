@@ -11,5 +11,6 @@ Several public datasets feed into the rest-of-season rankings:
 - **Sleeper** – A JSON dump of player metadata (position, team, bye week and
   injury status) is expected at `data/sleeper_players.json`.
 
-Each scraper gracefully handles missing data by writing placeholder files so the
-ranking engine can still run even if a source is temporarily unavailable.
+Each scraper gracefully handles missing data. If a request fails and prior
+output exists, the scraper keeps the existing file. A placeholder is written
+only when no previous data is available so the ranking engine can continue.

@@ -24,13 +24,19 @@ def fetch_usage() -> pd.DataFrame | None:
 def main() -> None:
     usage = fetch_usage()
     Path("data").mkdir(exist_ok=True)
+    out_path = Path("data/nflverse_usage.csv")
     if usage is None:
+        if out_path.exists():
+            print(
+                "⚠️  usage CSV unavailable; kept existing nflverse_usage.csv"
+            )
+            return
         # write header-only CSV so ranking engine can still run
         pd.DataFrame(columns=["player_name", "route_run_share"]).to_csv(
-            "data/nflverse_usage.csv", index=False)
+            out_path, index=False)
         print("⚠️  usage CSV unavailable; wrote empty placeholder")
     else:
-        usage.to_csv("data/nflverse_usage.csv", index=False)
+        usage.to_csv(out_path, index=False)
         print("✅  updated data/nflverse_usage.csv")
 
 if __name__ == "__main__":
