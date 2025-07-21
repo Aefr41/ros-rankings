@@ -23,6 +23,13 @@ jobs:
       - run: python scrapers/schedule_weights.py
       - run: python scrapers/usage_sync.py
       - run: python export_json.py
+      - name: Commit prev_ros.json
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add public/prev_ros.json
+          git commit -m "Update prev_ros.json" || echo "No changes"
+          git push
       - name: Publish JSON to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
