@@ -85,7 +85,7 @@ def calc_rank():
         ranked.append((p["position"], ros_pts, pid, p["full_name"], p["injury_status"]))
 
     final = {}
-    for pos in {"QB", "RB", "WR", "TE", "K", "DST"}:
+    for pos in ["QB", "RB", "WR", "TE", "K", "DST"]:
         seq = [r for r in ranked if r[0] == pos]
         seq.sort(key=lambda x: -x[1])
 
