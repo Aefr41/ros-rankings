@@ -6,11 +6,6 @@ def load_sleeper():
     path = Path("data/sleeper_players.json")
     return json.loads(path.read_text()) if path.exists() else {}
 
-def load_ktc():
-    path = Path("data/ktc_values.csv")
-    if not path.exists(): return {}
-    with path.open() as f:
-        return {row["player_name"]: float(row["value"]) for row in csv.DictReader(f)}
 
 def load_usage():
     path = Path("data/nflverse_usage.csv")
@@ -51,7 +46,6 @@ def load_prev():
 # ---------- core rank logic ----------
 def calc_rank():
     players = load_sleeper()
-    ktc = load_ktc()
     usage = load_usage()
     proj = load_ffa_proj()
     t_sched = load_team_sched()

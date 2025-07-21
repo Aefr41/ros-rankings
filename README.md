@@ -50,3 +50,7 @@ automatically runs the scrapers and ranking engine on a schedule. The
 generated `public/current_ros.json` file is then pushed to the
 `gh-pages` branch so it can be served as a publicly accessible JSON
 feed.
+
+The ranking engine consumes projections and usage metrics from the scrapers
+under `scrapers/`. Previous revisions referenced KeepTradeCut (KTC) values, but
+that data is no longer loaded or used in the scoring formula.
