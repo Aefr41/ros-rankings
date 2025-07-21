@@ -3,7 +3,7 @@
 Runs the ranking engine and writes ./public/current_ros.json
 """
 
-import json, pathlib, os
+import json, pathlib
 from ranking.rank_engine import calc_rank   # make sure function name matches
 
 def main():
