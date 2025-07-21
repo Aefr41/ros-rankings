@@ -67,6 +67,31 @@ def _quick_reason(p: dict, trend_val: float) -> str:
         return "Trending down"
     return "Steady"
 
+
+def compute_ros_points(player: dict, data_sources: dict, weights: dict) -> float:
+    """Return weighted rest-of-season points for a player."""
+    season_proj = data_sources["proj"].get(player["full_name"], 0)
+    team_adj = data_sources["team_sched"].get(player["team"], 1.0)
+    pos_adj = data_sources["pos_sched"].get(player["full_name"], 1.0)
+    snap = data_sources["usage"].get(player["full_name"], 0)
+    inj = 1 if player["injury_status"] in {"Doubtful", "Out", "IR"} else 0
+    bye = (
+        1
+        if player.get("bye_week") == dt.datetime.now().isocalendar().week
+        else 0
+    )
+    age_penalty = 0.95 if player.get("age", 25) > 30 else 1.0
+
+    return (
+        weights["season_proj"] * season_proj
+        + weights["team_sched"] * team_adj * 10
+        + weights["pos_sched"] * pos_adj * 10
+        + weights["usage"] * snap * 10
+        + weights["injury"] * (-10 * inj)
+        + weights["bye"] * (-5 * bye)
+        + weights["age_penalty"] * age_penalty * 5
+    )
+
 # ---------- core rank logic ----------
 def calc_rank():
     players = load_sleeper()
@@ -77,28 +102,19 @@ def calc_rank():
     weights = load_weights()
     prev = load_prev()
 
+    data_sources = {
+        "usage": usage,
+        "proj": proj,
+        "team_sched": t_sched,
+        "pos_sched": p_sched,
+    }
+
     ranked = []
     for pid, p in players.items():
         if p["position"] not in {"QB", "RB", "WR", "TE", "K", "DST"}:
             continue
 
-        season_proj = proj.get(p["full_name"], 0)
-        team_adj = t_sched.get(p["team"], 1.0)
-        pos_adj = p_sched.get(p["full_name"], 1.0)
-        snap = usage.get(p["full_name"], 0)
-        inj = 1 if p["injury_status"] in {"Doubtful", "Out", "IR"} else 0
-        bye = 1 if p.get("bye_week") == dt.datetime.now().isocalendar().week else 0
-        age_penalty = 0.95 if p.get("age", 25) > 30 else 1.0
-
-        ros_pts = (
-            weights["season_proj"] * season_proj +
-            weights["team_sched"] * team_adj * 10 +
-            weights["pos_sched"] * pos_adj * 10 +
-            weights["usage"] * snap * 10 +
-            weights["injury"] * (-10 * inj) +
-            weights["bye"] * (-5 * bye) +
-            weights["age_penalty"] * age_penalty * 5
-        )
+        ros_pts = compute_ros_points(p, data_sources, weights)
 
         ranked.append((p["position"], ros_pts, pid, p["full_name"], p["injury_status"]))
 
@@ -148,28 +164,19 @@ def calc_rank_list() -> list:
     prev = load_prev()
     prev_pts = _prev_points_lookup(prev)
 
+    data_sources = {
+        "usage": usage,
+        "proj": proj,
+        "team_sched": t_sched,
+        "pos_sched": p_sched,
+    }
+
     results = []
     for pid, p in players.items():
         if p["position"] not in {"QB", "RB", "WR", "TE", "K", "DST"}:
             continue
 
-        season_proj = proj.get(p["full_name"], 0)
-        team_adj = t_sched.get(p["team"], 1.0)
-        pos_adj = p_sched.get(p["full_name"], 1.0)
-        snap = usage.get(p["full_name"], 0)
-        inj = 1 if p["injury_status"] in {"Doubtful", "Out", "IR"} else 0
-        bye = 1 if p.get("bye_week") == dt.datetime.now().isocalendar().week else 0
-        age_penalty = 0.95 if p.get("age", 25) > 30 else 1.0
-
-        ros_pts = (
-            weights["season_proj"] * season_proj +
-            weights["team_sched"] * team_adj * 10 +
-            weights["pos_sched"] * pos_adj * 10 +
-            weights["usage"] * snap * 10 +
-            weights["injury"] * (-10 * inj) +
-            weights["bye"] * (-5 * bye) +
-            weights["age_penalty"] * age_penalty * 5
-        )
+        ros_pts = compute_ros_points(p, data_sources, weights)
 
         prev_val = prev_pts.get(p["full_name"])  # type: ignore[index]
         trend_val = ros_pts - prev_val if prev_val is not None else 0.0
