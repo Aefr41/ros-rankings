@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-22T22:42:18.742935",
+  "timestamp": "2025-07-22T23:38:09.632278",
   "players": {
     "QB": [
       {
@@ -1167,7 +1167,7 @@
         "rank": 130,
         "player_id": "9999",
         "name": "Will Levis",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -17515,7 +17515,7 @@
         "rank": 1006,
         "player_id": "3321",
         "name": "Tyreek Hill",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
