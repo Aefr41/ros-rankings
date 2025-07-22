@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-22T19:31:25.150827",
+  "timestamp": "2025-07-22T20:42:33.370678",
   "players": {
     "QB": [
       {
@@ -16516,7 +16516,7 @@
         "rank": 895,
         "player_id": "4037",
         "name": "Chris Godwin",
-        "injury_status": "Questionable",
+        "injury_status": "PUP",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -22791,7 +22791,7 @@
         "rank": 358,
         "player_id": "5985",
         "name": "Foster Moreau",
-        "injury_status": "Questionable",
+        "injury_status": "PUP",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -24024,7 +24024,7 @@
         "rank": 495,
         "player_id": "2505",
         "name": "Darren Waller",
-        "injury_status": null,
+        "injury_status": "PUP",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -24231,7 +24231,7 @@
         "rank": 518,
         "player_id": "4381",
         "name": "Taysom Hill",
-        "injury_status": "Questionable",
+        "injury_status": "PUP",
         "ros_pts": 66,
         "rank_change": 0,
         "trend": ""
