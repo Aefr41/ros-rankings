@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-22T21:37:57.352154",
+  "timestamp": "2025-07-22T22:42:18.742935",
   "players": {
     "QB": [
       {
@@ -3707,7 +3707,7 @@
         "rank": 83,
         "player_id": "11943",
         "name": "Michael Wiley",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -5057,7 +5057,7 @@
         "rank": 233,
         "player_id": "10223",
         "name": "Eric Gray",
-        "injury_status": null,
+        "injury_status": "PUP",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
