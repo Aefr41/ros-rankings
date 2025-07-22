@@ -2514,12 +2514,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Garrett Wilson (NYJ)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Blake Corum (LAR)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4671,6 +4665,12 @@
     "player": "Zaire Mitchell-Paden (BAL)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Garrett Wilson (NYJ)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
