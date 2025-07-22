@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-22T20:42:33.370678",
+  "timestamp": "2025-07-22T21:37:57.352154",
   "players": {
     "QB": [
       {
@@ -96,7 +96,7 @@
         "rank": 11,
         "player_id": "11561",
         "name": "Michael Pratt",
-        "injury_status": null,
+        "injury_status": "PUP",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -6506,7 +6506,7 @@
         "rank": 394,
         "player_id": "6845",
         "name": "Zack Moss",
-        "injury_status": null,
+        "injury_status": "PUP",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -22674,7 +22674,7 @@
         "rank": 345,
         "player_id": "5906",
         "name": "Dawson Knox",
-        "injury_status": null,
+        "injury_status": "PUP",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
