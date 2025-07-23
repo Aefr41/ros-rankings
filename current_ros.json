@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-23T22:44:06.306319",
+  "timestamp": "2025-07-23T23:38:24.574684",
   "players": {
     "QB": [
       {
@@ -4265,7 +4265,7 @@
         "rank": 145,
         "player_id": "8151",
         "name": "Kenneth Walker",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12286,7 +12286,7 @@
         "rank": 425,
         "player_id": "11867",
         "name": "Jaelen Gill",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
