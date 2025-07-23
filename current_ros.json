@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-23T21:38:14.765742",
+  "timestamp": "2025-07-23T22:44:06.306319",
   "players": {
     "QB": [
       {
@@ -10729,7 +10729,7 @@
         "rank": 252,
         "player_id": "13003",
         "name": "Tru Edwards",
-        "injury_status": null,
+        "injury_status": "PUP",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -14248,7 +14248,7 @@
         "rank": 643,
         "player_id": "6814",
         "name": "Laviska Shenault",
-        "injury_status": "Questionable",
+        "injury_status": "PUP",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -20343,7 +20343,7 @@
         "rank": 86,
         "player_id": "11595",
         "name": "Jared Wiley",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -24600,7 +24600,7 @@
         "rank": 559,
         "player_id": "13013",
         "name": "Mark Redman",
-        "injury_status": null,
+        "injury_status": "PUP",
         "ros_pts": 0.0,
         "rank_change": 0,
         "trend": ""
