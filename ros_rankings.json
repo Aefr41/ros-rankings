@@ -2370,12 +2370,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jermar Jefferson (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Garrett Groshek (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4539,6 +4533,12 @@
     "player": "Jared Rice (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jermar Jefferson (TEN)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
