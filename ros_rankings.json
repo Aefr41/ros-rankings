@@ -204,12 +204,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Trey Benson (ARI)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Montrell Johnson (PHI)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -891,6 +885,12 @@
     "player": "Josh Imatorbhebhe (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Trey Benson (ARI)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -9276,12 +9276,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Olamide Zaccheaus (CHI)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Chad Kelly (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -10779,6 +10773,12 @@
     "player": "Tyler Ferguson (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Olamide Zaccheaus (CHI)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
