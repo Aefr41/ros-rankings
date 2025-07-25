@@ -1026,12 +1026,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Bryce Young (CAR)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Caleb Lohner (DEN)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1339,12 +1333,6 @@
   },
   {
     "player": "Hunter Bryant (None)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Oscar Cardenas (ARI)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2424,6 +2412,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Bryce Young (CAR)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Bryan Edwards (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3057,6 +3051,12 @@
     "player": "Braxton Burmeister (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Oscar Cardenas (ARI)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -12516,12 +12516,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Alvin Kamara (NO)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kenny Cook (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13233,6 +13227,12 @@
     "player": "Laquon Treadwell (IND)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Alvin Kamara (NO)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
