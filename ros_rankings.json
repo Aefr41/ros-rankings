@@ -756,12 +756,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jalin Conyers (MIA)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kimani Vidal (LAC)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2073,6 +2067,12 @@
     "player": "Corey Taylor (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jalin Conyers (MIA)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -8238,12 +8238,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brandon Johnson (PIT)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Marquez North (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -10062,6 +10056,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Brandon Johnson (PIT)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "T.J. Logan (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11382,12 +11382,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Van Jefferson (TEN)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Troymaine Pope (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12477,6 +12471,12 @@
     "player": "Jonnu Smith (PIT)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Van Jefferson (TEN)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
