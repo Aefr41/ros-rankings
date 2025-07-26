@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-26T20:38:58.021559",
+  "timestamp": "2025-07-26T21:33:20.292921",
   "players": {
     "QB": [
       {
@@ -5354,7 +5354,7 @@
         "rank": 266,
         "player_id": "10216",
         "name": "Kenny McIntosh",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -6470,7 +6470,7 @@
         "rank": 390,
         "player_id": "6973",
         "name": "J.J. Taylor",
-        "injury_status": "PUP",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -11809,7 +11809,7 @@
         "rank": 372,
         "player_id": "12224",
         "name": "David White",
-        "injury_status": null,
+        "injury_status": "NA",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -16345,7 +16345,7 @@
         "rank": 876,
         "player_id": "5880",
         "name": "Parris Campbell",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
