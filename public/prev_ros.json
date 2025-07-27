@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-27T13:38:50.226518",
+  "timestamp": "2025-07-27T14:40:12.217502",
   "players": {
     "QB": [
       {
@@ -15598,7 +15598,7 @@
         "rank": 792,
         "player_id": "4082",
         "name": "Curtis Samuel",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16795,7 +16795,7 @@
         "rank": 925,
         "player_id": "5927",
         "name": "Terry McLaurin",
-        "injury_status": "DNR",
+        "injury_status": "PUP",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
