@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-28T21:34:33.888450",
+  "timestamp": "2025-07-28T22:50:57.135576",
   "players": {
     "QB": [
       {
@@ -3518,7 +3518,7 @@
         "rank": 62,
         "player_id": "12490",
         "name": "Bhayshul Tuten",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -4409,7 +4409,7 @@
         "rank": 161,
         "player_id": "9222",
         "name": "Zach Evans",
-        "injury_status": null,
+        "injury_status": "NA",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
