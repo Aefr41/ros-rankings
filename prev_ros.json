@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-28T17:45:07.132710",
+  "timestamp": "2025-07-28T18:58:22.590820",
   "players": {
     "QB": [
       {
@@ -1212,7 +1212,7 @@
         "rank": 135,
         "player_id": "7591",
         "name": "Justin Fields",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -12826,7 +12826,7 @@
         "rank": 484,
         "player_id": "9499",
         "name": "Bryce Ford-Wheaton",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -15778,7 +15778,7 @@
         "rank": 812,
         "player_id": "6699",
         "name": "Gunner Olszewski",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
