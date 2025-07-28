@@ -72,12 +72,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Malik Nabers (NYG)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Trevor Etienne (CAR)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -363,6 +357,12 @@
     "player": "Mario Williams (LAR)",
     "ros_points": 78,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Malik Nabers (NYG)",
+    "ros_points": 78,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -8124,12 +8124,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Drew Ogletree (IND)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Dennis Houston (TB)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9957,6 +9951,12 @@
     "player": "Jeff Smith (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Drew Ogletree (IND)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
