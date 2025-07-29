@@ -930,12 +930,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jacob Saylors (None)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Montorie Foster (SEA)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2283,6 +2277,12 @@
     "player": "Taulia Tagovailoa (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jacob Saylors (DET)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -10734,7 +10734,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Gunner Olszewski (None)",
+    "player": "Gunner Olszewski (NYG)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
