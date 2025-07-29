@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-29T14:55:28.056843",
+  "timestamp": "2025-07-29T15:49:30.650544",
   "players": {
     "QB": [
       {
@@ -8389,8 +8389,8 @@
         "name": "Kye Robichaux",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": -1,
-        "trend": "\u25bc"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 604,
@@ -8398,8 +8398,8 @@
         "name": "Rakeem Boyd",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": -1,
-        "trend": "\u25bc"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 605,
@@ -8407,8 +8407,8 @@
         "name": "Toriano Clinton",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": -1,
-        "trend": "\u25bc"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 606,
@@ -8416,8 +8416,8 @@
         "name": "Trey Potts",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": -1,
-        "trend": "\u25bc"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 607,
@@ -8425,8 +8425,8 @@
         "name": "Sone Ntoh",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": -1,
-        "trend": "\u25bc"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 608,
@@ -8434,8 +8434,8 @@
         "name": "Shermari Jones",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": -1,
-        "trend": "\u25bc"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 609,
@@ -8443,8 +8443,8 @@
         "name": "Tayon Fleet-Davis",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": -1,
-        "trend": "\u25bc"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 610,
@@ -8452,8 +8452,8 @@
         "name": "Marcus Cooper",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": -1,
-        "trend": "\u25bc"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 611,
@@ -8461,8 +8461,8 @@
         "name": "ShunDerrick Powell",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": -1,
-        "trend": "\u25bc"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 612,
@@ -8470,8 +8470,8 @@
         "name": "Ahmani Marshall",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": -1,
-        "trend": "\u25bc"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 613,
@@ -8479,8 +8479,8 @@
         "name": "Marcelias Sutton",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": -1,
-        "trend": "\u25bc"
+        "rank_change": 0,
+        "trend": ""
       }
     ],
     "WR": [
@@ -8659,7 +8659,7 @@
         "rank": 20,
         "player_id": "11632",
         "name": "Malik Nabers",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -11755,7 +11755,7 @@
         "rank": 364,
         "player_id": "7596",
         "name": "Elijah Moore",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -11962,7 +11962,7 @@
         "rank": 387,
         "player_id": "8142",
         "name": "Alec Pierce",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -15940,7 +15940,7 @@
         "rank": 829,
         "player_id": "5848",
         "name": "Hollywood Brown",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16021,7 +16021,7 @@
         "rank": 838,
         "player_id": "7357",
         "name": "Dan Chisena",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -21666,7 +21666,7 @@
         "rank": 230,
         "player_id": "7535",
         "name": "Hunter Long",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -23682,7 +23682,7 @@
         "rank": 454,
         "player_id": "3202",
         "name": "Austin Hooper",
-        "injury_status": "PUP",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
