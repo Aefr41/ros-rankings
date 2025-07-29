@@ -606,12 +606,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Montana Lemonious-Craig (PIT)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Israel Abanikanda (GB)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1719,6 +1713,12 @@
     "player": "Grant DuBose (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Montana Lemonious-Craig (PIT)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -6090,12 +6090,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Sam Hartman (WAS)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Talolo Limi-Jones (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -8205,6 +8199,12 @@
     "player": "Malik Davis (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Sam Hartman (WAS)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -11538,12 +11538,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tom Kennedy (DET)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Christian Scotland-Williamson (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12582,6 +12576,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Tom Kennedy (DET)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Dalton Schultz (HOU)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13374,12 +13374,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Dak Prescott (DAL)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Chris King (None)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -13827,6 +13821,12 @@
     "player": "Jordan Matthews (None)",
     "ros_points": 68,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Dak Prescott (DAL)",
+    "ros_points": 68,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
