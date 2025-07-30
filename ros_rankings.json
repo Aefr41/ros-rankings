@@ -10158,12 +10158,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyler Davis (None)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Troy Mangen (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -10254,7 +10248,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cole Fotheringham (None)",
+    "player": "Cole Fotheringham (NE)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -11559,6 +11553,12 @@
     "player": "Corey Davis (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tyler Davis (NE)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
