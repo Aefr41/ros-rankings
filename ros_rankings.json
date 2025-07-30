@@ -1524,12 +1524,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Sione Vaki (DET)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Josh Babicz (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -3501,6 +3495,12 @@
     "player": "Dillon Gabriel (CLE)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Sione Vaki (DET)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -12066,12 +12066,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyler Conklin (LAC)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Steven Wroblewski (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13023,6 +13017,12 @@
     "player": "Dennis Parks (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tyler Conklin (LAC)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
