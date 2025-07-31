@@ -7230,7 +7230,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Owen Wright (None)",
+    "player": "Owen Wright (TB)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9654,12 +9654,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Scotty Miller (PIT)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Sergio Bailey (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11163,6 +11157,12 @@
     "player": "Eric Ebron (PIT)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Scotty Miller (PIT)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -15343,6 +15343,12 @@
   },
   {
     "player": "Gee Scott (NE)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jaden Smith (TB)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
