@@ -6018,7 +6018,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Carter Bradley (None)",
+    "player": "Carter Bradley (SF)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9702,12 +9702,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Andy Isabella (None)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "James Summers (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -10116,7 +10110,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Marquez Callaway (None)",
+    "player": "Marquez Callaway (SF)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -11211,6 +11205,12 @@
     "player": "Hakeem Butler (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Andy Isabella (SF)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13362,12 +13362,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Ameer Abdullah (None)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Dion Lewis (None)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -13821,6 +13815,12 @@
     "player": "Jordan Matthews (None)",
     "ros_points": 68,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Ameer Abdullah (SF)",
+    "ros_points": 68,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
