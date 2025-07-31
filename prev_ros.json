@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-31T20:44:16.991224",
+  "timestamp": "2025-07-31T21:38:45.328864",
   "players": {
     "QB": [
       {
@@ -5255,7 +5255,7 @@
         "rank": 255,
         "player_id": "11989",
         "name": "D.J. Williams",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -12565,7 +12565,7 @@
         "rank": 454,
         "player_id": "8202",
         "name": "Michael Woods",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
