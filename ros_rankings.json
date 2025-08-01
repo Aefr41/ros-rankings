@@ -114,12 +114,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Matthew Golden (GB)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Bucky Irving (TB)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -465,7 +459,7 @@
     "player": "Jonathon Brooks (CAR)",
     "ros_points": 78,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Tory Horton (SEA)",
@@ -681,6 +675,12 @@
     "player": "Jalen Royals (KC)",
     "ros_points": 78,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Matthew Golden (GB)",
+    "ros_points": 78,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -2157,7 +2157,7 @@
     "player": "Erick All (CIN)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Kevin Davidson (None)",
@@ -6219,7 +6219,7 @@
     "player": "Tank Dell (HOU)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "D'Eriq King (None)",
@@ -7083,7 +7083,7 @@
     "player": "Christian Watson (GB)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Will Levis (TEN)",
@@ -12543,7 +12543,7 @@
     "player": "Deshaun Watson (CLE)",
     "ros_points": 71,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Tommylee Lewis (None)",
