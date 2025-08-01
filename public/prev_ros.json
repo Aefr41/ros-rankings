@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-01T22:44:16.504975",
+  "timestamp": "2025-08-01T23:38:00.192259",
   "players": {
     "QB": [
       {
@@ -5255,7 +5255,7 @@
         "rank": 255,
         "player_id": "11989",
         "name": "D.J. Williams",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -11404,7 +11404,7 @@
         "rank": 325,
         "player_id": "8134",
         "name": "Khalil Shakir",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -16813,7 +16813,7 @@
         "rank": 926,
         "player_id": "4454",
         "name": "Kendrick Bourne",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
