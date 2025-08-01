@@ -2616,7 +2616,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Louis Rees-Zammit (JAX)",
+    "player": "Louis Rees-Zammit (None)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2682,7 +2682,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Hunter Dekkers (NO)",
+    "player": "Hunter Dekkers (None)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3564,7 +3564,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Malik Knowles (SF)",
+    "player": "Malik Knowles (None)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6126,7 +6126,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "D.J. Williams (TB)",
+    "player": "D.J. Williams (None)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6223,12 +6223,6 @@
   },
   {
     "player": "D'Eriq King (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Braylon Sanders (None)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8319,6 +8313,12 @@
     "player": "Josh Pederson (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Braylon Sanders (WAS)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -10866,7 +10866,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Equanimeous St. Brown (SF)",
+    "player": "Equanimeous St. Brown (None)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
