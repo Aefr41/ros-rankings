@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-02T18:54:29.512890",
+  "timestamp": "2025-08-02T19:27:25.751063",
   "players": {
     "QB": [
       {
@@ -2996,7 +2996,7 @@
         "rank": 4,
         "player_id": "11576",
         "name": "Braelon Allen",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -9415,7 +9415,7 @@
         "rank": 104,
         "player_id": "12634",
         "name": "Jordan Watkins",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
