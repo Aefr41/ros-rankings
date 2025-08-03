@@ -930,12 +930,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Montorie Foster (SEA)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Osirus Mitchell (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1764,12 +1758,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Neal Johnson (NYJ)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "David Wallis (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2301,6 +2289,12 @@
     "player": "Dontayvion Wicks (GB)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Montorie Foster (SEA)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -3864,6 +3858,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Neal Johnson (NYJ)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Zach Charbonnet (SEA)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3937,12 +3937,6 @@
   },
   {
     "player": "Connor Slomka (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Baylor Cupp (None)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4249,12 +4243,6 @@
   },
   {
     "player": "Rondale Moore (MIN)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Zach Wilson (MIA)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6372,6 +6360,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Baylor Cupp (BAL)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Mitchell Tinsley (CIN)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6795,6 +6789,12 @@
     "player": "Jalen Hurts (PHI)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Zach Wilson (MIA)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14892,12 +14892,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Tyrod Taylor (NYJ)",
-    "ros_points": 65,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Marshawn Lynch (None)",
     "ros_points": 65,
     "trend": "+0.0",
@@ -14973,6 +14967,12 @@
     "player": "Kirk Cousins (ATL)",
     "ros_points": 64,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Tyrod Taylor (NYJ)",
+    "ros_points": 64,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
