@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-03T19:28:50.882425",
+  "timestamp": "2025-08-03T20:41:14.491850",
   "players": {
     "QB": [
       {
@@ -3887,7 +3887,7 @@
         "rank": 103,
         "player_id": "13080",
         "name": "Deion Hankins",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -15409,7 +15409,7 @@
         "rank": 770,
         "player_id": "5965",
         "name": "Miles Boykin",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -21261,7 +21261,7 @@
         "rank": 184,
         "player_id": "11493",
         "name": "Jordan Murray",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
