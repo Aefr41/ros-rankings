@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-04T23:39:26.630388",
+  "timestamp": "2025-08-05T04:12:57.938657",
   "players": {
     "QB": [
       {
@@ -2976,120 +2976,120 @@
       },
       {
         "rank": 2,
-        "player_id": "12544",
-        "name": "LeQuint Allen",
-        "injury_status": null,
-        "ros_pts": 80,
-        "rank_change": 0,
-        "trend": ""
-      },
-      {
-        "rank": 3,
         "player_id": "11579",
         "name": "Audric Estime",
         "injury_status": null,
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "player_id": "11576",
         "name": "Braelon Allen",
         "injury_status": null,
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "player_id": "12504",
         "name": "Kaleb Johnson",
         "injury_status": null,
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "player_id": "12527",
         "name": "Ashton Jeanty",
         "injury_status": null,
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "player_id": "12495",
         "name": "Ollie Gordon",
         "injury_status": null,
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "player_id": "12476",
         "name": "Devin Neal",
         "injury_status": null,
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "player_id": "12457",
         "name": "Jaydon Blue",
         "injury_status": null,
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "player_id": "12531",
         "name": "Trevor Etienne",
         "injury_status": null,
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 11,
+        "rank": 10,
         "player_id": "12512",
         "name": "Quinshon Judkins",
         "injury_status": null,
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "player_id": "12462",
         "name": "Damien Martinez",
         "injury_status": null,
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "player_id": "12471",
         "name": "DJ Giddens",
         "injury_status": null,
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "player_id": "12467",
         "name": "Jordan James",
         "injury_status": null,
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
+      },
+      {
+        "rank": 14,
+        "player_id": "12544",
+        "name": "LeQuint Allen",
+        "injury_status": null,
+        "ros_pts": 79,
+        "rank_change": -12,
+        "trend": "\u25bc"
       },
       {
         "rank": 15,
@@ -8704,7 +8704,7 @@
         "rank": 25,
         "player_id": "12732",
         "name": "Dominic Lovett",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
