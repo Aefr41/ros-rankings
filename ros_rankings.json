@@ -12,12 +12,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "LeQuint Allen (JAX)",
-    "ros_points": 80,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Audric Estime (DEN)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -105,6 +99,12 @@
     "player": "Jordan James (SF)",
     "ros_points": 79,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "LeQuint Allen (JAX)",
+    "ros_points": 79,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -9012,7 +9012,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyler Huntley (None)",
+    "player": "Tyler Huntley (CLE)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
