@@ -6324,12 +6324,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dalton Keene (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Bisi Johnson (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -8397,6 +8391,12 @@
     "player": "Irv Smith (HOU)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Dalton Keene (HOU)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -11328,7 +11328,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mitchell Wilcox (None)",
+    "player": "Mitchell Wilcox (MIA)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
