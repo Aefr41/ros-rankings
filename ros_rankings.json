@@ -2100,6 +2100,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Marcus Major (BAL)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Ryan Becker (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -10698,7 +10704,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "JaMycal Hasty (None)",
+    "player": "JaMycal Hasty (NE)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -15403,12 +15409,6 @@
   },
   {
     "player": "J.J. Jones (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Marcus Major (BAL)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
