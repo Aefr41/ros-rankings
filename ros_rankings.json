@@ -198,6 +198,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Quali Conley (CIN)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Brashard Smith (KC)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -2846,8 +2852,8 @@
   {
     "player": "Xavier Guillory (BAL)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Landon Lenoir (None)",
@@ -9408,7 +9414,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Quintez Cephus (None)",
+    "player": "Quintez Cephus (HOU)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -15571,12 +15577,6 @@
   },
   {
     "player": "Luke Floriea (CLE)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Quali Conley (CIN)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
