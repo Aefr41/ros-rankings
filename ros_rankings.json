@@ -12510,12 +12510,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kareem Hunt (KC)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Malcolm Brown (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13233,6 +13227,12 @@
     "player": "Jaydon Mickens (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Kareem Hunt (KC)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14040,12 +14040,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Keenan Allen (None)",
-    "ros_points": 68,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Nick Vannett (MIN)",
     "ros_points": 68,
     "trend": "+0.0",
@@ -14589,6 +14583,12 @@
     "player": "Timothy Flanders (None)",
     "ros_points": 67,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Keenan Allen (LAC)",
+    "ros_points": 67,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
