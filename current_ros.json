@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-06T11:36:10.130546",
+  "timestamp": "2025-08-06T13:54:58.144580",
   "players": {
     "QB": [
       {
@@ -8758,7 +8758,7 @@
         "rank": 31,
         "player_id": "11631",
         "name": "Brian Thomas",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -17542,7 +17542,7 @@
         "rank": 1007,
         "player_id": "3321",
         "name": "Tyreek Hill",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
