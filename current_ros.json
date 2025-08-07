@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-07T19:31:56.103416",
+  "timestamp": "2025-08-07T20:45:06.894902",
   "players": {
     "QB": [
       {
@@ -618,7 +618,7 @@
         "rank": 69,
         "player_id": "11557",
         "name": "Joe Milton",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -3023,7 +3023,7 @@
         "rank": 8,
         "player_id": "12457",
         "name": "Jaydon Blue",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -3068,7 +3068,7 @@
         "rank": 13,
         "player_id": "12467",
         "name": "Jordan James",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -20649,7 +20649,7 @@
         "rank": 116,
         "player_id": "12549",
         "name": "Jordan Petaia",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -21567,7 +21567,7 @@
         "rank": 218,
         "player_id": "8110",
         "name": "Jake Ferguson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
