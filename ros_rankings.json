@@ -1686,12 +1686,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Luke Grimm (LAC)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Caleb Williams (CHI)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -3789,6 +3783,12 @@
     "player": "Slade Bolden (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Luke Grimm (LAC)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -6108,7 +6108,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jordan Murray (None)",
+    "player": "Jordan Murray (CHI)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Injury concern"
@@ -8328,7 +8328,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Johnny Johnson (None)",
+    "player": "Johnny Johnson (HOU)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Injury concern"
@@ -11358,12 +11358,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jarrett Stidham (DEN)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Cameron Posey (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12450,6 +12444,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jarrett Stidham (DEN)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Kevin Rader (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -12847,12 +12847,6 @@
   },
   {
     "player": "Tyler Boyd (None)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Kalif Raymond (DET)",
     "ros_points": 70,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13515,6 +13509,12 @@
     "player": "Carlos Hyde (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Kalif Raymond (DET)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
