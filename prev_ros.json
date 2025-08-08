@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-08T20:41:01.748783",
+  "timestamp": "2025-08-08T21:33:31.457187",
   "players": {
     "QB": [
       {
@@ -15931,7 +15931,7 @@
         "rank": 829,
         "player_id": "5323",
         "name": "Equanimeous St. Brown",
-        "injury_status": null,
+        "injury_status": "IR",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -20649,7 +20649,7 @@
         "rank": 116,
         "player_id": "12549",
         "name": "Jordan Petaia",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
