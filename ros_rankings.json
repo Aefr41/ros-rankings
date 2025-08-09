@@ -8454,12 +8454,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Irv Smith (HOU)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Dalton Keene (HOU)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -10212,6 +10206,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Irv Smith (HOU)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Teo Redding (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11077,12 +11077,6 @@
   },
   {
     "player": "Darreus Rogers (None)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Deon Cain (BUF)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -12252,6 +12246,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Deon Cain (BUF)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Austin Aune (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -12487,12 +12487,6 @@
   },
   {
     "player": "Brian Vogler (None)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Durham Smythe (CHI)",
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13257,6 +13251,12 @@
     "player": "Taylor Gabriel (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Durham Smythe (CHI)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -16446,7 +16446,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kyrese White (DEN)",
+    "player": "Kyrese Rowan (DEN)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
