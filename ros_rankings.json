@@ -9198,12 +9198,6 @@
     "quick_why": "Trending up"
   },
   {
-    "player": "Ke'Shawn Vaughn (None)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Devin Duvernay (CHI)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -10755,6 +10749,12 @@
     "player": "Jacob Harris (TB)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Ke'Shawn Vaughn (SF)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
