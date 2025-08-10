@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-10T13:36:51.461908",
+  "timestamp": "2025-08-10T14:39:08.752183",
   "players": {
     "QB": [
       {
@@ -3590,7 +3590,7 @@
         "rank": 71,
         "player_id": "12969",
         "name": "Lan Larison",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -6425,7 +6425,7 @@
         "rank": 386,
         "player_id": "7204",
         "name": "Reggie Gilliam",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -19740,7 +19740,7 @@
         "rank": 14,
         "player_id": "12715",
         "name": "Thomas Fidone",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
