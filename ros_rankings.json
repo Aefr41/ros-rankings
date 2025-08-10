@@ -4508,7 +4508,7 @@
   {
     "player": "Deneric Prince (NE)",
     "ros_points": 75,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
@@ -5611,12 +5611,6 @@
   },
   {
     "player": "Cortrelle Simpson (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Deon Jackson (None)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7800,6 +7794,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Deon Jackson (DET)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Tyrie Cleveland (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8455,6 +8455,12 @@
   },
   {
     "player": "Dalton Keene (HOU)",
+    "ros_points": 74,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Gunnar Oakes (DET)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
