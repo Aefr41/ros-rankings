@@ -9900,12 +9900,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Myles Gaskin (None)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Armani Rogers (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11373,6 +11367,12 @@
     "player": "Matt Bushman (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Myles Gaskin (BAL)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -15769,6 +15769,12 @@
   },
   {
     "player": "Kalif Jackson (MIA)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Nay'Quan Wright (IND)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
