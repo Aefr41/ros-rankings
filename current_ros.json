@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-11T11:32:32.913422",
+  "timestamp": "2025-08-11T13:51:34.097704",
   "players": {
     "QB": [
       {
@@ -537,7 +537,7 @@
         "rank": 60,
         "player_id": "12486",
         "name": "Dillon Gabriel",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -4166,7 +4166,7 @@
         "rank": 135,
         "player_id": "12787",
         "name": "Josh Williams",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -23133,7 +23133,7 @@
         "rank": 391,
         "player_id": "7002",
         "name": "Juwan Johnson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
