@@ -414,12 +414,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Marvin Harrison (ARI)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Dont'e Thornton (LV)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1359,6 +1353,12 @@
     "player": "Jalen White (GB)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Marvin Harrison (ARI)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -2359,12 +2359,6 @@
   },
   {
     "player": "Charleston Rambo (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jeremy Ruckert (NYJ)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4542,6 +4536,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jeremy Ruckert (NYJ)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Mason Pline (NO)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -4945,12 +4945,6 @@
   },
   {
     "player": "Justin Rigg (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "James Mitchell (CAR)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7380,6 +7374,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "James Mitchell (CAR)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Bryce Bobo (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8721,7 +8721,7 @@
     "player": "Quez Watkins (ARI)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Jamari Staples (None)",
@@ -10560,12 +10560,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Curtis Samuel (BUF)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Ben DiNucci (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -11901,6 +11895,12 @@
     "player": "Allen Lazard (NYJ)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Curtis Samuel (BUF)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
