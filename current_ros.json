@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-12T15:41:23.685659",
+  "timestamp": "2025-08-12T16:53:26.826457",
   "players": {
     "QB": [
       {
@@ -12736,7 +12736,7 @@
         "rank": 473,
         "player_id": "10863",
         "name": "A.T. Perry",
-        "injury_status": "PUP",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -20991,7 +20991,7 @@
         "rank": 153,
         "player_id": "7568",
         "name": "Brevin Jordan",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
