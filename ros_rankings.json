@@ -54,12 +54,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Devin Neal (NO)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jaydon Blue (DAL)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -357,6 +351,12 @@
     "player": "Travis Hunter (JAX)",
     "ros_points": 78,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Devin Neal (NO)",
+    "ros_points": 78,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -1188,12 +1188,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Traeshon Holden (DAL)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Chris Tyree (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1621,12 +1615,6 @@
   },
   {
     "player": "Brenden Rice (LAC)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Josh Downs (IND)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2862,6 +2850,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Traeshon Holden (DAL)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Xavier Guillory (BAL)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3639,6 +3633,12 @@
     "player": "Al Riles (IND)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Josh Downs (IND)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -6012,12 +6012,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Pokey Wilson (NYJ)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jordan Ellis (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6373,12 +6367,6 @@
   },
   {
     "player": "Adrian Martinez (NYJ)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jesse Matthews (ATL)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8136,6 +8124,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Pokey Wilson (NYJ)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Ervin Philips (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8451,6 +8445,12 @@
     "player": "Mac Jones (SF)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jesse Matthews (ATL)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -10170,7 +10170,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Marquez Callaway (None)",
+    "player": "Marquez Callaway (LV)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
