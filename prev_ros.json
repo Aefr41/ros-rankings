@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-12T19:27:54.440021",
+  "timestamp": "2025-08-12T20:40:24.514037",
   "players": {
     "QB": [
       {
@@ -11539,7 +11539,7 @@
         "rank": 339,
         "player_id": "7601",
         "name": "Rondale Moore",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -23484,7 +23484,7 @@
         "rank": 429,
         "player_id": "4144",
         "name": "Jonnu Smith",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
