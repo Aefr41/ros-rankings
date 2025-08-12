@@ -4092,7 +4092,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Aaron Shampklin (None)",
+    "player": "Aaron Shampklin (MIA)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -12000,12 +12000,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mike Boone (None)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Marcus Tucker (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -12963,6 +12957,12 @@
     "player": "Eric Rogers (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Mike Boone (MIA)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
