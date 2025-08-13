@@ -945,7 +945,7 @@
     "player": "Luke Floriea (CLE)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Izaiah Gathings (None)",
@@ -3759,7 +3759,7 @@
     "player": "Bub Means (NO)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Eldridge Massington (NO)",
@@ -10608,12 +10608,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Malik Turner (None)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Maurice Alexander (CHI)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -11949,6 +11943,12 @@
     "player": "Jason Vander Laan (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Malik Turner (SF)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
