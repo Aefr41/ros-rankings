@@ -282,12 +282,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Keleki Latu (BUF)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Will Shipley (PHI)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1116,6 +1110,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Keleki Latu (BUF)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Malachi Corley (NYJ)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1638,7 +1638,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Michael Wiley (None)",
+    "player": "Michael Wiley (KC)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7332,7 +7332,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kawaan Baker (None)",
+    "player": "Kawaan Baker (GB)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8604,12 +8604,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Michael Strachan (WAS)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kalif Phillips (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -9678,7 +9672,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Seth Green (None)",
+    "player": "Seth Green (NO)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10365,6 +10359,12 @@
     "player": "D.J. Foster (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Michael Strachan (WAS)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -15618,7 +15618,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Luke Floriea (None)",
+    "player": "Luke Floriea (CLE)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Injury concern"
@@ -16728,7 +16728,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Anthony Torres (None)",
+    "player": "Anthony Torres (LAR)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Injury concern"
