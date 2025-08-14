@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-14T14:13:02.497909",
+  "timestamp": "2025-08-14T15:13:42.586592",
   "players": {
     "QB": [
       {
@@ -537,7 +537,7 @@
         "rank": 60,
         "player_id": "12486",
         "name": "Dillon Gabriel",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -20163,7 +20163,7 @@
         "rank": 59,
         "player_id": "10859",
         "name": "Sam LaPorta",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
