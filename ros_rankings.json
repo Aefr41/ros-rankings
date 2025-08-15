@@ -80,8 +80,8 @@
   {
     "player": "Isaiah Bond (CLE)",
     "ros_points": 79,
-    "trend": "+79.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "DJ Giddens (IND)",
@@ -865,12 +865,6 @@
   },
   {
     "player": "Rome Odunze (CHI)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Elijhah Badger (KC)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2175,6 +2169,12 @@
     "player": "Deion Hankins (CHI)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Elijhah Badger (KC)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
