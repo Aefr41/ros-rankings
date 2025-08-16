@@ -792,12 +792,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Lew Nichols (PIT)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Isaiah Davis (NYJ)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2103,6 +2097,12 @@
     "player": "Tyjon Lindsey (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Lew Nichols (PIT)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -9261,7 +9261,7 @@
     "player": "Dez Fitzpatrick (None)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Tommy Hudson (None)",
@@ -9681,7 +9681,7 @@
     "player": "Jalen Virgil (None)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "J.J. Taylor (HOU)",
@@ -9892,12 +9892,6 @@
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
-  },
-  {
-    "player": "Donald Parham (PIT)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
   },
   {
     "player": "Ian Bunting (None)",
@@ -11380,6 +11374,12 @@
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Donald Parham (PIT)",
+    "ros_points": 72,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Moritz Bohringer (None)",
