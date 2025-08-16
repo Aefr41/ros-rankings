@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-16T20:12:23.090017",
+  "timestamp": "2025-08-16T21:10:56.920961",
   "players": {
     "QB": [
       {
@@ -3374,7 +3374,7 @@
         "rank": 47,
         "player_id": "12491",
         "name": "Corey Kiner",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -4733,7 +4733,7 @@
         "rank": 198,
         "player_id": "10870",
         "name": "Deneric Prince",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5444,7 +5444,7 @@
         "rank": 277,
         "player_id": "8116",
         "name": "Pierre Strong",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6443,7 +6443,7 @@
         "rank": 388,
         "player_id": "6963",
         "name": "Patrick Taylor",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -8722,7 +8722,7 @@
         "rank": 25,
         "player_id": "12732",
         "name": "Dominic Lovett",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -12295,7 +12295,7 @@
         "rank": 422,
         "player_id": "7565",
         "name": "Terrace Marshall",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -19279,7 +19279,7 @@
         "rank": 1198,
         "player_id": "13101",
         "name": "Gage Larvadain",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 0.0,
         "rank_change": 0,
         "trend": ""
@@ -21027,7 +21027,7 @@
         "rank": 155,
         "player_id": "10210",
         "name": "Cameron Latu",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
