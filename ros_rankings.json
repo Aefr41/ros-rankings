@@ -7686,12 +7686,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Bryce Perkins (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Shawn Poindexter (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -11074,6 +11068,12 @@
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Bryce Perkins (CAR)",
+    "ros_points": 72,
+    "trend": "-2.0",
+    "quick_why": "Trending down"
   },
   {
     "player": "Jeremy Sprinkle (None)",
