@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-18T16:15:54.994706",
+  "timestamp": "2025-08-18T17:13:21.751561",
   "players": {
     "QB": [
       {
@@ -8920,7 +8920,7 @@
         "rank": 47,
         "player_id": "12505",
         "name": "Jalen Royals",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -12583,7 +12583,7 @@
         "rank": 454,
         "player_id": "8121",
         "name": "Romeo Doubs",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -16147,7 +16147,7 @@
         "rank": 850,
         "player_id": "7757",
         "name": "Ben Skowronek",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
