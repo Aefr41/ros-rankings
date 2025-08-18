@@ -5928,12 +5928,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyrell Shavers (BUF)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Daniel Arias (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6313,12 +6307,6 @@
   },
   {
     "player": "Zamir White (LV)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jawhar Jordan (HOU)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8088,6 +8076,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Tyrell Shavers (BUF)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Isaac Rex (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8409,6 +8403,12 @@
     "player": "Antonio Callaway (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jawhar Jordan (HOU)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -11072,8 +11072,8 @@
   {
     "player": "Bryce Perkins (CAR)",
     "ros_points": 72,
-    "trend": "-2.0",
-    "quick_why": "Trending down"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Jeremy Sprinkle (None)",
