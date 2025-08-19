@@ -8787,7 +8787,7 @@
     "player": "Darrynton Evans (BUF)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Gio Pascascio (None)",
@@ -13128,12 +13128,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Nate Sudfeld (None)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kevin Snead (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -13707,6 +13701,12 @@
     "player": "Tyler Eifert (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Nate Sudfeld (SF)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
