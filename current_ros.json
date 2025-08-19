@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-19T20:13:39.650281",
+  "timestamp": "2025-08-19T21:11:46.063099",
   "players": {
     "QB": [
       {
@@ -1338,7 +1338,7 @@
         "rank": 149,
         "player_id": "7527",
         "name": "Mac Jones",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -2087,8 +2087,8 @@
         "name": "Joshua Dobbs",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 233,
@@ -2096,8 +2096,8 @@
         "name": "Jared Goff",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 234,
@@ -2105,8 +2105,8 @@
         "name": "Nathan Peterman",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 235,
@@ -2114,8 +2114,8 @@
         "name": "Mike White",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 236,
@@ -2123,8 +2123,8 @@
         "name": "Luis Perez",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 237,
@@ -2132,8 +2132,8 @@
         "name": "Mason Rudolph",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 238,
@@ -2141,8 +2141,8 @@
         "name": "Nick Mullens",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 239,
@@ -2150,8 +2150,8 @@
         "name": "Blake Sims",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 240,
@@ -2159,8 +2159,8 @@
         "name": "Robert Griffin",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 241,
@@ -2168,8 +2168,8 @@
         "name": "C.J. Beathard",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 242,
@@ -2177,8 +2177,8 @@
         "name": "Cooper Rush",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 243,
@@ -2186,8 +2186,8 @@
         "name": "David Fales",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 244,
@@ -2195,8 +2195,8 @@
         "name": "Nate Sudfeld",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": -12,
-        "trend": "\u25bc"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 245,
@@ -3374,7 +3374,7 @@
         "rank": 47,
         "player_id": "12491",
         "name": "Corey Kiner",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
