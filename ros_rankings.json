@@ -108,12 +108,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Bucky Irving (TB)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Dorian Singer (JAX)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -699,6 +693,12 @@
     "player": "Parker Washington (JAX)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Bucky Irving (TB)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -7278,12 +7278,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Hunter Long (JAX)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Owen Wright (TB)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9180,6 +9174,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Hunter Long (JAX)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Kurt Benkert (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -10998,7 +10998,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Juwann Winfree (None)",
+    "player": "Juwann Winfree (HOU)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -15084,12 +15084,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Kirk Cousins (ATL)",
-    "ros_points": 64,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Tyrod Taylor (NYJ)",
     "ros_points": 64,
     "trend": "+0.0",
@@ -15171,6 +15165,12 @@
     "player": "Matt Ryan (None)",
     "ros_points": 63,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Kirk Cousins (ATL)",
+    "ros_points": 63,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
