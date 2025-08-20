@@ -1986,12 +1986,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jashaun Corbin (ATL)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "JaQuan Hardy (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4206,6 +4200,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jashaun Corbin (ATL)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Hamze El-Zayat (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -4711,12 +4711,6 @@
   },
   {
     "player": "Elijah Moore (BUF)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Zaire Mitchell-Paden (BAL)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7212,6 +7206,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Zaire Mitchell-Paden (BAL)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Elijah Cooks (PHI)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9042,12 +9042,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Lawrence Cager (WAS)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Malachi Jones (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -9553,12 +9547,6 @@
   },
   {
     "player": "Gary Brightwell (CIN)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Reggie Gilliam (BUF)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10650,6 +10638,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Lawrence Cager (WAS)",
+    "ros_points": 72,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Nyheim Miller-Hines (LAC)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -11049,6 +11043,12 @@
     "player": "Jehu Chesson (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Reggie Gilliam (BUF)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13080,12 +13080,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mitchell Trubisky (BUF)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Evan Engram (DEN)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -13671,6 +13665,12 @@
     "player": "Danny Anthrop (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Mitchell Trubisky (BUF)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
