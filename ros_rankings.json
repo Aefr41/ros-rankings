@@ -3594,12 +3594,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Malik Knowles (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Malik Henry (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -5973,6 +5967,12 @@
     "player": "Will Hastings (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Malik Knowles (SF)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -12374,7 +12374,7 @@
   {
     "player": "Royce Freeman (CHI)",
     "ros_points": 71,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
