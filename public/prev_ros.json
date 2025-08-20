@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-20T14:12:41.393083",
+  "timestamp": "2025-08-20T15:13:15.837777",
   "players": {
     "QB": [
       {
@@ -17128,7 +17128,7 @@
         "rank": 959,
         "player_id": "4234",
         "name": "Noah Brown",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -24132,7 +24132,7 @@
         "rank": 499,
         "player_id": "2505",
         "name": "Darren Waller",
-        "injury_status": "PUP",
+        "injury_status": null,
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
