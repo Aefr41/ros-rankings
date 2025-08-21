@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-21T18:17:35.975698",
+  "timestamp": "2025-08-21T19:09:31.708721",
   "players": {
     "QB": [
       {
@@ -19731,7 +19731,7 @@
         "rank": 10,
         "player_id": "12487",
         "name": "Terrance Ferguson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -20838,7 +20838,7 @@
         "rank": 133,
         "player_id": "7694",
         "name": "Tommy Tremble",
-        "injury_status": "PUP",
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
