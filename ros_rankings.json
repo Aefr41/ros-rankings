@@ -288,10 +288,10 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kaden Prather (None)",
+    "player": "Kaden Prather (BUF)",
     "ros_points": 78,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Tyler Hudson (None)",
@@ -354,10 +354,10 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mario Williams (None)",
+    "player": "Mario Williams (LAR)",
     "ros_points": 78,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Malik Nabers (NYG)",
@@ -1123,12 +1123,6 @@
   },
   {
     "player": "Otis Anderson (None)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Cam Camper (JAX)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2664,6 +2658,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Cam Camper (JAX)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Darnell Washington (PIT)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3678,7 +3678,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Skyy Moore (KC)",
+    "player": "Skyy Moore (SF)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8265,7 +8265,7 @@
     "player": "Xavier Johnson (HOU)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Auden Tate (None)",
@@ -10044,7 +10044,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Devaughn Vele (DEN)",
+    "player": "Devaughn Vele (NO)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13596,12 +13596,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Mike Evans (TB)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Russell Shepard (None)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -14031,6 +14025,12 @@
     "player": "Nick Williams (DEN)",
     "ros_points": 68,
     "trend": "+68.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Mike Evans (TB)",
+    "ros_points": 68,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
@@ -16212,7 +16212,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Darius Lassiter (None)",
+    "player": "Darius Lassiter (JAX)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
