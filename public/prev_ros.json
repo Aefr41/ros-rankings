@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-21T15:13:23.835750",
+  "timestamp": "2025-08-21T16:14:37.811738",
   "players": {
     "QB": [
       {
@@ -3284,7 +3284,7 @@
         "rank": 37,
         "player_id": "11643",
         "name": "Jaylen Wright",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9505,7 +9505,7 @@
         "rank": 112,
         "player_id": "12865",
         "name": "AJ Henning",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
