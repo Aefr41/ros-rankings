@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-21T22:11:56.174765",
+  "timestamp": "2025-08-21T23:11:25.952486",
   "players": {
     "QB": [
       {
@@ -3554,7 +3554,7 @@
         "rank": 67,
         "player_id": "12953",
         "name": "Jalen White",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9514,7 +9514,7 @@
         "rank": 113,
         "player_id": "11646",
         "name": "Jalen Coker",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -14869,7 +14869,7 @@
         "rank": 708,
         "player_id": "7729",
         "name": "Dez Fitzpatrick",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
