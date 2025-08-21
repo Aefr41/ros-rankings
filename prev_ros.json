@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-21T17:10:51.242187",
+  "timestamp": "2025-08-21T18:17:35.975698",
   "players": {
     "QB": [
       {
@@ -105,7 +105,7 @@
         "rank": 12,
         "player_id": "12524",
         "name": "Shedeur Sanders",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -14167,7 +14167,7 @@
         "rank": 630,
         "player_id": "6798",
         "name": "Jalen Reagor",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
