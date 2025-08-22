@@ -357,7 +357,7 @@
     "player": "Mario Williams (LAR)",
     "ros_points": 78,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Malik Nabers (NYG)",
@@ -828,7 +828,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Corey Kiner (WAS)",
+    "player": "Corey Kiner (SF)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Injury concern"
@@ -3813,7 +3813,7 @@
     "player": "Joshua Cephus (JAX)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Kade Warner (None)",
@@ -6138,7 +6138,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tanner Mordecai (None)",
+    "player": "Tanner Mordecai (SF)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -12564,12 +12564,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jonnu Smith (PIT)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Van Jefferson (TEN)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13299,6 +13293,12 @@
     "player": "Lamar Miller (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jonnu Smith (PIT)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14886,12 +14886,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Adam Thielen (CAR)",
-    "ros_points": 66,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Derek Carr (None)",
     "ros_points": 66,
     "trend": "+0.0",
@@ -15015,6 +15009,12 @@
     "player": "Marshawn Lynch (None)",
     "ros_points": 65,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Adam Thielen (CAR)",
+    "ros_points": 65,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
