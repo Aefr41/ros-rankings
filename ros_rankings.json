@@ -174,12 +174,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jamoi Mayes (CIN)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Rushawn Baker (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -867,6 +861,12 @@
     "player": "Jerreth Sterns (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jamoi Mayes (CIN)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14910,12 +14910,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Taysom Hill (NO)",
-    "ros_points": 66,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Latavius Murray (None)",
     "ros_points": 66,
     "trend": "+0.0",
@@ -15039,6 +15033,12 @@
     "player": "Joe Webb (None)",
     "ros_points": 65,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Taysom Hill (NO)",
+    "ros_points": 65,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
