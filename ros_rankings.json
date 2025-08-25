@@ -13068,12 +13068,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Amari Cooper (None)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Mike Williams (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -13647,6 +13641,12 @@
     "player": "Damiere Byrd (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Amari Cooper (LV)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
