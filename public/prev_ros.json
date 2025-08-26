@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-26T20:13:39.569630",
+  "timestamp": "2025-08-26T21:10:30.257939",
   "players": {
     "QB": [
       {
@@ -5858,7 +5858,7 @@
         "rank": 324,
         "player_id": "8195",
         "name": "Ronnie Rivers",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -9163,7 +9163,7 @@
         "rank": 74,
         "player_id": "12509",
         "name": "Tre' Harris",
-        "injury_status": "Questionable",
+        "injury_status": "PUP",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9730,7 +9730,7 @@
         "rank": 137,
         "player_id": "11619",
         "name": "Ja'Lynn Polk",
-        "injury_status": "Doubtful",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
