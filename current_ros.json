@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-26T19:09:22.227784",
+  "timestamp": "2025-08-26T20:13:39.569630",
   "players": {
     "QB": [
       {
@@ -10468,7 +10468,7 @@
         "rank": 219,
         "player_id": "10225",
         "name": "Jonathan Mingo",
-        "injury_status": "Doubtful",
+        "injury_status": "IR",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12214,7 +12214,7 @@
         "rank": 413,
         "player_id": "10444",
         "name": "Cedric Tillman",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -19108,7 +19108,7 @@
         "rank": 1179,
         "player_id": "13212",
         "name": "Cade McDonald",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 0.0,
         "rank_change": 0,
         "trend": ""
