@@ -84,12 +84,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "DJ Giddens (IND)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jordan James (SF)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -549,6 +543,12 @@
     "player": "T.J. Pledger (None)",
     "ros_points": 78,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "DJ Giddens (IND)",
+    "ros_points": 78,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -3492,12 +3492,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kyren Williams (LAR)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Graham Mertz (HOU)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -5835,6 +5829,12 @@
     "player": "Mark Vital (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Kyren Williams (LAR)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -9258,7 +9258,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kenny Pickett (CLE)",
+    "player": "Kenny Pickett (LV)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
