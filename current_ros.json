@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-26T22:11:21.071988",
+  "timestamp": "2025-08-26T23:10:46.794851",
   "players": {
     "QB": [
       {
@@ -16021,7 +16021,7 @@
         "rank": 836,
         "player_id": "6223",
         "name": "Juwann Winfree",
-        "injury_status": null,
+        "injury_status": "IR",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -22656,7 +22656,7 @@
         "rank": 334,
         "player_id": "6126",
         "name": "Irv Smith",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
