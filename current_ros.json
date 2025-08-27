@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-27T22:11:07.147417",
+  "timestamp": "2025-08-27T23:11:15.596583",
   "players": {
     "QB": [
       {
@@ -402,7 +402,7 @@
         "rank": 45,
         "player_id": "11859",
         "name": "John Rhys Plumlee",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -960,7 +960,7 @@
         "rank": 107,
         "player_id": "11851",
         "name": "Carter Bradley",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -969,7 +969,7 @@
         "rank": 108,
         "player_id": "11924",
         "name": "Tanner Mordecai",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -1230,7 +1230,7 @@
         "rank": 137,
         "player_id": "10866",
         "name": "Aidan O'Connell",
-        "injury_status": "Doubtful",
+        "injury_status": "IR",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -5435,7 +5435,7 @@
         "rank": 277,
         "player_id": "8116",
         "name": "Pierre Strong",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -11242,7 +11242,7 @@
         "rank": 305,
         "player_id": "12892",
         "name": "Da'Quan Felton",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -13438,7 +13438,7 @@
         "rank": 549,
         "player_id": "10869",
         "name": "Matt Landers",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -18991,7 +18991,7 @@
         "rank": 1166,
         "player_id": "12909",
         "name": "Eli Pancol",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 0.0,
         "rank_change": 0,
         "trend": ""
@@ -19108,7 +19108,7 @@
         "rank": 1179,
         "player_id": "13212",
         "name": "Cade McDonald",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 0.0,
         "rank_change": 0,
         "trend": ""
@@ -24501,7 +24501,7 @@
         "rank": 539,
         "player_id": "13129",
         "name": "Jermaine Terry",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 0.0,
         "rank_change": 0,
         "trend": ""
