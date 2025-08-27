@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-27T17:10:28.394449",
+  "timestamp": "2025-08-27T18:16:48.765364",
   "players": {
     "QB": [
       {
@@ -11197,7 +11197,7 @@
         "rank": 300,
         "player_id": "11024",
         "name": "Grant DuBose",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -21504,7 +21504,7 @@
         "rank": 206,
         "player_id": "11598",
         "name": "Tanner McLachlan",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -21522,7 +21522,7 @@
         "rank": 208,
         "player_id": "8111",
         "name": "Cade Otton",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
