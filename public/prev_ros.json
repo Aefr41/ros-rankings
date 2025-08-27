@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-27T19:09:54.173985",
+  "timestamp": "2025-08-27T20:13:14.442596",
   "players": {
     "QB": [
       {
@@ -1113,7 +1113,7 @@
         "rank": 124,
         "player_id": "6804",
         "name": "Jordan Love",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -3464,7 +3464,7 @@
         "rank": 58,
         "player_id": "12036",
         "name": "Ian Wheeler",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -23466,7 +23466,7 @@
         "rank": 424,
         "player_id": "5012",
         "name": "Mark Andrews",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
