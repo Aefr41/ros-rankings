@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-27T00:56:16.191856",
+  "timestamp": "2025-08-27T02:23:25.803926",
   "players": {
     "QB": [
       {
@@ -3032,7 +3032,7 @@
         "rank": 10,
         "player_id": "12467",
         "name": "Jordan James",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -3293,7 +3293,7 @@
         "rank": 39,
         "player_id": "12738",
         "name": "Phil Mafah",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -6677,7 +6677,7 @@
         "rank": 415,
         "player_id": "7528",
         "name": "Najee Harris",
-        "injury_status": "PUP",
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -10315,7 +10315,7 @@
         "rank": 202,
         "player_id": "11964",
         "name": "Dayton Wade",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11242,7 +11242,7 @@
         "rank": 305,
         "player_id": "12892",
         "name": "Da'Quan Felton",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -19785,7 +19785,7 @@
         "rank": 15,
         "player_id": "12817",
         "name": "Jake Briningstool",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -21504,7 +21504,7 @@
         "rank": 206,
         "player_id": "11598",
         "name": "Tanner McLachlan",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
