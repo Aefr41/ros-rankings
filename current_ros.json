@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-27T16:14:39.363732",
+  "timestamp": "2025-08-27T17:10:28.394449",
   "players": {
     "QB": [
       {
@@ -12124,7 +12124,7 @@
         "rank": 403,
         "player_id": "10229",
         "name": "Rashee Rice",
-        "injury_status": null,
+        "injury_status": "Sus",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -17434,7 +17434,7 @@
         "rank": 993,
         "player_id": "4454",
         "name": "Kendrick Bourne",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
