@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-27T20:13:14.442596",
+  "timestamp": "2025-08-27T21:10:50.811866",
   "players": {
     "QB": [
       {
@@ -8650,7 +8650,7 @@
         "rank": 17,
         "player_id": "12530",
         "name": "Travis Hunter",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9811,7 +9811,7 @@
         "rank": 146,
         "player_id": "11616",
         "name": "Jacob Cowing",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
