@@ -270,12 +270,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Will Shipley (PHI)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kaden Prather (BUF)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1119,6 +1113,12 @@
     "player": "Otis Anderson (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Will Shipley (PHI)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -6132,12 +6132,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ihmir Smith-Marsette (NYG)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kevin Austin (NO)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6810,7 +6804,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Clyde Edwards-Helaire (None)",
+    "player": "Clyde Edwards-Helaire (KC)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7470,12 +7464,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mason Kinsey (TEN)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Davon Grayson (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -7938,7 +7926,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "DeeJay Dallas (None)",
+    "player": "DeeJay Dallas (CAR)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8223,6 +8211,12 @@
     "player": "Kameron Brown (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Ihmir Smith-Marsette (NYG)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -9369,6 +9363,12 @@
     "player": "Mecole Hardman (GB)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Mason Kinsey (TEN)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
