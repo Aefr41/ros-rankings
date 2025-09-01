@@ -7596,12 +7596,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Aidan O'Connell (LV)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Zavier Scott (MIN)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9472,6 +9466,12 @@
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Aidan O'Connell (LV)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Quintez Cephus (None)",
