@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-01T21:09:52.799351",
+  "timestamp": "2025-09-01T22:11:00.606242",
   "players": {
     "QB": [
       {
@@ -2231,8 +2231,8 @@
         "name": "Marcus Mariota",
         "injury_status": "Questionable",
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 249,
@@ -2240,8 +2240,8 @@
         "name": "Dak Prescott",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 250,
@@ -2249,8 +2249,8 @@
         "name": "Marquise Williams",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 251,
@@ -2258,8 +2258,8 @@
         "name": "Taylor Heinicke",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 252,
@@ -2267,8 +2267,8 @@
         "name": "Cam Newton",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 253,
@@ -2276,8 +2276,8 @@
         "name": "Phillip Sims",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 254,
@@ -2285,8 +2285,8 @@
         "name": "Brandon Allen",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 255,
@@ -2294,8 +2294,8 @@
         "name": "Jake Coker",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 256,
@@ -2303,8 +2303,8 @@
         "name": "Teddy Bridgewater",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 257,
@@ -2312,8 +2312,8 @@
         "name": "Garrett Gilbert",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 258,
@@ -2321,8 +2321,8 @@
         "name": "Carson Wentz",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 259,
@@ -2330,8 +2330,8 @@
         "name": "Bryan Bennett",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 260,
@@ -2339,8 +2339,8 @@
         "name": "Jerry Lovelocke",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 261,
@@ -2348,8 +2348,8 @@
         "name": "Jeff Driskel",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": -13,
-        "trend": "\u25bc"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 262,
@@ -2996,7 +2996,7 @@
         "rank": 6,
         "player_id": "12457",
         "name": "Jaydon Blue",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -7100,7 +7100,7 @@
         "rank": 462,
         "player_id": "6151",
         "name": "Miles Sanders",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -13771,7 +13771,7 @@
         "rank": 586,
         "player_id": "7525",
         "name": "DeVonta Smith",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -15895,7 +15895,7 @@
         "rank": 822,
         "player_id": "5859",
         "name": "A.J. Brown",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -22035,7 +22035,7 @@
         "rank": 265,
         "player_id": "10871",
         "name": "Luke Schoonmaker",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -23691,7 +23691,7 @@
         "rank": 449,
         "player_id": "5022",
         "name": "Dallas Goedert",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
