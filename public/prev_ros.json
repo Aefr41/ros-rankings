@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-02T13:24:33.134108",
+  "timestamp": "2025-09-02T14:12:33.752852",
   "players": {
     "QB": [
       {
@@ -12700,7 +12700,7 @@
         "rank": 467,
         "player_id": "8202",
         "name": "Michael Woods",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -16642,7 +16642,7 @@
         "rank": 905,
         "player_id": "4037",
         "name": "Chris Godwin",
-        "injury_status": "Doubtful",
+        "injury_status": "IR",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
