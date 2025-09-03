@@ -66,7 +66,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Damien Martinez (SEA)",
+    "player": "Damien Martinez (None)",
     "ros_points": 79,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -270,6 +270,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Tre Watson (KC)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Kaden Prather (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -280,6 +286,12 @@
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Zach Horton (DET)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Jaxson Dart (NYG)",
@@ -316,6 +328,12 @@
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Amar Johnson (LAC)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Troy Franklin (DEN)",
@@ -10692,7 +10710,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Nyheim Miller-Hines (LAC)",
+    "player": "Nyheim Hines (LAC)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -12090,7 +12108,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Russell Gage (SF)",
+    "player": "Russell Gage (None)",
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -14772,7 +14790,7 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Robert Woods (PIT)",
+    "player": "Robert Woods (None)",
     "ros_points": 67,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
@@ -15870,12 +15888,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tre Watson (KC)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jjay Mcafee (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -15907,12 +15919,6 @@
   },
   {
     "player": "Kobe Hudson (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Zach Horton (DET)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16039,12 +16045,6 @@
   },
   {
     "player": "Romell Guerrier (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Amar Johnson (LAC)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
