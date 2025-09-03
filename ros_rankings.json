@@ -8814,12 +8814,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Devin Singletary (NYG)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jalen Hurts (PHI)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -9660,12 +9654,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Chris Oladokun (KC)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Trishton Jackson (ARI)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -9906,7 +9894,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Thayer Thomas (None)",
+    "player": "Thayer Thomas (DEN)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10527,6 +10515,12 @@
     "player": "Phillip Lindsay (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Devin Singletary (NYG)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -11193,6 +11187,12 @@
     "player": "Daniel Helm (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Chris Oladokun (KC)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
