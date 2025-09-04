@@ -432,12 +432,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jaylin Noel (HOU)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Pat Bryant (DEN)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1413,6 +1407,12 @@
     "player": "Brady Cook (NYJ)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jaylin Noel (HOU)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13578,7 +13578,7 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "C.J. Beathard (None)",
+    "player": "C.J. Beathard (DET)",
     "ros_points": 69,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
