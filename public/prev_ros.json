@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-04T20:12:43.688736",
+  "timestamp": "2025-09-04T21:10:45.334465",
   "players": {
     "QB": [
       {
@@ -2535,7 +2535,7 @@
         "rank": 282,
         "player_id": "827",
         "name": "Tyrod Taylor",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 64,
         "rank_change": 0,
         "trend": ""
@@ -2616,7 +2616,7 @@
         "rank": 291,
         "player_id": "1737",
         "name": "Case Keenum",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 63,
         "rank_change": 0,
         "trend": ""
@@ -21594,7 +21594,7 @@
         "rank": 216,
         "player_id": "8111",
         "name": "Cade Otton",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
