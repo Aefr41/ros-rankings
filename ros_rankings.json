@@ -134,8 +134,8 @@
   {
     "player": "Jamaal Pritchett (NYJ)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Jalen Wydermyer (None)",
@@ -1014,6 +1014,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Tommy Mellott (NO)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Jadakis Bonds (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1214,8 +1220,8 @@
   {
     "player": "Silas Bolden (HOU)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Chris Tyree (None)",
@@ -1688,8 +1694,8 @@
   {
     "player": "Quentin Skinner (NYJ)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Chris Smith (None)",
@@ -2318,8 +2324,8 @@
   {
     "player": "Chandler Brayboy (JAX)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Xavier Weaver (ARI)",
@@ -3062,8 +3068,8 @@
   {
     "player": "Patrick Herbert (JAX)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Rico Bussey (None)",
@@ -3818,8 +3824,8 @@
   {
     "player": "Carter Runyon (LV)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Skyy Moore (SF)",
@@ -15823,12 +15829,6 @@
   },
   {
     "player": "Jeremiah Hall (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Tommy Mellott (NO)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
