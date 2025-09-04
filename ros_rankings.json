@@ -470,8 +470,8 @@
   {
     "player": "Ja'seem Reed (CAR)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Leddie Brown (None)",
@@ -598,6 +598,12 @@
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Junior Bergen (SF)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Jarquez Hunter (LAR)",
@@ -736,6 +742,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Ke'Shawn Williams (PIT)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Blayne Taylor (None)",
@@ -1536,6 +1548,12 @@
     "quick_why": "Injury concern"
   },
   {
+    "player": "Lawrance Toafili (NYJ)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Cam Skattebo (NYG)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1760,8 +1778,8 @@
   {
     "player": "JP Richardson (CHI)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Ronnie Brown (None)",
@@ -1840,6 +1858,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Ahmani Marshall (CLE)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Ja'Lynn Polk (NE)",
@@ -2164,6 +2188,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Jacardia Wright (SEA)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Dakereon Joyner (None)",
@@ -2582,8 +2612,8 @@
   {
     "player": "Bryce Pierre (CAR)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Treyton Welch (NO)",
@@ -3780,6 +3810,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Courtney Jackson (SEA)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Bam Knight (ARI)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3972,6 +4008,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "JJ Galbreath (PIT)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Dillon Mitchell (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3988,6 +4030,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Tyrone Broden (SEA)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Zakhari Franklin (None)",
@@ -15468,12 +15516,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ke'Shawn Williams (PIT)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Caleb Chapman (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -15559,12 +15601,6 @@
   },
   {
     "player": "Connor Jessop (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jacardia Wright (SEA)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16344,12 +16380,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Lawrance Toafili (NYJ)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Reggie Brown (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16494,12 +16524,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Courtney Jackson (SEA)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jared Smart (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16519,12 +16543,6 @@
   },
   {
     "player": "Rakeem Boyd (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Junior Bergen (SF)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16632,12 +16650,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "JJ Galbreath (PIT)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Alex Larson (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16657,12 +16669,6 @@
   },
   {
     "player": "Mike Estes (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Tyrone Broden (SEA)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16693,12 +16699,6 @@
   },
   {
     "player": "William Thompson (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Ahmani Marshall (CLE)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
