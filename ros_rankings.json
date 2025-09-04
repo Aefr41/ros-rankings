@@ -132,6 +132,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jamaal Pritchett (NYJ)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Jalen Wydermyer (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -602,8 +608,8 @@
   {
     "player": "Junior Bergen (SF)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Jarquez Hunter (LAR)",
@@ -746,8 +752,8 @@
   {
     "player": "Ke'Shawn Williams (PIT)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Blayne Taylor (None)",
@@ -1206,6 +1212,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Silas Bolden (HOU)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Chris Tyree (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1550,8 +1562,8 @@
   {
     "player": "Lawrance Toafili (NYJ)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Cam Skattebo (NYG)",
@@ -1672,6 +1684,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Quentin Skinner (NYJ)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Chris Smith (None)",
@@ -1862,8 +1880,8 @@
   {
     "player": "Ahmani Marshall (CLE)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Ja'Lynn Polk (NE)",
@@ -2192,8 +2210,8 @@
   {
     "player": "Jacardia Wright (SEA)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Dakereon Joyner (None)",
@@ -2296,6 +2314,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Chandler Brayboy (JAX)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Xavier Weaver (ARI)",
@@ -3034,6 +3058,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Patrick Herbert (JAX)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Rico Bussey (None)",
@@ -3786,6 +3816,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Carter Runyon (LV)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Skyy Moore (SF)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3812,8 +3848,8 @@
   {
     "player": "Courtney Jackson (SEA)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Bam Knight (ARI)",
@@ -4010,8 +4046,8 @@
   {
     "player": "JJ Galbreath (PIT)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Dillon Mitchell (None)",
@@ -4034,8 +4070,8 @@
   {
     "player": "Tyrone Broden (SEA)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Zakhari Franklin (None)",
@@ -15558,12 +15594,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jamaal Pritchett (NYJ)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Bru McCoy (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -15667,12 +15697,6 @@
   },
   {
     "player": "Redd Douglas (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Chandler Brayboy (JAX)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16020,12 +16044,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Silas Bolden (HOU)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "None (ATL)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16057,12 +16075,6 @@
   },
   {
     "player": "Treyton Pickering (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Patrick Herbert (JAX)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16494,12 +16506,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Quentin Skinner (NYJ)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Geordon Porter (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16507,12 +16513,6 @@
   },
   {
     "player": "Dallas Daniels (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Carter Runyon (LV)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
