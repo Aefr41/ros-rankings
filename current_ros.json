@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-04T22:11:18.379002",
+  "timestamp": "2025-09-04T23:11:11.942117",
   "players": {
     "QB": [
       {
@@ -2996,7 +2996,7 @@
         "rank": 6,
         "player_id": "12457",
         "name": "Jaydon Blue",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -13978,7 +13978,7 @@
         "rank": 609,
         "player_id": "6943",
         "name": "Gabe Davis",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
