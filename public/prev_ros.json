@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-05T19:09:24.620979",
+  "timestamp": "2025-09-05T20:12:33.332215",
   "players": {
     "QB": [
       {
@@ -1689,7 +1689,7 @@
         "rank": 188,
         "player_id": "8206",
         "name": "Skylar Thompson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -3275,7 +3275,7 @@
         "rank": 37,
         "player_id": "11643",
         "name": "Jaylen Wright",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -3482,7 +3482,7 @@
         "rank": 60,
         "player_id": "9226",
         "name": "De'Von Achane",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -4445,7 +4445,7 @@
         "rank": 167,
         "player_id": "11729",
         "name": "Sione Vaki",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -9073,7 +9073,7 @@
         "rank": 64,
         "player_id": "12535",
         "name": "Isaac TeSlaa",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -17785,7 +17785,7 @@
         "rank": 1032,
         "player_id": "3321",
         "name": "Tyreek Hill",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -21054,7 +21054,7 @@
         "rank": 156,
         "player_id": "11201",
         "name": "Blake Whiteheart",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -24204,7 +24204,7 @@
         "rank": 506,
         "player_id": "2505",
         "name": "Darren Waller",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
