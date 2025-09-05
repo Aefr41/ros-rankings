@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-05T17:10:33.350559",
+  "timestamp": "2025-09-05T18:15:27.114135",
   "players": {
     "QB": [
       {
@@ -3239,7 +3239,7 @@
         "rank": 33,
         "player_id": "12516",
         "name": "Kalel Mullings",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -17830,7 +17830,7 @@
         "rank": 1037,
         "player_id": "2309",
         "name": "Amari Cooper",
-        "injury_status": null,
+        "injury_status": "NA",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
