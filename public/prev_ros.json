@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-05T22:10:50.834169",
+  "timestamp": "2025-09-05T23:10:38.429295",
   "players": {
     "QB": [
       {
@@ -6227,7 +6227,7 @@
         "rank": 365,
         "player_id": "7561",
         "name": "Elijah Mitchell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -19704,7 +19704,7 @@
         "rank": 6,
         "player_id": "12493",
         "name": "Oronde Gadsden",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -20451,7 +20451,7 @@
         "rank": 89,
         "player_id": "11595",
         "name": "Jared Wiley",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -22179,7 +22179,7 @@
         "rank": 281,
         "player_id": "8885",
         "name": "Tucker Fisk",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
