@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-06T19:08:26.257127",
+  "timestamp": "2025-09-06T20:11:24.109752",
   "players": {
     "QB": [
       {
@@ -3599,7 +3599,7 @@
         "rank": 73,
         "player_id": "12534",
         "name": "Kyle Monangai",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -5804,7 +5804,7 @@
         "rank": 318,
         "player_id": "11299",
         "name": "Zavier Scott",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
