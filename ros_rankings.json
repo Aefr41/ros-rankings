@@ -12,12 +12,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Audric Estime (PHI)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Colston Loveland (CHI)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -129,6 +123,12 @@
     "player": "Jacolby George (None)",
     "ros_points": 78,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Audric Estime (PHI)",
+    "ros_points": 78,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -259,12 +259,6 @@
   },
   {
     "player": "Tai Felton (MIN)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Robbie Ouzts (SEA)",
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -481,12 +475,6 @@
   },
   {
     "player": "Leddie Brown (None)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Gunnar Helm (TEN)",
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -1140,6 +1128,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Robbie Ouzts (SEA)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Keleki Latu (BUF)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1536,6 +1530,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Gunnar Helm (TEN)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Jase McClellan (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1657,12 +1657,6 @@
   },
   {
     "player": "Jordan Byrd (None)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Quentin Johnston (LAC)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3723,6 +3717,12 @@
     "player": "Manasseh Bailey (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Quentin Johnston (LAC)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -12690,12 +12690,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mark Andrews (BAL)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Devon Allen (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13425,6 +13419,12 @@
     "player": "Mike White (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Mark Andrews (BAL)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
