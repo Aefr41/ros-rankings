@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-07T18:13:57.068017",
+  "timestamp": "2025-09-07T19:08:33.125379",
   "players": {
     "QB": [
       {
@@ -519,7 +519,7 @@
         "rank": 58,
         "player_id": "12705",
         "name": "Graham Mertz",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -1104,7 +1104,7 @@
         "rank": 123,
         "player_id": "7583",
         "name": "Sam Ehlinger",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -3230,7 +3230,7 @@
         "rank": 32,
         "player_id": "12516",
         "name": "Kalel Mullings",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -3851,7 +3851,7 @@
         "rank": 101,
         "player_id": "11439",
         "name": "Jaleel McLaughlin",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -4850,7 +4850,7 @@
         "rank": 212,
         "player_id": "12171",
         "name": "British Brooks",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -7379,7 +7379,7 @@
         "rank": 493,
         "player_id": "4034",
         "name": "Christian McCaffrey",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -9505,7 +9505,7 @@
         "rank": 112,
         "player_id": "12634",
         "name": "Jordan Watkins",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -17623,7 +17623,7 @@
         "rank": 1014,
         "player_id": "4198",
         "name": "Jamal Agnew",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -20397,7 +20397,7 @@
         "rank": 83,
         "player_id": "13151",
         "name": "Nick Kallerup",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
