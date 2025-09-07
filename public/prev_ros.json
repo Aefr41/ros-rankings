@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-07T21:09:43.010467",
+  "timestamp": "2025-09-07T22:10:04.685370",
   "players": {
     "QB": [
       {
@@ -3230,7 +3230,7 @@
         "rank": 32,
         "player_id": "12516",
         "name": "Kalel Mullings",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -10468,7 +10468,7 @@
         "rank": 219,
         "player_id": "9493",
         "name": "Puka Nacua",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -10756,7 +10756,7 @@
         "rank": 251,
         "player_id": "8112",
         "name": "Drake London",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -22206,7 +22206,7 @@
         "rank": 284,
         "player_id": "6865",
         "name": "Colby Parkinson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -24006,7 +24006,7 @@
         "rank": 484,
         "player_id": "4217",
         "name": "George Kittle",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
