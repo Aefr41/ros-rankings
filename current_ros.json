@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-08T22:11:34.645117",
+  "timestamp": "2025-09-08T23:11:15.447022",
   "players": {
     "QB": [
       {
@@ -420,7 +420,7 @@
         "rank": 47,
         "player_id": "12775",
         "name": "Max Brosmer",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -834,7 +834,7 @@
         "rank": 93,
         "player_id": "8183",
         "name": "Brock Purdy",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -2616,7 +2616,7 @@
         "rank": 291,
         "player_id": "1737",
         "name": "Case Keenum",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 63,
         "rank_change": 0,
         "trend": ""
@@ -4508,7 +4508,7 @@
         "rank": 174,
         "player_id": "10235",
         "name": "Roschon Johnson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
