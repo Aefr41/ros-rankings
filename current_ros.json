@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-10T06:17:51.930913",
+  "timestamp": "2025-09-10T07:11:56.645809",
   "players": {
     "QB": [
       {
@@ -42,7 +42,7 @@
         "rank": 5,
         "player_id": "12470",
         "name": "Riley Leonard",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -96,7 +96,7 @@
         "rank": 11,
         "player_id": "12524",
         "name": "Shedeur Sanders",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -420,7 +420,7 @@
         "rank": 47,
         "player_id": "12775",
         "name": "Max Brosmer",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -519,7 +519,7 @@
         "rank": 58,
         "player_id": "12705",
         "name": "Graham Mertz",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -2202,7 +2202,7 @@
         "rank": 245,
         "player_id": "2306",
         "name": "Jameis Winston",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -2616,7 +2616,7 @@
         "rank": 291,
         "player_id": "1737",
         "name": "Case Keenum",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 63,
         "rank_change": 0,
         "trend": ""
@@ -4463,7 +4463,7 @@
         "rank": 169,
         "player_id": "8122",
         "name": "Bam Knight",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -4832,7 +4832,7 @@
         "rank": 210,
         "player_id": "12171",
         "name": "British Brooks",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -7919,7 +7919,7 @@
         "rank": 553,
         "player_id": "2359",
         "name": "Ameer Abdullah",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -8938,7 +8938,7 @@
         "rank": 49,
         "player_id": "12501",
         "name": "Matthew Golden",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9577,7 +9577,7 @@
         "rank": 120,
         "player_id": "13101",
         "name": "Gage Larvadain",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11197,7 +11197,7 @@
         "rank": 300,
         "player_id": "9492",
         "name": "Trey Palmer",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12844,7 +12844,7 @@
         "rank": 483,
         "player_id": "8144",
         "name": "Chris Olave",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -16768,7 +16768,7 @@
         "rank": 919,
         "player_id": "4082",
         "name": "Curtis Samuel",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -19704,7 +19704,7 @@
         "rank": 6,
         "player_id": "12493",
         "name": "Oronde Gadsden",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -20397,7 +20397,7 @@
         "rank": 83,
         "player_id": "13151",
         "name": "Nick Kallerup",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -21162,7 +21162,7 @@
         "rank": 168,
         "player_id": "12062",
         "name": "Cam Grandy",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -21468,7 +21468,7 @@
         "rank": 202,
         "player_id": "11820",
         "name": "Devin Culp",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -21639,7 +21639,7 @@
         "rank": 221,
         "player_id": "10220",
         "name": "Will Mallory",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
