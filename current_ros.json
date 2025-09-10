@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-10T15:12:24.423234",
+  "timestamp": "2025-09-10T16:14:31.761005",
   "players": {
     "QB": [
       {
@@ -1689,7 +1689,7 @@
         "rank": 188,
         "player_id": "8206",
         "name": "Skylar Thompson",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -15202,7 +15202,7 @@
         "rank": 745,
         "player_id": "7090",
         "name": "Darnell Mooney",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
