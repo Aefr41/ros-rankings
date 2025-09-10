@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-10T21:10:28.568938",
+  "timestamp": "2025-09-10T22:10:54.920777",
   "players": {
     "QB": [
       {
@@ -2715,7 +2715,7 @@
         "rank": 302,
         "player_id": "96",
         "name": "Aaron Rodgers",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 59,
         "rank_change": 0,
         "trend": ""
@@ -14320,7 +14320,7 @@
         "rank": 647,
         "player_id": "6798",
         "name": "Jalen Reagor",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -15958,7 +15958,7 @@
         "rank": 829,
         "player_id": "8223",
         "name": "Velus Jones",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16957,7 +16957,7 @@
         "rank": 940,
         "player_id": "5955",
         "name": "Hunter Renfrow",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
