@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-11T21:09:54.852808",
+  "timestamp": "2025-09-11T22:11:26.901243",
   "players": {
     "QB": [
       {
@@ -5804,7 +5804,7 @@
         "rank": 318,
         "player_id": "11299",
         "name": "Zavier Scott",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -22251,7 +22251,7 @@
         "rank": 289,
         "player_id": "8484",
         "name": "Ko Kieft",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -23961,7 +23961,7 @@
         "rank": 479,
         "player_id": "4066",
         "name": "Evan Engram",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
