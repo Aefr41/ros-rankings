@@ -3216,12 +3216,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Derius Davis (LAC)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Duece Watts (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3775,12 +3769,6 @@
   },
   {
     "player": "Christian Trahan (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Zay Flowers (BAL)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5472,6 +5460,12 @@
     "quick_why": "Injury concern"
   },
   {
+    "player": "Derius Davis (LAC)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Johnathon Johnson (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6195,6 +6189,12 @@
     "player": "Jordan Ellis (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Zay Flowers (BAL)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
