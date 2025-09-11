@@ -1302,6 +1302,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Hal Presley (KC)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Corey Crooms (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -10023,7 +10029,7 @@
     "player": "Ty Chandler (MIN)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Noah Fant (CIN)",
@@ -16129,12 +16135,6 @@
   },
   {
     "player": "Dante Wright (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Hal Presley (KC)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
