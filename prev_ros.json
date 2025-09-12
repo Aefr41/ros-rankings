@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-12T19:08:47.196703",
+  "timestamp": "2025-09-12T20:12:17.258455",
   "players": {
     "QB": [
       {
@@ -3266,7 +3266,7 @@
         "rank": 36,
         "player_id": "11643",
         "name": "Jaylen Wright",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -3446,7 +3446,7 @@
         "rank": 56,
         "player_id": "11577",
         "name": "Will Shipley",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -4427,7 +4427,7 @@
         "rank": 165,
         "player_id": "11729",
         "name": "Sione Vaki",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -8947,7 +8947,7 @@
         "rank": 50,
         "player_id": "9504",
         "name": "Kayshon Boutte",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -13339,7 +13339,7 @@
         "rank": 538,
         "player_id": "7526",
         "name": "Jaylen Waddle",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16966,7 +16966,7 @@
         "rank": 941,
         "player_id": "5955",
         "name": "Hunter Renfrow",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -20784,7 +20784,7 @@
         "rank": 126,
         "player_id": "8131",
         "name": "Isaiah Likely",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -23736,7 +23736,7 @@
         "rank": 454,
         "player_id": "5022",
         "name": "Dallas Goedert",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
