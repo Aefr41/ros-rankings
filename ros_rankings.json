@@ -306,12 +306,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Riley Leonard (IND)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Mitchell Evans (CAR)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1212,6 +1206,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Riley Leonard (IND)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Silas Bolden (HOU)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2010,12 +2010,6 @@
     "quick_why": "Injury concern"
   },
   {
-    "player": "Jaleel McLaughlin (DEN)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Devontez Walker (BAL)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -2262,12 +2256,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Deion Hankins (CHI)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Elijhah Badger (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -2281,12 +2269,6 @@
   },
   {
     "player": "Adrian Killins (DEN)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Erick All (CIN)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4242,6 +4224,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jaleel McLaughlin (DEN)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Ryan Yurachek (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -4446,6 +4434,12 @@
     "quick_why": "Injury concern"
   },
   {
+    "player": "Deion Hankins (CHI)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
+  },
+  {
     "player": "Nico Evans (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -4491,6 +4485,12 @@
     "player": "John Metchie (PHI)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Erick All (CIN)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -11862,12 +11862,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Juwan Johnson (NO)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Reece Horn (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12903,6 +12897,12 @@
     "player": "Kendal Thompson (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Juwan Johnson (NO)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14514,12 +14514,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Darren Waller (MIA)",
-    "ros_points": 68,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Blake Bell (None)",
     "ros_points": 68,
     "trend": "+0.0",
@@ -14992,6 +14986,12 @@
     "ros_points": 67,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Darren Waller (MIA)",
+    "ros_points": 67,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "DeAndre Hopkins (BAL)",
