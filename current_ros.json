@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-14T19:08:10.137764",
+  "timestamp": "2025-09-14T20:11:30.967266",
   "players": {
     "QB": [
       {
@@ -1203,7 +1203,7 @@
         "rank": 134,
         "player_id": "7591",
         "name": "Justin Fields",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -1734,7 +1734,7 @@
         "rank": 193,
         "player_id": "6770",
         "name": "Joe Burrow",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -6227,7 +6227,7 @@
         "rank": 365,
         "player_id": "7561",
         "name": "Elijah Mitchell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -12079,7 +12079,7 @@
         "rank": 398,
         "player_id": "11959",
         "name": "Bryce Oliver",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -16957,7 +16957,7 @@
         "rank": 940,
         "player_id": "8917",
         "name": "KaVontae Turpin",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -20442,7 +20442,7 @@
         "rank": 88,
         "player_id": "11595",
         "name": "Jared Wiley",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
