@@ -6,12 +6,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dylan Sampson (CLE)",
-    "ros_points": 80,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Colston Loveland (CHI)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -63,6 +57,12 @@
     "player": "Damien Martinez (SEA)",
     "ros_points": 79,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Dylan Sampson (CLE)",
+    "ros_points": 79,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -12816,12 +12816,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Deshaun Watson (CLE)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Tommylee Lewis (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13557,6 +13551,12 @@
     "player": "Kevin White (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Deshaun Watson (CLE)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {

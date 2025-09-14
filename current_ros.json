@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-13T23:09:54.504350",
+  "timestamp": "2025-09-14T00:58:23.544794",
   "players": {
     "QB": [
       {
@@ -1984,147 +1984,147 @@
       },
       {
         "rank": 221,
-        "player_id": "4017",
-        "name": "Deshaun Watson",
-        "injury_status": "PUP",
-        "ros_pts": 71,
-        "rank_change": 0,
-        "trend": ""
-      },
-      {
-        "rank": 222,
         "player_id": "5806",
         "name": "John Wolford",
         "injury_status": null,
         "ros_pts": 71,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 223,
+        "rank": 222,
         "player_id": "5124",
         "name": "Alex McGough",
         "injury_status": null,
         "ros_pts": 71,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 224,
+        "rank": 223,
         "player_id": "3318",
         "name": "Kevin Hogan",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 225,
+        "rank": 224,
         "player_id": "2620",
         "name": "Jake Heaps",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 226,
+        "rank": 225,
         "player_id": "4892",
         "name": "Baker Mayfield",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 227,
+        "rank": 226,
         "player_id": "1612",
         "name": "Tyler Bray",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 228,
+        "rank": 227,
         "player_id": "5128",
         "name": "Logan Woodside",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 229,
+        "rank": 228,
         "player_id": "5257",
         "name": "Tim Boyle",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 230,
+        "rank": 229,
         "player_id": "5903",
         "name": "Will Grier",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 231,
+        "rank": 230,
         "player_id": "4179",
         "name": "Joshua Dobbs",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 232,
+        "rank": 231,
         "player_id": "3163",
         "name": "Jared Goff",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 233,
+        "rank": 232,
         "player_id": "4183",
         "name": "Nathan Peterman",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 234,
+        "rank": 233,
         "player_id": "5089",
         "name": "Mike White",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 235,
+        "rank": 234,
         "player_id": "5709",
         "name": "Luis Perez",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 236,
+        "rank": 235,
         "player_id": "4972",
         "name": "Mason Rudolph",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
+      },
+      {
+        "rank": 236,
+        "player_id": "4017",
+        "name": "Deshaun Watson",
+        "injury_status": "PUP",
+        "ros_pts": 70,
+        "rank_change": -15,
+        "trend": "\u25bc"
       },
       {
         "rank": 237,
@@ -2949,75 +2949,75 @@
     "RB": [
       {
         "rank": 1,
-        "player_id": "12469",
-        "name": "Dylan Sampson",
-        "injury_status": null,
-        "ros_pts": 80,
-        "rank_change": 0,
-        "trend": ""
-      },
-      {
-        "rank": 2,
         "player_id": "11576",
         "name": "Braelon Allen",
         "injury_status": null,
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "player_id": "12527",
         "name": "Ashton Jeanty",
         "injury_status": null,
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "player_id": "12495",
         "name": "Ollie Gordon",
         "injury_status": null,
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "player_id": "12457",
         "name": "Jaydon Blue",
         "injury_status": null,
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "player_id": "12531",
         "name": "Trevor Etienne",
         "injury_status": null,
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "player_id": "12512",
         "name": "Quinshon Judkins",
         "injury_status": "Questionable",
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "player_id": "12462",
         "name": "Damien Martinez",
         "injury_status": null,
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
+      },
+      {
+        "rank": 8,
+        "player_id": "12469",
+        "name": "Dylan Sampson",
+        "injury_status": null,
+        "ros_pts": 79,
+        "rank_change": -7,
+        "trend": "\u25bc"
       },
       {
         "rank": 9,
