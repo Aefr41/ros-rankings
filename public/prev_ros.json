@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-14T18:14:02.433077",
+  "timestamp": "2025-09-14T19:08:10.137764",
   "players": {
     "QB": [
       {
@@ -141,7 +141,7 @@
         "rank": 16,
         "player_id": "12470",
         "name": "Riley Leonard",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -933,7 +933,7 @@
         "rank": 104,
         "player_id": "9230",
         "name": "Tanner McKee",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -1104,7 +1104,7 @@
         "rank": 123,
         "player_id": "7583",
         "name": "Sam Ehlinger",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -1734,7 +1734,7 @@
         "rank": 193,
         "player_id": "6770",
         "name": "Joe Burrow",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -4202,7 +4202,7 @@
         "rank": 140,
         "player_id": "8207",
         "name": "Tyler Goodson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -4598,7 +4598,7 @@
         "rank": 184,
         "player_id": "11439",
         "name": "Jaleel McLaughlin",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -9190,7 +9190,7 @@
         "rank": 77,
         "player_id": "13202",
         "name": "Dalevon Campbell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9280,7 +9280,7 @@
         "rank": 87,
         "player_id": "12523",
         "name": "Jimmy Horn",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -10153,7 +10153,7 @@
         "rank": 184,
         "player_id": "11921",
         "name": "Xavier Weaver",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -21639,7 +21639,7 @@
         "rank": 221,
         "player_id": "10220",
         "name": "Will Mallory",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -21774,7 +21774,7 @@
         "rank": 236,
         "player_id": "8170",
         "name": "James Mitchell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
