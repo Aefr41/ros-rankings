@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-15T21:10:27.223119",
+  "timestamp": "2025-09-15T22:10:24.095547",
   "players": {
     "QB": [
       {
@@ -519,7 +519,7 @@
         "rank": 58,
         "player_id": "12705",
         "name": "Graham Mertz",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -4166,7 +4166,7 @@
         "rank": 136,
         "player_id": "12787",
         "name": "Josh Williams",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -5111,7 +5111,7 @@
         "rank": 241,
         "player_id": "8129",
         "name": "Dameon Pierce",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -9883,7 +9883,7 @@
         "rank": 154,
         "player_id": "12485",
         "name": "Tez Johnson",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -10027,7 +10027,7 @@
         "rank": 170,
         "player_id": "11610",
         "name": "Malik Washington",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -21468,7 +21468,7 @@
         "rank": 202,
         "player_id": "11820",
         "name": "Devin Culp",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
