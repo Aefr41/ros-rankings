@@ -6582,12 +6582,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mitchell Tinsley (CIN)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Ray Davis (BUF)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -8667,6 +8661,12 @@
     "player": "CJ Marable (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Mitchell Tinsley (CIN)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -12228,12 +12228,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Easton Stick (ATL)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Marcus Peterson (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -12577,12 +12571,6 @@
   },
   {
     "player": "Scott Simonson (None)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Terry McLaurin (WAS)",
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13188,6 +13176,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Easton Stick (ATL)",
+    "ros_points": 70,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "J.P. Holtz (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -13395,6 +13389,12 @@
     "player": "Spencer Ware (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Terry McLaurin (WAS)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
