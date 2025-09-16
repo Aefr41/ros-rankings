@@ -5826,12 +5826,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Desmond Ridder (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Shaun Beyer (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -8004,6 +7998,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Desmond Ridder (MIN)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Anthony Manzo-Lewis (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8250,7 +8250,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cam Akers (None)",
+    "player": "Cam Akers (MIN)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9618,7 +9618,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tay Martin (None)",
+    "player": "Tay Martin (WAS)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -11709,7 +11709,7 @@
     "player": "Shane Zylstra (DET)",
     "ros_points": 72,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Pig Howard (None)",
@@ -13401,7 +13401,7 @@
     "player": "Aaron Jones (MIN)",
     "ros_points": 70,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Tim Semisch (None)",
