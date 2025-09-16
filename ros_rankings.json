@@ -117,7 +117,7 @@
     "player": "Oronde Gadsden (LAC)",
     "ros_points": 78,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jacolby George (None)",
@@ -3906,12 +3906,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Sam Howell (PHI)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Ty Fryfogle (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -6330,6 +6324,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Sam Howell (PHI)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Justin Hall (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -8076,12 +8076,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "DeeJay Dallas (CAR)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Carson Meier (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8673,7 +8667,7 @@
     "player": "Tucker Fisk (LAC)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Matthew Eaton (None)",
@@ -9933,6 +9927,12 @@
     "player": "Jordan Williams-Lambert (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "DeeJay Dallas (CAR)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -12486,12 +12486,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Samaje Perine (CIN)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Bart Houston (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13338,6 +13332,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Samaje Perine (CIN)",
+    "ros_points": 70,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Byron Pringle (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -13908,12 +13908,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Mack Hollins (NE)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Keelan Cole (None)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -14313,6 +14307,12 @@
     "player": "John Brown (None)",
     "ros_points": 68,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Mack Hollins (NE)",
+    "ros_points": 68,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
