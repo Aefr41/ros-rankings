@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-17T18:16:38.042471",
+  "timestamp": "2025-09-17T19:09:10.339951",
   "players": {
     "QB": [
       {
@@ -3266,7 +3266,7 @@
         "rank": 36,
         "player_id": "11643",
         "name": "Jaylen Wright",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -10027,7 +10027,7 @@
         "rank": 170,
         "player_id": "11610",
         "name": "Malik Washington",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -24366,7 +24366,7 @@
         "rank": 524,
         "player_id": "2505",
         "name": "Darren Waller",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
