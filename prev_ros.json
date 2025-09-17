@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-17T22:10:19.097805",
+  "timestamp": "2025-09-17T23:10:58.178935",
   "players": {
     "QB": [
       {
@@ -4517,7 +4517,7 @@
         "rank": 175,
         "player_id": "9753",
         "name": "Zach Charbonnet",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -8767,7 +8767,7 @@
         "rank": 30,
         "player_id": "12497",
         "name": "Tory Horton",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9082,7 +9082,7 @@
         "rank": 65,
         "player_id": "11635",
         "name": "Ladd McConkey",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -19821,7 +19821,7 @@
         "rank": 19,
         "player_id": "11604",
         "name": "Brock Bowers",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -22107,7 +22107,7 @@
         "rank": 273,
         "player_id": "11433",
         "name": "Nate Adkins",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -23556,7 +23556,7 @@
         "rank": 434,
         "player_id": "5010",
         "name": "Will Dissly",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
