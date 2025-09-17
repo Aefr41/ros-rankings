@@ -1770,12 +1770,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tip Reiman (ARI)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Keric Wheatfall (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -3921,6 +3915,12 @@
     "player": "Joshua Cephus (JAX)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Injury concern"
+  },
+  {
+    "player": "Tip Reiman (ARI)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Injury concern"
   },
   {
@@ -10128,12 +10128,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ty Johnson (BUF)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Brandon Aiyuk (SF)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11634,6 +11628,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Ty Johnson (BUF)",
+    "ros_points": 72,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Keelan Doss (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12103,12 +12103,6 @@
   },
   {
     "player": "Brandon Brown-Dukes (None)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Patrick Mahomes (KC)",
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13083,6 +13077,12 @@
     "player": "Bronson Kaufusi (GB)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Patrick Mahomes (KC)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
