@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-18T22:10:15.266482",
+  "timestamp": "2025-09-18T23:11:08.807417",
   "players": {
     "QB": [
       {
@@ -51,7 +51,7 @@
         "rank": 6,
         "player_id": "12500",
         "name": "Quinn Ewers",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -11116,7 +11116,7 @@
         "rank": 291,
         "player_id": "11821",
         "name": "Tahj Washington",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -13330,7 +13330,7 @@
         "rank": 537,
         "player_id": "7526",
         "name": "Jaylen Waddle",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16786,7 +16786,7 @@
         "rank": 921,
         "player_id": "4082",
         "name": "Curtis Samuel",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
