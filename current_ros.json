@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-18T21:10:32.230914",
+  "timestamp": "2025-09-18T22:10:15.266482",
   "players": {
     "QB": [
       {
@@ -4409,7 +4409,7 @@
         "rank": 163,
         "player_id": "11729",
         "name": "Sione Vaki",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -5255,7 +5255,7 @@
         "rank": 257,
         "player_id": "11773",
         "name": "Keilan Robinson",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -9082,7 +9082,7 @@
         "rank": 65,
         "player_id": "11635",
         "name": "Ladd McConkey",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -15463,7 +15463,7 @@
         "rank": 774,
         "player_id": "11834",
         "name": "Devaughn Vele",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -16957,7 +16957,7 @@
         "rank": 940,
         "player_id": "8917",
         "name": "KaVontae Turpin",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
