@@ -474,12 +474,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kyle McCord (PHI)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Carson Steele (KC)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1617,6 +1611,12 @@
     "player": "Whop Philyor (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Kyle McCord (PHI)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13632,12 +13632,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mo Alie-Cox (IND)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Stephen Anderson (None)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -14103,6 +14097,12 @@
     "player": "Charles Clay (None)",
     "ros_points": 68,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Mo Alie-Cox (IND)",
+    "ros_points": 68,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
