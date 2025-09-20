@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-20T19:08:03.893872",
+  "timestamp": "2025-09-20T20:11:21.316631",
   "players": {
     "QB": [
       {
@@ -4364,7 +4364,7 @@
         "rank": 158,
         "player_id": "11570",
         "name": "Rasheen Ali",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -20784,7 +20784,7 @@
         "rank": 126,
         "player_id": "8131",
         "name": "Isaiah Likely",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
