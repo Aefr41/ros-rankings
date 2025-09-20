@@ -354,12 +354,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Thomas Fidone (NYG)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Xavier Worthy (KC)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1305,6 +1299,12 @@
     "player": "Corey Crooms (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Thomas Fidone (NYG)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
