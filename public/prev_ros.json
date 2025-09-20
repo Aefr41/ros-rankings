@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-20T15:10:07.471043",
+  "timestamp": "2025-09-20T16:12:57.266939",
   "players": {
     "QB": [
       {
@@ -8677,7 +8677,7 @@
         "rank": 20,
         "player_id": "11624",
         "name": "Xavier Worthy",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -19875,7 +19875,7 @@
         "rank": 25,
         "player_id": "12518",
         "name": "Tyler Warren",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
