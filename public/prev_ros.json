@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-21T18:14:41.216905",
+  "timestamp": "2025-09-21T19:08:39.009283",
   "players": {
     "QB": [
       {
@@ -1095,7 +1095,7 @@
         "rank": 122,
         "player_id": "7583",
         "name": "Sam Ehlinger",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -3149,7 +3149,7 @@
         "rank": 23,
         "player_id": "12476",
         "name": "Devin Neal",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -4517,7 +4517,7 @@
         "rank": 175,
         "player_id": "9753",
         "name": "Zach Charbonnet",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -4598,7 +4598,7 @@
         "rank": 184,
         "player_id": "11439",
         "name": "Jaleel McLaughlin",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -7703,7 +7703,7 @@
         "rank": 529,
         "player_id": "4147",
         "name": "Samaje Perine",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -9037,7 +9037,7 @@
         "rank": 60,
         "player_id": "9488",
         "name": "Jaxon Smith-Njigba",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9820,7 +9820,7 @@
         "rank": 147,
         "player_id": "12670",
         "name": "KeAndre Lambert-Smith",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11197,7 +11197,7 @@
         "rank": 300,
         "player_id": "9492",
         "name": "Trey Palmer",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11800,7 +11800,7 @@
         "rank": 367,
         "player_id": "7587",
         "name": "Dyami Brown",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -15454,7 +15454,7 @@
         "rank": 773,
         "player_id": "11834",
         "name": "Devaughn Vele",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -20379,7 +20379,7 @@
         "rank": 81,
         "player_id": "13151",
         "name": "Nick Kallerup",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -20613,7 +20613,7 @@
         "rank": 107,
         "player_id": "9482",
         "name": "Michael Mayer",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
