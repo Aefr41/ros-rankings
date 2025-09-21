@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-21T22:10:26.698835",
+  "timestamp": "2025-09-21T23:10:17.908039",
   "players": {
     "QB": [
       {
@@ -2202,7 +2202,7 @@
         "rank": 245,
         "player_id": "2306",
         "name": "Jameis Winston",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -6218,7 +6218,7 @@
         "rank": 364,
         "player_id": "7561",
         "name": "Elijah Mitchell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7649,7 +7649,7 @@
         "rank": 523,
         "player_id": "4137",
         "name": "James Conner",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -13222,7 +13222,7 @@
         "rank": 525,
         "player_id": "6786",
         "name": "CeeDee Lamb",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16021,7 +16021,7 @@
         "rank": 836,
         "player_id": "6699",
         "name": "Gunner Olszewski",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -19929,7 +19929,7 @@
         "rank": 31,
         "player_id": "12715",
         "name": "Thomas Fidone",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -20433,7 +20433,7 @@
         "rank": 87,
         "player_id": "11595",
         "name": "Jared Wiley",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
