@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-22T22:11:32.560545",
+  "timestamp": "2025-09-22T23:11:12.806906",
   "players": {
     "QB": [
       {
@@ -3401,7 +3401,7 @@
         "rank": 51,
         "player_id": "9511",
         "name": "Keaton Mitchell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -7334,7 +7334,7 @@
         "rank": 488,
         "player_id": "6659",
         "name": "Craig Reynolds",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
