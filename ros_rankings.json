@@ -2592,12 +2592,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Daniel Bellinger (NYG)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Bryce Pierre (CAR)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3025,12 +3019,6 @@
   },
   {
     "player": "Shane Leatherbury (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Connor Bazelak (TB)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4878,6 +4866,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Daniel Bellinger (NYG)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Terique Owens (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5283,6 +5277,12 @@
     "player": "Rashee Rice (KC)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Connor Bazelak (TB)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -5953,12 +5953,6 @@
   },
   {
     "player": "Cam Sutton (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Joshua Palmer (BUF)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8097,6 +8091,12 @@
     "player": "Andre Levrone (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Joshua Palmer (BUF)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
