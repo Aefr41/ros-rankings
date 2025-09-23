@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-23T19:09:31.498701",
+  "timestamp": "2025-09-23T20:12:50.720111",
   "players": {
     "QB": [
       {
@@ -3905,7 +3905,7 @@
         "rank": 107,
         "player_id": "13047",
         "name": "Jacardia Wright",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -9163,7 +9163,7 @@
         "rank": 74,
         "player_id": "13189",
         "name": "Luke Floriea",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
