@@ -4980,12 +4980,6 @@
     "quick_why": "Injury concern"
   },
   {
-    "player": "John Stephens (DAL)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Kyle Markway (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7438,6 +7432,12 @@
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "John Stephens (DAL)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Frank Darby (None)",
