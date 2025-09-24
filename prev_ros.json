@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-24T19:09:23.701132",
+  "timestamp": "2025-09-24T20:13:23.151313",
   "players": {
     "QB": [
       {
@@ -5534,7 +5534,7 @@
         "rank": 288,
         "player_id": "6790",
         "name": "D'Andre Swift",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6695,7 +6695,7 @@
         "rank": 417,
         "player_id": "7528",
         "name": "Najee Harris",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -21873,7 +21873,7 @@
         "rank": 247,
         "player_id": "6826",
         "name": "Cole Kmet",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
