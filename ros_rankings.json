@@ -1266,12 +1266,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Will Howard (PIT)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Bhayshul Tuten (JAX)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -3058,6 +3052,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Will Howard (PIT)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Chase Cota (None)",
