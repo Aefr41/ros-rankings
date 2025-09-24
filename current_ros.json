@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-24T21:10:26.595082",
+  "timestamp": "2025-09-24T22:11:14.127826",
   "players": {
     "QB": [
       {
@@ -375,7 +375,7 @@
         "rank": 42,
         "player_id": "13217",
         "name": "Hunter Dekkers",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -3392,7 +3392,7 @@
         "rank": 50,
         "player_id": "12897",
         "name": "Nathan Carter",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -3428,7 +3428,7 @@
         "rank": 54,
         "player_id": "12656",
         "name": "Robbie Ouzts",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -4517,7 +4517,7 @@
         "rank": 175,
         "player_id": "9753",
         "name": "Zach Charbonnet",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -6758,7 +6758,7 @@
         "rank": 424,
         "player_id": "5850",
         "name": "Josh Jacobs",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -8677,7 +8677,7 @@
         "rank": 20,
         "player_id": "11624",
         "name": "Xavier Worthy",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9154,7 +9154,7 @@
         "rank": 73,
         "player_id": "13041",
         "name": "Jahmal Banks",
-        "injury_status": null,
+        "injury_status": "Sus",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -13564,7 +13564,7 @@
         "rank": 563,
         "player_id": "7569",
         "name": "Nico Collins",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -17362,7 +17362,7 @@
         "rank": 985,
         "player_id": "5773",
         "name": "KhaDarel Hodge",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -18055,7 +18055,7 @@
         "rank": 1062,
         "player_id": "2133",
         "name": "Davante Adams",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -20208,7 +20208,7 @@
         "rank": 62,
         "player_id": "9484",
         "name": "Tucker Kraft",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
