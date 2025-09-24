@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-24T20:13:23.151313",
+  "timestamp": "2025-09-24T21:10:26.595082",
   "players": {
     "QB": [
       {
@@ -114,7 +114,7 @@
         "rank": 13,
         "player_id": "12522",
         "name": "Cam Ward",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -3230,7 +3230,7 @@
         "rank": 32,
         "player_id": "12516",
         "name": "Kalel Mullings",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -4157,7 +4157,7 @@
         "rank": 135,
         "player_id": "12533",
         "name": "Jacory Croskey-Merritt",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11917,7 +11917,7 @@
         "rank": 380,
         "player_id": "11638",
         "name": "Ricky Pearsall",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -12367,7 +12367,7 @@
         "rank": 430,
         "player_id": "10444",
         "name": "Cedric Tillman",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -16588,7 +16588,7 @@
         "rank": 899,
         "player_id": "6149",
         "name": "Darius Slayton",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -20091,7 +20091,7 @@
         "rank": 49,
         "player_id": "7553",
         "name": "Kyle Pitts",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -20217,7 +20217,7 @@
         "rank": 63,
         "player_id": "11597",
         "name": "Theo Johnson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -23592,7 +23592,7 @@
         "rank": 438,
         "player_id": "4033",
         "name": "David Njoku",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
