@@ -198,12 +198,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Bryson Nesbit (MIN)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Gavin Bartholomew (MIN)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -951,6 +945,12 @@
     "player": "Dylan Stapleton (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Bryson Nesbit (MIN)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -1717,12 +1717,6 @@
   },
   {
     "player": "Marcus Rosemy-Jacksaint (None)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jalin Hyatt (NYG)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3780,6 +3774,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jalin Hyatt (NYG)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Chris Rowland (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4279,12 +4279,6 @@
   },
   {
     "player": "Isaac Zico (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "James Cook (BUF)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6828,6 +6822,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "James Cook (BUF)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Reid Sinnett (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -7597,12 +7597,6 @@
   },
   {
     "player": "Davon Grayson (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Kaden Davis (CLE)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9543,6 +9537,12 @@
     "player": "Joe Horn (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Kaden Davis (CLE)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13668,12 +13668,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Brandin Cooks (NO)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Derek Carrier (None)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -14151,6 +14145,12 @@
     "player": "Chris Moore (WAS)",
     "ros_points": 68,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Brandin Cooks (NO)",
+    "ros_points": 68,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
