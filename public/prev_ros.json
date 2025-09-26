@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-26T17:10:17.961894",
+  "timestamp": "2025-09-26T18:15:14.566993",
   "players": {
     "QB": [
       {
@@ -3230,7 +3230,7 @@
         "rank": 32,
         "player_id": "12516",
         "name": "Kalel Mullings",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -3392,7 +3392,7 @@
         "rank": 50,
         "player_id": "12897",
         "name": "Nathan Carter",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -10090,7 +10090,7 @@
         "rank": 177,
         "player_id": "11806",
         "name": "Casey Washington",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11197,7 +11197,7 @@
         "rank": 300,
         "player_id": "9492",
         "name": "Trey Palmer",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12079,7 +12079,7 @@
         "rank": 398,
         "player_id": "11959",
         "name": "Bryce Oliver",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -12178,7 +12178,7 @@
         "rank": 409,
         "player_id": "8142",
         "name": "Alec Pierce",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -17362,7 +17362,7 @@
         "rank": 985,
         "player_id": "5773",
         "name": "KhaDarel Hodge",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -17632,7 +17632,7 @@
         "rank": 1015,
         "player_id": "4198",
         "name": "Jamal Agnew",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
