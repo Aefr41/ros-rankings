@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-26T19:08:57.984650",
+  "timestamp": "2025-09-26T20:12:35.743291",
   "players": {
     "QB": [
       {
@@ -915,7 +915,7 @@
         "rank": 102,
         "player_id": "9230",
         "name": "Tanner McKee",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -4400,7 +4400,7 @@
         "rank": 162,
         "player_id": "11729",
         "name": "Sione Vaki",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12367,7 +12367,7 @@
         "rank": 430,
         "player_id": "10444",
         "name": "Cedric Tillman",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13213,7 +13213,7 @@
         "rank": 524,
         "player_id": "6786",
         "name": "CeeDee Lamb",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
