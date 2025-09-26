@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-26T21:10:03.061111",
+  "timestamp": "2025-09-26T22:10:58.791392",
   "players": {
     "QB": [
       {
@@ -825,7 +825,7 @@
         "rank": 92,
         "player_id": "8183",
         "name": "Brock Purdy",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -3509,7 +3509,7 @@
         "rank": 63,
         "player_id": "12490",
         "name": "Bhayshul Tuten",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9514,7 +9514,7 @@
         "rank": 113,
         "player_id": "12634",
         "name": "Jordan Watkins",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
