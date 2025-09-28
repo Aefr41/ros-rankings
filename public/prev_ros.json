@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-28T11:08:31.314783",
+  "timestamp": "2025-09-28T12:20:35.555361",
   "players": {
     "QB": [
       {
@@ -1230,7 +1230,7 @@
         "rank": 137,
         "player_id": "8159",
         "name": "Desmond Ridder",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -5939,7 +5939,7 @@
         "rank": 333,
         "player_id": "8228",
         "name": "Jaylen Warren",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -23826,7 +23826,7 @@
         "rank": 464,
         "player_id": "4144",
         "name": "Jonnu Smith",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
