@@ -3600,12 +3600,6 @@
     "quick_why": "Injury concern"
   },
   {
-    "player": "Spencer Rattler (NO)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kellen Mond (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4627,12 +4621,6 @@
   },
   {
     "player": "Michael Hiers (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Tyler Shough (NO)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5982,6 +5970,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Spencer Rattler (NO)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Antonio Nunn (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7230,6 +7224,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Tyler Shough (NO)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "K.D. Cannon (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8443,12 +8443,6 @@
   },
   {
     "player": "Jake Fromm (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Luke Schoonmaker (DAL)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10269,6 +10263,12 @@
     "player": "Brandon Johnson (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Luke Schoonmaker (DAL)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14280,12 +14280,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Tyler Lockett (TEN)",
-    "ros_points": 68,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Eric Tomlinson (None)",
     "ros_points": 68,
     "trend": "+0.0",
@@ -14823,6 +14817,12 @@
     "player": "Alfred Morris (None)",
     "ros_points": 67,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Tyler Lockett (TEN)",
+    "ros_points": 67,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
