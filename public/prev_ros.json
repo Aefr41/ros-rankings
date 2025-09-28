@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-28T22:10:21.003836",
+  "timestamp": "2025-09-28T23:10:12.883075",
   "players": {
     "QB": [
       {
@@ -1680,7 +1680,7 @@
         "rank": 187,
         "player_id": "4881",
         "name": "Lamar Jackson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -2978,7 +2978,7 @@
         "rank": 4,
         "player_id": "12457",
         "name": "Jaydon Blue",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -4193,7 +4193,7 @@
         "rank": 139,
         "player_id": "8207",
         "name": "Tyler Goodson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11908,7 +11908,7 @@
         "rank": 379,
         "player_id": "11638",
         "name": "Ricky Pearsall",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
