@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-28T18:14:10.879857",
+  "timestamp": "2025-09-28T19:08:25.603108",
   "players": {
     "QB": [
       {
@@ -132,7 +132,7 @@
         "rank": 15,
         "player_id": "12470",
         "name": "Riley Leonard",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -1509,7 +1509,7 @@
         "rank": 168,
         "player_id": "10857",
         "name": "Stetson Bennett",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -1599,7 +1599,7 @@
         "rank": 178,
         "player_id": "7527",
         "name": "Mac Jones",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -3023,7 +3023,7 @@
         "rank": 9,
         "player_id": "12467",
         "name": "Jordan James",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -5633,7 +5633,7 @@
         "rank": 299,
         "player_id": "11644",
         "name": "Cody Schrader",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -8668,7 +8668,7 @@
         "rank": 19,
         "player_id": "11632",
         "name": "Malik Nabers",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -11791,7 +11791,7 @@
         "rank": 366,
         "player_id": "7587",
         "name": "Dyami Brown",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -11908,7 +11908,7 @@
         "rank": 379,
         "player_id": "11638",
         "name": "Ricky Pearsall",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -12367,7 +12367,7 @@
         "rank": 430,
         "player_id": "10444",
         "name": "Cedric Tillman",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -15211,7 +15211,7 @@
         "rank": 746,
         "player_id": "7090",
         "name": "Darnell Mooney",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -15724,7 +15724,7 @@
         "rank": 803,
         "player_id": "7049",
         "name": "Jauan Jennings",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -17569,7 +17569,7 @@
         "rank": 1008,
         "player_id": "4274",
         "name": "David Moore",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -17686,7 +17686,7 @@
         "rank": 1021,
         "player_id": "5086",
         "name": "Marquez Valdes-Scantling",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -18055,7 +18055,7 @@
         "rank": 1062,
         "player_id": "2133",
         "name": "Davante Adams",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -19731,7 +19731,7 @@
         "rank": 9,
         "player_id": "12487",
         "name": "Terrance Ferguson",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -21621,7 +21621,7 @@
         "rank": 219,
         "player_id": "10220",
         "name": "Will Mallory",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -22197,7 +22197,7 @@
         "rank": 283,
         "player_id": "6865",
         "name": "Colby Parkinson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -24123,7 +24123,7 @@
         "rank": 497,
         "player_id": "3271",
         "name": "Tyler Higbee",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
