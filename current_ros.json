@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-29T17:11:17.924778",
+  "timestamp": "2025-09-29T18:17:44.567865",
   "players": {
     "QB": [
       {
@@ -24,7 +24,7 @@
         "rank": 3,
         "player_id": "12508",
         "name": "Jaxson Dart",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -15724,7 +15724,7 @@
         "rank": 803,
         "player_id": "7049",
         "name": "Jauan Jennings",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -18127,7 +18127,7 @@
         "rank": 1070,
         "player_id": "2750",
         "name": "DeAndre Carter",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
