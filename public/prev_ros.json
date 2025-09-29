@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-29T22:11:12.041468",
+  "timestamp": "2025-09-29T23:11:18.972168",
   "players": {
     "QB": [
       {
@@ -1086,7 +1086,7 @@
         "rank": 121,
         "player_id": "7583",
         "name": "Sam Ehlinger",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -4589,7 +4589,7 @@
         "rank": 183,
         "player_id": "11439",
         "name": "Jaleel McLaughlin",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -9433,7 +9433,7 @@
         "rank": 104,
         "player_id": "9494",
         "name": "Marvin Mims",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11485,7 +11485,7 @@
         "rank": 332,
         "player_id": "11640",
         "name": "Jermaine Burton",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -22638,7 +22638,7 @@
         "rank": 332,
         "player_id": "8249",
         "name": "Lucas Krull",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -24123,7 +24123,7 @@
         "rank": 497,
         "player_id": "3271",
         "name": "Tyler Higbee",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
