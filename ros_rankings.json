@@ -21,7 +21,7 @@
     "player": "Braelon Allen (NYJ)",
     "ros_points": 79,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Ashton Jeanty (LV)",
@@ -7002,12 +7002,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Sam Ehlinger (DEN)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Jordan Love (GB)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8974,6 +8968,12 @@
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Sam Ehlinger (DEN)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Keon Hatcher (None)",
