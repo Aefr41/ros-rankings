@@ -894,12 +894,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Garrett Greene (TB)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Marcus Yarns (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1009,12 +1003,6 @@
   },
   {
     "player": "Jordan Moore (CIN)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Caleb Lohner (DEN)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2358,6 +2346,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Garrett Greene (TB)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Jamari Thrash (CLE)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -2517,6 +2511,12 @@
     "player": "Roman Wilson (PIT)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Caleb Lohner (DEN)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -3529,12 +3529,6 @@
   },
   {
     "player": "Devontres Dukes (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jordan Whittington (LAR)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5901,6 +5895,12 @@
     "player": "Xavier Hutchinson (HOU)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jordan Whittington (LAR)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -9138,7 +9138,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Leroy Watson (None)",
+    "player": "Leroy Watson (LV)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
