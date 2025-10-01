@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-01T21:10:19.531152",
+  "timestamp": "2025-10-01T22:11:05.505252",
   "players": {
     "QB": [
       {
@@ -9190,7 +9190,7 @@
         "rank": 77,
         "player_id": "13202",
         "name": "Dalevon Campbell",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9433,7 +9433,7 @@
         "rank": 104,
         "player_id": "9494",
         "name": "Marvin Mims",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9928,7 +9928,7 @@
         "rank": 159,
         "player_id": "11629",
         "name": "Devontez Walker",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11179,7 +11179,7 @@
         "rank": 298,
         "player_id": "9492",
         "name": "Trey Palmer",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -13573,7 +13573,7 @@
         "rank": 564,
         "player_id": "7569",
         "name": "Nico Collins",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -15508,7 +15508,7 @@
         "rank": 779,
         "player_id": "5970",
         "name": "Greg Dortch",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -22098,7 +22098,7 @@
         "rank": 272,
         "player_id": "11433",
         "name": "Nate Adkins",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -22674,7 +22674,7 @@
         "rank": 336,
         "player_id": "6850",
         "name": "Harrison Bryant",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -22746,7 +22746,7 @@
         "rank": 344,
         "player_id": "7716",
         "name": "John Bates",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -23610,7 +23610,7 @@
         "rank": 440,
         "player_id": "7002",
         "name": "Juwan Johnson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -23736,7 +23736,7 @@
         "rank": 454,
         "player_id": "5022",
         "name": "Dallas Goedert",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
