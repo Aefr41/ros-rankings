@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-01T20:14:10.798267",
+  "timestamp": "2025-10-01T21:10:19.531152",
   "players": {
     "QB": [
       {
@@ -807,7 +807,7 @@
         "rank": 90,
         "player_id": "8183",
         "name": "Brock Purdy",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -9514,7 +9514,7 @@
         "rank": 113,
         "player_id": "12634",
         "name": "Jordan Watkins",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11899,7 +11899,7 @@
         "rank": 378,
         "player_id": "11638",
         "name": "Ricky Pearsall",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13285,7 +13285,7 @@
         "rank": 532,
         "player_id": "10228",
         "name": "Charlie Jones",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -15733,7 +15733,7 @@
         "rank": 804,
         "player_id": "7049",
         "name": "Jauan Jennings",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -19677,7 +19677,7 @@
         "rank": 3,
         "player_id": "12498",
         "name": "Mason Taylor",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -23592,7 +23592,7 @@
         "rank": 438,
         "player_id": "4033",
         "name": "David Njoku",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -24123,7 +24123,7 @@
         "rank": 497,
         "player_id": "3271",
         "name": "Tyler Higbee",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -24366,7 +24366,7 @@
         "rank": 524,
         "player_id": "2505",
         "name": "Darren Waller",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
