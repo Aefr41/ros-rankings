@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-01T23:11:03.987983",
+  "timestamp": "2025-10-02T00:53:55.734508",
   "players": {
     "QB": [
       {
@@ -2013,7 +2013,7 @@
         "rank": 224,
         "player_id": "4892",
         "name": "Baker Mayfield",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -12763,7 +12763,7 @@
         "rank": 474,
         "player_id": "9489",
         "name": "Justin Shorter",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -18298,7 +18298,7 @@
         "rank": 1089,
         "player_id": "3200",
         "name": "Sterling Shepard",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -19803,7 +19803,7 @@
         "rank": 17,
         "player_id": "11604",
         "name": "Brock Bowers",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
