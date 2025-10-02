@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-02T22:11:03.767005",
+  "timestamp": "2025-10-02T23:10:52.300615",
   "players": {
     "QB": [
       {
@@ -1509,7 +1509,7 @@
         "rank": 168,
         "player_id": "10857",
         "name": "Stetson Bennett",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -3023,7 +3023,7 @@
         "rank": 9,
         "player_id": "12467",
         "name": "Jordan James",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -22179,7 +22179,7 @@
         "rank": 281,
         "player_id": "8885",
         "name": "Tucker Fisk",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -24132,7 +24132,7 @@
         "rank": 498,
         "player_id": "3271",
         "name": "Tyler Higbee",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
