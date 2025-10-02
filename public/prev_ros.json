@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-02T17:08:20.362854",
+  "timestamp": "2025-10-02T18:16:37.908771",
   "players": {
     "QB": [
       {
@@ -5327,7 +5327,7 @@
         "rank": 265,
         "player_id": "11568",
         "name": "Blake Watson",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -23592,7 +23592,7 @@
         "rank": 438,
         "player_id": "4033",
         "name": "David Njoku",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
