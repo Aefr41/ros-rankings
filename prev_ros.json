@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-03T22:10:31.002775",
+  "timestamp": "2025-10-03T23:10:43.080181",
   "players": {
     "QB": [
       {
@@ -942,7 +942,7 @@
         "rank": 105,
         "player_id": "11924",
         "name": "Tanner Mordecai",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -15499,7 +15499,7 @@
         "rank": 778,
         "player_id": "8756",
         "name": "Brandon Johnson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
