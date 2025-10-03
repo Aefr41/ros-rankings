@@ -1776,12 +1776,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "C.J. Stroud (HOU)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Giles Jackson (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -3909,6 +3903,12 @@
     "player": "Siaosi Mariner (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "C.J. Stroud (HOU)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -12360,12 +12360,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mike Gesicki (CIN)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Gus Edwards (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13281,6 +13275,12 @@
     "player": "C.J. Anderson (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Mike Gesicki (CIN)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
