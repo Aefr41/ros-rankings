@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-03T20:12:47.165354",
+  "timestamp": "2025-10-03T21:09:45.863131",
   "players": {
     "QB": [
       {
@@ -1680,7 +1680,7 @@
         "rank": 187,
         "player_id": "4881",
         "name": "Lamar Jackson",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -9433,7 +9433,7 @@
         "rank": 104,
         "player_id": "9494",
         "name": "Marvin Mims",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -12340,7 +12340,7 @@
         "rank": 427,
         "player_id": "10234",
         "name": "Derius Davis",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -12763,7 +12763,7 @@
         "rank": 474,
         "player_id": "9489",
         "name": "Justin Shorter",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -14779,7 +14779,7 @@
         "rank": 698,
         "player_id": "7812",
         "name": "Simi Fehoko",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -16957,7 +16957,7 @@
         "rank": 940,
         "player_id": "8917",
         "name": "KaVontae Turpin",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -17542,7 +17542,7 @@
         "rank": 1005,
         "player_id": "4080",
         "name": "Zay Jones",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -19677,7 +19677,7 @@
         "rank": 3,
         "player_id": "12498",
         "name": "Mason Taylor",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -21675,7 +21675,7 @@
         "rank": 225,
         "player_id": "8177",
         "name": "Grant Calcaterra",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -22107,7 +22107,7 @@
         "rank": 273,
         "player_id": "11433",
         "name": "Nate Adkins",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -22647,7 +22647,7 @@
         "rank": 333,
         "player_id": "8249",
         "name": "Lucas Krull",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -23736,7 +23736,7 @@
         "rank": 454,
         "player_id": "5022",
         "name": "Dallas Goedert",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
