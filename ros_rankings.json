@@ -540,12 +540,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kalel Mullings (TEN)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Kye Robichaux (DET)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1672,6 +1666,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Kalel Mullings (TEN)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Chris Smith (None)",
@@ -7944,12 +7944,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Stone Smartt (NYJ)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Donovan Peoples-Jones (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9867,6 +9861,12 @@
     "player": "Kobe McCrary (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Stone Smartt (NYJ)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
