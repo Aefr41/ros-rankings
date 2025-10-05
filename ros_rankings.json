@@ -10416,12 +10416,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Michael Pittman (IND)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Amara Darboh (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11859,6 +11853,12 @@
     "player": "Andre Baccellia (ARI)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Michael Pittman (IND)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -15282,12 +15282,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Travis Kelce (KC)",
-    "ros_points": 65,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Corey Knox (None)",
     "ros_points": 65,
     "trend": "+0.0",
@@ -15345,6 +15339,12 @@
     "player": "Luke Lundy (None)",
     "ros_points": 64,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Travis Kelce (KC)",
+    "ros_points": 64,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
