@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-05T11:08:21.853337",
+  "timestamp": "2025-10-05T12:20:27.880720",
   "players": {
     "QB": [
       {
@@ -78,7 +78,7 @@
         "rank": 9,
         "player_id": "12524",
         "name": "Shedeur Sanders",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -3617,7 +3617,7 @@
         "rank": 75,
         "player_id": "12472",
         "name": "Raheim Sanders",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -19983,7 +19983,7 @@
         "rank": 37,
         "player_id": "13121",
         "name": "Ben Yurosek",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
