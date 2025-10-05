@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-05T19:08:36.525941",
+  "timestamp": "2025-10-05T20:11:39.010189",
   "players": {
     "QB": [
       {
@@ -16588,7 +16588,7 @@
         "rank": 899,
         "player_id": "6149",
         "name": "Darius Slayton",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -21675,7 +21675,7 @@
         "rank": 225,
         "player_id": "8177",
         "name": "Grant Calcaterra",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
