@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-05T22:10:20.508319",
+  "timestamp": "2025-10-05T23:09:24.420703",
   "players": {
     "QB": [
       {
@@ -1491,7 +1491,7 @@
         "rank": 166,
         "player_id": "11292",
         "name": "Tommy DeVito",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -1824,7 +1824,7 @@
         "rank": 203,
         "player_id": "5849",
         "name": "Kyler Murray",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -3041,7 +3041,7 @@
         "rank": 11,
         "player_id": "12507",
         "name": "Omarion Hampton",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -4157,7 +4157,7 @@
         "rank": 135,
         "player_id": "12787",
         "name": "Josh Williams",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -9010,7 +9010,7 @@
         "rank": 57,
         "player_id": "12542",
         "name": "Efton Chism",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11953,7 +11953,7 @@
         "rank": 384,
         "player_id": "7596",
         "name": "Elijah Moore",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -17758,7 +17758,7 @@
         "rank": 1029,
         "player_id": "3634",
         "name": "Kalif Raymond",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -20622,7 +20622,7 @@
         "rank": 108,
         "player_id": "11716",
         "name": "Tip Reiman",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
