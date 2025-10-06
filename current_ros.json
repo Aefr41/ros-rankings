@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-06T22:10:49.300155",
+  "timestamp": "2025-10-06T23:11:09.533458",
   "players": {
     "QB": [
       {
@@ -6218,7 +6218,7 @@
         "rank": 364,
         "player_id": "7561",
         "name": "Elijah Mitchell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -8677,7 +8677,7 @@
         "rank": 20,
         "player_id": "11624",
         "name": "Xavier Worthy",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -20424,7 +20424,7 @@
         "rank": 86,
         "player_id": "11595",
         "name": "Jared Wiley",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
