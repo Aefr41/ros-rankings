@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-08T18:18:10.503141",
+  "timestamp": "2025-10-08T19:09:21.640683",
   "players": {
     "QB": [
       {
@@ -6947,7 +6947,7 @@
         "rank": 445,
         "player_id": "4866",
         "name": "Saquon Barkley",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -21675,7 +21675,7 @@
         "rank": 225,
         "player_id": "8177",
         "name": "Grant Calcaterra",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
