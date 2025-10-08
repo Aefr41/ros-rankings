@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-08T22:11:18.455864",
+  "timestamp": "2025-10-08T23:10:58.639116",
   "players": {
     "QB": [
       {
@@ -3491,7 +3491,7 @@
         "rank": 61,
         "player_id": "12490",
         "name": "Bhayshul Tuten",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -4346,7 +4346,7 @@
         "rank": 156,
         "player_id": "9508",
         "name": "Tyjae Spears",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11062,7 +11062,7 @@
         "rank": 285,
         "player_id": "9754",
         "name": "Quentin Johnston",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11773,7 +11773,7 @@
         "rank": 364,
         "player_id": "7587",
         "name": "Dyami Brown",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -17173,7 +17173,7 @@
         "rank": 964,
         "player_id": "6853",
         "name": "Van Jefferson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -23556,7 +23556,7 @@
         "rank": 434,
         "player_id": "5010",
         "name": "Will Dissly",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
