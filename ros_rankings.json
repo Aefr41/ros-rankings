@@ -426,12 +426,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brian Thomas (JAX)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jonathon Brooks (CAR)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -502,12 +496,6 @@
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Injury concern"
-  },
-  {
-    "player": "Adonai Mitchell (IND)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
   },
   {
     "player": "T.J. Pledger (None)",
@@ -1494,6 +1482,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Brian Thomas (JAX)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Darius Cooper (PHI)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1647,6 +1641,12 @@
     "player": "Drake Dabney (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Adonai Mitchell (IND)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
