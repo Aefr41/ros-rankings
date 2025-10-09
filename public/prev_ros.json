@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T16:15:59.412958",
+  "timestamp": "2025-10-09T17:11:04.750041",
   "players": {
     "QB": [
       {
@@ -4805,7 +4805,7 @@
         "rank": 207,
         "player_id": "8208",
         "name": "Tyler Badie",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -18118,7 +18118,7 @@
         "rank": 1069,
         "player_id": "2216",
         "name": "Mike Evans",
-        "injury_status": "Out",
+        "injury_status": "Doubtful",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
