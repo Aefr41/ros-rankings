@@ -8022,12 +8022,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jelani Woods (NYJ)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Nick Keizer (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9891,6 +9885,12 @@
     "player": "Tyler Renew (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jelani Woods (NYJ)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13914,12 +13914,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "George Kittle (SF)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Jameis Winston (NYG)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -14332,6 +14326,12 @@
     "ros_points": 68,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "George Kittle (SF)",
+    "ros_points": 68,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Nick Vannett (None)",
