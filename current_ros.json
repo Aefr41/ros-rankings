@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T21:10:42.884618",
+  "timestamp": "2025-10-09T22:11:05.130732",
   "players": {
     "QB": [
       {
@@ -3374,7 +3374,7 @@
         "rank": 48,
         "player_id": "12897",
         "name": "Nathan Carter",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -3581,7 +3581,7 @@
         "rank": 71,
         "player_id": "12534",
         "name": "Kyle Monangai",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -22458,7 +22458,7 @@
         "rank": 312,
         "player_id": "7531",
         "name": "Feleipe Franks",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -22755,7 +22755,7 @@
         "rank": 345,
         "player_id": "7716",
         "name": "John Bates",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
