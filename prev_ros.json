@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-10T18:17:27.775359",
+  "timestamp": "2025-10-10T19:09:42.988392",
   "players": {
     "QB": [
       {
@@ -4157,7 +4157,7 @@
         "rank": 135,
         "player_id": "12787",
         "name": "Josh Williams",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12322,7 +12322,7 @@
         "rank": 425,
         "player_id": "10234",
         "name": "Derius Davis",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13276,7 +13276,7 @@
         "rank": 531,
         "player_id": "10228",
         "name": "Charlie Jones",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -23439,7 +23439,7 @@
         "rank": 421,
         "player_id": "6001",
         "name": "Drew Sample",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -23610,7 +23610,7 @@
         "rank": 440,
         "player_id": "7002",
         "name": "Juwan Johnson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
