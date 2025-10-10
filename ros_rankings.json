@@ -9738,12 +9738,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brittain Brown (CHI)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Brian Hill (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11280,6 +11274,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Brittain Brown (CHI)",
+    "ros_points": 72,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Scott Orndoff (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12732,12 +12732,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Courtland Sutton (DEN)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jody Fortson (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13494,6 +13488,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Courtland Sutton (DEN)",
+    "ros_points": 70,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Jaydon Mickens (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -13573,12 +13573,6 @@
   },
   {
     "player": "Adam Zaruba (None)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Marquez Valdes-Scantling (SF)",
     "ros_points": 70,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -14049,6 +14043,12 @@
     "player": "Cameron Brate (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Marquez Valdes-Scantling (SF)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
@@ -15060,12 +15060,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Geno Smith (LV)",
-    "ros_points": 66,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Zach Ertz (WAS)",
     "ros_points": 66,
     "trend": "+0.0",
@@ -15201,6 +15195,12 @@
     "player": "Jared Cook (None)",
     "ros_points": 65,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Geno Smith (LV)",
+    "ros_points": 65,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
