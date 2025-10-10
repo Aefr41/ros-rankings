@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-10T19:09:42.988392",
+  "timestamp": "2025-10-10T20:13:04.161429",
   "players": {
     "QB": [
       {
@@ -3581,7 +3581,7 @@
         "rank": 71,
         "player_id": "12534",
         "name": "Kyle Monangai",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -4346,7 +4346,7 @@
         "rank": 156,
         "player_id": "9508",
         "name": "Tyjae Spears",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -4400,7 +4400,7 @@
         "rank": 162,
         "player_id": "11729",
         "name": "Sione Vaki",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -9316,7 +9316,7 @@
         "rank": 91,
         "player_id": "11617",
         "name": "Malachi Corley",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -13456,7 +13456,7 @@
         "rank": 551,
         "player_id": "8125",
         "name": "Calvin Austin",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -17200,7 +17200,7 @@
         "rank": 967,
         "player_id": "5113",
         "name": "Cedrick Wilson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -24375,7 +24375,7 @@
         "rank": 525,
         "player_id": "2505",
         "name": "Darren Waller",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
