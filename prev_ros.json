@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-10T20:13:04.161429",
+  "timestamp": "2025-10-10T21:09:54.982771",
   "players": {
     "QB": [
       {
@@ -3491,7 +3491,7 @@
         "rank": 61,
         "player_id": "12490",
         "name": "Bhayshul Tuten",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -6371,7 +6371,7 @@
         "rank": 381,
         "player_id": "6945",
         "name": "Antonio Gibson",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7127,7 +7127,7 @@
         "rank": 465,
         "player_id": "6151",
         "name": "Miles Sanders",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -9271,7 +9271,7 @@
         "rank": 86,
         "player_id": "12482",
         "name": "Savion Williams",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9928,7 +9928,7 @@
         "rank": 159,
         "player_id": "11629",
         "name": "Devontez Walker",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11773,7 +11773,7 @@
         "rank": 364,
         "player_id": "7587",
         "name": "Dyami Brown",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -16813,7 +16813,7 @@
         "rank": 924,
         "player_id": "5872",
         "name": "Deebo Samuel",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -16948,7 +16948,7 @@
         "rank": 939,
         "player_id": "8917",
         "name": "KaVontae Turpin",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -24123,7 +24123,7 @@
         "rank": 497,
         "player_id": "3271",
         "name": "Tyler Higbee",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
