@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-10T00:54:54.594465",
+  "timestamp": "2025-10-10T02:19:20.385623",
   "players": {
     "QB": [
       {
@@ -798,7 +798,7 @@
         "rank": 89,
         "player_id": "8183",
         "name": "Brock Purdy",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -1680,7 +1680,7 @@
         "rank": 187,
         "player_id": "4881",
         "name": "Lamar Jackson",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -2474,8 +2474,8 @@
         "name": "Derek Carr",
         "injury_status": "NA",
         "ros_pts": 66,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 276,
@@ -2483,8 +2483,8 @@
         "name": "Nick Foles",
         "injury_status": null,
         "ros_pts": 66,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 277,
@@ -2492,8 +2492,8 @@
         "name": "Alex Tanney",
         "injury_status": null,
         "ros_pts": 66,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 278,
@@ -2501,8 +2501,8 @@
         "name": "Blaine Gabbert",
         "injury_status": null,
         "ros_pts": 66,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 279,
@@ -2510,8 +2510,8 @@
         "name": "Geno Smith",
         "injury_status": null,
         "ros_pts": 65,
-        "rank_change": -4,
-        "trend": "\u25bc"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 280,
@@ -3275,7 +3275,7 @@
         "rank": 37,
         "player_id": "11584",
         "name": "Bucky Irving",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -6020,7 +6020,7 @@
         "rank": 342,
         "player_id": "7594",
         "name": "Chuba Hubbard",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6481,8 +6481,8 @@
         "name": "Brian Hill",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 394,
@@ -6490,8 +6490,8 @@
         "name": "Trayveon Williams",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 395,
@@ -6499,8 +6499,8 @@
         "name": "William Stanback",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 396,
@@ -6508,8 +6508,8 @@
         "name": "Kene Nwangwu",
         "injury_status": "Questionable",
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 397,
@@ -6517,8 +6517,8 @@
         "name": "J.J. Taylor",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 398,
@@ -6526,8 +6526,8 @@
         "name": "Tony Brooks-James",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 399,
@@ -6535,8 +6535,8 @@
         "name": "Peyton Barber",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 400,
@@ -6544,8 +6544,8 @@
         "name": "Kobe McCrary",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 401,
@@ -6553,8 +6553,8 @@
         "name": "Zack Moss",
         "injury_status": "Questionable",
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 402,
@@ -6562,8 +6562,8 @@
         "name": "Tyler Renew",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 403,
@@ -6571,8 +6571,8 @@
         "name": "Mark Thompson",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 404,
@@ -6580,8 +6580,8 @@
         "name": "DeeJay Dallas",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 405,
@@ -6589,8 +6589,8 @@
         "name": "James Summers",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 406,
@@ -6598,8 +6598,8 @@
         "name": "Rhamondre Stevenson",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 407,
@@ -6607,8 +6607,8 @@
         "name": "Damien Harris",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 408,
@@ -6616,8 +6616,8 @@
         "name": "Gerald Holmes",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 409,
@@ -6625,8 +6625,8 @@
         "name": "Qadree Ollison",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 410,
@@ -6634,8 +6634,8 @@
         "name": "Jordan Chunn",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 411,
@@ -6643,8 +6643,8 @@
         "name": "Ty Chandler",
         "injury_status": "IR",
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 412,
@@ -6652,8 +6652,8 @@
         "name": "Austin Walter",
         "injury_status": "Questionable",
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 413,
@@ -6661,8 +6661,8 @@
         "name": "Jordan Johnson",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 414,
@@ -6670,8 +6670,8 @@
         "name": "Sherman Badie",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 415,
@@ -6679,8 +6679,8 @@
         "name": "De'Mard Llorens",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 416,
@@ -6688,8 +6688,8 @@
         "name": "Najee Harris",
         "injury_status": "IR",
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 417,
@@ -6697,8 +6697,8 @@
         "name": "Raheem Blackshear",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 418,
@@ -6706,8 +6706,8 @@
         "name": "C.J. Prosise",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 419,
@@ -6715,8 +6715,8 @@
         "name": "Travis Homer",
         "injury_status": "IR",
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 420,
@@ -6724,8 +6724,8 @@
         "name": "T.J. Logan",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 421,
@@ -6733,8 +6733,8 @@
         "name": "Avery Williams",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 422,
@@ -6742,8 +6742,8 @@
         "name": "Cedric O'Neal",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 423,
@@ -6751,8 +6751,8 @@
         "name": "Josh Jacobs",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 424,
@@ -6760,8 +6760,8 @@
         "name": "Cullen Gillaspia",
         "injury_status": "Questionable",
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 425,
@@ -6769,8 +6769,8 @@
         "name": "Tim Cook",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 426,
@@ -6778,8 +6778,8 @@
         "name": "A.J. Dillon",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 427,
@@ -6787,8 +6787,8 @@
         "name": "Wendell Smallwood",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 428,
@@ -6796,8 +6796,8 @@
         "name": "Xavier Turner",
         "injury_status": null,
         "ros_pts": 73,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 429,
@@ -6805,8 +6805,8 @@
         "name": "D.J. Foster",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 430,
@@ -6814,8 +6814,8 @@
         "name": "Josh Ferguson",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 431,
@@ -6823,8 +6823,8 @@
         "name": "I'Tavius Mathers",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 432,
@@ -6832,8 +6832,8 @@
         "name": "Phillip Lindsay",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 433,
@@ -6841,8 +6841,8 @@
         "name": "Devin Singletary",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 434,
@@ -6850,8 +6850,8 @@
         "name": "Rushel Shell",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 435,
@@ -6859,8 +6859,8 @@
         "name": "Josh Rounds",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 436,
@@ -6868,8 +6868,8 @@
         "name": "Martez Carter",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 437,
@@ -6877,8 +6877,8 @@
         "name": "Jay Ajayi",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 438,
@@ -6886,8 +6886,8 @@
         "name": "D'Onta Foreman",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 439,
@@ -6895,8 +6895,8 @@
         "name": "Gus Johnson",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 440,
@@ -6904,8 +6904,8 @@
         "name": "Joe Williams",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 441,
@@ -6913,8 +6913,8 @@
         "name": "Nyheim Hines",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 442,
@@ -6922,8 +6922,8 @@
         "name": "John Kelly",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 443,
@@ -6931,8 +6931,8 @@
         "name": "Ke'Shawn Vaughn",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 444,
@@ -6940,8 +6940,8 @@
         "name": "Saquon Barkley",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 445,
@@ -6949,8 +6949,8 @@
         "name": "Tony Pollard",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 446,
@@ -6958,8 +6958,8 @@
         "name": "Rashaad Penny",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 447,
@@ -6967,8 +6967,8 @@
         "name": "Dontrell Hilliard",
         "injury_status": "Questionable",
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 448,
@@ -6976,8 +6976,8 @@
         "name": "Jalen Richard",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 449,
@@ -6985,8 +6985,8 @@
         "name": "Darrel Williams",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 450,
@@ -6994,8 +6994,8 @@
         "name": "Reggie Gilliam",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 451,
@@ -7003,8 +7003,8 @@
         "name": "Sony Michel",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 452,
@@ -7012,8 +7012,8 @@
         "name": "Trenton Cannon",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 453,
@@ -7021,8 +7021,8 @@
         "name": "Brittain Brown",
         "injury_status": null,
         "ros_pts": 72,
-        "rank_change": -60,
-        "trend": "\u25bc"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 454,
@@ -8677,7 +8677,7 @@
         "rank": 20,
         "player_id": "11624",
         "name": "Xavier Worthy",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -11890,7 +11890,7 @@
         "rank": 377,
         "player_id": "11638",
         "name": "Ricky Pearsall",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13213,7 +13213,7 @@
         "rank": 524,
         "player_id": "6786",
         "name": "CeeDee Lamb",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -17193,8 +17193,8 @@
         "name": "Kenny Cook",
         "injury_status": null,
         "ros_pts": 71,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 967,
@@ -17202,8 +17202,8 @@
         "name": "Cedrick Wilson",
         "injury_status": "Questionable",
         "ros_pts": 71,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 968,
@@ -17211,8 +17211,8 @@
         "name": "Deshon Foxx",
         "injury_status": null,
         "ros_pts": 71,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 969,
@@ -17220,8 +17220,8 @@
         "name": "Tommylee Lewis",
         "injury_status": "Questionable",
         "ros_pts": 71,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 970,
@@ -17229,8 +17229,8 @@
         "name": "Marcus Leak",
         "injury_status": null,
         "ros_pts": 71,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 971,
@@ -17238,8 +17238,8 @@
         "name": "Tom Kennedy",
         "injury_status": null,
         "ros_pts": 71,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 972,
@@ -17247,8 +17247,8 @@
         "name": "Justin Watson",
         "injury_status": "IR",
         "ros_pts": 71,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 973,
@@ -17256,8 +17256,8 @@
         "name": "Kendal Thompson",
         "injury_status": null,
         "ros_pts": 71,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 974,
@@ -17265,8 +17265,8 @@
         "name": "Marvin Hall",
         "injury_status": null,
         "ros_pts": 71,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 975,
@@ -17274,8 +17274,8 @@
         "name": "Nsimba Webster",
         "injury_status": null,
         "ros_pts": 71,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 976,
@@ -17283,8 +17283,8 @@
         "name": "Alonzo Moore",
         "injury_status": null,
         "ros_pts": 71,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 977,
@@ -17292,8 +17292,8 @@
         "name": "Darius Jennings",
         "injury_status": null,
         "ros_pts": 71,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 978,
@@ -17301,8 +17301,8 @@
         "name": "Noah Brown",
         "injury_status": "Questionable",
         "ros_pts": 71,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 979,
@@ -17310,8 +17310,8 @@
         "name": "Greg Ward",
         "injury_status": null,
         "ros_pts": 71,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 980,
@@ -17319,8 +17319,8 @@
         "name": "DeAndrew White",
         "injury_status": "Questionable",
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 981,
@@ -17328,8 +17328,8 @@
         "name": "Albert Wilson",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 982,
@@ -17337,8 +17337,8 @@
         "name": "Harvey Binford",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 983,
@@ -17346,8 +17346,8 @@
         "name": "Tyler Boyd",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 984,
@@ -17355,8 +17355,8 @@
         "name": "Braxton Berrios",
         "injury_status": "Out",
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 985,
@@ -17364,8 +17364,8 @@
         "name": "KhaDarel Hodge",
         "injury_status": "Questionable",
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 986,
@@ -17373,8 +17373,8 @@
         "name": "Anthony Miller",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 987,
@@ -17382,8 +17382,8 @@
         "name": "Bennie Fowler",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 988,
@@ -17391,8 +17391,8 @@
         "name": "Derel Walker",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 989,
@@ -17400,8 +17400,8 @@
         "name": "Kenny Stills",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 990,
@@ -17409,8 +17409,8 @@
         "name": "Adam Humphries",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 991,
@@ -17418,8 +17418,8 @@
         "name": "J.J. Nelson",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 992,
@@ -17427,8 +17427,8 @@
         "name": "Eric Rogers",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 993,
@@ -17436,8 +17436,8 @@
         "name": "Shaquelle Evans",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 994,
@@ -17445,8 +17445,8 @@
         "name": "Calvin Ridley",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 995,
@@ -17454,8 +17454,8 @@
         "name": "Josh Reynolds",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 996,
@@ -17463,8 +17463,8 @@
         "name": "Geremy Davis",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 997,
@@ -17472,8 +17472,8 @@
         "name": "Keith Kirkwood",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 998,
@@ -17481,8 +17481,8 @@
         "name": "Mike Williams",
         "injury_status": "DNR",
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 999,
@@ -17490,8 +17490,8 @@
         "name": "Mitch Mathews",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1000,
@@ -17499,8 +17499,8 @@
         "name": "Dennis Parks",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1001,
@@ -17508,8 +17508,8 @@
         "name": "Kevin Snead",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1002,
@@ -17517,8 +17517,8 @@
         "name": "Josh Magee",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1003,
@@ -17526,8 +17526,8 @@
         "name": "Jarvis Landry",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1004,
@@ -17535,8 +17535,8 @@
         "name": "Zay Jones",
         "injury_status": "Questionable",
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1005,
@@ -17544,8 +17544,8 @@
         "name": "Byron Pringle",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1006,
@@ -17553,8 +17553,8 @@
         "name": "Allen Hurns",
         "injury_status": "Questionable",
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1007,
@@ -17562,8 +17562,8 @@
         "name": "Da'Ron Brown",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1008,
@@ -17571,8 +17571,8 @@
         "name": "David Moore",
         "injury_status": "IR",
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1009,
@@ -17580,17 +17580,17 @@
         "name": "River Cracraft",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1010,
         "player_id": "5927",
         "name": "Terry McLaurin",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1011,
@@ -17598,8 +17598,8 @@
         "name": "Kendrick Bourne",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1012,
@@ -17607,8 +17607,8 @@
         "name": "Seth Roberts",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1013,
@@ -17616,8 +17616,8 @@
         "name": "Antwan Goodley",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1014,
@@ -17625,8 +17625,8 @@
         "name": "Taylor Gabriel",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1015,
@@ -17634,8 +17634,8 @@
         "name": "Jamal Agnew",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1016,
@@ -17643,8 +17643,8 @@
         "name": "Courtland Sutton",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": -50,
-        "trend": "\u25bc"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1017,
@@ -17697,8 +17697,8 @@
         "name": "Zach Pascal",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1023,
@@ -17706,8 +17706,8 @@
         "name": "Marqise Lee",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1024,
@@ -17715,8 +17715,8 @@
         "name": "Chris King",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1025,
@@ -17724,8 +17724,8 @@
         "name": "Willie Snead",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1026,
@@ -17733,8 +17733,8 @@
         "name": "Diontae Spencer",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1027,
@@ -17742,8 +17742,8 @@
         "name": "Alshon Jeffery",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1028,
@@ -17751,8 +17751,8 @@
         "name": "Kalif Raymond",
         "injury_status": "Questionable",
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1029,
@@ -17760,8 +17760,8 @@
         "name": "Demarcus Robinson",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1030,
@@ -17769,8 +17769,8 @@
         "name": "Uzoma Nwachukwu",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1031,
@@ -17778,8 +17778,8 @@
         "name": "Anthony Kelly",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1032,
@@ -17787,8 +17787,8 @@
         "name": "Johnny Holton",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1033,
@@ -17796,8 +17796,8 @@
         "name": "Tyreek Hill",
         "injury_status": "IR",
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1034,
@@ -17805,8 +17805,8 @@
         "name": "Russell Shepard",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1035,
@@ -17814,8 +17814,8 @@
         "name": "Tim Patrick",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1036,
@@ -17823,8 +17823,8 @@
         "name": "Jamison Crowder",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1037,
@@ -17832,8 +17832,8 @@
         "name": "Damiere Byrd",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1038,
@@ -17841,8 +17841,8 @@
         "name": "Amari Cooper",
         "injury_status": "NA",
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1039,
@@ -17850,8 +17850,8 @@
         "name": "Josh Gordon",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1040,
@@ -17859,8 +17859,8 @@
         "name": "Danny Anthrop",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1041,
@@ -17868,8 +17868,8 @@
         "name": "Darius Prince",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1042,
@@ -17877,8 +17877,8 @@
         "name": "Allen Robinson",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1043,
@@ -17886,8 +17886,8 @@
         "name": "Keelan Cole",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1044,
@@ -17895,8 +17895,8 @@
         "name": "Stefon Diggs",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1045,
@@ -17904,8 +17904,8 @@
         "name": "Trent Taylor",
         "injury_status": "IR",
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1046,
@@ -17913,8 +17913,8 @@
         "name": "DeVante Parker",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1047,
@@ -17922,8 +17922,8 @@
         "name": "Ryan Grant",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1048,
@@ -17931,8 +17931,8 @@
         "name": "Jay Lee",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1049,
@@ -17940,8 +17940,8 @@
         "name": "Jermaine Kearse",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1050,
@@ -17949,8 +17949,8 @@
         "name": "Jake Kumerow",
         "injury_status": "Questionable",
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1051,
@@ -17958,8 +17958,8 @@
         "name": "Michael Thomas",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1052,
@@ -17967,8 +17967,8 @@
         "name": "Terrell Sinkfield",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1053,
@@ -17976,8 +17976,8 @@
         "name": "Marquez Valdes-Scantling",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": -31,
-        "trend": "\u25bc"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 1054,
@@ -19803,7 +19803,7 @@
         "rank": 17,
         "player_id": "11604",
         "name": "Brock Bowers",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
