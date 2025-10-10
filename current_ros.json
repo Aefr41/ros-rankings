@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-10T21:09:54.982771",
+  "timestamp": "2025-10-10T22:10:54.400071",
   "players": {
     "QB": [
       {
@@ -2292,7 +2292,7 @@
         "rank": 255,
         "player_id": "2152",
         "name": "Teddy Bridgewater",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -9496,7 +9496,7 @@
         "rank": 111,
         "player_id": "12634",
         "name": "Jordan Watkins",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -22755,7 +22755,7 @@
         "rank": 345,
         "player_id": "7716",
         "name": "John Bates",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
