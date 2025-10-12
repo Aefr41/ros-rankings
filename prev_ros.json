@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-12T17:08:50.663834",
+  "timestamp": "2025-10-12T18:15:19.105646",
   "players": {
     "QB": [
       {
@@ -11674,7 +11674,7 @@
         "rank": 353,
         "player_id": "10232",
         "name": "Michael Wilson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -11953,7 +11953,7 @@
         "rank": 384,
         "player_id": "8146",
         "name": "Garrett Wilson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -22575,7 +22575,7 @@
         "rank": 325,
         "player_id": "11381",
         "name": "Travis Vokolek",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
