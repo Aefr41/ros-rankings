@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-12T11:08:24.029279",
+  "timestamp": "2025-10-12T12:20:43.396061",
   "players": {
     "QB": [
       {
@@ -1365,7 +1365,7 @@
         "rank": 152,
         "player_id": "7583",
         "name": "Sam Ehlinger",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -4805,7 +4805,7 @@
         "rank": 207,
         "player_id": "8208",
         "name": "Tyler Badie",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -6200,7 +6200,7 @@
         "rank": 362,
         "player_id": "7608",
         "name": "Khalil Herbert",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -22539,7 +22539,7 @@
         "rank": 321,
         "player_id": "8219",
         "name": "Jelani Woods",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
