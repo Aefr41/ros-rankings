@@ -735,7 +735,7 @@
     "player": "Jahdae Walker (CHI)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Dominick Wood-Anderson (None)",
@@ -2868,7 +2868,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Antwane Wells (None)",
+    "player": "Antwane Wells (NYG)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7533,7 +7533,7 @@
     "player": "Quintin Morris (JAX)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Alex Wesley (None)",
@@ -14370,12 +14370,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Jordan Akins (None)",
-    "ros_points": 68,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Cam Worthy (None)",
     "ros_points": 68,
     "trend": "+0.0",
@@ -14928,6 +14922,12 @@
     "quick_why": "Veteran downgrade"
   },
   {
+    "player": "Jordan Akins (JAX)",
+    "ros_points": 67,
+    "trend": "-1.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
     "player": "Virgil Green (None)",
     "ros_points": 67,
     "trend": "+0.0",
@@ -15387,7 +15387,7 @@
     "player": "Case Keenum (CHI)",
     "ros_points": 63,
     "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Vernon Davis (None)",
@@ -15471,7 +15471,7 @@
     "player": "Josh Johnson (WAS)",
     "ros_points": 61,
     "trend": "-16.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jason Witten (None)",
