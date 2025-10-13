@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-13T20:13:57.604691",
+  "timestamp": "2025-10-13T21:10:07.304168",
   "players": {
     "QB": [
       {
@@ -141,7 +141,7 @@
         "rank": 16,
         "player_id": "9229",
         "name": "Anthony Richardson",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -13276,7 +13276,7 @@
         "rank": 531,
         "player_id": "10228",
         "name": "Charlie Jones",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
