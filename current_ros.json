@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-13T21:10:07.304168",
+  "timestamp": "2025-10-13T22:11:07.605742",
   "players": {
     "QB": [
       {
@@ -3374,7 +3374,7 @@
         "rank": 48,
         "player_id": "12897",
         "name": "Nathan Carter",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -16525,7 +16525,7 @@
         "rank": 892,
         "player_id": "5096",
         "name": "Ray-Ray McCloud",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16777,7 +16777,7 @@
         "rank": 920,
         "player_id": "4082",
         "name": "Curtis Samuel",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -21153,7 +21153,7 @@
         "rank": 167,
         "player_id": "10236",
         "name": "Dalton Kincaid",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
