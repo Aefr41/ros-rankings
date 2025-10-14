@@ -216,12 +216,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Emeka Egbuka (TB)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Max Borghi (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -976,6 +970,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Emeka Egbuka (TB)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jose Barbon (None)",
@@ -6444,12 +6444,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Blake Watson (TEN)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Jeshaun Jones (MIN)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -8580,6 +8574,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Blake Watson (TEN)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
+  },
+  {
     "player": "Noah Togiai (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9055,12 +9055,6 @@
   },
   {
     "player": "Collin Johnson (None)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Luke Farrell (SF)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10713,6 +10707,12 @@
     "player": "Marcus Kemp (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Luke Farrell (SF)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13296,12 +13296,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jared Goff (DET)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jarvis Landry (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -13899,6 +13893,12 @@
     "player": "Allen Robinson (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Jared Goff (DET)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
@@ -14924,7 +14924,7 @@
   {
     "player": "Jordan Akins (JAX)",
     "ros_points": 67,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Veteran downgrade"
   },
   {
