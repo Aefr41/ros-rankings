@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-14T21:10:17.548276",
+  "timestamp": "2025-10-14T22:11:57.163748",
   "players": {
     "QB": [
       {
@@ -5219,7 +5219,7 @@
         "rank": 253,
         "player_id": "7537",
         "name": "Jaret Patterson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -11935,7 +11935,7 @@
         "rank": 382,
         "player_id": "8135",
         "name": "Treylon Burks",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -15355,7 +15355,7 @@
         "rank": 762,
         "player_id": "11073",
         "name": "Thayer Thomas",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
