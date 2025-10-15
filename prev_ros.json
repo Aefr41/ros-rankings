@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-15T17:11:12.403578",
+  "timestamp": "2025-10-15T18:18:16.863709",
   "players": {
     "QB": [
       {
@@ -3095,7 +3095,7 @@
         "rank": 17,
         "player_id": "12455",
         "name": "Brashard Smith",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -13447,7 +13447,7 @@
         "rank": 550,
         "player_id": "8125",
         "name": "Calvin Austin",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -22566,7 +22566,7 @@
         "rank": 324,
         "player_id": "11381",
         "name": "Travis Vokolek",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
