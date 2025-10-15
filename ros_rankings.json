@@ -4992,12 +4992,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Andrei Iosivas (CIN)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Shay Fields (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7449,6 +7443,12 @@
     "player": "Jerome Ford (CLE)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Andrei Iosivas (CIN)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -11664,12 +11664,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ray-Ray McCloud (ATL)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "T.J. Yeldon (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12402,7 +12396,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brett Rypien (None)",
+    "player": "Brett Rypien (IND)",
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -12742,6 +12736,12 @@
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Ray-Ray McCloud (ATL)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Malcolm Brown (None)",
