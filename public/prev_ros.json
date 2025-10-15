@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-15T16:12:56.818724",
+  "timestamp": "2025-10-15T17:11:12.403578",
   "players": {
     "QB": [
       {
@@ -17299,7 +17299,7 @@
         "rank": 978,
         "player_id": "4234",
         "name": "Noah Brown",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -17452,7 +17452,7 @@
         "rank": 995,
         "player_id": "4171",
         "name": "Josh Reynolds",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -22566,7 +22566,7 @@
         "rank": 324,
         "player_id": "11381",
         "name": "Travis Vokolek",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
