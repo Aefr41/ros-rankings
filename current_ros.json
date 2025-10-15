@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-15T20:14:03.997295",
+  "timestamp": "2025-10-15T21:10:54.792781",
   "players": {
     "QB": [
       {
@@ -1599,7 +1599,7 @@
         "rank": 178,
         "player_id": "7527",
         "name": "Mac Jones",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -5714,7 +5714,7 @@
         "rank": 308,
         "player_id": "10219",
         "name": "Chris Rodriguez",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6749,7 +6749,7 @@
         "rank": 423,
         "player_id": "5850",
         "name": "Josh Jacobs",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7775,7 +7775,7 @@
         "rank": 537,
         "player_id": "4035",
         "name": "Alvin Kamara",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -11116,7 +11116,7 @@
         "rank": 291,
         "player_id": "9500",
         "name": "Josh Downs",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11152,7 +11152,7 @@
         "rank": 295,
         "player_id": "9497",
         "name": "Jalin Hyatt",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12880,7 +12880,7 @@
         "rank": 487,
         "player_id": "8168",
         "name": "Skyy Moore",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13213,7 +13213,7 @@
         "rank": 524,
         "player_id": "6783",
         "name": "Jerry Jeudy",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16651,7 +16651,7 @@
         "rank": 906,
         "player_id": "6427",
         "name": "Ashton Dulin",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16804,7 +16804,7 @@
         "rank": 923,
         "player_id": "5872",
         "name": "Deebo Samuel",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -17164,7 +17164,7 @@
         "rank": 963,
         "player_id": "6853",
         "name": "Van Jefferson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -17893,7 +17893,7 @@
         "rank": 1044,
         "player_id": "2449",
         "name": "Stefon Diggs",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -21054,7 +21054,7 @@
         "rank": 156,
         "player_id": "11201",
         "name": "Blake Whiteheart",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -23880,7 +23880,7 @@
         "rank": 470,
         "player_id": "5409",
         "name": "Tanner Hudson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -24375,7 +24375,7 @@
         "rank": 525,
         "player_id": "2505",
         "name": "Darren Waller",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
