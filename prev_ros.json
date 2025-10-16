@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-16T21:10:43.092740",
+  "timestamp": "2025-10-16T22:09:27.250827",
   "players": {
     "QB": [
       {
@@ -4436,7 +4436,7 @@
         "rank": 166,
         "player_id": "8122",
         "name": "Bam Knight",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11674,7 +11674,7 @@
         "rank": 353,
         "player_id": "10232",
         "name": "Michael Wilson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
