@@ -1704,12 +1704,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyler Scott (None)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Master Teague (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1771,12 +1765,6 @@
   },
   {
     "player": "Brennan Presley (LAR)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "KeAndre Lambert-Smith (LAC)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3858,6 +3846,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Tyler Scott (SEA)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Ryan Davis (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3975,6 +3969,12 @@
     "player": "Jalen Jackson (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "KeAndre Lambert-Smith (LAC)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -9888,12 +9888,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Charlie Woerner (ATL)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kendric Pryor (CIN)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11421,6 +11415,12 @@
     "player": "Caleb Bluiett (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Charlie Woerner (ATL)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
