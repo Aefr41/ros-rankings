@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-16T20:13:44.605285",
+  "timestamp": "2025-10-16T21:10:43.092740",
   "players": {
     "QB": [
       {
@@ -3095,7 +3095,7 @@
         "rank": 17,
         "player_id": "12455",
         "name": "Brashard Smith",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -5516,7 +5516,7 @@
         "rank": 286,
         "player_id": "6790",
         "name": "D'Andre Swift",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -11773,7 +11773,7 @@
         "rank": 364,
         "player_id": "7587",
         "name": "Dyami Brown",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -12817,7 +12817,7 @@
         "rank": 480,
         "player_id": "8144",
         "name": "Chris Olave",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13618,7 +13618,7 @@
         "rank": 569,
         "player_id": "7562",
         "name": "Tutu Atwell",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -21054,7 +21054,7 @@
         "rank": 156,
         "player_id": "11201",
         "name": "Blake Whiteheart",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
