@@ -4320,12 +4320,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brenden Bates (HOU)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Thyrick Pitts (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6867,6 +6861,12 @@
     "player": "Marquis Young (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Brenden Bates (HOU)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
