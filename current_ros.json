@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-17T20:13:42.665292",
+  "timestamp": "2025-10-17T21:10:10.504049",
   "players": {
     "QB": [
       {
@@ -5165,7 +5165,7 @@
         "rank": 247,
         "player_id": "8123",
         "name": "Hassan Haskins",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -9469,7 +9469,7 @@
         "rank": 108,
         "player_id": "11628",
         "name": "Marvin Harrison",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11773,7 +11773,7 @@
         "rank": 364,
         "player_id": "7587",
         "name": "Dyami Brown",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13204,7 +13204,7 @@
         "rank": 523,
         "player_id": "6786",
         "name": "CeeDee Lamb",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16939,7 +16939,7 @@
         "rank": 938,
         "player_id": "8917",
         "name": "KaVontae Turpin",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -17974,7 +17974,7 @@
         "rank": 1053,
         "player_id": "5086",
         "name": "Marquez Valdes-Scantling",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -19983,7 +19983,7 @@
         "rank": 37,
         "player_id": "13121",
         "name": "Ben Yurosek",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
