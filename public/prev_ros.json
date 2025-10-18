@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-18T19:08:24.151198",
+  "timestamp": "2025-10-18T20:11:58.087766",
   "players": {
     "QB": [
       {
@@ -2292,7 +2292,7 @@
         "rank": 255,
         "player_id": "2152",
         "name": "Teddy Bridgewater",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -4184,7 +4184,7 @@
         "rank": 138,
         "player_id": "8207",
         "name": "Tyler Goodson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -4400,7 +4400,7 @@
         "rank": 162,
         "player_id": "11729",
         "name": "Sione Vaki",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -9595,7 +9595,7 @@
         "rank": 122,
         "player_id": "11646",
         "name": "Jalen Coker",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
