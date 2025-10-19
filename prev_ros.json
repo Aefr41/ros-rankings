@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-19T15:10:25.091472",
+  "timestamp": "2025-10-19T16:13:03.296188",
   "players": {
     "QB": [
       {
@@ -33,7 +33,7 @@
         "rank": 4,
         "player_id": "11565",
         "name": "J.J. McCarthy",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -942,7 +942,7 @@
         "rank": 105,
         "player_id": "8162",
         "name": "Sam Howell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -1068,7 +1068,7 @@
         "rank": 119,
         "player_id": "7538",
         "name": "Zach Wilson",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -1491,7 +1491,7 @@
         "rank": 166,
         "player_id": "11292",
         "name": "Tommy DeVito",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -2616,7 +2616,7 @@
         "rank": 291,
         "player_id": "1737",
         "name": "Case Keenum",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 63,
         "rank_change": 0,
         "trend": ""
@@ -3590,7 +3590,7 @@
         "rank": 72,
         "player_id": "12472",
         "name": "Raheim Sanders",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -5516,7 +5516,7 @@
         "rank": 286,
         "player_id": "6790",
         "name": "D'Andre Swift",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6056,7 +6056,7 @@
         "rank": 346,
         "player_id": "8139",
         "name": "Zamir White",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6218,7 +6218,7 @@
         "rank": 364,
         "player_id": "7561",
         "name": "Elijah Mitchell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -6578,7 +6578,7 @@
         "rank": 404,
         "player_id": "6931",
         "name": "DeeJay Dallas",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -6713,7 +6713,7 @@
         "rank": 419,
         "player_id": "6012",
         "name": "Travis Homer",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -6776,7 +6776,7 @@
         "rank": 426,
         "player_id": "6828",
         "name": "A.J. Dillon",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -9019,7 +9019,7 @@
         "rank": 58,
         "player_id": "13079",
         "name": "Jahdae Walker",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9559,7 +9559,7 @@
         "rank": 118,
         "player_id": "13101",
         "name": "Gage Larvadain",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9595,7 +9595,7 @@
         "rank": 122,
         "player_id": "11646",
         "name": "Jalen Coker",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11062,7 +11062,7 @@
         "rank": 285,
         "player_id": "11821",
         "name": "Tahj Washington",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11953,7 +11953,7 @@
         "rank": 384,
         "player_id": "8146",
         "name": "Garrett Wilson",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -15886,7 +15886,7 @@
         "rank": 821,
         "player_id": "5947",
         "name": "Jakobi Meyers",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16795,7 +16795,7 @@
         "rank": 922,
         "player_id": "6386",
         "name": "Alex Bachman",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -16957,7 +16957,7 @@
         "rank": 940,
         "player_id": "5955",
         "name": "Hunter Renfrow",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -17200,7 +17200,7 @@
         "rank": 967,
         "player_id": "5113",
         "name": "Cedrick Wilson",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -17893,7 +17893,7 @@
         "rank": 1044,
         "player_id": "2449",
         "name": "Stefon Diggs",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -19794,7 +19794,7 @@
         "rank": 16,
         "player_id": "11604",
         "name": "Brock Bowers",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -20415,7 +20415,7 @@
         "rank": 85,
         "player_id": "11595",
         "name": "Jared Wiley",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -21765,7 +21765,7 @@
         "rank": 235,
         "player_id": "8170",
         "name": "James Mitchell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -22530,7 +22530,7 @@
         "rank": 320,
         "player_id": "8219",
         "name": "Jelani Woods",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
