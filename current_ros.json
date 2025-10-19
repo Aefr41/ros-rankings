@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-19T11:08:45.789937",
+  "timestamp": "2025-10-19T12:20:59.292338",
   "players": {
     "QB": [
       {
@@ -3230,7 +3230,7 @@
         "rank": 32,
         "player_id": "11569",
         "name": "Jarquez Hunter",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -5624,7 +5624,7 @@
         "rank": 298,
         "player_id": "11644",
         "name": "Cody Schrader",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
