@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-20T21:11:12.349480",
+  "timestamp": "2025-10-20T22:11:22.887748",
   "players": {
     "QB": [
       {
@@ -2292,7 +2292,7 @@
         "rank": 255,
         "player_id": "2152",
         "name": "Teddy Bridgewater",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -2310,7 +2310,7 @@
         "rank": 257,
         "player_id": "3161",
         "name": "Carson Wentz",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -9226,7 +9226,7 @@
         "rank": 81,
         "player_id": "12514",
         "name": "Emeka Egbuka",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -18118,7 +18118,7 @@
         "rank": 1069,
         "player_id": "2216",
         "name": "Mike Evans",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
