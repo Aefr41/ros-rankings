@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-22T16:16:13.002112",
+  "timestamp": "2025-10-22T17:11:54.239701",
   "players": {
     "QB": [
       {
@@ -564,7 +564,7 @@
         "rank": 63,
         "player_id": "11566",
         "name": "Jayden Daniels",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -2535,7 +2535,7 @@
         "rank": 282,
         "player_id": "827",
         "name": "Tyrod Taylor",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 64,
         "rank_change": 0,
         "trend": ""
@@ -3257,7 +3257,7 @@
         "rank": 35,
         "player_id": "11584",
         "name": "Bucky Irving",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -4426,7 +4426,7 @@
       {
         "rank": 165,
         "player_id": "8122",
-        "name": "Bam Knight",
+        "name": "Zonovan Knight",
         "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
@@ -16146,7 +16146,7 @@
       {
         "rank": 850,
         "player_id": "5848",
-        "name": "Hollywood Brown",
+        "name": "Marquise Brown",
         "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
@@ -21215,7 +21215,7 @@
       {
         "rank": 174,
         "player_id": "13162",
-        "name": "Max Mang",
+        "name": "Maximilian Mang",
         "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
@@ -24375,7 +24375,7 @@
         "rank": 525,
         "player_id": "2505",
         "name": "Darren Waller",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
