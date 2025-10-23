@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-23T16:15:23.885160",
+  "timestamp": "2025-10-23T17:11:06.021280",
   "players": {
     "QB": [
       {
@@ -5624,7 +5624,7 @@
         "rank": 298,
         "player_id": "11644",
         "name": "Cody Schrader",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -10189,7 +10189,7 @@
         "rank": 188,
         "player_id": "9486",
         "name": "Dontayvion Wicks",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -21765,7 +21765,7 @@
         "rank": 235,
         "player_id": "7536",
         "name": "Quintin Morris",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
