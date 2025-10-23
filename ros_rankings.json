@@ -516,12 +516,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Junior Bergen (SF)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jarquez Hunter (LAR)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -859,12 +853,6 @@
   },
   {
     "player": "Mike Rigerman (None)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Luke Floriea (CLE)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -1692,6 +1680,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Junior Bergen (SF)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Caleb Williams (CHI)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2301,6 +2295,12 @@
     "player": "Jamari Thrash (CLE)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Luke Floriea (CLE)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -3750,7 +3750,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kyrese Rowan (None)",
+    "player": "Kyrese Rowan (DEN)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10236,7 +10236,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brandon Johnson (None)",
+    "player": "Brandon Johnson (TB)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -11940,12 +11940,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dante Pettis (NO)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "John Ross (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -12939,6 +12933,12 @@
     "player": "DeAndrew White (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Dante Pettis (NO)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
