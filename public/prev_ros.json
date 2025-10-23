@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-23T20:13:54.464009",
+  "timestamp": "2025-10-23T21:10:38.653306",
   "players": {
     "QB": [
       {
@@ -2013,7 +2013,7 @@
         "rank": 224,
         "player_id": "4892",
         "name": "Baker Mayfield",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -7730,7 +7730,7 @@
         "rank": 532,
         "player_id": "4199",
         "name": "Aaron Jones",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -13303,7 +13303,7 @@
         "rank": 534,
         "player_id": "7526",
         "name": "Jaylen Waddle",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16336,7 +16336,7 @@
         "rank": 871,
         "player_id": "6290",
         "name": "Scotty Miller",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16795,7 +16795,7 @@
         "rank": 922,
         "player_id": "5872",
         "name": "Deebo Samuel",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -17587,7 +17587,7 @@
         "rank": 1010,
         "player_id": "5927",
         "name": "Terry McLaurin",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -18613,7 +18613,7 @@
         "rank": 1124,
         "player_id": "1426",
         "name": "DeAndre Hopkins",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
@@ -19677,7 +19677,7 @@
         "rank": 3,
         "player_id": "12498",
         "name": "Mason Taylor",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -21036,7 +21036,7 @@
         "rank": 154,
         "player_id": "11201",
         "name": "Blake Whiteheart",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
