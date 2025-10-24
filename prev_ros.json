@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-24T17:10:58.684507",
+  "timestamp": "2025-10-24T18:18:12.280133",
   "players": {
     "QB": [
       {
@@ -4139,7 +4139,7 @@
         "rank": 133,
         "player_id": "12787",
         "name": "Josh Williams",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11098,7 +11098,7 @@
         "rank": 289,
         "player_id": "9500",
         "name": "Josh Downs",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12052,7 +12052,7 @@
         "rank": 395,
         "player_id": "11959",
         "name": "Bryce Oliver",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -17443,7 +17443,7 @@
         "rank": 994,
         "player_id": "4981",
         "name": "Calvin Ridley",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
