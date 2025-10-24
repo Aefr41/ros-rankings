@@ -378,12 +378,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Konata Mumpfield (LAR)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Anthony Tyus (CAR)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -562,12 +556,6 @@
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
-  },
-  {
-    "player": "Phil Mafah (DAL)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
   },
   {
     "player": "Roc Taylor (None)",
@@ -1356,6 +1344,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Konata Mumpfield (LAR)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Jaylin Noel (HOU)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1828,6 +1822,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Phil Mafah (DAL)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Sam James (None)",
@@ -5580,12 +5580,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Amon-Ra St. Brown (DET)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Dylan Drummond (ATL)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7821,6 +7815,12 @@
     "player": "De'Mornay Pierson-El (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Amon-Ra St. Brown (DET)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
