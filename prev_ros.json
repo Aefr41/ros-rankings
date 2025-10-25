@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-25T20:12:22.304779",
+  "timestamp": "2025-10-25T21:10:04.474057",
   "players": {
     "QB": [
       {
@@ -9550,7 +9550,7 @@
         "rank": 117,
         "player_id": "13150",
         "name": "Darius Cooper",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -10693,7 +10693,7 @@
         "rank": 244,
         "player_id": "8112",
         "name": "Drake London",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -17452,7 +17452,7 @@
         "rank": 995,
         "player_id": "4171",
         "name": "Josh Reynolds",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
