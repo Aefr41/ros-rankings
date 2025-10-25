@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-25T16:13:18.825749",
+  "timestamp": "2025-10-25T17:09:57.408162",
   "players": {
     "QB": [
       {
@@ -78,7 +78,7 @@
         "rank": 9,
         "player_id": "12524",
         "name": "Shedeur Sanders",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -1680,7 +1680,7 @@
         "rank": 187,
         "player_id": "4881",
         "name": "Lamar Jackson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -2535,7 +2535,7 @@
         "rank": 282,
         "player_id": "827",
         "name": "Tyrod Taylor",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 64,
         "rank_change": 0,
         "trend": ""
@@ -21252,7 +21252,7 @@
         "rank": 178,
         "player_id": "11942",
         "name": "Colson Yankoff",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
