@@ -888,12 +888,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Sean Tucker (TB)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Nathan Carter (ATL)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2370,6 +2364,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Sean Tucker (TB)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Tyrion Davis-Price (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3145,12 +3145,6 @@
   },
   {
     "player": "Zach Terrell (BAL)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Kurtis Rourke (SF)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3966,7 +3960,7 @@
     "quick_why": "Injury concern"
   },
   {
-    "player": "Tyrone Broden (None)",
+    "player": "Tyrone Broden (SEA)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5445,6 +5439,12 @@
     "player": "Devin Leary (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Kurtis Rourke (SF)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -7278,7 +7278,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Zaire Mitchell-Paden (None)",
+    "player": "Zaire Mitchell-Paden (NO)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8071,12 +8071,6 @@
   },
   {
     "player": "Tyler Hoppes (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Pat Freiermuth (PIT)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9963,6 +9957,12 @@
     "player": "Gerald Holmes (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Pat Freiermuth (PIT)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13866,7 +13866,7 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Eric Saubert (None)",
+    "player": "Eric Saubert (SEA)",
     "ros_points": 69,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
