@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-26T19:09:14.222698",
+  "timestamp": "2025-10-26T20:12:38.731119",
   "players": {
     "QB": [
       {
@@ -1365,7 +1365,7 @@
         "rank": 152,
         "player_id": "7583",
         "name": "Sam Ehlinger",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -2996,7 +2996,7 @@
         "rank": 6,
         "player_id": "12512",
         "name": "Quinshon Judkins",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -3203,7 +3203,7 @@
         "rank": 29,
         "player_id": "12471",
         "name": "DJ Giddens",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -4571,7 +4571,7 @@
         "rank": 181,
         "player_id": "11439",
         "name": "Jaleel McLaughlin",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -6929,7 +6929,7 @@
         "rank": 443,
         "player_id": "4866",
         "name": "Saquon Barkley",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -8506,7 +8506,7 @@
         "rank": 1,
         "player_id": "12519",
         "name": "Luther Burden",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -10522,7 +10522,7 @@
         "rank": 225,
         "player_id": "10225",
         "name": "Jonathan Mingo",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -17353,7 +17353,7 @@
         "rank": 984,
         "player_id": "5121",
         "name": "Braxton Berrios",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -20883,7 +20883,7 @@
         "rank": 137,
         "player_id": "8225",
         "name": "Daniel Bellinger",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -21612,7 +21612,7 @@
         "rank": 218,
         "player_id": "10220",
         "name": "Will Mallory",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
