@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-26T18:15:48.795362",
+  "timestamp": "2025-10-26T19:09:14.222698",
   "players": {
     "QB": [
       {
@@ -3581,7 +3581,7 @@
         "rank": 71,
         "player_id": "12481",
         "name": "Cam Skattebo",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9226,7 +9226,7 @@
         "rank": 81,
         "player_id": "12523",
         "name": "Jimmy Horn",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -21693,7 +21693,7 @@
         "rank": 227,
         "player_id": "8799",
         "name": "Zaire Mitchell-Paden",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
