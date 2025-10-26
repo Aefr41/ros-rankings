@@ -660,12 +660,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Efton Chism (NE)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Emani Bailey (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2010,6 +2004,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Efton Chism (NE)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Blake Proehl (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -2569,12 +2569,6 @@
   },
   {
     "player": "Cephus Johnson (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Julius Chestnut (TEN)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4890,6 +4884,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Julius Chestnut (TEN)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Mikah Holder (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5176,12 +5176,6 @@
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
-  },
-  {
-    "player": "Keaontay Ingram (KC)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
   },
   {
     "player": "Tyrone Tracy (NYG)",
@@ -6223,12 +6217,6 @@
   },
   {
     "player": "Talolo Limi-Jones (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "A.T. Perry (DEN)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7608,6 +7596,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Keaontay Ingram (KC)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
+  },
+  {
     "player": "Bailey Gaither (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8367,6 +8361,12 @@
     "player": "Sam Hartman (WAS)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "A.T. Perry (DEN)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
