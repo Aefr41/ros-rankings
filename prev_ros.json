@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-27T22:11:26.241385",
+  "timestamp": "2025-10-27T23:11:21.129998",
   "players": {
     "QB": [
       {
@@ -1599,7 +1599,7 @@
         "rank": 178,
         "player_id": "7527",
         "name": "Mac Jones",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -6218,7 +6218,7 @@
         "rank": 364,
         "player_id": "7561",
         "name": "Elijah Mitchell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -8875,7 +8875,7 @@
         "rank": 42,
         "player_id": "12505",
         "name": "Jalen Royals",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -20415,7 +20415,7 @@
         "rank": 85,
         "player_id": "11595",
         "name": "Jared Wiley",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
