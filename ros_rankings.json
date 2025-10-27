@@ -3870,12 +3870,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Elijah Higgins (ARI)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Isaiah Coulter (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -6276,12 +6270,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ryan Flournoy (DAL)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Joel Honigford (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6309,6 +6297,12 @@
     "player": "Rodney Anderson (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Elijah Higgins (ARI)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -8403,6 +8397,12 @@
     "player": "Tre Nixon (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Ryan Flournoy (DAL)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
