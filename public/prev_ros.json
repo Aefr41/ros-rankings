@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-27T21:10:40.226424",
+  "timestamp": "2025-10-27T22:11:26.241385",
   "players": {
     "QB": [
       {
@@ -2310,7 +2310,7 @@
         "rank": 257,
         "player_id": "3161",
         "name": "Carson Wentz",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -16048,7 +16048,7 @@
         "rank": 839,
         "player_id": "6271",
         "name": "Olamide Zaccheaus",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
