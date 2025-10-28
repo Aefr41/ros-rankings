@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-28T15:13:42.031840",
+  "timestamp": "2025-10-28T16:16:29.126272",
   "players": {
     "QB": [
       {
@@ -1365,7 +1365,7 @@
         "rank": 152,
         "player_id": "7583",
         "name": "Sam Ehlinger",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -4571,7 +4571,7 @@
         "rank": 181,
         "player_id": "11439",
         "name": "Jaleel McLaughlin",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -12556,7 +12556,7 @@
         "rank": 451,
         "player_id": "11874",
         "name": "Jaylen Johnson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
