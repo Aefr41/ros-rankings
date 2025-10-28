@@ -5130,7 +5130,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ben Sims (None)",
+    "player": "Ben Sims (MIN)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6816,7 +6816,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brenden Bates (None)",
+    "player": "Brenden Bates (CLE)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9594,12 +9594,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Stetson Bennett (LAR)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Aidan O'Connell (LV)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11110,6 +11104,12 @@
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Stetson Bennett (LAR)",
+    "ros_points": 72,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Joe Burrow (CIN)",
