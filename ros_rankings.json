@@ -168,7 +168,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Rushawn Baker (None)",
+    "player": "Rushawn Baker (NE)",
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3822,7 +3822,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyler Scott (None)",
+    "player": "Tyler Scott (LAR)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9714,12 +9714,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jonathan Ward (None)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Brian Hill (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11253,6 +11247,12 @@
     "player": "Valdez Showers (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jonathan Ward (NE)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
