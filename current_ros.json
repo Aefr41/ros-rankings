@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-29T17:12:20.554418",
+  "timestamp": "2025-10-29T18:18:59.461422",
   "players": {
     "QB": [
       {
@@ -11134,7 +11134,7 @@
         "rank": 293,
         "player_id": "9497",
         "name": "Jalin Hyatt",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -16138,7 +16138,7 @@
         "rank": 849,
         "player_id": "5848",
         "name": "Marquise Brown",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -24538,7 +24538,7 @@
         "player_id": "111",
         "name": "Marcedes Lewis",
         "injury_status": null,
-        "ros_pts": 60,
+        "ros_pts": 59,
         "rank_change": 0,
         "trend": ""
       },

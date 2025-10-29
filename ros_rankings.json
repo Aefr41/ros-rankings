@@ -2814,7 +2814,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "John Rhys Plumlee (None)",
+    "player": "John Rhys Plumlee (PIT)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8574,7 +8574,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dalton Keene (None)",
+    "player": "Dalton Keene (HOU)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -15498,12 +15498,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Marcedes Lewis (None)",
-    "ros_points": 60,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Matt Schaub (None)",
     "ros_points": 60,
     "trend": "+0.0",
@@ -15519,6 +15513,12 @@
     "player": "Aaron Rodgers (PIT)",
     "ros_points": 59,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Marcedes Lewis (DEN)",
+    "ros_points": 59,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
