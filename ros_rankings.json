@@ -48,12 +48,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Quinshon Judkins (CLE)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Damien Martinez (None)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -376,6 +370,12 @@
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Quinshon Judkins (CLE)",
+    "ros_points": 78,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Anthony Tyus (CAR)",
@@ -5922,7 +5922,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Justin Shorter (None)",
+    "player": "Justin Shorter (LV)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6331,12 +6331,6 @@
   },
   {
     "player": "Chase Harrell (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Tank Dell (HOU)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6775,12 +6769,6 @@
   },
   {
     "player": "Rachaad White (TB)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Charlie Jones (CIN)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8472,6 +8460,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Tank Dell (HOU)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Braylon Sanders (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8817,6 +8811,12 @@
     "player": "Darrius Shepherd (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Charlie Jones (CIN)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -9655,12 +9655,6 @@
   },
   {
     "player": "Marcus Baugh (None)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Darnell Mooney (ATL)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -11163,6 +11157,12 @@
     "player": "Evan Baylis (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Darnell Mooney (ATL)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13428,12 +13428,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Austin Hooper (NE)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Taylor Gabriel (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -13971,6 +13965,12 @@
     "player": "Ryan Grant (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Austin Hooper (NE)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
@@ -15366,12 +15366,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Andy Dalton (CAR)",
-    "ros_points": 63,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Matt Ryan (None)",
     "ros_points": 63,
     "trend": "+0.0",
@@ -15435,6 +15429,12 @@
     "player": "Drew Stanton (None)",
     "ros_points": 63,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Andy Dalton (CAR)",
+    "ros_points": 62,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
