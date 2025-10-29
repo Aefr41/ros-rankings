@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-29T21:11:00.629024",
+  "timestamp": "2025-10-29T22:11:54.231595",
   "players": {
     "QB": [
       {
@@ -33,7 +33,7 @@
         "rank": 4,
         "player_id": "11565",
         "name": "J.J. McCarthy",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -375,7 +375,7 @@
         "rank": 42,
         "player_id": "11859",
         "name": "John Rhys Plumlee",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -8848,7 +8848,7 @@
         "rank": 39,
         "player_id": "12889",
         "name": "Beaux Collins",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -11773,7 +11773,7 @@
         "rank": 364,
         "player_id": "7587",
         "name": "Dyami Brown",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -15877,7 +15877,7 @@
         "rank": 820,
         "player_id": "5947",
         "name": "Jakobi Meyers",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -17353,7 +17353,7 @@
         "rank": 984,
         "player_id": "5121",
         "name": "Braxton Berrios",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -19794,7 +19794,7 @@
         "rank": 16,
         "player_id": "11604",
         "name": "Brock Bowers",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -23565,7 +23565,7 @@
         "rank": 435,
         "player_id": "5001",
         "name": "Dalton Schultz",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -24294,7 +24294,7 @@
         "rank": 516,
         "player_id": "3048",
         "name": "Chris Manhertz",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
