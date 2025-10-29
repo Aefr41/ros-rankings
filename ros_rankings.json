@@ -2616,12 +2616,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Evan Hull (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Louis Rees-Zammit (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4398,7 +4392,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "John Metchie (PHI)",
+    "player": "John Metchie (NYJ)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4953,6 +4947,12 @@
     "player": "Josh Rosen (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Evan Hull (NO)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -8562,7 +8562,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brandon Smith (None)",
+    "player": "Brandon Smith (NYJ)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8952,7 +8952,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Sam Ehlinger (None)",
+    "player": "Sam Ehlinger (DEN)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -12228,7 +12228,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "D'Ernest Johnson (None)",
+    "player": "D'Ernest Johnson (NE)",
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
