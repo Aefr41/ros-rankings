@@ -546,7 +546,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Bryson Green (ARI)",
+    "player": "Bryson Green (None)",
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2850,7 +2850,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Antwane Wells (NYG)",
+    "player": "Antwane Wells (None)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3798,7 +3798,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Luke Grimm (LAC)",
+    "player": "Luke Grimm (None)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7110,7 +7110,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Nick Muse (ARI)",
+    "player": "Nick Muse (None)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8562,7 +8562,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brandon Smith (NYJ)",
+    "player": "Brandon Smith (None)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8952,7 +8952,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Sam Ehlinger (DEN)",
+    "player": "Sam Ehlinger (None)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10128,7 +10128,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Samori Toure (DEN)",
+    "player": "Samori Toure (None)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10194,7 +10194,7 @@
     "quick_why": "Injury concern"
   },
   {
-    "player": "Raheem Blackshear (PIT)",
+    "player": "Raheem Blackshear (None)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10776,7 +10776,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Nyheim Hines (LAC)",
+    "player": "Nyheim Hines (None)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -12228,7 +12228,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "D'Ernest Johnson (ARI)",
+    "player": "D'Ernest Johnson (None)",
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -12805,12 +12805,6 @@
   },
   {
     "player": "Trevon Wesco (None)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "John Wolford (None)",
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13599,6 +13593,12 @@
     "player": "Zach Zenner (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "John Wolford (MIN)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
