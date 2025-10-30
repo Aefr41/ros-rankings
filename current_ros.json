@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-30T20:13:34.646325",
+  "timestamp": "2025-10-30T21:11:35.031702",
   "players": {
     "QB": [
       {
@@ -1248,7 +1248,7 @@
         "rank": 139,
         "player_id": "8161",
         "name": "Malik Willis",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -4814,7 +4814,7 @@
         "rank": 208,
         "player_id": "8132",
         "name": "Tyler Allgeier",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -6929,7 +6929,7 @@
         "rank": 443,
         "player_id": "5967",
         "name": "Tony Pollard",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -11134,7 +11134,7 @@
         "rank": 293,
         "player_id": "9497",
         "name": "Jalin Hyatt",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -16138,7 +16138,7 @@
         "rank": 849,
         "player_id": "5848",
         "name": "Marquise Brown",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16183,7 +16183,7 @@
         "rank": 854,
         "player_id": "7090",
         "name": "Darnell Mooney",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16309,7 +16309,7 @@
         "rank": 868,
         "player_id": "7757",
         "name": "Ben Skowronek",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -17893,7 +17893,7 @@
         "rank": 1044,
         "player_id": "2449",
         "name": "Stefon Diggs",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -22548,7 +22548,7 @@
         "rank": 322,
         "player_id": "7600",
         "name": "Pat Freiermuth",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
