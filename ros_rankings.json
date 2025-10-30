@@ -1458,12 +1458,6 @@
     "quick_why": "Injury concern"
   },
   {
-    "player": "Jalen Coker (CAR)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Lawrance Toafili (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -3474,6 +3468,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jalen Coker (CAR)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Devontres Dukes (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4952,7 +4952,7 @@
   {
     "player": "Evan Hull (NO)",
     "ros_points": 75,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
@@ -7830,12 +7830,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kenny Yeboah (DET)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Cole Kmet (CHI)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9778,6 +9772,12 @@
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Kenny Yeboah (DET)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Peyton Barber (None)",
@@ -14034,12 +14034,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Marcus Mariota (WAS)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Cameron Brate (None)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -14505,6 +14499,12 @@
     "player": "Eric Frohnapfel (None)",
     "ros_points": 68,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Marcus Mariota (WAS)",
+    "ros_points": 68,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
