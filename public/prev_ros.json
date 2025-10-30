@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-30T19:10:31.461617",
+  "timestamp": "2025-10-30T20:13:34.646325",
   "players": {
     "QB": [
       {
@@ -5327,7 +5327,7 @@
         "rank": 265,
         "player_id": "11575",
         "name": "Ray Davis",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -11008,7 +11008,7 @@
         "rank": 279,
         "player_id": "11626",
         "name": "Xavier Legette",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11098,7 +11098,7 @@
         "rank": 289,
         "player_id": "9500",
         "name": "Josh Downs",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
