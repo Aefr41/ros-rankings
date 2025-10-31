@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-31T18:18:22.766425",
+  "timestamp": "2025-10-31T19:09:08.651360",
   "players": {
     "QB": [
       {
@@ -735,7 +735,7 @@
         "rank": 82,
         "player_id": "11559",
         "name": "Michael Penix",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -4445,7 +4445,7 @@
         "rank": 167,
         "player_id": "10235",
         "name": "Roschon Johnson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -4814,7 +4814,7 @@
         "rank": 208,
         "player_id": "8132",
         "name": "Tyler Allgeier",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5507,7 +5507,7 @@
         "rank": 285,
         "player_id": "6790",
         "name": "D'Andre Swift",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -5543,7 +5543,7 @@
         "rank": 289,
         "player_id": "8205",
         "name": "Isiah Pacheco",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -8506,7 +8506,7 @@
         "rank": 1,
         "player_id": "12519",
         "name": "Luther Burden",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -9037,7 +9037,7 @@
         "rank": 60,
         "player_id": "11620",
         "name": "Rome Odunze",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -10684,7 +10684,7 @@
         "rank": 243,
         "player_id": "8112",
         "name": "Drake London",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -16039,7 +16039,7 @@
         "rank": 838,
         "player_id": "6271",
         "name": "Olamide Zaccheaus",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16066,7 +16066,7 @@
         "rank": 841,
         "player_id": "4983",
         "name": "DJ Moore",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -20649,7 +20649,7 @@
         "rank": 111,
         "player_id": "7553",
         "name": "Kyle Pitts",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -21873,7 +21873,7 @@
         "rank": 247,
         "player_id": "6826",
         "name": "Cole Kmet",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
