@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-01T19:08:16.417573",
+  "timestamp": "2025-11-01T20:11:27.883025",
   "players": {
     "QB": [
       {
@@ -3383,7 +3383,7 @@
         "rank": 49,
         "player_id": "12656",
         "name": "Robbie Ouzts",
-        "injury_status": "IR",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -23970,7 +23970,7 @@
         "rank": 480,
         "player_id": "4189",
         "name": "Eric Saubert",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
