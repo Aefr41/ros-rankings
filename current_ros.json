@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-01T20:11:27.883025",
+  "timestamp": "2025-11-01T21:09:27.093256",
   "players": {
     "QB": [
       {
@@ -5156,7 +5156,7 @@
         "rank": 246,
         "player_id": "8123",
         "name": "Hassan Haskins",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5912,7 +5912,7 @@
         "rank": 330,
         "player_id": "11199",
         "name": "Emari Demercado",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -17533,7 +17533,7 @@
         "rank": 1004,
         "player_id": "4080",
         "name": "Zay Jones",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
