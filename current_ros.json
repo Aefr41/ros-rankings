@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-02T19:08:17.044429",
+  "timestamp": "2025-11-02T20:11:58.604172",
   "players": {
     "QB": [
       {
@@ -1725,7 +1725,7 @@
         "rank": 192,
         "player_id": "10857",
         "name": "Stetson Bennett",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -3212,7 +3212,7 @@
         "rank": 30,
         "player_id": "11569",
         "name": "Jarquez Hunter",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -5615,7 +5615,7 @@
         "rank": 297,
         "player_id": "11644",
         "name": "Cody Schrader",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6047,7 +6047,7 @@
         "rank": 345,
         "player_id": "8139",
         "name": "Zamir White",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -7703,7 +7703,7 @@
         "rank": 529,
         "player_id": "4147",
         "name": "Samaje Perine",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -7775,7 +7775,7 @@
         "rank": 537,
         "player_id": "4035",
         "name": "Alvin Kamara",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -8695,7 +8695,7 @@
         "rank": 22,
         "player_id": "12541",
         "name": "Dont'e Thornton",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -8902,7 +8902,7 @@
         "rank": 45,
         "player_id": "9504",
         "name": "Kayshon Boutte",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11008,7 +11008,7 @@
         "rank": 279,
         "player_id": "11626",
         "name": "Xavier Legette",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -15049,7 +15049,7 @@
         "rank": 728,
         "player_id": "8676",
         "name": "Rashid Shaheed",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -20208,7 +20208,7 @@
         "rank": 62,
         "player_id": "9484",
         "name": "Tucker Kraft",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -21693,7 +21693,7 @@
         "rank": 227,
         "player_id": "8799",
         "name": "Zaire Mitchell-Paden",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -21873,7 +21873,7 @@
         "rank": 247,
         "player_id": "6826",
         "name": "Cole Kmet",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
