@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-02T16:12:40.740338",
+  "timestamp": "2025-11-02T17:09:49.184657",
   "players": {
     "QB": [
       {
@@ -492,7 +492,7 @@
         "rank": 55,
         "player_id": "12705",
         "name": "Graham Mertz",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -798,7 +798,7 @@
         "rank": 89,
         "player_id": "8183",
         "name": "Brock Purdy",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -1401,7 +1401,7 @@
         "rank": 156,
         "player_id": "10983",
         "name": "Sean Clifford",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -1491,7 +1491,7 @@
         "rank": 166,
         "player_id": "11292",
         "name": "Tommy DeVito",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -2076,7 +2076,7 @@
         "rank": 231,
         "player_id": "5089",
         "name": "Mike White",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -2202,7 +2202,7 @@
         "rank": 245,
         "player_id": "2306",
         "name": "Jameis Winston",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -2607,7 +2607,7 @@
         "rank": 290,
         "player_id": "1737",
         "name": "Case Keenum",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 63,
         "rank_change": 0,
         "trend": ""
@@ -2643,7 +2643,7 @@
         "rank": 294,
         "player_id": "829",
         "name": "Andy Dalton",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 62,
         "rank_change": 0,
         "trend": ""
@@ -2688,7 +2688,7 @@
         "rank": 299,
         "player_id": "19",
         "name": "Joe Flacco",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 60,
         "rank_change": 0,
         "trend": ""
@@ -3014,7 +3014,7 @@
         "rank": 8,
         "player_id": "12467",
         "name": "Jordan James",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -3203,7 +3203,7 @@
         "rank": 29,
         "player_id": "12471",
         "name": "DJ Giddens",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -3347,7 +3347,7 @@
         "rank": 45,
         "player_id": "12897",
         "name": "Nathan Carter",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -4364,7 +4364,7 @@
         "rank": 158,
         "player_id": "11729",
         "name": "Sione Vaki",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -4562,7 +4562,7 @@
         "rank": 180,
         "player_id": "11439",
         "name": "Jaleel McLaughlin",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5084,7 +5084,7 @@
         "rank": 238,
         "player_id": "8129",
         "name": "Dameon Pierce",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -11458,7 +11458,7 @@
         "rank": 329,
         "player_id": "11640",
         "name": "Jermaine Burton",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12043,7 +12043,7 @@
         "rank": 394,
         "player_id": "11959",
         "name": "Bryce Oliver",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -16948,7 +16948,7 @@
         "rank": 939,
         "player_id": "5955",
         "name": "Hunter Renfrow",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -20865,7 +20865,7 @@
         "rank": 135,
         "player_id": "8225",
         "name": "Daniel Bellinger",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -20937,7 +20937,7 @@
         "rank": 143,
         "player_id": "11082",
         "name": "Ben Sims",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -21126,7 +21126,7 @@
         "rank": 164,
         "player_id": "12062",
         "name": "Cam Grandy",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -21612,7 +21612,7 @@
         "rank": 218,
         "player_id": "10220",
         "name": "Will Mallory",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -21756,7 +21756,7 @@
         "rank": 234,
         "player_id": "8170",
         "name": "James Mitchell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -23547,7 +23547,7 @@
         "rank": 433,
         "player_id": "5010",
         "name": "Will Dissly",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -23565,7 +23565,7 @@
         "rank": 435,
         "player_id": "5001",
         "name": "Dalton Schultz",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
