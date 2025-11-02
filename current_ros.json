@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-02T20:11:58.604172",
+  "timestamp": "2025-11-02T21:09:52.854733",
   "players": {
     "QB": [
       {
@@ -546,7 +546,7 @@
         "rank": 61,
         "player_id": "9758",
         "name": "C.J. Stroud",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -6209,7 +6209,7 @@
         "rank": 363,
         "player_id": "7561",
         "name": "Elijah Mitchell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7703,7 +7703,7 @@
         "rank": 529,
         "player_id": "4147",
         "name": "Samaje Perine",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -7730,7 +7730,7 @@
         "rank": 532,
         "player_id": "4199",
         "name": "Aaron Jones",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -8848,7 +8848,7 @@
         "rank": 39,
         "player_id": "12889",
         "name": "Beaux Collins",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -8875,7 +8875,7 @@
         "rank": 42,
         "player_id": "12505",
         "name": "Jalen Royals",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -8884,7 +8884,7 @@
         "rank": 43,
         "player_id": "12501",
         "name": "Matthew Golden",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -17128,7 +17128,7 @@
         "rank": 959,
         "player_id": "5154",
         "name": "Trent Sherfield",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -20208,7 +20208,7 @@
         "rank": 62,
         "player_id": "9484",
         "name": "Tucker Kraft",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -21072,7 +21072,7 @@
         "rank": 158,
         "player_id": "11595",
         "name": "Jared Wiley",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -21873,7 +21873,7 @@
         "rank": 247,
         "player_id": "6826",
         "name": "Cole Kmet",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
