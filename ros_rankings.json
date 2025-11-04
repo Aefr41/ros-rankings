@@ -39,7 +39,7 @@
     "player": "Jaydon Blue (DAL)",
     "ros_points": 79,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Trevor Etienne (CAR)",
@@ -2817,7 +2817,7 @@
     "player": "Jonathan Mingo (DAL)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jacob Warren (None)",
@@ -5628,12 +5628,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Eric Gray (NYG)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Josh Hammond (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6247,12 +6241,6 @@
   },
   {
     "player": "Jacob Breeland (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Nikko Remigio (KC)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7818,6 +7806,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Eric Gray (NYG)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Cole Kmet (CHI)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8364,6 +8358,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Nikko Remigio (KC)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Ryan Flournoy (DAL)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8562,7 +8562,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Danny Gray (None)",
+    "player": "Danny Gray (PHI)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -11835,7 +11835,7 @@
     "player": "Kyler Murray (ARI)",
     "ros_points": 72,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Andre Baccellia (ARI)",
