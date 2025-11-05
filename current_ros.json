@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-05T20:14:16.256195",
+  "timestamp": "2025-11-05T21:11:56.321898",
   "players": {
     "QB": [
       {
@@ -546,7 +546,7 @@
         "rank": 61,
         "player_id": "9758",
         "name": "C.J. Stroud",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -1824,7 +1824,7 @@
         "rank": 203,
         "player_id": "5849",
         "name": "Kyler Murray",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -3536,7 +3536,7 @@
         "rank": 66,
         "player_id": "12534",
         "name": "Kyle Monangai",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9037,7 +9037,7 @@
         "rank": 60,
         "player_id": "11620",
         "name": "Rome Odunze",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -16066,7 +16066,7 @@
         "rank": 841,
         "player_id": "4983",
         "name": "DJ Moore",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16633,7 +16633,7 @@
         "rank": 904,
         "player_id": "6819",
         "name": "Michael Pittman",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
