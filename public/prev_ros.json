@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-05T22:11:37.297032",
+  "timestamp": "2025-11-05T23:12:00.935655",
   "players": {
     "QB": [
       {
@@ -4103,7 +4103,7 @@
         "rank": 129,
         "player_id": "12533",
         "name": "Jacory Croskey-Merritt",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -7325,7 +7325,7 @@
         "rank": 487,
         "player_id": "4988",
         "name": "Nick Chubb",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -17353,7 +17353,7 @@
         "rank": 984,
         "player_id": "5121",
         "name": "Braxton Berrios",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -17812,7 +17812,7 @@
         "rank": 1035,
         "player_id": "4351",
         "name": "Tim Patrick",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -19920,7 +19920,7 @@
         "rank": 30,
         "player_id": "12715",
         "name": "Thomas Fidone",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -20262,7 +20262,7 @@
         "rank": 68,
         "player_id": "9479",
         "name": "Darnell Washington",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -21756,7 +21756,7 @@
         "rank": 234,
         "player_id": "7536",
         "name": "Quintin Morris",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -22062,7 +22062,7 @@
         "rank": 268,
         "player_id": "11433",
         "name": "Nate Adkins",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -22665,7 +22665,7 @@
         "rank": 335,
         "player_id": "6850",
         "name": "Harrison Bryant",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -23565,7 +23565,7 @@
         "rank": 435,
         "player_id": "5001",
         "name": "Dalton Schultz",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
