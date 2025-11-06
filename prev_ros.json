@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-06T21:11:31.853801",
+  "timestamp": "2025-11-06T22:11:54.847921",
   "players": {
     "QB": [
       {
@@ -78,7 +78,7 @@
         "rank": 9,
         "player_id": "12524",
         "name": "Shedeur Sanders",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -4103,7 +4103,7 @@
         "rank": 129,
         "player_id": "12533",
         "name": "Jacory Croskey-Merritt",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -6191,7 +6191,7 @@
         "rank": 361,
         "player_id": "7608",
         "name": "Khalil Herbert",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -17353,7 +17353,7 @@
         "rank": 984,
         "player_id": "5121",
         "name": "Braxton Berrios",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -19686,7 +19686,7 @@
         "rank": 4,
         "player_id": "12506",
         "name": "Harold Fannin",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -20208,7 +20208,7 @@
         "rank": 62,
         "player_id": "11597",
         "name": "Theo Johnson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -23565,7 +23565,7 @@
         "rank": 435,
         "player_id": "5001",
         "name": "Dalton Schultz",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
