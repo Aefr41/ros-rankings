@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-06T20:13:59.006374",
+  "timestamp": "2025-11-06T21:11:31.853801",
   "players": {
     "QB": [
       {
@@ -3536,7 +3536,7 @@
         "rank": 66,
         "player_id": "12534",
         "name": "Kyle Monangai",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -5498,7 +5498,7 @@
         "rank": 284,
         "player_id": "6790",
         "name": "D'Andre Swift",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -11548,7 +11548,7 @@
         "rank": 339,
         "player_id": "11157",
         "name": "Brycen Tremayne",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -16633,7 +16633,7 @@
         "rank": 904,
         "player_id": "6819",
         "name": "Michael Pittman",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
