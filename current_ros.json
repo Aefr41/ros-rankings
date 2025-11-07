@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-07T22:11:25.813565",
+  "timestamp": "2025-11-07T23:11:11.612410",
   "players": {
     "QB": [
       {
@@ -8983,7 +8983,7 @@
         "rank": 54,
         "player_id": "13079",
         "name": "Jahdae Walker",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11881,7 +11881,7 @@
         "rank": 376,
         "player_id": "11638",
         "name": "Ricky Pearsall",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -17533,7 +17533,7 @@
         "rank": 1004,
         "player_id": "4080",
         "name": "Zay Jones",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
