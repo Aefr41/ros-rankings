@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-07T19:10:18.882023",
+  "timestamp": "2025-11-07T20:13:03.365016",
   "players": {
     "QB": [
       {
@@ -4436,7 +4436,7 @@
         "rank": 166,
         "player_id": "10235",
         "name": "Roschon Johnson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -5444,7 +5444,7 @@
         "rank": 278,
         "player_id": "8138",
         "name": "James Cook",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -5498,7 +5498,7 @@
         "rank": 284,
         "player_id": "6790",
         "name": "D'Andre Swift",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6110,7 +6110,7 @@
         "rank": 352,
         "player_id": "6806",
         "name": "J.K. Dobbins",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -8506,7 +8506,7 @@
         "rank": 1,
         "player_id": "12519",
         "name": "Luther Burden",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -8848,7 +8848,7 @@
         "rank": 39,
         "player_id": "12889",
         "name": "Beaux Collins",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9037,7 +9037,7 @@
         "rank": 60,
         "player_id": "11620",
         "name": "Rome Odunze",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -16066,7 +16066,7 @@
         "rank": 841,
         "player_id": "4983",
         "name": "DJ Moore",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -19920,7 +19920,7 @@
         "rank": 30,
         "player_id": "12715",
         "name": "Thomas Fidone",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -21864,7 +21864,7 @@
         "rank": 246,
         "player_id": "6826",
         "name": "Cole Kmet",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -22332,7 +22332,7 @@
         "rank": 298,
         "player_id": "7946",
         "name": "Jack Stoll",
-        "injury_status": "Doubtful",
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
