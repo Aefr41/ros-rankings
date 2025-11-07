@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-07T17:11:07.915992",
+  "timestamp": "2025-11-07T18:17:41.249116",
   "players": {
     "QB": [
       {
@@ -3248,7 +3248,7 @@
         "rank": 34,
         "player_id": "11584",
         "name": "Bucky Irving",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -6281,7 +6281,7 @@
         "rank": 371,
         "player_id": "7021",
         "name": "Rico Dowdle",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -8722,7 +8722,7 @@
         "rank": 25,
         "player_id": "12526",
         "name": "Tetairoa McMillan",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -16192,7 +16192,7 @@
         "rank": 855,
         "player_id": "7612",
         "name": "Dee Eskridge",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
