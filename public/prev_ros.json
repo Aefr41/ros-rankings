@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-07T20:13:03.365016",
+  "timestamp": "2025-11-07T21:08:46.981914",
   "players": {
     "QB": [
       {
@@ -3923,7 +3923,7 @@
         "rank": 109,
         "player_id": "11237",
         "name": "Jacob Saylors",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -22845,7 +22845,7 @@
         "rank": 355,
         "player_id": "5973",
         "name": "Josh Oliver",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -23808,7 +23808,7 @@
         "rank": 462,
         "player_id": "5008",
         "name": "Durham Smythe",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
