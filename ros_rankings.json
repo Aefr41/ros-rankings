@@ -366,12 +366,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dominic Lovett (DET)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Quinshon Judkins (CLE)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1299,6 +1293,12 @@
     "player": "John Lovett (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Dominic Lovett (DET)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -8304,7 +8304,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Malik Davis (None)",
+    "player": "Malik Davis (DAL)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
