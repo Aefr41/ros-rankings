@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-08T21:09:33.645040",
+  "timestamp": "2025-11-08T22:10:16.185422",
   "players": {
     "QB": [
       {
@@ -1239,7 +1239,7 @@
         "rank": 138,
         "player_id": "8161",
         "name": "Malik Willis",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -12511,7 +12511,7 @@
         "rank": 446,
         "player_id": "11210",
         "name": "Malik Heath",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13447,7 +13447,7 @@
         "rank": 550,
         "player_id": "8167",
         "name": "Christian Watson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
