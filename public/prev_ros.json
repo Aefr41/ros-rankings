@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-09T12:21:07.272491",
+  "timestamp": "2025-11-09T13:18:29.356698",
   "players": {
     "QB": [
       {
@@ -3203,7 +3203,7 @@
         "rank": 29,
         "player_id": "12471",
         "name": "DJ Giddens",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -21603,7 +21603,7 @@
         "rank": 217,
         "player_id": "10220",
         "name": "Will Mallory",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
