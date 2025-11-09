@@ -8472,7 +8472,7 @@
     "quick_why": "Injury concern"
   },
   {
-    "player": "Jawhar Jordan (None)",
+    "player": "Jawhar Jordan (HOU)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10782,12 +10782,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jakobi Meyers (JAX)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Duke Williams (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12156,6 +12150,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jakobi Meyers (JAX)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Titus Davis (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -12894,12 +12894,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Matt Sokol (PIT)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Daryl Virgies (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13617,6 +13611,12 @@
     "player": "Blake Sims (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Matt Sokol (PIT)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
