@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-09T20:12:39.435166",
+  "timestamp": "2025-11-09T21:09:55.851442",
   "players": {
     "QB": [
       {
@@ -24,7 +24,7 @@
         "rank": 3,
         "player_id": "12508",
         "name": "Jaxson Dart",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -798,7 +798,7 @@
         "rank": 89,
         "player_id": "8183",
         "name": "Brock Purdy",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -1725,7 +1725,7 @@
         "rank": 192,
         "player_id": "10857",
         "name": "Stetson Bennett",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -3014,7 +3014,7 @@
         "rank": 8,
         "player_id": "12467",
         "name": "Jordan James",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -3212,7 +3212,7 @@
         "rank": 30,
         "player_id": "11569",
         "name": "Jarquez Hunter",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -7334,7 +7334,7 @@
         "rank": 488,
         "player_id": "6659",
         "name": "Craig Reynolds",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -11944,7 +11944,7 @@
         "rank": 383,
         "player_id": "8146",
         "name": "Garrett Wilson",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -12655,7 +12655,7 @@
         "rank": 462,
         "player_id": "11623",
         "name": "Jordan Whittington",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -21846,7 +21846,7 @@
         "rank": 244,
         "player_id": "10236",
         "name": "Dalton Kincaid",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
