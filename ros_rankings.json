@@ -1620,12 +1620,6 @@
     "quick_why": "Injury concern"
   },
   {
-    "player": "Michael Wiley (TB)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jerrion Ealy (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2982,12 +2976,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyler Goodson (IND)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Tyler Hoosman (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3666,6 +3654,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Michael Wiley (TB)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Carter Runyon (LV)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3921,7 +3915,7 @@
     "player": "KeAndre Lambert-Smith (LAC)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Tyrone Broden (SEA)",
@@ -5241,6 +5235,12 @@
     "player": "Antoine Wesley (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tyler Goodson (IND)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -10488,12 +10488,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Drew Lock (SEA)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Travis Wilson (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -11976,6 +11970,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Drew Lock (SEA)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Codey McElroy (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -12693,7 +12693,7 @@
     "player": "Will Dissly (LAC)",
     "ros_points": 71,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Breshad Perriman (None)",
@@ -14376,12 +14376,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Teddy Bridgewater (TB)",
-    "ros_points": 68,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Kenzel Doe (None)",
     "ros_points": 68,
     "trend": "+0.0",
@@ -14922,6 +14916,12 @@
     "quick_why": "Veteran downgrade"
   },
   {
+    "player": "Teddy Bridgewater (TB)",
+    "ros_points": 67,
+    "trend": "-1.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
     "player": "Virgil Green (None)",
     "ros_points": 67,
     "trend": "+0.0",
@@ -15055,12 +15055,6 @@
   },
   {
     "player": "Jimmy Garoppolo (LAR)",
-    "ros_points": 66,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
-    "player": "Zach Ertz (WAS)",
     "ros_points": 66,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
@@ -15207,6 +15201,12 @@
     "player": "Ryan Tannehill (None)",
     "ros_points": 65,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Zach Ertz (WAS)",
+    "ros_points": 65,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
