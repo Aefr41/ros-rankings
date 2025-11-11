@@ -13356,12 +13356,6 @@
     "quick_why": "Injury concern"
   },
   {
-    "player": "River Cracraft (None)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Spencer Ware (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -13398,7 +13392,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mike White (None)",
+    "player": "Mike White (CAR)",
     "ros_points": 70,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13488,7 +13482,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Anthony Firkser (None)",
+    "player": "Anthony Firkser (DET)",
     "ros_points": 70,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13941,6 +13935,12 @@
     "player": "Luke Willson (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "River Cracraft (WAS)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
