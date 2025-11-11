@@ -579,7 +579,7 @@
     "player": "Matthew Golden (GB)",
     "ros_points": 78,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Parker Washington (JAX)",
@@ -727,12 +727,6 @@
   },
   {
     "player": "Robert Lewis (None)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Ladd McConkey (LAC)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2127,6 +2121,12 @@
     "player": "Jabari Small (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Ladd McConkey (LAC)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -4725,7 +4725,7 @@
     "player": "Treylon Burks (WAS)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Tommy Tremble (CAR)",
@@ -4963,12 +4963,6 @@
   },
   {
     "player": "Dedrick Mills (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Brayden Willis (SF)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6207,7 +6201,7 @@
     "player": "Sam Howell (PHI)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Justin Hall (None)",
@@ -6439,12 +6433,6 @@
   },
   {
     "player": "Baylor Cupp (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Ray Davis (BUF)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7383,6 +7371,12 @@
     "player": "Darvin Kidsy (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Brayden Willis (SF)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -8589,6 +8583,12 @@
     "player": "Mitch Tinsley (CIN)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Ray Davis (BUF)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -10401,7 +10401,7 @@
     "player": "A.J. Dillon (PHI)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Cole Fotheringham (None)",
