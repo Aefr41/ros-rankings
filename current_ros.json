@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-12T17:12:35.415433",
+  "timestamp": "2025-11-12T18:18:21.539080",
   "players": {
     "QB": [
       {
@@ -2969,7 +2969,7 @@
         "rank": 3,
         "player_id": "12495",
         "name": "Ollie Gordon",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -5687,7 +5687,7 @@
         "rank": 305,
         "player_id": "10219",
         "name": "Chris Rodriguez",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -11566,7 +11566,7 @@
         "rank": 341,
         "player_id": "8134",
         "name": "Khalil Shakir",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -14023,7 +14023,7 @@
         "rank": 614,
         "player_id": "7670",
         "name": "Joshua Palmer",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -15769,7 +15769,7 @@
         "rank": 808,
         "player_id": "7812",
         "name": "Simi Fehoko",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -17533,7 +17533,7 @@
         "rank": 1004,
         "player_id": "4080",
         "name": "Zay Jones",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
