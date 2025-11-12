@@ -13590,12 +13590,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tanner Hudson (CIN)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Marqise Lee (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -14049,6 +14043,12 @@
     "player": "Geoff Swaim (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Tanner Hudson (CIN)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
