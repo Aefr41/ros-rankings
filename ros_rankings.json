@@ -603,7 +603,7 @@
     "player": "Kayshon Boutte (NE)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Johnny King (None)",
@@ -9879,7 +9879,7 @@
     "player": "Rhamondre Stevenson (NE)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Damoun Patterson (None)",
@@ -13965,7 +13965,7 @@
     "player": "Austin Hooper (NE)",
     "ros_points": 69,
     "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Max Wittek (None)",
@@ -15943,6 +15943,12 @@
   },
   {
     "player": "Nolan Givan (None)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Layne Pryor (HOU)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
