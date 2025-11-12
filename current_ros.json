@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-12T20:14:22.290651",
+  "timestamp": "2025-11-12T21:11:52.967968",
   "players": {
     "QB": [
       {
@@ -1662,7 +1662,7 @@
         "rank": 185,
         "player_id": "4881",
         "name": "Lamar Jackson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -5489,7 +5489,7 @@
         "rank": 283,
         "player_id": "6790",
         "name": "D'Andre Swift",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -9019,7 +9019,7 @@
         "rank": 58,
         "player_id": "11620",
         "name": "Rome Odunze",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11944,7 +11944,7 @@
         "rank": 383,
         "player_id": "8146",
         "name": "Garrett Wilson",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -16057,7 +16057,7 @@
         "rank": 840,
         "player_id": "4983",
         "name": "DJ Moore",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16561,7 +16561,7 @@
         "rank": 896,
         "player_id": "6149",
         "name": "Darius Slayton",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -21864,7 +21864,7 @@
         "rank": 246,
         "player_id": "6826",
         "name": "Cole Kmet",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
