@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-12T19:10:30.196145",
+  "timestamp": "2025-11-12T20:14:22.290651",
   "players": {
     "QB": [
       {
@@ -6281,7 +6281,7 @@
         "rank": 371,
         "player_id": "7021",
         "name": "Rico Dowdle",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -10684,7 +10684,7 @@
         "rank": 243,
         "player_id": "8112",
         "name": "Drake London",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11548,7 +11548,7 @@
         "rank": 339,
         "player_id": "11157",
         "name": "Brycen Tremayne",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
