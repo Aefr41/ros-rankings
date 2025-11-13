@@ -420,12 +420,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kyle Williams (NE)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Keon Coleman (BUF)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1480,6 +1474,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Injury concern"
+  },
+  {
+    "player": "Kyle Williams (NE)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Daijun Edwards (None)",
