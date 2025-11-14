@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-14T15:12:19.611644",
+  "timestamp": "2025-11-14T16:15:35.399970",
   "players": {
     "QB": [
       {
@@ -2969,7 +2969,7 @@
         "rank": 3,
         "player_id": "12495",
         "name": "Ollie Gordon",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -20982,7 +20982,7 @@
         "rank": 148,
         "player_id": "11371",
         "name": "Julian Hill",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
