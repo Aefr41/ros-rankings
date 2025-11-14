@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-14T17:11:20.102059",
+  "timestamp": "2025-11-14T18:17:52.414792",
   "players": {
     "QB": [
       {
@@ -3248,7 +3248,7 @@
         "rank": 34,
         "player_id": "11584",
         "name": "Bucky Irving",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -6272,7 +6272,7 @@
         "rank": 370,
         "player_id": "7021",
         "name": "Rico Dowdle",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -16732,7 +16732,7 @@
         "rank": 915,
         "player_id": "4037",
         "name": "Chris Godwin",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
