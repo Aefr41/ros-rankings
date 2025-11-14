@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-14T22:11:38.420245",
+  "timestamp": "2025-11-14T23:11:31.751731",
   "players": {
     "QB": [
       {
@@ -6110,7 +6110,7 @@
         "rank": 352,
         "player_id": "6806",
         "name": "J.K. Dobbins",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -9334,7 +9334,7 @@
         "rank": 93,
         "player_id": "9494",
         "name": "Marvin Mims",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -22062,7 +22062,7 @@
         "rank": 268,
         "player_id": "11433",
         "name": "Nate Adkins",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
