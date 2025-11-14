@@ -7608,12 +7608,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "DeVonta Smith (PHI)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Stanley Williams (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8754,12 +8748,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Justice Hill (BAL)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kendall Blanton (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -8841,7 +8829,7 @@
     "player": "Khalil Herbert (NYJ)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Ko Kieft (TB)",
@@ -9384,7 +9372,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Michael Bandy (None)",
+    "player": "Michael Bandy (DEN)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9552,10 +9540,16 @@
     "quick_why": "Steady"
   },
   {
+    "player": "DeVonta Smith (PHI)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Tommy DeVito (NE)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Shane Buechele (BUF)",
@@ -9831,7 +9825,7 @@
     "player": "Jelani Woods (NYJ)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Mark Thompson (None)",
@@ -10494,6 +10488,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Justice Hill (BAL)",
+    "ros_points": 72,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Anthony Nash (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -10627,12 +10627,6 @@
   },
   {
     "player": "Richie James (None)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Dawson Knox (BUF)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -12058,6 +12052,12 @@
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Injury concern"
+  },
+  {
+    "player": "Dawson Knox (BUF)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Blake Bortles (NO)",
