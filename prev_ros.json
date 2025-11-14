@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-14T21:11:34.371904",
+  "timestamp": "2025-11-14T22:11:38.420245",
   "players": {
     "QB": [
       {
@@ -7730,7 +7730,7 @@
         "rank": 532,
         "player_id": "4199",
         "name": "Aaron Jones",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -8515,7 +8515,7 @@
         "rank": 2,
         "player_id": "12503",
         "name": "Isaiah Bond",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -8731,7 +8731,7 @@
         "rank": 26,
         "player_id": "12497",
         "name": "Tory Horton",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -11881,7 +11881,7 @@
         "rank": 376,
         "player_id": "11638",
         "name": "Ricky Pearsall",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -22656,7 +22656,7 @@
         "rank": 334,
         "player_id": "6850",
         "name": "Harrison Bryant",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -22836,7 +22836,7 @@
         "rank": 354,
         "player_id": "5973",
         "name": "Josh Oliver",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -23565,7 +23565,7 @@
         "rank": 435,
         "player_id": "5001",
         "name": "Dalton Schultz",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
