@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-14T18:17:52.414792",
+  "timestamp": "2025-11-14T19:10:22.136347",
   "players": {
     "QB": [
       {
@@ -10027,7 +10027,7 @@
         "rank": 170,
         "player_id": "11635",
         "name": "Ladd McConkey",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12043,7 +12043,7 @@
         "rank": 394,
         "player_id": "11959",
         "name": "Bryce Oliver",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
