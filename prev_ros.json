@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-15T19:08:22.655781",
+  "timestamp": "2025-11-15T20:12:34.452650",
   "players": {
     "QB": [
       {
@@ -8983,7 +8983,7 @@
         "rank": 54,
         "player_id": "12535",
         "name": "Isaac TeSlaa",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11458,7 +11458,7 @@
         "rank": 329,
         "player_id": "11640",
         "name": "Jermaine Burton",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12043,7 +12043,7 @@
         "rank": 394,
         "player_id": "11959",
         "name": "Bryce Oliver",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -12511,7 +12511,7 @@
         "rank": 446,
         "player_id": "11210",
         "name": "Malik Heath",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
