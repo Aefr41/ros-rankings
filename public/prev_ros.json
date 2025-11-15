@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-14T23:11:31.751731",
+  "timestamp": "2025-11-15T00:57:45.901597",
   "players": {
     "QB": [
       {
@@ -11377,7 +11377,7 @@
         "rank": 320,
         "player_id": "13034",
         "name": "Tyrone Broden",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -18505,7 +18505,7 @@
         "rank": 1112,
         "player_id": "2374",
         "name": "Tyler Lockett",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
