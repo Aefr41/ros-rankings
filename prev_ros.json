@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-16T16:13:09.179728",
+  "timestamp": "2025-11-16T17:10:06.904168",
   "players": {
     "QB": [
       {
@@ -402,7 +402,7 @@
         "rank": 45,
         "player_id": "12511",
         "name": "Will Howard",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -1401,7 +1401,7 @@
         "rank": 156,
         "player_id": "10983",
         "name": "Sean Clifford",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -2337,7 +2337,7 @@
         "rank": 260,
         "player_id": "2307",
         "name": "Marcus Mariota",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -2607,7 +2607,7 @@
         "rank": 290,
         "player_id": "1737",
         "name": "Case Keenum",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 63,
         "rank_change": 0,
         "trend": ""
@@ -5084,7 +5084,7 @@
         "rank": 238,
         "player_id": "8129",
         "name": "Dameon Pierce",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5597,7 +5597,7 @@
         "rank": 295,
         "player_id": "11644",
         "name": "Cody Schrader",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -8749,7 +8749,7 @@
         "rank": 28,
         "player_id": "11637",
         "name": "Keon Coleman",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -8866,7 +8866,7 @@
         "rank": 41,
         "player_id": "12501",
         "name": "Matthew Golden",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9199,7 +9199,7 @@
         "rank": 78,
         "player_id": "12482",
         "name": "Savion Williams",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9505,7 +9505,7 @@
         "rank": 112,
         "player_id": "11631",
         "name": "Brian Thomas",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -10684,7 +10684,7 @@
         "rank": 243,
         "player_id": "8112",
         "name": "Drake London",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11035,7 +11035,7 @@
         "rank": 282,
         "player_id": "9754",
         "name": "Quentin Johnston",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11368,7 +11368,7 @@
         "rank": 319,
         "player_id": "12670",
         "name": "KeAndre Lambert-Smith",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11935,7 +11935,7 @@
         "rank": 382,
         "player_id": "7596",
         "name": "Elijah Moore",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -16948,7 +16948,7 @@
         "rank": 939,
         "player_id": "5955",
         "name": "Hunter Renfrow",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -17353,7 +17353,7 @@
         "rank": 984,
         "player_id": "5121",
         "name": "Braxton Berrios",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -17443,7 +17443,7 @@
         "rank": 994,
         "player_id": "4981",
         "name": "Calvin Ridley",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -17623,7 +17623,7 @@
         "rank": 1014,
         "player_id": "4198",
         "name": "Jamal Agnew",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -20928,7 +20928,7 @@
         "rank": 142,
         "player_id": "11082",
         "name": "Ben Sims",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -21117,7 +21117,7 @@
         "rank": 163,
         "player_id": "12062",
         "name": "Cam Grandy",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -21432,7 +21432,7 @@
         "rank": 198,
         "player_id": "11599",
         "name": "Cade Stover",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -21747,7 +21747,7 @@
         "rank": 233,
         "player_id": "8170",
         "name": "James Mitchell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -22422,7 +22422,7 @@
         "rank": 308,
         "player_id": "7531",
         "name": "Feleipe Franks",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -23538,7 +23538,7 @@
         "rank": 432,
         "player_id": "5010",
         "name": "Will Dissly",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
