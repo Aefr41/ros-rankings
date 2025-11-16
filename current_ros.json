@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-16T20:13:03.309690",
+  "timestamp": "2025-11-16T21:10:52.345266",
   "players": {
     "QB": [
       {
@@ -735,7 +735,7 @@
         "rank": 82,
         "player_id": "11559",
         "name": "Michael Penix",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -3455,7 +3455,7 @@
         "rank": 57,
         "player_id": "12490",
         "name": "Bhayshul Tuten",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -8857,7 +8857,7 @@
         "rank": 40,
         "player_id": "12505",
         "name": "Jalen Royals",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -15049,7 +15049,7 @@
         "rank": 728,
         "player_id": "5917",
         "name": "Mecole Hardman",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -21063,7 +21063,7 @@
         "rank": 157,
         "player_id": "11595",
         "name": "Jared Wiley",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
