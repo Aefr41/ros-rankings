@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-16T19:09:24.306449",
+  "timestamp": "2025-11-16T20:13:03.309690",
   "players": {
     "QB": [
       {
@@ -51,7 +51,7 @@
         "rank": 6,
         "player_id": "12510",
         "name": "Jalen Milroe",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -1716,7 +1716,7 @@
         "rank": 191,
         "player_id": "10857",
         "name": "Stetson Bennett",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -2148,7 +2148,7 @@
         "rank": 239,
         "player_id": "4574",
         "name": "Cooper Rush",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -2715,7 +2715,7 @@
         "rank": 302,
         "player_id": "96",
         "name": "Aaron Rodgers",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 59,
         "rank_change": 0,
         "trend": ""
@@ -3014,7 +3014,7 @@
         "rank": 8,
         "player_id": "12467",
         "name": "Jordan James",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -3212,7 +3212,7 @@
         "rank": 30,
         "player_id": "11569",
         "name": "Jarquez Hunter",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -3563,7 +3563,7 @@
         "rank": 69,
         "player_id": "12472",
         "name": "Raheim Sanders",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -4391,7 +4391,7 @@
         "rank": 161,
         "player_id": "8122",
         "name": "Zonovan Knight",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -6605,7 +6605,7 @@
         "rank": 407,
         "player_id": "8228",
         "name": "Jaylen Warren",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -6722,7 +6722,7 @@
         "rank": 420,
         "player_id": "5850",
         "name": "Josh Jacobs",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -9253,7 +9253,7 @@
         "rank": 84,
         "player_id": "12540",
         "name": "Chimere Dike",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9415,7 +9415,7 @@
         "rank": 102,
         "player_id": "12634",
         "name": "Jordan Watkins",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -10135,7 +10135,7 @@
         "rank": 182,
         "player_id": "11633",
         "name": "Jamari Thrash",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -14770,7 +14770,7 @@
         "rank": 697,
         "player_id": "10867",
         "name": "Jake Bobo",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -16174,7 +16174,7 @@
         "rank": 853,
         "player_id": "7090",
         "name": "Darnell Mooney",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -17443,7 +17443,7 @@
         "rank": 994,
         "player_id": "4981",
         "name": "Calvin Ridley",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -18064,7 +18064,7 @@
         "rank": 1063,
         "player_id": "2133",
         "name": "Davante Adams",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
