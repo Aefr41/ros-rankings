@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-16T12:21:32.807682",
+  "timestamp": "2025-11-16T13:18:52.403628",
   "players": {
     "QB": [
       {
@@ -42,7 +42,7 @@
         "rank": 5,
         "player_id": "12500",
         "name": "Quinn Ewers",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -16183,7 +16183,7 @@
         "rank": 854,
         "player_id": "7612",
         "name": "Dee Eskridge",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
