@@ -11670,12 +11670,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Shane Zylstra (DET)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Pig Howard (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12031,12 +12025,6 @@
   },
   {
     "player": "Jake Browning (CIN)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jeff Wilson (MIA)",
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -12738,6 +12726,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Shane Zylstra (DET)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
+  },
+  {
     "player": "Kenny Cook (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -12999,6 +12993,12 @@
     "player": "Marshaun Coprich (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jeff Wilson (MIA)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13662,12 +13662,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "C.J. Beathard (DET)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Diontae Spencer (None)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -14151,6 +14145,12 @@
     "player": "Brandin Cooks (NO)",
     "ros_points": 68,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "C.J. Beathard (DET)",
+    "ros_points": 68,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
