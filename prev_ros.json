@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-16T18:15:52.754085",
+  "timestamp": "2025-11-16T19:09:24.306449",
   "players": {
     "QB": [
       {
@@ -321,7 +321,7 @@
         "rank": 36,
         "player_id": "9228",
         "name": "Bryce Young",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -1365,7 +1365,7 @@
         "rank": 152,
         "player_id": "6804",
         "name": "Jordan Love",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -3833,7 +3833,7 @@
         "rank": 99,
         "player_id": "11647",
         "name": "Kimani Vidal",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -6722,7 +6722,7 @@
         "rank": 420,
         "player_id": "5850",
         "name": "Josh Jacobs",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -17443,7 +17443,7 @@
         "rank": 994,
         "player_id": "4981",
         "name": "Calvin Ridley",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
