@@ -3501,7 +3501,7 @@
     "player": "Dillon Gabriel (CLE)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Sione Vaki (DET)",
@@ -6201,7 +6201,7 @@
     "player": "Sam Howell (PHI)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Justin Hall (None)",
@@ -10395,7 +10395,7 @@
     "player": "A.J. Dillon (PHI)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Cole Fotheringham (None)",
@@ -11544,12 +11544,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "D.J. Montgomery (IND)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Corey Coleman (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12165,7 +12159,7 @@
     "player": "Craig Reynolds (DET)",
     "ros_points": 71,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Kenny Golladay (None)",
@@ -12660,6 +12654,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "D.J. Montgomery (IND)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
+  },
+  {
     "player": "David Wells (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -12789,7 +12789,7 @@
     "player": "Tom Kennedy (DET)",
     "ros_points": 71,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Dalton Schultz (HOU)",
