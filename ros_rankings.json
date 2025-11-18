@@ -39,7 +39,7 @@
     "player": "Jaydon Blue (DAL)",
     "ros_points": 79,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Trevor Etienne (CAR)",
@@ -1644,12 +1644,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Caleb Williams (CHI)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Master Teague (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2811,7 +2805,7 @@
     "player": "Jonathan Mingo (DAL)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jacob Warren (None)",
@@ -3786,6 +3780,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Caleb Williams (CHI)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Ty Fryfogle (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4159,12 +4159,6 @@
   },
   {
     "player": "Alexander Hollins (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Brycen Tremayne (CAR)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4801,12 +4795,6 @@
   },
   {
     "player": "Darius Bradwell (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "British Brooks (HOU)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6636,6 +6624,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Brycen Tremayne (CAR)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "La'Mical Perine (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -7258,6 +7252,12 @@
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Injury concern"
+  },
+  {
+    "player": "British Brooks (HOU)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Jordan Leggett (None)",
@@ -8457,7 +8457,7 @@
     "player": "Zamir White (LV)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jawhar Jordan (HOU)",
@@ -11412,12 +11412,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Christian Kirk (HOU)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Adam Shaheen (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12093,7 +12087,7 @@
     "player": "Alex Bachman (LV)",
     "ros_points": 71,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jeremy McNichols (WAS)",
@@ -12531,6 +12525,12 @@
     "player": "Trace McSorley (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Christian Kirk (HOU)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
