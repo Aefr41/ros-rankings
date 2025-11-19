@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-19T16:16:41.989781",
+  "timestamp": "2025-11-19T17:12:01.641217",
   "players": {
     "QB": [
       {
@@ -5903,7 +5903,7 @@
         "rank": 329,
         "player_id": "11199",
         "name": "Emari Demercado",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -9388,7 +9388,7 @@
         "rank": 99,
         "player_id": "11628",
         "name": "Marvin Harrison",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -14014,7 +14014,7 @@
         "rank": 613,
         "player_id": "7670",
         "name": "Joshua Palmer",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -23583,7 +23583,7 @@
         "rank": 437,
         "player_id": "4033",
         "name": "David Njoku",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
