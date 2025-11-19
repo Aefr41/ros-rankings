@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-19T21:09:57.089425",
+  "timestamp": "2025-11-19T22:12:08.564016",
   "players": {
     "QB": [
       {
@@ -1662,7 +1662,7 @@
         "rank": 185,
         "player_id": "4881",
         "name": "Lamar Jackson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -2688,7 +2688,7 @@
         "rank": 299,
         "player_id": "19",
         "name": "Joe Flacco",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 60,
         "rank_change": 0,
         "trend": ""
@@ -5516,7 +5516,7 @@
         "rank": 286,
         "player_id": "8205",
         "name": "Isiah Pacheco",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -5858,7 +5858,7 @@
         "rank": 324,
         "player_id": "7543",
         "name": "Travis Etienne",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6686,7 +6686,7 @@
         "rank": 416,
         "player_id": "6012",
         "name": "Travis Homer",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -6794,7 +6794,7 @@
         "rank": 428,
         "player_id": "5995",
         "name": "Justice Hill",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -7775,7 +7775,7 @@
         "rank": 537,
         "player_id": "4035",
         "name": "Alvin Kamara",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -8866,7 +8866,7 @@
         "rank": 41,
         "player_id": "12501",
         "name": "Matthew Golden",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -8884,7 +8884,7 @@
         "rank": 43,
         "player_id": "9504",
         "name": "Kayshon Boutte",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -8965,7 +8965,7 @@
         "rank": 52,
         "player_id": "13079",
         "name": "Jahdae Walker",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -8983,7 +8983,7 @@
         "rank": 54,
         "player_id": "12535",
         "name": "Isaac TeSlaa",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9199,7 +9199,7 @@
         "rank": 78,
         "player_id": "12482",
         "name": "Savion Williams",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -10180,7 +10180,7 @@
         "rank": 187,
         "player_id": "9486",
         "name": "Dontayvion Wicks",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11458,7 +11458,7 @@
         "rank": 329,
         "player_id": "11640",
         "name": "Jermaine Burton",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12673,7 +12673,7 @@
         "rank": 464,
         "player_id": "8121",
         "name": "Romeo Doubs",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13447,7 +13447,7 @@
         "rank": 550,
         "player_id": "8167",
         "name": "Christian Watson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -17740,7 +17740,7 @@
         "rank": 1027,
         "player_id": "3634",
         "name": "Kalif Raymond",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -19920,7 +19920,7 @@
         "rank": 30,
         "player_id": "12715",
         "name": "Thomas Fidone",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -20739,7 +20739,7 @@
         "rank": 121,
         "player_id": "8131",
         "name": "Isaiah Likely",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -21810,7 +21810,7 @@
         "rank": 240,
         "player_id": "7891",
         "name": "Brock Wright",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -24123,7 +24123,7 @@
         "rank": 497,
         "player_id": "3271",
         "name": "Tyler Higbee",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
