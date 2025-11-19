@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-19T22:12:08.564016",
+  "timestamp": "2025-11-19T23:12:16.996948",
   "players": {
     "QB": [
       {
@@ -4346,7 +4346,7 @@
         "rank": 156,
         "player_id": "11729",
         "name": "Sione Vaki",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -4391,7 +4391,7 @@
         "rank": 161,
         "player_id": "8122",
         "name": "Zonovan Knight",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -9253,7 +9253,7 @@
         "rank": 84,
         "player_id": "12540",
         "name": "Chimere Dike",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
