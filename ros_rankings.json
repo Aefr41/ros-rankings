@@ -1572,7 +1572,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brenden Rice (None)",
+    "player": "Brenden Rice (SEA)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5532,12 +5532,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cam Grandy (CIN)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Charles Scarff (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7749,6 +7743,12 @@
     "player": "Dalton Kincaid (BUF)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Injury concern"
+  },
+  {
+    "player": "Cam Grandy (CIN)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Injury concern"
   },
   {
@@ -10836,7 +10836,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Velus Jones (None)",
+    "player": "Velus Jones (SEA)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
