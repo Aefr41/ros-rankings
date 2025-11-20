@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-20T22:12:09.542310",
+  "timestamp": "2025-11-20T23:11:41.269026",
   "players": {
     "QB": [
       {
@@ -2220,7 +2220,7 @@
         "rank": 247,
         "player_id": "3294",
         "name": "Dak Prescott",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -15049,7 +15049,7 @@
         "rank": 728,
         "player_id": "5917",
         "name": "Mecole Hardman",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
