@@ -9960,12 +9960,6 @@
     "quick_why": "Injury concern"
   },
   {
-    "player": "Noah Fant (CIN)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Thayer Thomas (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11508,6 +11502,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Noah Fant (CIN)",
+    "ros_points": 72,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Jake Rudock (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12744,12 +12744,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cedrick Wilson (MIA)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Deshon Foxx (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13503,6 +13497,12 @@
     "player": "Luis Perez (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Cedrick Wilson (MIA)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
