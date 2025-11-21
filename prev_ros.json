@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-21T19:10:37.783382",
+  "timestamp": "2025-11-21T20:14:05.945377",
   "players": {
     "QB": [
       {
@@ -4427,7 +4427,7 @@
         "rank": 165,
         "player_id": "10235",
         "name": "Roschon Johnson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -5516,7 +5516,7 @@
         "rank": 286,
         "player_id": "8205",
         "name": "Isiah Pacheco",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6686,7 +6686,7 @@
         "rank": 416,
         "player_id": "6012",
         "name": "Travis Homer",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -8677,7 +8677,7 @@
         "rank": 20,
         "player_id": "12499",
         "name": "Elic Ayomanor",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -10684,7 +10684,7 @@
         "rank": 243,
         "player_id": "8112",
         "name": "Drake London",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -16543,7 +16543,7 @@
         "rank": 894,
         "player_id": "6149",
         "name": "Darius Slayton",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -23736,7 +23736,7 @@
         "rank": 454,
         "player_id": "4993",
         "name": "Mike Gesicki",
-        "injury_status": "IR",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
