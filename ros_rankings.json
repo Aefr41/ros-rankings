@@ -423,7 +423,7 @@
     "player": "Keon Coleman (BUF)",
     "ros_points": 78,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jake Briningstool (KC)",
@@ -13005,7 +13005,7 @@
     "player": "Braxton Berrios (HOU)",
     "ros_points": 70,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "KhaDarel Hodge (ATL)",
@@ -13686,12 +13686,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Cooper Rush (BAL)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Richard Rodgers (None)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -14157,6 +14151,12 @@
     "player": "Rob Gronkowski (None)",
     "ros_points": 68,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Cooper Rush (BAL)",
+    "ros_points": 68,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
