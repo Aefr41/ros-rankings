@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-21T18:17:56.125583",
+  "timestamp": "2025-11-21T19:10:37.783382",
   "players": {
     "QB": [
       {
@@ -501,7 +501,7 @@
         "rank": 56,
         "player_id": "12486",
         "name": "Dillon Gabriel",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -1635,7 +1635,7 @@
         "rank": 182,
         "player_id": "5870",
         "name": "Daniel Jones",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -10135,7 +10135,7 @@
         "rank": 182,
         "player_id": "11633",
         "name": "Jamari Thrash",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -23583,7 +23583,7 @@
         "rank": 437,
         "player_id": "4033",
         "name": "David Njoku",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
