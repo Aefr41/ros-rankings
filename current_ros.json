@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-22T21:10:38.750000",
+  "timestamp": "2025-11-22T22:11:14.053998",
   "players": {
     "QB": [
       {
@@ -4427,7 +4427,7 @@
         "rank": 165,
         "player_id": "10235",
         "name": "Roschon Johnson",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -5831,7 +5831,7 @@
         "rank": 321,
         "player_id": "10223",
         "name": "Eric Gray",
-        "injury_status": "PUP",
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -8731,7 +8731,7 @@
         "rank": 26,
         "player_id": "12497",
         "name": "Tory Horton",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -18046,7 +18046,7 @@
         "rank": 1061,
         "player_id": "2197",
         "name": "Brandin Cooks",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -19920,7 +19920,7 @@
         "rank": 30,
         "player_id": "12715",
         "name": "Thomas Fidone",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -20172,7 +20172,7 @@
         "rank": 58,
         "player_id": "9480",
         "name": "Brenton Strange",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
