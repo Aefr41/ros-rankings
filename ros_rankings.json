@@ -5130,12 +5130,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyrone Tracy (NYG)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Patrick Herbert (JAX)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7551,6 +7545,12 @@
     "player": "Bailey Gaither (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tyrone Tracy (NYG)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13554,12 +13554,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Johnny Mundt (JAX)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Rodney Smith (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -13747,12 +13741,6 @@
   },
   {
     "player": "David Fales (None)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
-    "player": "Tim Patrick (JAX)",
     "ros_points": 69,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
@@ -14028,6 +14016,12 @@
     "quick_why": "Veteran downgrade"
   },
   {
+    "player": "Johnny Mundt (JAX)",
+    "ros_points": 69,
+    "trend": "-1.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
     "player": "Geoff Swaim (None)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -14229,6 +14223,12 @@
     "player": "Jerick McKinnon (None)",
     "ros_points": 68,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Tim Patrick (JAX)",
+    "ros_points": 68,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
