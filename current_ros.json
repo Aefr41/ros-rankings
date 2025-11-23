@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-23T20:13:45.064088",
+  "timestamp": "2025-11-23T21:11:02.796962",
   "players": {
     "QB": [
       {
@@ -942,7 +942,7 @@
         "rank": 105,
         "player_id": "8162",
         "name": "Sam Howell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -2978,7 +2978,7 @@
         "rank": 4,
         "player_id": "12457",
         "name": "Jaydon Blue",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -6749,7 +6749,7 @@
         "rank": 423,
         "player_id": "6828",
         "name": "A.J. Dillon",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -13393,7 +13393,7 @@
         "rank": 544,
         "player_id": "8117",
         "name": "Jalen Tolbert",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -13411,7 +13411,7 @@
         "rank": 546,
         "player_id": "6801",
         "name": "Tee Higgins",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -17740,7 +17740,7 @@
         "rank": 1027,
         "player_id": "3634",
         "name": "Kalif Raymond",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
