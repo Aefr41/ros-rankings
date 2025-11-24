@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-23T23:11:28.619206",
+  "timestamp": "2025-11-24T01:03:04.007415",
   "players": {
     "QB": [
       {
@@ -1716,7 +1716,7 @@
         "rank": 191,
         "player_id": "10857",
         "name": "Stetson Bennett",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -3212,7 +3212,7 @@
         "rank": 30,
         "player_id": "11569",
         "name": "Jarquez Hunter",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -7775,7 +7775,7 @@
         "rank": 537,
         "player_id": "4035",
         "name": "Alvin Kamara",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -10918,7 +10918,7 @@
         "rank": 269,
         "player_id": "11306",
         "name": "Xavier Gipson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -16471,7 +16471,7 @@
         "rank": 886,
         "player_id": "11168",
         "name": "Xavier Smith",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16705,7 +16705,7 @@
         "rank": 912,
         "player_id": "4037",
         "name": "Chris Godwin",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -20577,7 +20577,7 @@
         "rank": 103,
         "player_id": "9482",
         "name": "Michael Mayer",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
