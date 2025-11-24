@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-24T18:19:25.396873",
+  "timestamp": "2025-11-24T19:08:23.440357",
   "players": {
     "QB": [
       {
@@ -33,7 +33,7 @@
         "rank": 4,
         "player_id": "11565",
         "name": "J.J. McCarthy",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -3365,7 +3365,7 @@
         "rank": 47,
         "player_id": "12543",
         "name": "Tahj Brooks",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
