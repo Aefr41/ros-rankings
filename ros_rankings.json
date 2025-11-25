@@ -75,7 +75,7 @@
     "player": "Jordan James (SF)",
     "ros_points": 79,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "LeQuint Allen (JAX)",
@@ -1287,7 +1287,7 @@
     "player": "Jordan Watkins (SF)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Franko House (CHI)",
@@ -2461,12 +2461,6 @@
   },
   {
     "player": "Hassan Hall (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Blake Corum (LAR)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4776,6 +4770,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Blake Corum (LAR)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Daniel Bellinger (NYG)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5712,7 +5712,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Maximilian Mang (None)",
+    "player": "Maximilian Mang (NYG)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6768,12 +6768,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jaylen Waddle (MIA)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Trevion Thompson (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -7045,12 +7039,6 @@
   },
   {
     "player": "Marcus Simms (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Nick Muse (LAR)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7389,7 +7377,7 @@
     "player": "James Mitchell (CAR)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Bryce Bobo (None)",
@@ -8838,6 +8826,12 @@
     "quick_why": "Injury concern"
   },
   {
+    "player": "Jaylen Waddle (MIA)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Gabe Marks (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -9081,6 +9075,12 @@
     "player": "Leroy Watson (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Nick Muse (LAR)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -12327,7 +12327,7 @@
     "player": "Hunter Renfrow (CAR)",
     "ros_points": 71,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Marcus Lucas (None)",
