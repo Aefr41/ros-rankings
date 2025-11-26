@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T21:11:07.906411",
+  "timestamp": "2025-11-26T22:12:30.300221",
   "players": {
     "QB": [
       {
@@ -1725,7 +1725,7 @@
         "rank": 192,
         "player_id": "6770",
         "name": "Joe Burrow",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -5669,7 +5669,7 @@
         "rank": 303,
         "player_id": "10219",
         "name": "Chris Rodriguez",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6794,7 +6794,7 @@
         "rank": 428,
         "player_id": "5995",
         "name": "Justice Hill",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -11458,7 +11458,7 @@
         "rank": 329,
         "player_id": "11640",
         "name": "Jermaine Burton",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12610,7 +12610,7 @@
         "rank": 457,
         "player_id": "7571",
         "name": "Rashod Bateman",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -12781,7 +12781,7 @@
         "rank": 476,
         "player_id": "8144",
         "name": "Chris Olave",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -14626,7 +14626,7 @@
         "rank": 681,
         "player_id": "7526",
         "name": "Jaylen Waddle",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -16165,7 +16165,7 @@
         "rank": 852,
         "player_id": "7612",
         "name": "Dee Eskridge",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16696,7 +16696,7 @@
         "rank": 911,
         "player_id": "4037",
         "name": "Chris Godwin",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -17740,7 +17740,7 @@
         "rank": 1027,
         "player_id": "3634",
         "name": "Kalif Raymond",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -19875,7 +19875,7 @@
         "rank": 25,
         "player_id": "11596",
         "name": "Ben Sinnott",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -21801,7 +21801,7 @@
         "rank": 239,
         "player_id": "7891",
         "name": "Brock Wright",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -22080,7 +22080,7 @@
         "rank": 270,
         "player_id": "8210",
         "name": "Chig Okonkwo",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -22314,7 +22314,7 @@
         "rank": 296,
         "player_id": "7535",
         "name": "Hunter Long",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
