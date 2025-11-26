@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T18:16:09.871538",
+  "timestamp": "2025-11-26T19:09:58.347707",
   "players": {
     "QB": [
       {
@@ -10279,7 +10279,7 @@
         "rank": 198,
         "player_id": "8137",
         "name": "George Pickens",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -16912,7 +16912,7 @@
         "rank": 935,
         "player_id": "8917",
         "name": "KaVontae Turpin",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -21513,7 +21513,7 @@
         "rank": 207,
         "player_id": "12374",
         "name": "Brenden Bates",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
