@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T16:15:59.497319",
+  "timestamp": "2025-11-26T17:11:52.194569",
   "players": {
     "QB": [
       {
@@ -1635,7 +1635,7 @@
         "rank": 182,
         "player_id": "5870",
         "name": "Daniel Jones",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -10675,7 +10675,7 @@
         "rank": 242,
         "player_id": "8112",
         "name": "Drake London",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
