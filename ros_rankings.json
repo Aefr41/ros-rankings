@@ -5844,12 +5844,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Hassan Haskins (LAC)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Terry Swanson (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -8004,6 +7998,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Hassan Haskins (LAC)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
+  },
+  {
     "player": "Dareke Young (SEA)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8275,12 +8275,6 @@
   },
   {
     "player": "Joe Walker (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Malik Davis (DAL)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9102,7 +9096,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Sean Clifford (None)",
+    "player": "Sean Clifford (CIN)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10176,6 +10170,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Malik Davis (DAL)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Travis Homer (CHI)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -10879,12 +10879,6 @@
   },
   {
     "player": "A.J. Brown (PHI)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Gunner Olszewski (NYG)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -12225,6 +12219,12 @@
     "player": "Christian McCaffrey (SF)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Gunner Olszewski (NYG)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
