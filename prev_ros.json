@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T20:13:54.386104",
+  "timestamp": "2025-11-26T21:11:07.906411",
   "players": {
     "QB": [
       {
@@ -10162,7 +10162,7 @@
         "rank": 185,
         "player_id": "9486",
         "name": "Dontayvion Wicks",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -10342,7 +10342,7 @@
         "rank": 205,
         "player_id": "12482",
         "name": "Savion Williams",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -14005,7 +14005,7 @@
         "rank": 612,
         "player_id": "7670",
         "name": "Joshua Palmer",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16282,7 +16282,7 @@
         "rank": 865,
         "player_id": "7757",
         "name": "Ben Skowronek",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
