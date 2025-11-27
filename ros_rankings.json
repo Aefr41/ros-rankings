@@ -3714,12 +3714,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Joshua Simon (ATL)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Chase Garbers (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -6126,6 +6120,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Joshua Simon (ATL)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Dre Miller (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7684,12 +7684,6 @@
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
-  },
-  {
-    "player": "Brock Wright (DET)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
   },
   {
     "player": "Damion Ratley (None)",
@@ -9664,6 +9658,12 @@
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Brock Wright (DET)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Brian Hill (None)",
