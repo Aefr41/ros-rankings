@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-27T20:11:52.773922",
+  "timestamp": "2025-11-27T21:11:15.522802",
   "players": {
     "QB": [
       {
@@ -24,7 +24,7 @@
         "rank": 3,
         "player_id": "12508",
         "name": "Jaxson Dart",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -2978,7 +2978,7 @@
         "rank": 4,
         "player_id": "12457",
         "name": "Jaydon Blue",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -6191,7 +6191,7 @@
         "rank": 361,
         "player_id": "7561",
         "name": "Elijah Mitchell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -6920,7 +6920,7 @@
         "rank": 442,
         "player_id": "4866",
         "name": "Saquon Barkley",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -8857,7 +8857,7 @@
         "rank": 40,
         "player_id": "12505",
         "name": "Jalen Royals",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9424,7 +9424,7 @@
         "rank": 103,
         "player_id": "12718",
         "name": "Konata Mumpfield",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9496,7 +9496,7 @@
         "rank": 111,
         "player_id": "11631",
         "name": "Brian Thomas",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -10504,7 +10504,7 @@
         "rank": 223,
         "player_id": "10225",
         "name": "Jonathan Mingo",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11125,7 +11125,7 @@
         "rank": 292,
         "player_id": "8126",
         "name": "Wan'Dale Robinson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -13879,7 +13879,7 @@
         "rank": 598,
         "player_id": "7547",
         "name": "Amon-Ra St. Brown",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -14626,7 +14626,7 @@
         "rank": 681,
         "player_id": "7526",
         "name": "Jaylen Waddle",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -16525,7 +16525,7 @@
         "rank": 892,
         "player_id": "6149",
         "name": "Darius Slayton",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16696,7 +16696,7 @@
         "rank": 911,
         "player_id": "4037",
         "name": "Chris Godwin",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -19992,7 +19992,7 @@
         "rank": 38,
         "player_id": "12984",
         "name": "CJ Dippre",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -23709,7 +23709,7 @@
         "rank": 451,
         "player_id": "3214",
         "name": "Hunter Henry",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
