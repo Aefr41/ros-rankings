@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-27T16:15:42.898874",
+  "timestamp": "2025-11-27T17:10:56.835476",
   "players": {
     "QB": [
       {
@@ -3905,7 +3905,7 @@
         "rank": 107,
         "player_id": "11237",
         "name": "Jacob Saylors",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -4337,7 +4337,7 @@
         "rank": 155,
         "player_id": "11729",
         "name": "Sione Vaki",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -8866,7 +8866,7 @@
         "rank": 41,
         "player_id": "12501",
         "name": "Matthew Golden",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -8983,7 +8983,7 @@
         "rank": 54,
         "player_id": "12535",
         "name": "Isaac TeSlaa",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
