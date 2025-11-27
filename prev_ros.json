@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-27T19:09:54.927485",
+  "timestamp": "2025-11-27T20:11:52.773922",
   "players": {
     "QB": [
       {
@@ -1635,7 +1635,7 @@
         "rank": 182,
         "player_id": "5870",
         "name": "Daniel Jones",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -2715,7 +2715,7 @@
         "rank": 302,
         "player_id": "96",
         "name": "Aaron Rodgers",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 59,
         "rank_change": 0,
         "trend": ""
@@ -15571,7 +15571,7 @@
         "rank": 786,
         "player_id": "5846",
         "name": "DK Metcalf",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
