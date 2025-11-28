@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-28T21:10:38.133285",
+  "timestamp": "2025-11-28T22:11:38.810010",
   "players": {
     "QB": [
       {
@@ -3239,7 +3239,7 @@
         "rank": 33,
         "player_id": "11584",
         "name": "Bucky Irving",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -4877,7 +4877,7 @@
         "rank": 215,
         "player_id": "12048",
         "name": "George Holani",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5048,7 +5048,7 @@
         "rank": 234,
         "player_id": "8151",
         "name": "Kenneth Walker",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -9244,7 +9244,7 @@
         "rank": 83,
         "player_id": "12641",
         "name": "Jaylin Lane",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11917,7 +11917,7 @@
         "rank": 380,
         "player_id": "8135",
         "name": "Treylon Burks",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -16462,7 +16462,7 @@
         "rank": 885,
         "player_id": "11168",
         "name": "Xavier Smith",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16714,7 +16714,7 @@
         "rank": 913,
         "player_id": "4082",
         "name": "Curtis Samuel",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -19992,7 +19992,7 @@
         "rank": 38,
         "player_id": "12984",
         "name": "CJ Dippre",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -23709,7 +23709,7 @@
         "rank": 451,
         "player_id": "3214",
         "name": "Hunter Henry",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
