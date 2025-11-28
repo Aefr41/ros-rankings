@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-28T18:17:34.528705",
+  "timestamp": "2025-11-28T19:09:41.367679",
   "players": {
     "QB": [
       {
@@ -555,7 +555,7 @@
         "rank": 62,
         "player_id": "11566",
         "name": "Jayden Daniels",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -942,7 +942,7 @@
         "rank": 105,
         "player_id": "8162",
         "name": "Sam Howell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -2607,7 +2607,7 @@
         "rank": 290,
         "player_id": "1737",
         "name": "Case Keenum",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 63,
         "rank_change": 0,
         "trend": ""
@@ -6749,7 +6749,7 @@
         "rank": 423,
         "player_id": "6828",
         "name": "A.J. Dillon",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -8965,7 +8965,7 @@
         "rank": 52,
         "player_id": "13079",
         "name": "Jahdae Walker",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -21513,7 +21513,7 @@
         "rank": 207,
         "player_id": "12374",
         "name": "Brenden Bates",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
