@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-28T22:11:38.810010",
+  "timestamp": "2025-11-28T23:11:39.287977",
   "players": {
     "QB": [
       {
@@ -6029,7 +6029,7 @@
         "rank": 343,
         "player_id": "8139",
         "name": "Zamir White",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -10108,7 +10108,7 @@
         "rank": 179,
         "player_id": "11633",
         "name": "Jamari Thrash",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -18505,7 +18505,7 @@
         "rank": 1112,
         "player_id": "2374",
         "name": "Tyler Lockett",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
@@ -20568,7 +20568,7 @@
         "rank": 102,
         "player_id": "9482",
         "name": "Michael Mayer",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -22044,7 +22044,7 @@
         "rank": 266,
         "player_id": "11433",
         "name": "Nate Adkins",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -23583,7 +23583,7 @@
         "rank": 437,
         "player_id": "4033",
         "name": "David Njoku",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
