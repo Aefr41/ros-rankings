@@ -882,12 +882,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dontae Fleming (MIN)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Carson Strong (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2355,6 +2349,12 @@
     "player": "Jerjuan Newton (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Dontae Fleming (MIN)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -7596,12 +7596,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cody White (SEA)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kwamie Lassiter (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -7725,7 +7719,7 @@
     "player": "Cam Grandy (CIN)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "De'Mornay Pierson-El (None)",
@@ -8073,7 +8067,7 @@
     "player": "Tylan Wallace (BAL)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Justin Jefferson (MIN)",
@@ -9543,6 +9537,12 @@
     "player": "Shane Buechele (BUF)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Cody White (SEA)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -12003,7 +12003,7 @@
     "player": "Jake Browning (CIN)",
     "ros_points": 71,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Tyrell Williams (None)",
@@ -14151,7 +14151,7 @@
     "player": "Cooper Rush (BAL)",
     "ros_points": 68,
     "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Taylor Heinicke (None)",
