@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-28T20:13:37.414710",
+  "timestamp": "2025-11-28T21:10:38.133285",
   "players": {
     "QB": [
       {
@@ -3122,7 +3122,7 @@
         "rank": 20,
         "player_id": "12476",
         "name": "Devin Neal",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -5903,7 +5903,7 @@
         "rank": 329,
         "player_id": "11199",
         "name": "Emari Demercado",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -10675,7 +10675,7 @@
         "rank": 242,
         "player_id": "8112",
         "name": "Drake London",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11701,7 +11701,7 @@
         "rank": 356,
         "player_id": "11921",
         "name": "Xavier Weaver",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -17353,7 +17353,7 @@
         "rank": 984,
         "player_id": "5773",
         "name": "KhaDarel Hodge",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
