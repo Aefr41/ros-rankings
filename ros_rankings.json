@@ -396,12 +396,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tory Horton (SEA)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Ja'seem Reed (CAR)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1384,6 +1378,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Tory Horton (SEA)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "CJ Verdell (None)",
@@ -3529,12 +3529,6 @@
   },
   {
     "player": "Ja'Quinden Jackson (JAX)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Cornelius Johnson (BAL)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5748,12 +5742,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Rashod Bateman (BAL)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Cole Burgess (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5895,6 +5883,12 @@
     "player": "Chase Brown (CIN)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Cornelius Johnson (BAL)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -7911,6 +7905,12 @@
     "player": "Nate Becker (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Rashod Bateman (BAL)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13878,12 +13878,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Stefon Diggs (NE)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Giovani Bernard (None)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -14361,6 +14355,12 @@
     "player": "Odell Beckham (None)",
     "ros_points": 68,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Stefon Diggs (NE)",
+    "ros_points": 68,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
@@ -15318,12 +15318,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Russell Wilson (NYG)",
-    "ros_points": 64,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Danny Amendola (None)",
     "ros_points": 64,
     "trend": "+0.0",
@@ -15399,6 +15393,12 @@
     "player": "Adrian Peterson (None)",
     "ros_points": 63,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Russell Wilson (NYG)",
+    "ros_points": 63,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
