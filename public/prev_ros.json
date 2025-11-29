@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-29T21:10:46.698723",
+  "timestamp": "2025-11-29T22:11:26.366831",
   "players": {
     "QB": [
       {
@@ -4877,7 +4877,7 @@
         "rank": 215,
         "player_id": "12048",
         "name": "George Holani",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -9946,7 +9946,7 @@
         "rank": 161,
         "player_id": "12532",
         "name": "Ja'Corey Brooks",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -24375,7 +24375,7 @@
         "rank": 525,
         "player_id": "2505",
         "name": "Darren Waller",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
