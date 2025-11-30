@@ -486,12 +486,6 @@
     "quick_why": "Injury concern"
   },
   {
-    "player": "Israel Abanikanda (None)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jalen Milroe (SEA)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1674,6 +1668,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Israel Abanikanda (DAL)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Myles Price (MIN)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2088,7 +2088,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jabari Small (None)",
+    "player": "Jabari Small (DET)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
