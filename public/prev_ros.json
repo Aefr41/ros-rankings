@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-30T19:09:47.559003",
+  "timestamp": "2025-11-30T20:13:28.164879",
   "players": {
     "QB": [
       {
@@ -51,7 +51,7 @@
         "rank": 6,
         "player_id": "12510",
         "name": "Jalen Milroe",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -393,7 +393,7 @@
         "rank": 44,
         "player_id": "12511",
         "name": "Will Howard",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -1509,7 +1509,7 @@
         "rank": 168,
         "player_id": "10866",
         "name": "Aidan O'Connell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -3005,7 +3005,7 @@
         "rank": 7,
         "player_id": "12469",
         "name": "Dylan Sampson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -5120,7 +5120,7 @@
         "rank": 242,
         "player_id": "8150",
         "name": "Kyren Williams",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5957,7 +5957,7 @@
         "rank": 335,
         "player_id": "6938",
         "name": "Cam Akers",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6029,7 +6029,7 @@
         "rank": 343,
         "player_id": "8139",
         "name": "Zamir White",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -8857,7 +8857,7 @@
         "rank": 40,
         "player_id": "9487",
         "name": "Parker Washington",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11359,7 +11359,7 @@
         "rank": 318,
         "player_id": "12670",
         "name": "KeAndre Lambert-Smith",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -13996,7 +13996,7 @@
         "rank": 611,
         "player_id": "7670",
         "name": "Joshua Palmer",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -14761,7 +14761,7 @@
         "rank": 696,
         "player_id": "10867",
         "name": "Jake Bobo",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -16309,7 +16309,7 @@
         "rank": 868,
         "player_id": "6290",
         "name": "Scotty Miller",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -18757,7 +18757,7 @@
         "rank": 1140,
         "player_id": "1689",
         "name": "Adam Thielen",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 65,
         "rank_change": 0,
         "trend": ""
@@ -19983,7 +19983,7 @@
         "rank": 37,
         "player_id": "13121",
         "name": "Ben Yurosek",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -21819,7 +21819,7 @@
         "rank": 241,
         "player_id": "10236",
         "name": "Dalton Kincaid",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -22413,7 +22413,7 @@
         "rank": 307,
         "player_id": "7531",
         "name": "Feleipe Franks",
-        "injury_status": null,
+        "injury_status": "Doubtful",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -23538,7 +23538,7 @@
         "rank": 432,
         "player_id": "5010",
         "name": "Will Dissly",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
