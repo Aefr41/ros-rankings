@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-30T23:11:28.595337",
+  "timestamp": "2025-12-01T01:11:10.420742",
   "players": {
     "QB": [
       {
@@ -7730,7 +7730,7 @@
         "rank": 532,
         "player_id": "4199",
         "name": "Aaron Jones",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -9370,7 +9370,7 @@
         "rank": 97,
         "player_id": "12541",
         "name": "Dont'e Thornton",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -18019,7 +18019,7 @@
         "rank": 1058,
         "player_id": "3269",
         "name": "Chris Moore",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
