@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-02T03:12:14.647011",
+  "timestamp": "2025-12-02T04:23:23.138885",
   "players": {
     "QB": [
       {
@@ -5705,7 +5705,7 @@
         "rank": 307,
         "player_id": "11655",
         "name": "Tyrone Tracy",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16858,7 +16858,7 @@
         "rank": 929,
         "player_id": "6699",
         "name": "Gunner Olszewski",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
