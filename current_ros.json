@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-03T22:13:25.145178",
+  "timestamp": "2025-12-03T23:10:43.440287",
   "players": {
     "QB": [
       {
@@ -1662,7 +1662,7 @@
         "rank": 185,
         "player_id": "4881",
         "name": "Lamar Jackson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -5120,7 +5120,7 @@
         "rank": 242,
         "player_id": "8150",
         "name": "Kyren Williams",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -16282,7 +16282,7 @@
         "rank": 865,
         "player_id": "7757",
         "name": "Ben Skowronek",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -18046,7 +18046,7 @@
         "rank": 1061,
         "player_id": "2133",
         "name": "Davante Adams",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
