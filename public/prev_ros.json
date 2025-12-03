@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-03T20:14:56.222353",
+  "timestamp": "2025-12-03T21:12:05.783742",
   "players": {
     "QB": [
       {
@@ -3518,7 +3518,7 @@
         "rank": 64,
         "player_id": "12534",
         "name": "Kyle Monangai",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -8992,7 +8992,7 @@
         "rank": 55,
         "player_id": "11620",
         "name": "Rome Odunze",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11080,7 +11080,7 @@
         "rank": 287,
         "player_id": "9500",
         "name": "Josh Downs",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -17740,7 +17740,7 @@
         "rank": 1027,
         "player_id": "3634",
         "name": "Kalif Raymond",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -22440,7 +22440,7 @@
         "rank": 310,
         "player_id": "7891",
         "name": "Brock Wright",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
