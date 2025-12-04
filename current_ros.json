@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-04T20:14:53.371126",
+  "timestamp": "2025-12-04T21:12:09.834196",
   "players": {
     "QB": [
       {
@@ -2715,7 +2715,7 @@
         "rank": 302,
         "player_id": "96",
         "name": "Aaron Rodgers",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 58,
         "rank_change": 0,
         "trend": ""
@@ -11080,7 +11080,7 @@
         "rank": 287,
         "player_id": "9500",
         "name": "Josh Downs",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -22440,7 +22440,7 @@
         "rank": 310,
         "player_id": "7891",
         "name": "Brock Wright",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
