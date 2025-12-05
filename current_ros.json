@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-05T21:11:52.434744",
+  "timestamp": "2025-12-05T22:12:30.986705",
   "players": {
     "QB": [
       {
@@ -5048,7 +5048,7 @@
         "rank": 234,
         "player_id": "8151",
         "name": "Kenneth Walker",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5120,7 +5120,7 @@
         "rank": 242,
         "player_id": "8150",
         "name": "Kyren Williams",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5903,7 +5903,7 @@
         "rank": 329,
         "player_id": "11199",
         "name": "Emari Demercado",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6722,7 +6722,7 @@
         "rank": 420,
         "player_id": "5850",
         "name": "Josh Jacobs",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -10144,7 +10144,7 @@
         "rank": 183,
         "player_id": "9486",
         "name": "Dontayvion Wicks",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -10342,7 +10342,7 @@
         "rank": 205,
         "player_id": "12482",
         "name": "Savion Williams",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11017,7 +11017,7 @@
         "rank": 280,
         "player_id": "9754",
         "name": "Quentin Johnston",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -14284,7 +14284,7 @@
         "rank": 643,
         "player_id": "11320",
         "name": "Nikko Remigio",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -18046,7 +18046,7 @@
         "rank": 1061,
         "player_id": "2133",
         "name": "Davante Adams",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -21459,7 +21459,7 @@
         "rank": 201,
         "player_id": "7828",
         "name": "Noah Gray",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
