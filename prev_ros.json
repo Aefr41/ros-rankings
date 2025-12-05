@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-05T18:16:53.727422",
+  "timestamp": "2025-12-05T19:10:13.584336",
   "players": {
     "QB": [
       {
@@ -10918,7 +10918,7 @@
         "rank": 269,
         "player_id": "12865",
         "name": "AJ Henning",
-        "injury_status": null,
+        "injury_status": "Sus",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -21504,7 +21504,7 @@
         "rank": 206,
         "player_id": "12374",
         "name": "Brenden Bates",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
