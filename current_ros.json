@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-05T17:13:05.891576",
+  "timestamp": "2025-12-05T18:16:53.727422",
   "players": {
     "QB": [
       {
@@ -555,7 +555,7 @@
         "rank": 62,
         "player_id": "11566",
         "name": "Jayden Daniels",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -9343,7 +9343,7 @@
         "rank": 94,
         "player_id": "11628",
         "name": "Marvin Harrison",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -13393,7 +13393,7 @@
         "rank": 544,
         "player_id": "6801",
         "name": "Tee Higgins",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -15454,7 +15454,7 @@
         "rank": 773,
         "player_id": "5970",
         "name": "Greg Dortch",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -23583,7 +23583,7 @@
         "rank": 437,
         "player_id": "4033",
         "name": "David Njoku",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
