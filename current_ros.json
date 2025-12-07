@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-07T18:16:39.387915",
+  "timestamp": "2025-12-07T19:09:21.134906",
   "players": {
     "QB": [
       {
@@ -1635,7 +1635,7 @@
         "rank": 182,
         "player_id": "5870",
         "name": "Daniel Jones",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -2535,7 +2535,7 @@
         "rank": 282,
         "player_id": "827",
         "name": "Tyrod Taylor",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 64,
         "rank_change": 0,
         "trend": ""
@@ -3131,7 +3131,7 @@
         "rank": 21,
         "player_id": "12490",
         "name": "Bhayshul Tuten",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
