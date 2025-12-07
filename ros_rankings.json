@@ -810,12 +810,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jalen McMillan (TB)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Dylan Stapleton (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2284,6 +2278,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Jalen McMillan (TB)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Dalevon Campbell (LAC)",
@@ -13206,12 +13206,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Hunter Henry (NE)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Will Grier (DAL)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -13791,6 +13785,12 @@
     "player": "Danny Anthrop (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Hunter Henry (NE)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
