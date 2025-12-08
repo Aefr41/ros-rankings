@@ -543,7 +543,7 @@
     "player": "Jalen Royals (KC)",
     "ros_points": 78,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Matthew Golden (GB)",
@@ -2257,12 +2257,6 @@
   },
   {
     "player": "Sam Schnee (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "DeMario Douglas (NE)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4482,6 +4476,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "DeMario Douglas (NE)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Gerrid Doaks (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5811,7 +5811,7 @@
     "player": "Graham Mertz (HOU)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Terry Swanson (None)",
@@ -8859,7 +8859,7 @@
     "player": "Elijah Mitchell (KC)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Case Cookus (None)",
@@ -13005,7 +13005,7 @@
     "player": "Braxton Berrios (HOU)",
     "ros_points": 70,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "KhaDarel Hodge (ATL)",
@@ -15195,7 +15195,7 @@
     "player": "Geno Smith (LV)",
     "ros_points": 65,
     "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Ryan Tannehill (None)",
