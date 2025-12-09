@@ -6249,7 +6249,7 @@
     "player": "Joel Wilson (TEN)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Chase Harrell (None)",
@@ -15504,12 +15504,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Philip Rivers (None)",
-    "ros_points": 60,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Marcedes Lewis (DEN)",
     "ros_points": 59,
     "trend": "+0.0",
@@ -15537,6 +15531,12 @@
     "player": "Drew Brees (None)",
     "ros_points": 58,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Philip Rivers (IND)",
+    "ros_points": 56,
+    "trend": "-4.0",
     "quick_why": "Veteran downgrade"
   },
   {

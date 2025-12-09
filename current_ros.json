@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-09T18:16:37.046891",
+  "timestamp": "2025-12-09T19:10:14.880638",
   "players": {
     "QB": [
       {
@@ -2704,39 +2704,39 @@
       },
       {
         "rank": 301,
-        "player_id": "331",
-        "name": "Philip Rivers",
-        "injury_status": null,
-        "ros_pts": 60,
-        "rank_change": 0,
-        "trend": ""
-      },
-      {
-        "rank": 302,
         "player_id": "96",
         "name": "Aaron Rodgers",
         "injury_status": null,
         "ros_pts": 58,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 303,
+        "rank": 302,
         "player_id": "208",
         "name": "Josh McCown",
         "injury_status": null,
         "ros_pts": 58,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 304,
+        "rank": 303,
         "player_id": "289",
         "name": "Drew Brees",
         "injury_status": null,
         "ros_pts": 58,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
+      },
+      {
+        "rank": 304,
+        "player_id": "331",
+        "name": "Philip Rivers",
+        "injury_status": null,
+        "ros_pts": 56,
+        "rank_change": -3,
+        "trend": "\u25bc"
       },
       {
         "rank": 305,
@@ -21315,7 +21315,7 @@
         "rank": 185,
         "player_id": "11113",
         "name": "Joel Wilson",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
