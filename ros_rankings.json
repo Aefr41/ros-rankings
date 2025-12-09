@@ -402,12 +402,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jake Briningstool (KC)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Quinn Ewers (MIA)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1482,6 +1476,12 @@
     "quick_why": "Trending up"
   },
   {
+    "player": "Jake Briningstool (KC)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
+  },
+  {
     "player": "Xavier Restrepo (TEN)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2283,7 +2283,7 @@
     "player": "Dalevon Campbell (LAC)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Terry Wright (None)",
@@ -3879,7 +3879,7 @@
     "player": "KeAndre Lambert-Smith (LAC)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Tyrone Broden (SEA)",
@@ -6147,7 +6147,7 @@
     "player": "Sam Howell (PHI)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Justin Hall (None)",
@@ -7194,7 +7194,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cody Schrader (None)",
+    "player": "Cody Schrader (HOU)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10371,7 +10371,7 @@
     "player": "A.J. Dillon (PHI)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Cole Fotheringham (None)",
@@ -13233,7 +13233,7 @@
     "player": "Tyler Conklin (LAC)",
     "ros_points": 70,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "C.J. Anderson (None)",
