@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-10T17:15:55.527880",
+  "timestamp": "2025-12-10T18:20:36.880884",
   "players": {
     "QB": [
       {
@@ -546,7 +546,7 @@
         "rank": 61,
         "player_id": "11566",
         "name": "Jayden Daniels",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -4499,7 +4499,7 @@
         "rank": 173,
         "player_id": "8155",
         "name": "Breece Hall",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
