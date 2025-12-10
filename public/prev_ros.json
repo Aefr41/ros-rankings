@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-10T21:14:21.050109",
+  "timestamp": "2025-12-10T22:13:29.111440",
   "players": {
     "QB": [
       {
@@ -123,7 +123,7 @@
         "rank": 14,
         "player_id": "12470",
         "name": "Riley Leonard",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -1176,7 +1176,7 @@
         "rank": 131,
         "player_id": "7523",
         "name": "Trevor Lawrence",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -1662,7 +1662,7 @@
         "rank": 185,
         "player_id": "4881",
         "name": "Lamar Jackson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -3122,7 +3122,7 @@
         "rank": 20,
         "player_id": "12476",
         "name": "Devin Neal",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -4580,7 +4580,7 @@
         "rank": 182,
         "player_id": "8194",
         "name": "Jashaun Corbin",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5660,7 +5660,7 @@
         "rank": 302,
         "player_id": "10219",
         "name": "Chris Rodriguez",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -7325,7 +7325,7 @@
         "rank": 487,
         "player_id": "6659",
         "name": "Craig Reynolds",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -12106,7 +12106,7 @@
         "rank": 401,
         "player_id": "8142",
         "name": "Alec Pierce",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -19677,7 +19677,7 @@
         "rank": 3,
         "player_id": "12498",
         "name": "Mason Taylor",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -20208,7 +20208,7 @@
         "rank": 62,
         "player_id": "11597",
         "name": "Theo Johnson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -21720,7 +21720,7 @@
         "rank": 230,
         "player_id": "7536",
         "name": "Quintin Morris",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -22476,7 +22476,7 @@
         "rank": 314,
         "player_id": "8583",
         "name": "Stone Smartt",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
