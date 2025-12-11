@@ -12024,12 +12024,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Allen Lazard (NYJ)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Curtis Samuel (BUF)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13035,6 +13029,12 @@
     "player": "Derel Walker (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Allen Lazard (NYJ)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14478,12 +14478,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Jacoby Brissett (ARI)",
-    "ros_points": 68,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Robert Turbin (None)",
     "ros_points": 68,
     "trend": "+0.0",
@@ -14985,6 +14979,12 @@
     "player": "Garrett Celek (None)",
     "ros_points": 67,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Jacoby Brissett (ARI)",
+    "ros_points": 67,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
