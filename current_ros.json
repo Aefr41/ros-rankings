@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-11T21:14:46.042653",
+  "timestamp": "2025-12-11T22:13:13.745706",
   "players": {
     "QB": [
       {
@@ -1176,7 +1176,7 @@
         "rank": 131,
         "player_id": "7523",
         "name": "Trevor Lawrence",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -3347,7 +3347,7 @@
         "rank": 45,
         "player_id": "9511",
         "name": "Keaton Mitchell",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -13960,7 +13960,7 @@
         "rank": 607,
         "player_id": "7571",
         "name": "Rashod Bateman",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16300,7 +16300,7 @@
         "rank": 867,
         "player_id": "3355",
         "name": "Cody Core",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -17542,7 +17542,7 @@
         "rank": 1005,
         "player_id": "1984",
         "name": "Allen Hurns",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -23781,7 +23781,7 @@
         "rank": 459,
         "player_id": "5012",
         "name": "Mark Andrews",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
