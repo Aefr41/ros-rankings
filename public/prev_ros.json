@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-11T22:13:13.745706",
+  "timestamp": "2025-12-11T23:12:49.827367",
   "players": {
     "QB": [
       {
@@ -7361,7 +7361,7 @@
         "rank": 491,
         "player_id": "4034",
         "name": "Christian McCaffrey",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -23538,7 +23538,7 @@
         "rank": 432,
         "player_id": "5010",
         "name": "Will Dissly",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
