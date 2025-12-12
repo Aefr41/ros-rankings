@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T19:11:36.777234",
+  "timestamp": "2025-12-12T20:14:29.633800",
   "players": {
     "QB": [
       {
@@ -1392,7 +1392,7 @@
         "rank": 155,
         "player_id": "6797",
         "name": "Justin Herbert",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -2157,7 +2157,7 @@
         "rank": 240,
         "player_id": "3976",
         "name": "Mitchell Trubisky",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -3122,7 +3122,7 @@
         "rank": 20,
         "player_id": "12476",
         "name": "Devin Neal",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -6686,7 +6686,7 @@
         "rank": 416,
         "player_id": "6012",
         "name": "Travis Homer",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7766,7 +7766,7 @@
         "rank": 536,
         "player_id": "4035",
         "name": "Alvin Kamara",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -7883,7 +7883,7 @@
         "rank": 549,
         "player_id": "4199",
         "name": "Aaron Jones",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -9730,7 +9730,7 @@
         "rank": 137,
         "player_id": "9756",
         "name": "Jordan Addison",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9982,7 +9982,7 @@
         "rank": 165,
         "player_id": "11635",
         "name": "Ladd McConkey",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11008,7 +11008,7 @@
         "rank": 279,
         "player_id": "9754",
         "name": "Quentin Johnston",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12286,7 +12286,7 @@
         "rank": 421,
         "player_id": "10234",
         "name": "Derius Davis",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -15994,7 +15994,7 @@
         "rank": 833,
         "player_id": "6271",
         "name": "Olamide Zaccheaus",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16093,7 +16093,7 @@
         "rank": 844,
         "player_id": "5848",
         "name": "Marquise Brown",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -21504,7 +21504,7 @@
         "rank": 206,
         "player_id": "12374",
         "name": "Brenden Bates",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -22773,7 +22773,7 @@
         "rank": 347,
         "player_id": "5844",
         "name": "T.J. Hockenson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
