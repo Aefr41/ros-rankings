@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T17:12:43.904211",
+  "timestamp": "2025-12-12T18:20:12.637432",
   "players": {
     "QB": [
       {
@@ -2996,7 +2996,7 @@
         "rank": 6,
         "player_id": "12469",
         "name": "Dylan Sampson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -9325,7 +9325,7 @@
         "rank": 92,
         "player_id": "11628",
         "name": "Marvin Harrison",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -13393,7 +13393,7 @@
         "rank": 544,
         "player_id": "6801",
         "name": "Tee Higgins",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16741,7 +16741,7 @@
         "rank": 916,
         "player_id": "5872",
         "name": "Deebo Samuel",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -23583,7 +23583,7 @@
         "rank": 437,
         "player_id": "4033",
         "name": "David Njoku",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
