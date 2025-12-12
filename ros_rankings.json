@@ -12,12 +12,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Luther Burden (CHI)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Braelon Allen (NYJ)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -165,6 +159,12 @@
     "player": "Quali Conley (None)",
     "ros_points": 78,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Luther Burden (CHI)",
+    "ros_points": 78,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -2091,7 +2091,7 @@
     "player": "Casey Washington (ATL)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Felton Davis (None)",
@@ -5127,7 +5127,7 @@
     "player": "Connor Bazelak (TB)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jalen Greene (None)",
@@ -5595,7 +5595,7 @@
     "player": "Malik Heath (ATL)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Cortrelle Simpson (None)",
@@ -10104,12 +10104,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Devaughn Vele (NO)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jake Roh (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11604,6 +11598,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Devaughn Vele (NO)",
+    "ros_points": 72,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "T.J. Yeldon (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -11677,12 +11677,6 @@
   },
   {
     "player": "Darius Slayton (NYG)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Stephen Carlson (CHI)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -12762,6 +12756,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Stephen Carlson (CHI)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Marcus Leak (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13407,7 +13407,7 @@
     "player": "Jamal Agnew (ATL)",
     "ros_points": 70,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Chris Myarick (MIA)",
