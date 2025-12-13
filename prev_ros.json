@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-13T19:09:29.694852",
+  "timestamp": "2025-12-13T20:13:19.062030",
   "players": {
     "QB": [
       {
@@ -5993,7 +5993,7 @@
         "rank": 339,
         "player_id": "11435",
         "name": "Emanuel Wilson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -13537,7 +13537,7 @@
         "rank": 560,
         "player_id": "7562",
         "name": "Tutu Atwell",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
