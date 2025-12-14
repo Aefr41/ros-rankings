@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T20:13:23.344783",
+  "timestamp": "2025-12-14T21:11:14.750952",
   "players": {
     "QB": [
       {
@@ -168,7 +168,7 @@
         "rank": 19,
         "player_id": "12510",
         "name": "Jalen Milroe",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -1716,7 +1716,7 @@
         "rank": 191,
         "player_id": "10857",
         "name": "Stetson Bennett",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -3203,7 +3203,7 @@
         "rank": 29,
         "player_id": "11569",
         "name": "Jarquez Hunter",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -3374,7 +3374,7 @@
         "rank": 48,
         "player_id": "12656",
         "name": "Robbie Ouzts",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -4337,7 +4337,7 @@
         "rank": 155,
         "player_id": "11729",
         "name": "Sione Vaki",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -7703,7 +7703,7 @@
         "rank": 529,
         "player_id": "4147",
         "name": "Samaje Perine",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -8560,7 +8560,7 @@
         "rank": 7,
         "player_id": "12519",
         "name": "Luther Burden",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9343,7 +9343,7 @@
         "rank": 94,
         "player_id": "12732",
         "name": "Dominic Lovett",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -13087,7 +13087,7 @@
         "rank": 510,
         "player_id": "8188",
         "name": "Tyquan Thornton",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -16921,7 +16921,7 @@
         "rank": 936,
         "player_id": "5955",
         "name": "Hunter Renfrow",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -17740,7 +17740,7 @@
         "rank": 1027,
         "player_id": "3634",
         "name": "Kalif Raymond",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -18046,7 +18046,7 @@
         "rank": 1061,
         "player_id": "2133",
         "name": "Davante Adams",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -21189,7 +21189,7 @@
         "rank": 171,
         "player_id": "11942",
         "name": "Colson Yankoff",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -21630,7 +21630,7 @@
         "rank": 220,
         "player_id": "8799",
         "name": "Zaire Mitchell-Paden",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -21702,7 +21702,7 @@
         "rank": 228,
         "player_id": "8170",
         "name": "James Mitchell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -23547,7 +23547,7 @@
         "rank": 433,
         "player_id": "8041",
         "name": "Shane Zylstra",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -23952,7 +23952,7 @@
         "rank": 478,
         "player_id": "4189",
         "name": "Eric Saubert",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
