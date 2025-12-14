@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T22:11:58.309226",
+  "timestamp": "2025-12-14T23:11:40.460055",
   "players": {
     "QB": [
       {
@@ -3122,7 +3122,7 @@
         "rank": 20,
         "player_id": "12476",
         "name": "Devin Neal",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9262,7 +9262,7 @@
         "rank": 85,
         "player_id": "9494",
         "name": "Marvin Mims",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
