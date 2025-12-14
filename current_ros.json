@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T21:11:14.750952",
+  "timestamp": "2025-12-14T22:11:58.309226",
   "players": {
     "QB": [
       {
@@ -1995,7 +1995,7 @@
         "rank": 222,
         "player_id": "4046",
         "name": "Patrick Mahomes",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -21954,7 +21954,7 @@
         "rank": 256,
         "player_id": "10212",
         "name": "Josh Whyle",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
