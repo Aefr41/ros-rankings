@@ -27,7 +27,7 @@
     "player": "Jaydon Blue (DAL)",
     "ros_points": 79,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Trevor Etienne (CAR)",
@@ -297,7 +297,7 @@
     "player": "Devin Neal (NO)",
     "ros_points": 78,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Mario Williams (None)",
@@ -406,12 +406,6 @@
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Injury concern"
-  },
-  {
-    "player": "Jayden Higgins (HOU)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
   },
   {
     "player": "Ja'Tavion Sanders (CAR)",
@@ -1473,6 +1467,12 @@
     "player": "Tre Harbison (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jayden Higgins (HOU)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -6987,7 +6987,7 @@
     "player": "Jalen Tolbert (DAL)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Denzel Mims (None)",
@@ -7065,7 +7065,7 @@
     "player": "Christian Watson (GB)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Will Levis (TEN)",
@@ -13053,7 +13053,7 @@
     "player": "Patrick Mahomes (KC)",
     "ros_points": 70,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jake McGee (None)",
@@ -13569,7 +13569,7 @@
     "player": "John Wolford (MIN)",
     "ros_points": 70,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Marqise Lee (None)",
