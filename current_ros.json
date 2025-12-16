@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T22:13:30.373763",
+  "timestamp": "2025-12-16T23:12:36.220294",
   "players": {
     "QB": [
       {
@@ -3986,7 +3986,7 @@
         "rank": 116,
         "player_id": "12489",
         "name": "RJ Harvey",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -9208,7 +9208,7 @@
         "rank": 79,
         "player_id": "13043",
         "name": "Chris Tyree",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -14311,7 +14311,7 @@
         "rank": 646,
         "player_id": "8185",
         "name": "Johnny Johnson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
