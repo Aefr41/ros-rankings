@@ -399,7 +399,7 @@
     "player": "Quinn Ewers (MIA)",
     "ros_points": 78,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Elijah Arroyo (SEA)",
@@ -478,12 +478,6 @@
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
-  },
-  {
-    "player": "Beaux Collins (NYG)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
   },
   {
     "player": "Roc Taylor (None)",
@@ -1644,12 +1638,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Myles Price (MIN)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Brennan Presley (LAR)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1720,6 +1708,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Beaux Collins (NYG)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Earnest Edwards (None)",
@@ -2403,7 +2397,7 @@
     "player": "Roman Wilson (PIT)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Caleb Lohner (DEN)",
@@ -2925,7 +2919,7 @@
     "player": "Will Howard (PIT)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Chase Cota (None)",
@@ -3549,7 +3543,7 @@
     "player": "Tahj Washington (MIA)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Bryce Love (None)",
@@ -3838,6 +3832,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Injury concern"
+  },
+  {
+    "player": "Myles Price (MIN)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Tre'Shaun Harrison (None)",
@@ -4948,12 +4948,6 @@
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
-  },
-  {
-    "player": "George Holani (SEA)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
   },
   {
     "player": "Spencer Sanders (None)",
@@ -7360,6 +7354,12 @@
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "George Holani (SEA)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Clayton Tune (GB)",
