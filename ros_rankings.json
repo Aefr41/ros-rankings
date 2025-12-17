@@ -564,7 +564,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ke'Shawn Williams (None)",
+    "player": "Ke'Shawn Williams (CIN)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8580,12 +8580,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "J.K. Dobbins (DEN)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Jarvion Franklin (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -10354,6 +10348,12 @@
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "J.K. Dobbins (DEN)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "A.J. Dillon (PHI)",
