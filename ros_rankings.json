@@ -5865,7 +5865,7 @@
     "player": "Colson Yankoff (WAS)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Chase Cota (None)",
@@ -7141,12 +7141,6 @@
   },
   {
     "player": "Zaire Mitchell-Paden (NO)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Elijah Cooks (None)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9159,6 +9153,12 @@
     "player": "Penny Hart (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Elijah Cooks (NO)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
