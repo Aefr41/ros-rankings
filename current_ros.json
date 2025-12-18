@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T21:12:05.311092",
+  "timestamp": "2025-12-18T22:12:52.524776",
   "players": {
     "QB": [
       {
@@ -1662,7 +1662,7 @@
         "rank": 185,
         "player_id": "4881",
         "name": "Lamar Jackson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -3122,7 +3122,7 @@
         "rank": 20,
         "player_id": "12476",
         "name": "Devin Neal",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -4238,7 +4238,7 @@
         "rank": 144,
         "player_id": "11581",
         "name": "MarShawn Lloyd",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -10315,7 +10315,7 @@
         "rank": 202,
         "player_id": "12482",
         "name": "Savion Williams",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -14005,7 +14005,7 @@
         "rank": 612,
         "player_id": "8527",
         "name": "Dareke Young",
-        "injury_status": "IR",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -17290,7 +17290,7 @@
         "rank": 977,
         "player_id": "4992",
         "name": "Dante Pettis",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -20613,7 +20613,7 @@
         "rank": 107,
         "player_id": "7553",
         "name": "Kyle Pitts",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -21495,7 +21495,7 @@
         "rank": 205,
         "player_id": "8111",
         "name": "Cade Otton",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -21954,7 +21954,7 @@
         "rank": 256,
         "player_id": "10212",
         "name": "Josh Whyle",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -23421,7 +23421,7 @@
         "rank": 419,
         "player_id": "6001",
         "name": "Drew Sample",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
