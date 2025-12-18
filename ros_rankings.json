@@ -324,12 +324,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jack Bech (LV)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jaden Shirden (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1149,6 +1143,12 @@
     "player": "Hunter Bryant (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jack Bech (LV)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -2754,7 +2754,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "John Rhys Plumlee (None)",
+    "player": "John Rhys Plumlee (PIT)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3243,7 +3243,7 @@
     "player": "MarShawn Lloyd (GB)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Jack Coan (None)",
@@ -3916,12 +3916,6 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
-  },
-  {
-    "player": "Jayden Daniels (WAS)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
   },
   {
     "player": "Anthony Ratliff-Williams (None)",
@@ -6334,6 +6328,12 @@
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Jayden Daniels (WAS)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Bisi Johnson (None)",
@@ -14163,7 +14163,7 @@
     "player": "Davante Adams (LAR)",
     "ros_points": 68,
     "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "David Porter (None)",
