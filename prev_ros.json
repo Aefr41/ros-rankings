@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T22:13:19.357211",
+  "timestamp": "2025-12-19T23:12:52.464102",
   "players": {
     "QB": [
       {
@@ -4238,7 +4238,7 @@
         "rank": 144,
         "player_id": "11581",
         "name": "MarShawn Lloyd",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -7316,7 +7316,7 @@
         "rank": 486,
         "player_id": "4988",
         "name": "Nick Chubb",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -17029,7 +17029,7 @@
         "rank": 948,
         "player_id": "4950",
         "name": "Christian Kirk",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
