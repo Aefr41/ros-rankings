@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T21:12:02.749077",
+  "timestamp": "2025-12-19T22:13:19.357211",
   "players": {
     "QB": [
       {
@@ -3437,7 +3437,7 @@
         "rank": 55,
         "player_id": "12490",
         "name": "Bhayshul Tuten",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -5291,7 +5291,7 @@
         "rank": 261,
         "player_id": "7588",
         "name": "Javonte Williams",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13123,7 +13123,7 @@
         "rank": 514,
         "player_id": "6786",
         "name": "CeeDee Lamb",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -17335,7 +17335,7 @@
         "rank": 982,
         "player_id": "5773",
         "name": "KhaDarel Hodge",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
