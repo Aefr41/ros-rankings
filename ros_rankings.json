@@ -453,7 +453,7 @@
     "player": "Jarquez Hunter (LAR)",
     "ros_points": 78,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jadon Haselwood (None)",
@@ -1641,7 +1641,7 @@
     "player": "Jalen Milroe (SEA)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Isaiah Bowser (None)",
@@ -2209,12 +2209,6 @@
   },
   {
     "player": "Garrett Greene (TB)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jamari Thrash (CLE)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4437,6 +4431,12 @@
     "player": "Joseph Parker (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jamari Thrash (CLE)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -8985,7 +8985,7 @@
     "player": "Jake Bobo (SEA)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Demetric Felton (None)",
@@ -9158,7 +9158,7 @@
   {
     "player": "Elijah Cooks (NO)",
     "ros_points": 73,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
@@ -11031,7 +11031,7 @@
     "player": "Stetson Bennett (LAR)",
     "ros_points": 72,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Nick Bowers (None)",
