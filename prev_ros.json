@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T19:10:55.394008",
+  "timestamp": "2025-12-19T20:14:28.582716",
   "players": {
     "QB": [
       {
@@ -7766,7 +7766,7 @@
         "rank": 536,
         "player_id": "4035",
         "name": "Alvin Kamara",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -16462,7 +16462,7 @@
         "rank": 885,
         "player_id": "11834",
         "name": "Devaughn Vele",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16849,7 +16849,7 @@
         "rank": 928,
         "player_id": "6699",
         "name": "Gunner Olszewski",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -18100,7 +18100,7 @@
         "rank": 1067,
         "player_id": "2216",
         "name": "Mike Evans",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -21810,7 +21810,7 @@
         "rank": 240,
         "player_id": "10236",
         "name": "Dalton Kincaid",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
