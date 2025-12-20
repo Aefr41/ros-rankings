@@ -13164,12 +13164,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Calvin Ridley (TEN)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Josh Reynolds (NYJ)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -13756,6 +13750,12 @@
     "ros_points": 69,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Calvin Ridley (TEN)",
+    "ros_points": 69,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Amari Cooper (None)",
