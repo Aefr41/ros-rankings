@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-20T20:12:53.361072",
+  "timestamp": "2025-12-20T21:10:49.260871",
   "players": {
     "QB": [
       {
@@ -933,7 +933,7 @@
         "rank": 104,
         "player_id": "8162",
         "name": "Sam Howell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -6749,7 +6749,7 @@
         "rank": 423,
         "player_id": "6828",
         "name": "A.J. Dillon",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7550,7 +7550,7 @@
         "rank": 512,
         "player_id": "5000",
         "name": "Chase Edmonds",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -21000,7 +21000,7 @@
         "rank": 150,
         "player_id": "10210",
         "name": "Cameron Latu",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
