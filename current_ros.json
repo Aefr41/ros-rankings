@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-21T18:17:59.697833",
+  "timestamp": "2025-12-21T19:09:36.315472",
   "players": {
     "QB": [
       {
@@ -5543,7 +5543,7 @@
         "rank": 289,
         "player_id": "8408",
         "name": "Jordan Mason",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -7883,7 +7883,7 @@
         "rank": 549,
         "player_id": "4199",
         "name": "Aaron Jones",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -12493,7 +12493,7 @@
         "rank": 444,
         "player_id": "11210",
         "name": "Malik Heath",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
