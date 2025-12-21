@@ -957,7 +957,7 @@
     "player": "Jaylin Lane (WAS)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Camerun Peoples (None)",
@@ -12300,12 +12300,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Hunter Renfrow (CAR)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Marcus Lucas (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13233,6 +13227,12 @@
     "player": "Mike Gesicki (CIN)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Hunter Renfrow (CAR)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -15375,7 +15375,7 @@
     "player": "Case Keenum (CHI)",
     "ros_points": 63,
     "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Vernon Davis (None)",
