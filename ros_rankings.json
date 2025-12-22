@@ -1299,7 +1299,7 @@
     "player": "CJ Dippre (NE)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Kyle Monangai (CHI)",
@@ -1917,7 +1917,7 @@
     "player": "Efton Chism (NE)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Blake Proehl (None)",
@@ -6288,12 +6288,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jeshaun Jones (MIN)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Bryce Ford-Wheaton (NYG)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -8049,7 +8043,7 @@
     "player": "Tylan Wallace (BAL)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Justin Jefferson (MIN)",
@@ -8470,6 +8464,12 @@
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Injury concern"
+  },
+  {
+    "player": "Jeshaun Jones (MIN)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Noah Togiai (None)",
@@ -9513,7 +9513,7 @@
     "player": "Tommy DeVito (NE)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Shane Buechele (BUF)",
@@ -9577,12 +9577,6 @@
   },
   {
     "player": "Reggie Bonnafon (None)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Feleipe Franks (ATL)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -11073,6 +11067,12 @@
     "player": "DJ Turner (LV)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Feleipe Franks (ATL)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14145,7 +14145,7 @@
     "player": "Cooper Rush (BAL)",
     "ros_points": 68,
     "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Taylor Heinicke (None)",
