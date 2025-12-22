@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T03:25:42.184853",
+  "timestamp": "2025-12-22T04:33:15.245209",
   "players": {
     "QB": [
       {
@@ -1662,7 +1662,7 @@
         "rank": 185,
         "player_id": "4881",
         "name": "Lamar Jackson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -8830,7 +8830,7 @@
         "rank": 37,
         "player_id": "9504",
         "name": "Kayshon Boutte",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11764,7 +11764,7 @@
         "rank": 363,
         "player_id": "9501",
         "name": "DeMario Douglas",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
