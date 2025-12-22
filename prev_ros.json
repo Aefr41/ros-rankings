@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T21:11:25.710713",
+  "timestamp": "2025-12-22T22:13:03.443751",
   "players": {
     "QB": [
       {
@@ -1950,7 +1950,7 @@
         "rank": 217,
         "player_id": "4984",
         "name": "Josh Allen",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -9154,7 +9154,7 @@
         "rank": 73,
         "player_id": "12641",
         "name": "Jaylin Lane",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -20694,7 +20694,7 @@
         "rank": 116,
         "player_id": "8500",
         "name": "John FitzPatrick",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -23043,7 +23043,7 @@
         "rank": 377,
         "player_id": "8924",
         "name": "Thomas Odukoya",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
