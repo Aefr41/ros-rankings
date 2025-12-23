@@ -417,7 +417,7 @@
     "player": "DJ Giddens (IND)",
     "ros_points": 78,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jackson Meeks (DET)",
@@ -4575,7 +4575,7 @@
     "player": "Isaac Guerendo (SF)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Bryce Sterk (None)",
@@ -4843,12 +4843,6 @@
   },
   {
     "player": "Kyle Markway (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Deven Thompkins (ATL)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5940,12 +5934,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jaret Patterson (LAC)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Hale Hentges (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6873,7 +6861,7 @@
     "player": "Will Mallory (IND)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Rocky Lombardi (None)",
@@ -7251,6 +7239,12 @@
     "player": "Lynn Bowden (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Deven Thompkins (ATL)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -8103,6 +8097,12 @@
     "player": "Speedy Noil (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jaret Patterson (LAC)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
