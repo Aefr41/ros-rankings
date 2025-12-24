@@ -1506,12 +1506,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Quentin Skinner (NYJ)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kalel Mullings (TEN)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -3561,6 +3555,12 @@
     "player": "Al Riles (IND)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Quentin Skinner (NYJ)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -12336,7 +12336,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brett Rypien (None)",
+    "player": "Brett Rypien (MIN)",
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -14160,12 +14160,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Davante Adams (LAR)",
-    "ros_points": 68,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "David Porter (None)",
     "ros_points": 68,
     "trend": "+0.0",
@@ -14698,6 +14692,12 @@
     "ros_points": 67,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Davante Adams (LAR)",
+    "ros_points": 67,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Randall Cobb (None)",
