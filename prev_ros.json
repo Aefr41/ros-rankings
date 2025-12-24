@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-24T22:13:05.812865",
+  "timestamp": "2025-12-24T23:12:37.319036",
   "players": {
     "QB": [
       {
@@ -1158,7 +1158,7 @@
         "rank": 129,
         "player_id": "7591",
         "name": "Justin Fields",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -8099,7 +8099,7 @@
         "rank": 573,
         "player_id": "2749",
         "name": "Raheem Mostert",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
@@ -9361,7 +9361,7 @@
         "rank": 96,
         "player_id": "12492",
         "name": "Pat Bryant",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11881,7 +11881,7 @@
         "rank": 376,
         "player_id": "11895",
         "name": "Mason Tipton",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -12961,7 +12961,7 @@
         "rank": 496,
         "player_id": "12267",
         "name": "Qadir Ismail",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -15940,7 +15940,7 @@
         "rank": 827,
         "player_id": "5859",
         "name": "A.J. Brown",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -18505,7 +18505,7 @@
         "rank": 1112,
         "player_id": "2374",
         "name": "Tyler Lockett",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
@@ -21009,7 +21009,7 @@
         "rank": 151,
         "player_id": "10210",
         "name": "Cameron Latu",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -22044,7 +22044,7 @@
         "rank": 266,
         "player_id": "11433",
         "name": "Nate Adkins",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -23574,7 +23574,7 @@
         "rank": 436,
         "player_id": "5001",
         "name": "Dalton Schultz",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
