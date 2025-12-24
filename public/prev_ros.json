@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-24T20:14:10.747812",
+  "timestamp": "2025-12-24T21:11:34.592218",
   "players": {
     "QB": [
       {
@@ -5534,7 +5534,7 @@
         "rank": 288,
         "player_id": "8408",
         "name": "Jordan Mason",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6587,7 +6587,7 @@
         "rank": 405,
         "player_id": "8228",
         "name": "Jaylen Warren",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -6677,7 +6677,7 @@
         "rank": 415,
         "player_id": "6012",
         "name": "Travis Homer",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7883,7 +7883,7 @@
         "rank": 549,
         "player_id": "4199",
         "name": "Aaron Jones",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -12196,7 +12196,7 @@
         "rank": 411,
         "player_id": "10229",
         "name": "Rashee Rice",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13069,7 +13069,7 @@
         "rank": 508,
         "player_id": "8188",
         "name": "Tyquan Thornton",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -15922,7 +15922,7 @@
         "rank": 825,
         "player_id": "6847",
         "name": "Devin Duvernay",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -19983,7 +19983,7 @@
         "rank": 37,
         "player_id": "12502",
         "name": "Gunnar Helm",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -21513,7 +21513,7 @@
         "rank": 207,
         "player_id": "12374",
         "name": "Brenden Bates",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -22773,7 +22773,7 @@
         "rank": 347,
         "player_id": "5844",
         "name": "T.J. Hockenson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
