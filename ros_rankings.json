@@ -4362,6 +4362,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Thomas Gordon (CHI)",
+    "ros_points": 75,
+    "trend": "+75.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Calvin Jackson (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -15733,12 +15739,6 @@
   },
   {
     "player": "Cade Peterson (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Thomas Gordon (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
