@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-25T16:16:08.195547",
+  "timestamp": "2025-12-25T17:11:46.315816",
   "players": {
     "QB": [
       {
@@ -1266,7 +1266,7 @@
         "rank": 141,
         "player_id": "11558",
         "name": "Sam Hartman",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -2969,7 +2969,7 @@
         "rank": 3,
         "player_id": "12457",
         "name": "Jaydon Blue",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -5651,7 +5651,7 @@
         "rank": 301,
         "player_id": "10219",
         "name": "Chris Rodriguez",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -14275,7 +14275,7 @@
         "rank": 642,
         "player_id": "11783",
         "name": "Ryan Flournoy",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
