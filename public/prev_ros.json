@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-25T21:12:03.305209",
+  "timestamp": "2025-12-25T22:12:34.538958",
   "players": {
     "QB": [
       {
@@ -10630,7 +10630,7 @@
         "rank": 237,
         "player_id": "8112",
         "name": "Drake London",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11287,7 +11287,7 @@
         "rank": 310,
         "player_id": "13075",
         "name": "Myles Price",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12277,7 +12277,7 @@
         "rank": 420,
         "player_id": "10234",
         "name": "Derius Davis",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -14266,7 +14266,7 @@
         "rank": 641,
         "player_id": "11320",
         "name": "Nikko Remigio",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
