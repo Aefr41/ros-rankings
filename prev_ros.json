@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-26T19:10:02.957338",
+  "timestamp": "2025-12-26T20:13:55.067455",
   "players": {
     "QB": [
       {
@@ -1950,7 +1950,7 @@
         "rank": 217,
         "player_id": "4984",
         "name": "Josh Allen",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -8560,7 +8560,7 @@
         "rank": 7,
         "player_id": "12519",
         "name": "Luther Burden",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -8956,7 +8956,7 @@
         "rank": 51,
         "player_id": "11620",
         "name": "Rome Odunze",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -12763,7 +12763,7 @@
         "rank": 474,
         "player_id": "8144",
         "name": "Chris Olave",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -23592,7 +23592,7 @@
         "rank": 438,
         "player_id": "4033",
         "name": "David Njoku",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
