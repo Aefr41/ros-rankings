@@ -3831,7 +3831,7 @@
     "player": "Myles Price (MIN)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Tre'Shaun Harrison (None)",
@@ -5523,7 +5523,7 @@
     "player": "Dameon Pierce (KC)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Devlin Hodges (None)",
@@ -5965,12 +5965,6 @@
   },
   {
     "player": "Reggie White (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "David Martin-Robinson (TEN)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7866,12 +7860,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Carlos Washington (ATL)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Caden Prieskorn (CLE)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8121,6 +8109,12 @@
     "player": "Jerome Lane (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "David Martin-Robinson (TEN)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -9765,6 +9759,12 @@
     "player": "Lamar Atkins (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Carlos Washington (ATL)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -12054,12 +12054,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jeremy McNichols (WAS)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Deebo Samuel (WAS)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13074,6 +13068,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jeremy McNichols (WAS)",
+    "ros_points": 70,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Adam Humphries (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -13177,12 +13177,6 @@
   },
   {
     "player": "Geremy Davis (None)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Keith Kirkwood (BAL)",
     "ros_points": 70,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13762,6 +13756,12 @@
     "ros_points": 69,
     "trend": "+0.0",
     "quick_why": "Injury concern"
+  },
+  {
+    "player": "Keith Kirkwood (BAL)",
+    "ros_points": 69,
+    "trend": "-1.0",
+    "quick_why": "Veteran downgrade"
   },
   {
     "player": "Amari Cooper (None)",
@@ -14940,12 +14940,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Trevor Siemian (TEN)",
-    "ros_points": 67,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Damarr Aultman (None)",
     "ros_points": 67,
     "trend": "+0.0",
@@ -15141,6 +15135,12 @@
     "player": "Michael Dyer (None)",
     "ros_points": 66,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Trevor Siemian (TEN)",
+    "ros_points": 66,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
