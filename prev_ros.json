@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-26T20:13:55.067455",
+  "timestamp": "2025-12-26T21:11:18.889229",
   "players": {
     "QB": [
       {
@@ -6677,7 +6677,7 @@
         "rank": 415,
         "player_id": "6012",
         "name": "Travis Homer",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -13339,7 +13339,7 @@
         "rank": 538,
         "player_id": "8125",
         "name": "Calvin Austin",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -14554,7 +14554,7 @@
         "rank": 673,
         "player_id": "10228",
         "name": "Charlie Jones",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -15922,7 +15922,7 @@
         "rank": 825,
         "player_id": "6847",
         "name": "Devin Duvernay",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16147,7 +16147,7 @@
         "rank": 850,
         "player_id": "7612",
         "name": "Dee Eskridge",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16696,7 +16696,7 @@
         "rank": 911,
         "player_id": "4037",
         "name": "Chris Godwin",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -21819,7 +21819,7 @@
         "rank": 241,
         "player_id": "12062",
         "name": "Cam Grandy",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -22926,7 +22926,7 @@
         "rank": 364,
         "player_id": "5985",
         "name": "Foster Moreau",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -24384,7 +24384,7 @@
         "rank": 526,
         "player_id": "2505",
         "name": "Darren Waller",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
