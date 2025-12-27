@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-27T17:10:31.691706",
+  "timestamp": "2025-12-27T18:17:52.231610",
   "players": {
     "QB": [
       {
@@ -11062,7 +11062,7 @@
         "rank": 285,
         "player_id": "11762",
         "name": "Anthony Gould",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -16606,7 +16606,7 @@
         "rank": 901,
         "player_id": "6427",
         "name": "Ashton Dulin",
-        "injury_status": "IR",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -20199,7 +20199,7 @@
         "rank": 61,
         "player_id": "11597",
         "name": "Theo Johnson",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -22611,7 +22611,7 @@
         "rank": 329,
         "player_id": "8489",
         "name": "Drew Ogletree",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
