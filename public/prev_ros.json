@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-27T22:12:18.702212",
+  "timestamp": "2025-12-27T23:12:00.282847",
   "players": {
     "QB": [
       {
@@ -3284,7 +3284,7 @@
         "rank": 38,
         "player_id": "12529",
         "name": "TreVeyon Henderson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -22062,7 +22062,7 @@
         "rank": 268,
         "player_id": "12045",
         "name": "Jack Westover",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
