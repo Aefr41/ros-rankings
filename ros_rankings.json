@@ -558,12 +558,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ke'Shawn Williams (CIN)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Blayne Taylor (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1848,6 +1842,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Ke'Shawn Williams (CIN)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Jamie Newman (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -2263,12 +2263,6 @@
   },
   {
     "player": "Terry Wright (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Brenton Strange (JAX)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4506,6 +4500,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Brenton Strange (JAX)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Dezmon Patmon (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5394,12 +5394,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brock Purdy (SF)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Dillon Stoner (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5407,12 +5401,6 @@
   },
   {
     "player": "Chris Pierce (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Brevyn Spann-Ford (DAL)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6660,7 +6648,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tanner McLachlan (None)",
+    "player": "Tanner McLachlan (LAC)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7641,6 +7629,18 @@
     "player": "Jalen Camp (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Brock Purdy (SF)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Brevyn Spann-Ford (DAL)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -12108,12 +12108,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Nick Chubb (HOU)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Craig Reynolds (NE)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13101,6 +13095,12 @@
     "player": "J.J. Nelson (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Nick Chubb (HOU)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
