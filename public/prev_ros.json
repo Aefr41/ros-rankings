@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-27T20:13:58.512352",
+  "timestamp": "2025-12-27T21:11:05.469448",
   "players": {
     "QB": [
       {
@@ -834,7 +834,7 @@
         "rank": 93,
         "player_id": "12705",
         "name": "Graham Mertz",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -3824,7 +3824,7 @@
         "rank": 98,
         "player_id": "11647",
         "name": "Kimani Vidal",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -17317,7 +17317,7 @@
         "rank": 980,
         "player_id": "5121",
         "name": "Braxton Berrios",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -23727,7 +23727,7 @@
         "rank": 453,
         "player_id": "5133",
         "name": "Tyler Conklin",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
