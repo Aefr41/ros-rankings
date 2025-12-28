@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T03:40:31.697797",
+  "timestamp": "2025-12-28T04:37:56.810351",
   "players": {
     "QB": [
       {
@@ -1239,7 +1239,7 @@
         "rank": 138,
         "player_id": "8161",
         "name": "Malik Willis",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -10090,7 +10090,7 @@
         "rank": 177,
         "player_id": "9486",
         "name": "Dontayvion Wicks",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
