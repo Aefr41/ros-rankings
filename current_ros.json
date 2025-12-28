@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T19:10:06.200883",
+  "timestamp": "2025-12-28T20:14:22.335157",
   "players": {
     "QB": [
       {
@@ -924,7 +924,7 @@
         "rank": 103,
         "player_id": "8162",
         "name": "Sam Howell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -1509,7 +1509,7 @@
         "rank": 168,
         "player_id": "10866",
         "name": "Aidan O'Connell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -2607,7 +2607,7 @@
         "rank": 290,
         "player_id": "1234",
         "name": "Russell Wilson",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 63,
         "rank_change": 0,
         "trend": ""
@@ -5246,7 +5246,7 @@
         "rank": 256,
         "player_id": "11963",
         "name": "Chris Collier",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5705,7 +5705,7 @@
         "rank": 307,
         "player_id": "11654",
         "name": "Dante Miller",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6749,7 +6749,7 @@
         "rank": 423,
         "player_id": "6828",
         "name": "A.J. Dillon",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -8099,7 +8099,7 @@
         "rank": 573,
         "player_id": "2749",
         "name": "Raheem Mostert",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
@@ -8713,7 +8713,7 @@
         "rank": 24,
         "player_id": "11637",
         "name": "Keon Coleman",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9271,7 +9271,7 @@
         "rank": 86,
         "player_id": "12483",
         "name": "Jack Bech",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11089,7 +11089,7 @@
         "rank": 288,
         "player_id": "9497",
         "name": "Jalin Hyatt",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -15004,7 +15004,7 @@
         "rank": 723,
         "player_id": "8676",
         "name": "Rashid Shaheed",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -17128,7 +17128,7 @@
         "rank": 959,
         "player_id": "6853",
         "name": "Van Jefferson",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -18370,7 +18370,7 @@
         "rank": 1097,
         "player_id": "2334",
         "name": "Phillip Dorsett",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -19686,7 +19686,7 @@
         "rank": 4,
         "player_id": "12506",
         "name": "Harold Fannin",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -20244,7 +20244,7 @@
         "rank": 66,
         "player_id": "9479",
         "name": "Darnell Washington",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -21810,7 +21810,7 @@
         "rank": 240,
         "player_id": "10236",
         "name": "Dalton Kincaid",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -23304,7 +23304,7 @@
         "rank": 406,
         "player_id": "5906",
         "name": "Dawson Knox",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
