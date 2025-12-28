@@ -1956,12 +1956,6 @@
     "quick_why": "Injury concern"
   },
   {
-    "player": "Gee Scott (WAS)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Derrick Deese (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -2511,7 +2505,7 @@
     "player": "Savion Williams (GB)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Collin Schlee (None)",
@@ -3444,12 +3438,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dillon Gabriel (CLE)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Sione Vaki (DET)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4173,6 +4161,12 @@
     "player": "Dylan Soehner (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Gee Scott (WAS)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -5784,6 +5778,12 @@
     "quick_why": "Injury concern"
   },
   {
+    "player": "Dillon Gabriel (CLE)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Terry Swanson (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7146,7 +7146,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cody Schrader (None)",
+    "player": "Cody Schrader (DEN)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8031,7 +8031,7 @@
     "player": "Tylan Wallace (BAL)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Justin Jefferson (MIN)",
@@ -9343,12 +9343,6 @@
   },
   {
     "player": "John Hightower (None)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Sean McKeon (IND)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10899,6 +10893,12 @@
     "player": "Stanley Morgan (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Sean McKeon (IND)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
