@@ -450,12 +450,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jarquez Hunter (LAR)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jadon Haselwood (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1197,7 +1191,7 @@
     "player": "Jordan Watkins (SF)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Franko House (CHI)",
@@ -1563,6 +1557,12 @@
     "player": "Master Teague (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jarquez Hunter (LAR)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -2437,12 +2437,6 @@
   },
   {
     "player": "Nyqwan Murray (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Woody Marks (HOU)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4575,7 +4569,7 @@
     "player": "Isaac Guerendo (SF)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Bryce Sterk (None)",
@@ -4743,6 +4737,12 @@
     "player": "Terique Owens (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Woody Marks (HOU)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -10911,7 +10911,7 @@
     "player": "Olamide Zaccheaus (CHI)",
     "ros_points": 72,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Austin Carr (None)",
@@ -14319,7 +14319,7 @@
     "player": "George Kittle (SF)",
     "ros_points": 68,
     "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Nick Vannett (LAR)",
@@ -15201,7 +15201,7 @@
     "player": "Geno Smith (LV)",
     "ros_points": 65,
     "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Ryan Tannehill (None)",
@@ -15381,7 +15381,7 @@
     "player": "Case Keenum (CHI)",
     "ros_points": 63,
     "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Vernon Davis (None)",
