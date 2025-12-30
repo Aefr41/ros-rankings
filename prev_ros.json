@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-30T20:14:39.881559",
+  "timestamp": "2025-12-30T21:12:32.101133",
   "players": {
     "QB": [
       {
@@ -2004,7 +2004,7 @@
         "rank": 223,
         "player_id": "4892",
         "name": "Baker Mayfield",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -6245,7 +6245,7 @@
         "rank": 367,
         "player_id": "7021",
         "name": "Rico Dowdle",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -15130,7 +15130,7 @@
         "rank": 737,
         "player_id": "7039",
         "name": "Cody White",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
