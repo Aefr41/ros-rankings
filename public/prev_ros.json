@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-31T17:11:26.946043",
+  "timestamp": "2025-12-31T18:19:02.684526",
   "players": {
     "QB": [
       {
@@ -8668,7 +8668,7 @@
         "rank": 19,
         "player_id": "11624",
         "name": "Xavier Worthy",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9271,7 +9271,7 @@
         "rank": 86,
         "player_id": "11628",
         "name": "Marvin Harrison",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11080,7 +11080,7 @@
         "rank": 287,
         "player_id": "8126",
         "name": "Wan'Dale Robinson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11089,7 +11089,7 @@
         "rank": 288,
         "player_id": "9497",
         "name": "Jalin Hyatt",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -20244,7 +20244,7 @@
         "rank": 66,
         "player_id": "9479",
         "name": "Darnell Washington",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -23304,7 +23304,7 @@
         "rank": 406,
         "player_id": "5906",
         "name": "Dawson Knox",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
