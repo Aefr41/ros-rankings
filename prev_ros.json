@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-31T19:09:44.520692",
+  "timestamp": "2025-12-31T20:14:11.853582",
   "players": {
     "QB": [
       {
@@ -6245,7 +6245,7 @@
         "rank": 367,
         "player_id": "7021",
         "name": "Rico Dowdle",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -6668,7 +6668,7 @@
         "rank": 414,
         "player_id": "8800",
         "name": "Malik Davis",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -6965,7 +6965,7 @@
         "rank": 447,
         "player_id": "7204",
         "name": "Reggie Gilliam",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
