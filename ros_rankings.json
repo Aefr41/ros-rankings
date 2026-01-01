@@ -2607,7 +2607,7 @@
     "player": "Hunter Dekkers (NO)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Kevin Marks (None)",
@@ -14184,12 +14184,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Tyler Higbee (LAR)",
-    "ros_points": 68,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Vernon Johnson (None)",
     "ros_points": 68,
     "trend": "+0.0",
@@ -14710,6 +14704,12 @@
     "ros_points": 67,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Tyler Higbee (LAR)",
+    "ros_points": 67,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jarred Haggins (None)",

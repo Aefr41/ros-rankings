@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-31T23:12:59.013911",
+  "timestamp": "2026-01-01T01:10:27.473303",
   "players": {
     "QB": [
       {
@@ -348,7 +348,7 @@
         "rank": 39,
         "player_id": "13217",
         "name": "Hunter Dekkers",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -843,7 +843,7 @@
         "rank": 94,
         "player_id": "11562",
         "name": "Spencer Rattler",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -3023,7 +3023,7 @@
         "rank": 9,
         "player_id": "12507",
         "name": "Omarion Hampton",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -4940,7 +4940,7 @@
         "rank": 222,
         "player_id": "8207",
         "name": "Tyler Goodson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -8099,7 +8099,7 @@
         "rank": 573,
         "player_id": "2749",
         "name": "Raheem Mostert",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
@@ -9262,7 +9262,7 @@
         "rank": 85,
         "player_id": "12483",
         "name": "Jack Bech",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -15985,7 +15985,7 @@
         "rank": 832,
         "player_id": "6271",
         "name": "Olamide Zaccheaus",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16444,7 +16444,7 @@
         "rank": 883,
         "player_id": "11168",
         "name": "Xavier Smith",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -19767,7 +19767,7 @@
         "rank": 13,
         "player_id": "11600",
         "name": "Ja'Tavion Sanders",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -20595,7 +20595,7 @@
         "rank": 105,
         "player_id": "7553",
         "name": "Kyle Pitts",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -24130,138 +24130,138 @@
       },
       {
         "rank": 498,
-        "player_id": "3271",
-        "name": "Tyler Higbee",
-        "injury_status": "IR",
-        "ros_pts": 68,
-        "rank_change": 0,
-        "trend": ""
-      },
-      {
-        "rank": 499,
         "player_id": "2898",
         "name": "Cameron Clear",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 500,
+        "rank": 499,
         "player_id": "1269",
         "name": "Bradley Sowell",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 501,
+        "rank": 500,
         "player_id": "2755",
         "name": "Eric Tomlinson",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 502,
+        "rank": 501,
         "player_id": "4217",
         "name": "George Kittle",
         "injury_status": "Questionable",
         "ros_pts": 68,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 503,
+        "rank": 502,
         "player_id": "3258",
         "name": "Nick Vannett",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 504,
+        "rank": 503,
         "player_id": "3554",
         "name": "David Reeves",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 505,
+        "rank": 504,
         "player_id": "2446",
         "name": "MyCole Pruitt",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 506,
+        "rank": 505,
         "player_id": "2932",
         "name": "Eric Frohnapfel",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 507,
+        "rank": 506,
         "player_id": "2422",
         "name": "Blake Bell",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 508,
+        "rank": 507,
         "player_id": "2947",
         "name": "Clay Burton",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 509,
+        "rank": 508,
         "player_id": "2996",
         "name": "Logan Stokes",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 510,
+        "rank": 509,
         "player_id": "2460",
         "name": "C.J. Uzomah",
         "injury_status": "Questionable",
         "ros_pts": 68,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 511,
+        "rank": 510,
         "player_id": "2870",
         "name": "Ray Hamilton",
         "injury_status": null,
         "ros_pts": 68,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 512,
+        "rank": 511,
         "player_id": "1211",
         "name": "Rhett Ellison",
         "injury_status": null,
         "ros_pts": 67,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
+      },
+      {
+        "rank": 512,
+        "player_id": "3271",
+        "name": "Tyler Higbee",
+        "injury_status": "IR",
+        "ros_pts": 67,
+        "rank_change": -14,
+        "trend": "\u25bc"
       },
       {
         "rank": 513,
