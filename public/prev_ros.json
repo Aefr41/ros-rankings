@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-01T21:12:26.834465",
+  "timestamp": "2026-01-01T22:12:41.361212",
   "players": {
     "QB": [
       {
@@ -33,7 +33,7 @@
         "rank": 4,
         "player_id": "11565",
         "name": "J.J. McCarthy",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -834,7 +834,7 @@
         "rank": 93,
         "player_id": "12486",
         "name": "Dillon Gabriel",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -1662,7 +1662,7 @@
         "rank": 185,
         "player_id": "4881",
         "name": "Lamar Jackson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -4076,7 +4076,7 @@
         "rank": 126,
         "player_id": "12533",
         "name": "Jacory Croskey-Merritt",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -5525,7 +5525,7 @@
         "rank": 287,
         "player_id": "8408",
         "name": "Jordan Mason",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -11899,7 +11899,7 @@
         "rank": 378,
         "player_id": "8135",
         "name": "Treylon Burks",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -21495,7 +21495,7 @@
         "rank": 205,
         "player_id": "12374",
         "name": "Brenden Bates",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -22026,7 +22026,7 @@
         "rank": 264,
         "player_id": "8127",
         "name": "Charlie Kolar",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
