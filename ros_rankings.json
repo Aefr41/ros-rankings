@@ -2724,12 +2724,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "John Rhys Plumlee (PIT)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Casey Bauman (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4983,6 +4977,12 @@
     "player": "Sy Barnett (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "John Rhys Plumlee (PIT)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
