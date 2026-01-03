@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T20:13:58.390475",
+  "timestamp": "2026-01-03T21:11:33.246180",
   "players": {
     "QB": [
       {
@@ -699,7 +699,7 @@
         "rank": 78,
         "player_id": "12776",
         "name": "Connor Bazelak",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -10288,7 +10288,7 @@
         "rank": 199,
         "player_id": "12482",
         "name": "Savion Williams",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -17452,7 +17452,7 @@
         "rank": 995,
         "player_id": "5955",
         "name": "Hunter Renfrow",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -18289,7 +18289,7 @@
         "rank": 1088,
         "player_id": "3200",
         "name": "Sterling Shepard",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
