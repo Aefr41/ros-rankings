@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T17:11:14.958990",
+  "timestamp": "2026-01-03T18:18:04.522838",
   "players": {
     "QB": [
       {
@@ -3725,7 +3725,7 @@
         "rank": 87,
         "player_id": "12738",
         "name": "Phil Mafah",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -5282,7 +5282,7 @@
         "rank": 260,
         "player_id": "7588",
         "name": "Javonte Williams",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -6668,7 +6668,7 @@
         "rank": 414,
         "player_id": "8800",
         "name": "Malik Davis",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
