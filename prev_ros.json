@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T21:11:33.246180",
+  "timestamp": "2026-01-03T22:12:06.503833",
   "players": {
     "QB": [
       {
@@ -3257,7 +3257,7 @@
         "rank": 35,
         "player_id": "11571",
         "name": "Isaiah Davis",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11080,7 +11080,7 @@
         "rank": 287,
         "player_id": "8126",
         "name": "Wan'Dale Robinson",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12016,7 +12016,7 @@
         "rank": 391,
         "player_id": "11959",
         "name": "Bryce Oliver",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13942,7 +13942,7 @@
         "rank": 605,
         "player_id": "7571",
         "name": "Rashod Bateman",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -19677,7 +19677,7 @@
         "rank": 3,
         "player_id": "12498",
         "name": "Mason Taylor",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
