@@ -1617,7 +1617,7 @@
     "player": "Jalen Milroe (SEA)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Isaiah Bowser (None)",
@@ -1909,12 +1909,6 @@
   },
   {
     "player": "Blake Proehl (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Malik Washington (MIA)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2853,7 +2847,7 @@
     "player": "Nick Kallerup (SEA)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Cade McDonald (None)",
@@ -4122,6 +4116,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Malik Washington (MIA)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Hamze El-Zayat (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -4557,7 +4557,7 @@
     "player": "Isaac Guerendo (SF)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Bryce Sterk (None)",
@@ -4599,7 +4599,7 @@
     "player": "Ricky Pearsall (SF)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Cameron Scarlett (None)",
@@ -13734,12 +13734,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Derrick Henry (BAL)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Damiere Byrd (None)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -14217,6 +14211,12 @@
     "player": "Tim Patrick (JAX)",
     "ros_points": 68,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Derrick Henry (BAL)",
+    "ros_points": 68,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
