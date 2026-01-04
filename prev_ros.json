@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-04T20:14:37.972449",
+  "timestamp": "2026-01-04T21:11:32.735521",
   "players": {
     "QB": [
       {
@@ -5462,7 +5462,7 @@
         "rank": 280,
         "player_id": "8205",
         "name": "Isiah Pacheco",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -8668,7 +8668,7 @@
         "rank": 19,
         "player_id": "11624",
         "name": "Xavier Worthy",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -24465,7 +24465,7 @@
         "rank": 535,
         "player_id": "4381",
         "name": "Taysom Hill",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 65,
         "rank_change": 0,
         "trend": ""
