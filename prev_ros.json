@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-04T16:14:42.244248",
+  "timestamp": "2026-01-04T17:11:25.238490",
   "players": {
     "QB": [
       {
@@ -825,7 +825,7 @@
         "rank": 92,
         "player_id": "12705",
         "name": "Graham Mertz",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -843,7 +843,7 @@
         "rank": 94,
         "player_id": "11562",
         "name": "Spencer Rattler",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -1239,7 +1239,7 @@
         "rank": 138,
         "player_id": "8161",
         "name": "Malik Willis",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -1833,7 +1833,7 @@
         "rank": 204,
         "player_id": "6111",
         "name": "Jake Browning",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -1869,7 +1869,7 @@
         "rank": 208,
         "player_id": "6037",
         "name": "Brett Rypien",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -2121,7 +2121,7 @@
         "rank": 236,
         "player_id": "5806",
         "name": "John Wolford",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -2607,7 +2607,7 @@
         "rank": 290,
         "player_id": "1234",
         "name": "Russell Wilson",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 63,
         "rank_change": 0,
         "trend": ""
@@ -2733,7 +2733,7 @@
         "rank": 304,
         "player_id": "331",
         "name": "Philip Rivers",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 56,
         "rank_change": 0,
         "trend": ""
@@ -3725,7 +3725,7 @@
         "rank": 87,
         "player_id": "12738",
         "name": "Phil Mafah",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -5696,7 +5696,7 @@
         "rank": 306,
         "player_id": "11654",
         "name": "Dante Miller",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6713,7 +6713,7 @@
         "rank": 419,
         "player_id": "5850",
         "name": "Josh Jacobs",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7649,7 +7649,7 @@
         "rank": 523,
         "player_id": "4988",
         "name": "Nick Chubb",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -9937,7 +9937,7 @@
         "rank": 160,
         "player_id": "11806",
         "name": "Casey Washington",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -10072,7 +10072,7 @@
         "rank": 175,
         "player_id": "9486",
         "name": "Dontayvion Wicks",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -10612,7 +10612,7 @@
         "rank": 235,
         "player_id": "8112",
         "name": "Drake London",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11080,7 +11080,7 @@
         "rank": 287,
         "player_id": "9497",
         "name": "Jalin Hyatt",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11746,7 +11746,7 @@
         "rank": 361,
         "player_id": "11633",
         "name": "Jamari Thrash",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -12484,7 +12484,7 @@
         "rank": 443,
         "player_id": "11210",
         "name": "Malik Heath",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -12808,7 +12808,7 @@
         "rank": 479,
         "player_id": "11421",
         "name": "Ryan Miller",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13456,7 +13456,7 @@
         "rank": 551,
         "player_id": "7569",
         "name": "Nico Collins",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16138,7 +16138,7 @@
         "rank": 849,
         "player_id": "7090",
         "name": "Darnell Mooney",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -17317,7 +17317,7 @@
         "rank": 980,
         "player_id": "5121",
         "name": "Braxton Berrios",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -20595,7 +20595,7 @@
         "rank": 105,
         "player_id": "7553",
         "name": "Kyle Pitts",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -20928,7 +20928,7 @@
         "rank": 142,
         "player_id": "12901",
         "name": "Patrick Herbert",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -21819,7 +21819,7 @@
         "rank": 241,
         "player_id": "12062",
         "name": "Cam Grandy",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -22305,7 +22305,7 @@
         "rank": 295,
         "player_id": "7535",
         "name": "Hunter Long",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
