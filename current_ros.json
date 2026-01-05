@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-05T22:13:34.959107",
+  "timestamp": "2026-01-05T23:12:56.348303",
   "players": {
     "QB": [
       {
@@ -6047,7 +6047,7 @@
         "rank": 345,
         "player_id": "11568",
         "name": "Blake Watson",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -9802,7 +9802,7 @@
         "rank": 145,
         "player_id": "12532",
         "name": "Ja'Corey Brooks",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -21306,7 +21306,7 @@
         "rank": 184,
         "player_id": "11113",
         "name": "Joel Wilson",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
