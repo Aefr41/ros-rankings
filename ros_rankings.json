@@ -5208,12 +5208,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Julian Hicks (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Toa Taua (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5586,7 +5580,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Messiah Swinson (None)",
+    "player": "Messiah Swinson (GB)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7551,6 +7545,12 @@
     "player": "Zavier Scott (MIN)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Julian Hicks (GB)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -16296,7 +16296,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kisean Johnson (None)",
+    "player": "Kisean Johnson (GB)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
