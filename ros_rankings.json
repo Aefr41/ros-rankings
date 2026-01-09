@@ -2145,7 +2145,7 @@
     "player": "Dontayvion Wicks (GB)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Montorie Foster (SEA)",
@@ -2707,12 +2707,6 @@
   },
   {
     "player": "Kerryon Johnson (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Isaiah Wooden (None)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5025,6 +5019,12 @@
     "player": "George Campbell (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Isaiah Wooden (CLE)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
