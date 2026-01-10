@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-10T20:14:24.157640",
+  "timestamp": "2026-01-10T21:11:22.946806",
   "players": {
     "QB": [
       {
@@ -1707,7 +1707,7 @@
         "rank": 190,
         "player_id": "10857",
         "name": "Stetson Bennett",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -6011,7 +6011,7 @@
         "rank": 341,
         "player_id": "11588",
         "name": "Jawhar Jordan",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -17542,7 +17542,7 @@
         "rank": 1005,
         "player_id": "4274",
         "name": "David Moore",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -19740,7 +19740,7 @@
         "rank": 9,
         "player_id": "12487",
         "name": "Terrance Ferguson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
