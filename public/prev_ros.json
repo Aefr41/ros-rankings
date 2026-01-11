@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-11T20:14:24.488085",
+  "timestamp": "2026-01-11T21:11:37.673983",
   "players": {
     "QB": [
       {
@@ -906,7 +906,7 @@
         "rank": 101,
         "player_id": "8162",
         "name": "Sam Howell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -4661,7 +4661,7 @@
         "rank": 191,
         "player_id": "11651",
         "name": "Isaac Guerendo",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -6749,7 +6749,7 @@
         "rank": 423,
         "player_id": "6828",
         "name": "A.J. Dillon",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -9253,7 +9253,7 @@
         "rank": 84,
         "player_id": "12634",
         "name": "Jordan Watkins",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11827,7 +11827,7 @@
         "rank": 370,
         "player_id": "11638",
         "name": "Ricky Pearsall",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13879,7 +13879,7 @@
         "rank": 598,
         "player_id": "6943",
         "name": "Gabe Davis",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
