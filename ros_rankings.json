@@ -543,7 +543,7 @@
     "player": "Jahdae Walker (CHI)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Dominick Wood-Anderson (None)",
@@ -4104,12 +4104,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Chris Brooks (GB)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kadarius Toney (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6351,7 +6345,7 @@
     "player": "Jakobie Keeney-James (GB)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Ben Bryant (None)",
@@ -6627,6 +6621,12 @@
     "player": "Jason Brownlee (KC)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Chris Brooks (GB)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -7815,7 +7815,7 @@
     "player": "Desmond Ridder (GB)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Anthony Manzo-Lewis (None)",
@@ -15387,7 +15387,7 @@
     "player": "Case Keenum (CHI)",
     "ros_points": 63,
     "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Vernon Davis (None)",
