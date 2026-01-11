@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-11T07:15:00.948146",
+  "timestamp": "2026-01-11T08:17:00.025258",
   "players": {
     "QB": [
       {
@@ -1185,7 +1185,7 @@
         "rank": 132,
         "player_id": "8159",
         "name": "Desmond Ridder",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
