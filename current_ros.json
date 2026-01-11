@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-11T16:15:22.659811",
+  "timestamp": "2026-01-11T17:10:58.283416",
   "players": {
     "QB": [
       {
@@ -6524,7 +6524,7 @@
         "rank": 398,
         "player_id": "6931",
         "name": "DeeJay Dallas",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7055,7 +7055,7 @@
         "rank": 457,
         "player_id": "6039",
         "name": "Ty Johnson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -13348,7 +13348,7 @@
         "rank": 539,
         "player_id": "7587",
         "name": "Dyami Brown",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -19875,7 +19875,7 @@
         "rank": 24,
         "player_id": "12765",
         "name": "Keleki Latu",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -22305,7 +22305,7 @@
         "rank": 294,
         "player_id": "7535",
         "name": "Hunter Long",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
