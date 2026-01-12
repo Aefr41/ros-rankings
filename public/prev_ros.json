@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-12T13:36:30.146856",
+  "timestamp": "2026-01-12T14:17:56.380069",
   "players": {
     "QB": [
       {
@@ -906,7 +906,7 @@
         "rank": 101,
         "player_id": "8162",
         "name": "Sam Howell",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -1491,7 +1491,7 @@
         "rank": 166,
         "player_id": "11292",
         "name": "Tommy DeVito",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -1707,7 +1707,7 @@
         "rank": 190,
         "player_id": "10857",
         "name": "Stetson Bennett",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -2598,7 +2598,7 @@
         "rank": 289,
         "player_id": "1737",
         "name": "Case Keenum",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 63,
         "rank_change": 0,
         "trend": ""
@@ -4661,7 +4661,7 @@
         "rank": 191,
         "player_id": "11651",
         "name": "Isaac Guerendo",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -6524,7 +6524,7 @@
         "rank": 398,
         "player_id": "6931",
         "name": "DeeJay Dallas",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -6749,7 +6749,7 @@
         "rank": 423,
         "player_id": "6828",
         "name": "A.J. Dillon",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7055,7 +7055,7 @@
         "rank": 457,
         "player_id": "6039",
         "name": "Ty Johnson",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -8857,7 +8857,7 @@
         "rank": 40,
         "player_id": "13079",
         "name": "Jahdae Walker",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9253,7 +9253,7 @@
         "rank": 84,
         "player_id": "12634",
         "name": "Jordan Watkins",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -10009,7 +10009,7 @@
         "rank": 168,
         "player_id": "9486",
         "name": "Dontayvion Wicks",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -10036,7 +10036,7 @@
         "rank": 171,
         "player_id": "13202",
         "name": "Dalevon Campbell",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -10684,7 +10684,7 @@
         "rank": 243,
         "player_id": "13124",
         "name": "Jeremiah Webb",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11827,7 +11827,7 @@
         "rank": 370,
         "player_id": "11638",
         "name": "Ricky Pearsall",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -12592,7 +12592,7 @@
         "rank": 455,
         "player_id": "11623",
         "name": "Jordan Whittington",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13015,7 +13015,7 @@
         "rank": 502,
         "player_id": "12935",
         "name": "Jakobie Keeney-James",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13348,7 +13348,7 @@
         "rank": 539,
         "player_id": "7587",
         "name": "Dyami Brown",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -19740,7 +19740,7 @@
         "rank": 9,
         "player_id": "12487",
         "name": "Terrance Ferguson",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -19875,7 +19875,7 @@
         "rank": 24,
         "player_id": "12765",
         "name": "Keleki Latu",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -19983,7 +19983,7 @@
         "rank": 36,
         "player_id": "12984",
         "name": "CJ Dippre",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -22305,7 +22305,7 @@
         "rank": 294,
         "player_id": "7535",
         "name": "Hunter Long",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -23727,7 +23727,7 @@
         "rank": 452,
         "player_id": "5133",
         "name": "Tyler Conklin",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
