@@ -1239,7 +1239,7 @@
     "player": "CJ Dippre (NE)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Kyle Monangai (CHI)",
@@ -2088,12 +2088,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Sam LaPorta (DET)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Jordan Travis (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -2163,7 +2157,7 @@
     "player": "Dalevon Campbell (LAC)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Terry Wright (None)",
@@ -3009,7 +3003,7 @@
     "player": "Jeremiah Webb (NE)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "James Blackman (None)",
@@ -4348,6 +4342,12 @@
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Sam LaPorta (DET)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Joseph Parker (None)",
@@ -6600,12 +6600,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Rachaad White (TB)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Tanner McLachlan (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8724,6 +8718,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Rachaad White (TB)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Darrius Shepherd (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -9507,7 +9507,7 @@
     "player": "Tommy DeVito (NE)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Cody White (SEA)",
@@ -11670,12 +11670,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Darius Slayton (NYG)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Miles Sanders (DAL)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12726,6 +12720,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Darius Slayton (NYG)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Jamaal Williams (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13209,7 +13209,7 @@
     "player": "Tyler Conklin (LAC)",
     "ros_points": 70,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "C.J. Anderson (None)",
