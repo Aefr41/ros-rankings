@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-12T22:12:34.703222",
+  "timestamp": "2026-01-12T23:11:21.922600",
   "players": {
     "QB": [
       {
@@ -9577,7 +9577,7 @@
         "rank": 120,
         "player_id": "12788",
         "name": "Will Sheppard",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -14599,7 +14599,7 @@
         "rank": 678,
         "player_id": "6927",
         "name": "Quez Watkins",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
