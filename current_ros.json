@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-13T11:13:27.873863",
+  "timestamp": "2026-01-13T12:29:11.090762",
   "players": {
     "QB": [
       {
@@ -366,7 +366,7 @@
         "rank": 41,
         "player_id": "12511",
         "name": "Will Howard",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -816,7 +816,7 @@
         "rank": 91,
         "player_id": "12705",
         "name": "Graham Mertz",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -3059,7 +3059,7 @@
         "rank": 13,
         "player_id": "12504",
         "name": "Kaleb Johnson",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -6002,7 +6002,7 @@
         "rank": 340,
         "player_id": "11588",
         "name": "Jawhar Jordan",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -10153,7 +10153,7 @@
         "rank": 184,
         "player_id": "11630",
         "name": "Roman Wilson",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -17326,7 +17326,7 @@
         "rank": 981,
         "player_id": "5121",
         "name": "Braxton Berrios",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
