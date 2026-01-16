@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-16T20:14:33.686382",
+  "timestamp": "2026-01-16T21:13:23.680764",
   "players": {
     "QB": [
       {
@@ -5993,7 +5993,7 @@
         "rank": 339,
         "player_id": "11588",
         "name": "Jawhar Jordan",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -13456,7 +13456,7 @@
         "rank": 551,
         "player_id": "7569",
         "name": "Nico Collins",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -17200,7 +17200,7 @@
         "rank": 967,
         "player_id": "5374",
         "name": "Justin Watson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
