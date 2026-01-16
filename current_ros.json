@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-16T01:04:59.389238",
+  "timestamp": "2026-01-16T03:23:34.567150",
   "players": {
     "QB": [
       {
@@ -2690,8 +2690,8 @@
         "name": "Matt Schaub",
         "injury_status": null,
         "ros_pts": 60,
-        "rank_change": 1,
-        "trend": "\u25b2"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 300,
@@ -2699,8 +2699,8 @@
         "name": "Joe Flacco",
         "injury_status": null,
         "ros_pts": 59,
-        "rank_change": -1,
-        "trend": "\u25bc"
+        "rank_change": 0,
+        "trend": ""
       },
       {
         "rank": 301,
