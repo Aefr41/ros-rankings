@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-17T20:13:59.230328",
+  "timestamp": "2026-01-17T21:11:05.683691",
   "players": {
     "QB": [
       {
@@ -1356,7 +1356,7 @@
         "rank": 151,
         "player_id": "7583",
         "name": "Sam Ehlinger",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7055,7 +7055,7 @@
         "rank": 457,
         "player_id": "6039",
         "name": "Ty Johnson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -11872,7 +11872,7 @@
         "rank": 375,
         "player_id": "7596",
         "name": "Elijah Moore",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -16687,7 +16687,7 @@
         "rank": 910,
         "player_id": "4082",
         "name": "Curtis Samuel",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -19875,7 +19875,7 @@
         "rank": 24,
         "player_id": "12765",
         "name": "Keleki Latu",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -20181,7 +20181,7 @@
         "rank": 58,
         "player_id": "12735",
         "name": "Caleb Lohner",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
