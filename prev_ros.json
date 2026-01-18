@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-18T03:29:17.819562",
+  "timestamp": "2026-01-18T04:35:25.959512",
   "players": {
     "QB": [
       {
@@ -7343,7 +7343,7 @@
         "rank": 489,
         "player_id": "4034",
         "name": "Christian McCaffrey",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -21432,7 +21432,7 @@
         "rank": 197,
         "player_id": "8698",
         "name": "Jake Tonges",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
