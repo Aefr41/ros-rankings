@@ -1497,7 +1497,7 @@
     "player": "Jarquez Hunter (LAR)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Pete Guerriero (None)",
@@ -7113,7 +7113,7 @@
     "player": "Tutu Atwell (LAR)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Ja'Marcus Bradley (None)",
@@ -10638,12 +10638,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ben DiNucci (None)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Tanner Gentry (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -11019,7 +11013,7 @@
     "player": "Stetson Bennett (LAR)",
     "ros_points": 72,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Nick Bowers (None)",
@@ -12009,6 +12003,12 @@
     "player": "Brandon Brown-Dukes (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Ben DiNucci (DEN)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14331,7 +14331,7 @@
     "player": "Nick Vannett (LAR)",
     "ros_points": 68,
     "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jake Coker (None)",
