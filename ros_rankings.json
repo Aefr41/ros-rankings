@@ -243,7 +243,7 @@
     "player": "Troy Franklin (DEN)",
     "ros_points": 78,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Travis Hunter (JAX)",
@@ -1137,7 +1137,7 @@
     "player": "Jordan Watkins (SF)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Franko House (CHI)",
@@ -1173,7 +1173,7 @@
     "player": "Pat Bryant (DEN)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Sam Brown (None)",
@@ -1557,7 +1557,7 @@
     "player": "Jalen Milroe (SEA)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Isaiah Bowser (None)",
@@ -4503,7 +4503,7 @@
     "player": "Isaac Guerendo (SF)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Bryce Sterk (None)",
@@ -6828,12 +6828,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jake Ferguson (DAL)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Micky Crum (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -6907,12 +6901,6 @@
   },
   {
     "player": "Denzel Mims (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Tee Higgins (CIN)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8964,6 +8952,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jake Ferguson (DAL)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Joe Horn (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -9021,6 +9015,12 @@
     "player": "Justin Herbert (LAC)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tee Higgins (CIN)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
