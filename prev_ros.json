@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-19T13:39:07.103519",
+  "timestamp": "2026-01-19T14:19:36.136774",
   "players": {
     "QB": [
       {
@@ -168,7 +168,7 @@
         "rank": 19,
         "player_id": "12510",
         "name": "Jalen Milroe",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -816,7 +816,7 @@
         "rank": 91,
         "player_id": "12705",
         "name": "Graham Mertz",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -1356,7 +1356,7 @@
         "rank": 151,
         "player_id": "7583",
         "name": "Sam Ehlinger",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -1482,7 +1482,7 @@
         "rank": 165,
         "player_id": "11292",
         "name": "Tommy DeVito",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -1698,7 +1698,7 @@
         "rank": 189,
         "player_id": "10857",
         "name": "Stetson Bennett",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -2598,7 +2598,7 @@
         "rank": 289,
         "player_id": "1737",
         "name": "Case Keenum",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 63,
         "rank_change": 0,
         "trend": ""
@@ -3635,7 +3635,7 @@
         "rank": 77,
         "player_id": "11569",
         "name": "Jarquez Hunter",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -4661,7 +4661,7 @@
         "rank": 191,
         "player_id": "11651",
         "name": "Isaac Guerendo",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5993,7 +5993,7 @@
         "rank": 339,
         "player_id": "11588",
         "name": "Jawhar Jordan",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -7055,7 +7055,7 @@
         "rank": 457,
         "player_id": "6039",
         "name": "Ty Johnson",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -8857,7 +8857,7 @@
         "rank": 40,
         "player_id": "13079",
         "name": "Jahdae Walker",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9253,7 +9253,7 @@
         "rank": 84,
         "player_id": "12634",
         "name": "Jordan Watkins",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11872,7 +11872,7 @@
         "rank": 375,
         "player_id": "7596",
         "name": "Elijah Moore",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13438,7 +13438,7 @@
         "rank": 549,
         "player_id": "7569",
         "name": "Nico Collins",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -13492,7 +13492,7 @@
         "rank": 555,
         "player_id": "7562",
         "name": "Tutu Atwell",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -17200,7 +17200,7 @@
         "rank": 967,
         "player_id": "5374",
         "name": "Justin Watson",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -19875,7 +19875,7 @@
         "rank": 24,
         "player_id": "12765",
         "name": "Keleki Latu",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -19983,7 +19983,7 @@
         "rank": 36,
         "player_id": "12984",
         "name": "CJ Dippre",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -20181,7 +20181,7 @@
         "rank": 58,
         "player_id": "12735",
         "name": "Caleb Lohner",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -24177,7 +24177,7 @@
         "rank": 502,
         "player_id": "3258",
         "name": "Nick Vannett",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
