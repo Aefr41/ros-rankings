@@ -8508,12 +8508,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tucker Fisk (LAC)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Matthew Eaton (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8551,12 +8545,6 @@
   },
   {
     "player": "Jarvion Franklin (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jonathan Taylor (IND)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10296,6 +10284,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Tucker Fisk (LAC)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Amara Darboh (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -10336,6 +10330,12 @@
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Injury concern"
+  },
+  {
+    "player": "Jonathan Taylor (IND)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
   },
   {
     "player": "A.J. Dillon (PHI)",
@@ -12008,7 +12008,7 @@
   {
     "player": "Ben DiNucci (DEN)",
     "ros_points": 71,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
@@ -12765,7 +12765,7 @@
     "player": "Dalton Schultz (HOU)",
     "ros_points": 71,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Trevon Wesco (None)",
