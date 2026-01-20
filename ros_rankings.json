@@ -12,12 +12,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Braelon Allen (NYJ)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Trevor Etienne (CAR)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -174,6 +168,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Braelon Allen (NYJ)",
+    "ros_points": 78,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
+  },
+  {
     "player": "Kaleb Johnson (PIT)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -205,12 +205,6 @@
   },
   {
     "player": "Tiyon Evans (None)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "J.J. McCarthy (MIN)",
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -924,6 +918,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "J.J. McCarthy (MIN)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Riley Leonard (IND)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1039,12 +1039,6 @@
   },
   {
     "player": "Holton Ahlers (None)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Mark Redman (LAR)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2859,6 +2853,12 @@
     "player": "Davis Allen (LAR)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Mark Redman (LAR)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -7920,12 +7920,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Emari Demercado (ARI)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Josh Whyle (GB)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8746,12 +8740,6 @@
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
-  },
-  {
-    "player": "Ko Kieft (TB)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
   },
   {
     "player": "Jaylen Waddle (MIA)",
@@ -9858,6 +9846,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Emari Demercado (ARI)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Qadree Ollison (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -10510,6 +10504,12 @@
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Ko Kieft (TB)",
+    "ros_points": 72,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Daniel Jones (IND)",
