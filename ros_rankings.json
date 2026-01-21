@@ -258,12 +258,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mario Williams (LAR)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Malik Nabers (NYG)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -571,12 +565,6 @@
   },
   {
     "player": "Isaac TeSlaa (DET)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Corey Kiner (ARI)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -996,6 +984,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Mario Williams (LAR)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "DeWayne McBride (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1332,7 +1326,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kyle McCord (None)",
+    "player": "Kyle McCord (GB)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -1923,6 +1917,12 @@
     "player": "Ryan Becker (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Corey Kiner (ARI)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -7290,12 +7290,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Quintin Morris (JAX)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Alex Wesley (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9312,6 +9306,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Quintin Morris (JAX)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Joshua Kelley (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -10122,7 +10122,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brandon Johnson (None)",
+    "player": "Brandon Johnson (DEN)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10756,12 +10756,6 @@
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Injury concern"
-  },
-  {
-    "player": "Nikola Kalinic (CHI)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
   },
   {
     "player": "Velus Jones (SEA)",
@@ -12135,6 +12129,12 @@
     "player": "Russell Gage (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Nikola Kalinic (CHI)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
