@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-25T18:19:07.863693",
+  "timestamp": "2026-01-25T19:10:51.345955",
   "players": {
     "QB": [
       {
@@ -1482,7 +1482,7 @@
         "rank": 165,
         "player_id": "11292",
         "name": "Tommy DeVito",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -8605,7 +8605,7 @@
         "rank": 12,
         "player_id": "11627",
         "name": "Troy Franklin",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9757,7 +9757,7 @@
         "rank": 140,
         "player_id": "12542",
         "name": "Efton Chism",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -15958,7 +15958,7 @@
         "rank": 829,
         "player_id": "8076",
         "name": "Michael Bandy",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -18181,7 +18181,7 @@
         "rank": 1076,
         "player_id": "4177",
         "name": "Mack Hollins",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -19974,7 +19974,7 @@
         "rank": 35,
         "player_id": "12984",
         "name": "CJ Dippre",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
