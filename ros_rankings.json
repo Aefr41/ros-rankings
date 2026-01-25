@@ -2316,12 +2316,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Bryce Pierre (CAR)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Eli Wolf (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3540,12 +3534,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kyrese Rowan (DEN)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Josh Pearson (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4665,6 +4653,12 @@
     "player": "Daniel Bellinger (NYG)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Bryce Pierre (CAR)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -5985,6 +5979,12 @@
     "player": "Derek Wright (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Kyrese Rowan (DEN)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
