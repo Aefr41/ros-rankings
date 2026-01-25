@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-25T22:12:56.358215",
+  "timestamp": "2026-01-25T23:13:14.870032",
   "players": {
     "QB": [
       {
@@ -168,7 +168,7 @@
         "rank": 19,
         "player_id": "12510",
         "name": "Jalen Milroe",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -1698,7 +1698,7 @@
         "rank": 189,
         "player_id": "10857",
         "name": "Stetson Bennett",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -3338,7 +3338,7 @@
         "rank": 44,
         "player_id": "12656",
         "name": "Robbie Ouzts",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -3626,7 +3626,7 @@
         "rank": 76,
         "player_id": "11569",
         "name": "Jarquez Hunter",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9280,7 +9280,7 @@
         "rank": 87,
         "player_id": "12492",
         "name": "Pat Bryant",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -13492,7 +13492,7 @@
         "rank": 555,
         "player_id": "7562",
         "name": "Tutu Atwell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -15868,7 +15868,7 @@
         "rank": 819,
         "player_id": "8223",
         "name": "Velus Jones",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -19767,7 +19767,7 @@
         "rank": 12,
         "player_id": "12521",
         "name": "Elijah Arroyo",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -24177,7 +24177,7 @@
         "rank": 502,
         "player_id": "3258",
         "name": "Nick Vannett",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
