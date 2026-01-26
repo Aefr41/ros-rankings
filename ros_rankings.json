@@ -1155,7 +1155,7 @@
     "player": "Pat Bryant (DEN)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Sam Brown (None)",
@@ -7734,12 +7734,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Travis Etienne (JAX)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jordan Smallwood (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9687,6 +9681,12 @@
     "player": "Seth Green (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Travis Etienne (JAX)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13242,12 +13242,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Joshua Dobbs (NE)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Josh Magee (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -13851,6 +13845,12 @@
     "player": "Allen Robinson (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Joshua Dobbs (NE)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
