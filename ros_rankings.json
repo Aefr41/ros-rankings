@@ -4542,12 +4542,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ronnie Bell (NO)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Daewood Davis (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7008,6 +7002,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Ronnie Bell (NO)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Damon Sheehy-Guiseppi (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9228,12 +9228,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jack Stoll (NO)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Dez Fitzpatrick (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -10804,6 +10798,12 @@
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Jack Stoll (NO)",
+    "ros_points": 72,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Rashard Higgins (None)",
