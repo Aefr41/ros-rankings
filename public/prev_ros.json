@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-28T19:19:57.195011",
+  "timestamp": "2026-01-28T20:19:55.746537",
   "players": {
     "QB": [
       {
@@ -2866,8 +2866,8 @@
       },
       {
         "rank": 319,
-        "player_id": "12352",
-        "name": "Jeremy Moussa",
+        "player_id": "13269",
+        "name": "Fernando Mendoza",
         "injury_status": null,
         "ros_pts": 0.0,
         "rank_change": 0,
@@ -2875,75 +2875,84 @@
       },
       {
         "rank": 320,
+        "player_id": "12352",
+        "name": "Jeremy Moussa",
+        "injury_status": null,
+        "ros_pts": 0.0,
+        "rank_change": -1,
+        "trend": "\u25bc"
+      },
+      {
+        "rank": 321,
         "player_id": "2206",
         "name": "Logan Kilgore",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 321,
+        "rank": 322,
         "player_id": "12268",
         "name": "Colby Suits",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 322,
+        "rank": 323,
         "player_id": "12278",
         "name": "Jacob Sirmon",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 323,
+        "rank": 324,
         "player_id": "6596",
         "name": "Jalan McClendon",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 324,
+        "rank": 325,
         "player_id": "4683",
         "name": "Aaron Bailey",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 325,
+        "rank": 326,
         "player_id": "11932",
         "name": "Mike DiLiello",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 326,
+        "rank": 327,
         "player_id": "12324",
         "name": "William Thompson",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 327,
+        "rank": 328,
         "player_id": "12361",
         "name": "Aeneas Dennis",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       }
     ],
     "RB": [
@@ -18935,35 +18944,35 @@
       },
       {
         "rank": 1160,
-        "player_id": "11612",
-        "name": "Bru McCoy",
-        "injury_status": null,
-        "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
-      },
-      {
-        "rank": 1161,
         "player_id": "13246",
         "name": "Jaden Smith",
         "injury_status": "IR",
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 1162,
+        "rank": 1161,
         "player_id": "4798",
         "name": "C.J. Germany",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
+      },
+      {
+        "rank": 1162,
+        "player_id": "12913",
+        "name": "J.J. Jones",
+        "injury_status": null,
+        "ros_pts": 0.0,
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
         "rank": 1163,
-        "player_id": "12913",
-        "name": "J.J. Jones",
+        "player_id": "13268",
+        "name": "Elijah Sarratt",
         "injury_status": null,
         "ros_pts": 0.0,
         "rank_change": 0,
