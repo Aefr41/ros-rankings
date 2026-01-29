@@ -2022,12 +2022,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Isaiah Williams (NYJ)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Keytaon Thompson (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3348,12 +3342,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Xavier Legette (CAR)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Zach Heins (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4293,6 +4281,12 @@
     "player": "Isaiah Likely (BAL)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Isaiah Williams (NYJ)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -5727,6 +5721,12 @@
     "player": "Spencer Rattler (NO)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Xavier Legette (CAR)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
