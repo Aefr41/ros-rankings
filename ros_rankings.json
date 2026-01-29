@@ -3254,8 +3254,8 @@
   {
     "player": "Antonio Williams (None)",
     "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
+    "trend": "+76.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "AJ Henning (MIA)",
@@ -4236,7 +4236,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Thomas Gordon (None)",
+    "player": "Thomas Gordon (DET)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8190,7 +8190,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "A.T. Perry (DEN)",
+    "player": "A.T. Perry (PIT)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -15644,8 +15644,8 @@
   {
     "player": "Antonio Williams (None)",
     "ros_points": 0.0,
-    "trend": "-76.0",
-    "quick_why": "Trending down"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "None (NE)",
