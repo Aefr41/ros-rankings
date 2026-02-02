@@ -1524,12 +1524,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brennan Presley (LAR)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jalen Milroe (SEA)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -3681,6 +3675,12 @@
     "player": "Dillon Mitchell (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Brennan Presley (LAR)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -6360,12 +6360,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Devin Culp (TB)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Javonte Williams (DAL)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -8517,6 +8511,12 @@
     "player": "Bra'Lon Cherry (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Devin Culp (TB)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
