@@ -2820,12 +2820,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Davis Allen (LAR)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Mark Redman (LAR)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3972,12 +3966,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Khalil Shakir (BUF)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Joe Milton (DAL)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -4968,12 +4956,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Isaiah Wooden (CLE)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Elijah Holyfield (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5121,6 +5103,12 @@
     "player": "Payne Durham (TB)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Davis Allen (LAR)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -6528,6 +6516,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Khalil Shakir (BUF)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Justin Crawford (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -7020,7 +7014,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jake Haener (None)",
+    "player": "Jake Haener (KC)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7347,6 +7341,12 @@
     "player": "James Robinson (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Isaiah Wooden (CLE)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -9084,12 +9084,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyler Huntley (BAL)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Alexander Mattison (MIA)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -10725,6 +10719,12 @@
     "player": "John Ursua (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tyler Huntley (BAL)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13188,7 +13188,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Will Grier (None)",
+    "player": "Will Grier (DAL)",
     "ros_points": 70,
     "trend": "+0.0",
     "quick_why": "Steady"
