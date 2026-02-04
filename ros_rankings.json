@@ -1692,12 +1692,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jacob Cowing (SF)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Devontez Walker (BAL)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -2329,12 +2323,6 @@
   },
   {
     "player": "Shae Wyatt (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "RJ Harvey (DEN)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3894,6 +3882,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jacob Cowing (SF)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
+  },
+  {
     "player": "Jaleel McLaughlin (DEN)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -4701,6 +4695,12 @@
     "player": "Julius Chestnut (TEN)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "RJ Harvey (DEN)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
