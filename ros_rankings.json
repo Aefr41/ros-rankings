@@ -1260,12 +1260,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cam Skattebo (NYG)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Tank Bigsby (PHI)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -3246,6 +3240,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Cam Skattebo (NYG)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
+  },
+  {
     "player": "Devontres Dukes (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4396,12 +4396,6 @@
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
-  },
-  {
-    "player": "Mason Pline (NO)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
   },
   {
     "player": "Emory Jones (ATL)",
@@ -6922,6 +6916,12 @@
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Mason Pline (NO)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "K.D. Cannon (None)",
@@ -10974,12 +10974,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Adam Trautman (DEN)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Shane Buechele (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12285,6 +12279,12 @@
     "player": "Marcus Lucas (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Adam Trautman (DEN)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
