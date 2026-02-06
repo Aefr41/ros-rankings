@@ -228,12 +228,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Troy Franklin (DEN)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Travis Hunter (JAX)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -571,12 +565,6 @@
   },
   {
     "player": "Robert Lewis (None)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Ricky White (SEA)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -969,6 +957,12 @@
     "player": "Amar Johnson (LAC)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Troy Franklin (DEN)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -1923,6 +1917,12 @@
     "player": "Ladd McConkey (LAC)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Ricky White (SEA)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
