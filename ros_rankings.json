@@ -624,12 +624,6 @@
     "quick_why": "Injury concern"
   },
   {
-    "player": "Shedeur Sanders (CLE)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Dontay Demus (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2013,6 +2007,12 @@
     "player": "Jimmy Holiday (KC)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Shedeur Sanders (CLE)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -4620,12 +4620,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyler Badie (DEN)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Blake Corum (LAR)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7066,6 +7060,12 @@
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Injury concern"
+  },
+  {
+    "player": "Tyler Badie (DEN)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Keenen Brown (None)",
@@ -15396,12 +15396,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Matthew Stafford (LAR)",
-    "ros_points": 63,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Chad Henne (None)",
     "ros_points": 63,
     "trend": "+0.0",
@@ -15477,6 +15471,12 @@
     "player": "Drew Stanton (None)",
     "ros_points": 63,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Matthew Stafford (LAR)",
+    "ros_points": 62,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
