@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-08T21:18:28.586673",
+  "timestamp": "2026-02-08T22:18:06.728994",
   "players": {
     "QB": [
       {
@@ -159,7 +159,7 @@
         "rank": 18,
         "player_id": "12510",
         "name": "Jalen Milroe",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -1473,7 +1473,7 @@
         "rank": 164,
         "player_id": "11292",
         "name": "Tommy DeVito",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -3446,7 +3446,7 @@
         "rank": 43,
         "player_id": "12656",
         "name": "Robbie Ouzts",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -10063,7 +10063,7 @@
         "rank": 138,
         "player_id": "12542",
         "name": "Efton Chism",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -20658,7 +20658,7 @@
         "rank": 36,
         "player_id": "12984",
         "name": "CJ Dippre",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -20991,7 +20991,7 @@
         "rank": 73,
         "player_id": "13151",
         "name": "Nick Kallerup",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
