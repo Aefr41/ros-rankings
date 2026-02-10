@@ -8154,12 +8154,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Charlie Kolar (BAL)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kameron Brown (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -10089,6 +10083,12 @@
     "player": "Harrison Bryant (HOU)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Charlie Kolar (BAL)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14484,12 +14484,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Sterling Shepard (TB)",
-    "ros_points": 68,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Tony Jones (None)",
     "ros_points": 68,
     "trend": "+0.0",
@@ -14979,6 +14973,12 @@
     "player": "LeSean McCoy (None)",
     "ros_points": 67,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Sterling Shepard (TB)",
+    "ros_points": 67,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
