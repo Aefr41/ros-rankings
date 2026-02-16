@@ -3168,12 +3168,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Rasheen Ali (BAL)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Nate Stanley (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -5532,6 +5526,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Rasheen Ali (BAL)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Jarveon Howard (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5929,12 +5929,6 @@
   },
   {
     "player": "Wan'Dale Robinson (NYG)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Keilan Robinson (NYJ)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8121,6 +8115,12 @@
     "player": "De'Lance Turner (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Keilan Robinson (NYJ)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13206,12 +13206,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Josh Reynolds (NYJ)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Clive Walford (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -13785,6 +13779,12 @@
     "player": "Calvin Ridley (TEN)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Josh Reynolds (NYJ)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
