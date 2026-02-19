@@ -5412,12 +5412,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dameon Pierce (KC)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Devlin Hodges (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6237,7 +6231,7 @@
     "player": "Zach Charbonnet (SEA)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Artayvious Lynn (None)",
@@ -7671,6 +7665,12 @@
     "player": "Justin Jackson (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Dameon Pierce (KC)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13476,12 +13476,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Anthony Firkser (DET)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Laquon Treadwell (IND)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -14007,6 +14001,12 @@
     "player": "Jay Lee (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Anthony Firkser (DET)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
