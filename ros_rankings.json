@@ -498,12 +498,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Isaiah Davis (NYJ)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jahdae Walker (CHI)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1839,6 +1833,12 @@
     "player": "Lew Nichols (PIT)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Isaiah Davis (NYJ)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
