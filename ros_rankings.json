@@ -408,12 +408,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Donovan Edwards (MIA)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Matthew Golden (GB)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1605,6 +1599,12 @@
     "player": "Skyler Howard (SEA)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Donovan Edwards (MIA)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -5478,12 +5478,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Bo Nix (DEN)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Shawn Bowman (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7719,6 +7713,12 @@
     "player": "Tyrie Cleveland (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Bo Nix (DEN)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -11166,12 +11166,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dan Chisena (CAR)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Valdez Showers (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12399,6 +12393,12 @@
     "player": "Deon Cain (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Dan Chisena (CAR)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
