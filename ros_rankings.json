@@ -2262,12 +2262,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Theo Johnson (NYG)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Hassan Hall (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3702,12 +3696,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyrone Broden (SEA)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Neal Johnson (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4575,6 +4563,12 @@
     "player": "Tucker Kraft (GB)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Theo Johnson (NYG)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -6177,6 +6171,12 @@
     "player": "Jalen Brooks (ARI)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tyrone Broden (SEA)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
