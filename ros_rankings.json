@@ -6756,12 +6756,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Isiah Pacheco (KC)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Stephen Louis (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -6859,12 +6853,6 @@
   },
   {
     "player": "Marcus Simms (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jalen Nailor (MIN)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8796,12 +8784,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tua Tagovailoa (MIA)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jalen Hurts (PHI)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -8928,6 +8910,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Isiah Pacheco (KC)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Jake Ferguson (DAL)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -9033,6 +9021,12 @@
     "player": "Derrick Willies (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jalen Nailor (MIN)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -10539,6 +10533,12 @@
     "player": "Phillip Lindsay (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tua Tagovailoa (MIA)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
