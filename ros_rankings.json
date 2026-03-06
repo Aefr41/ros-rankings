@@ -1896,12 +1896,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Casey Washington (ATL)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Felton Davis (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3954,12 +3948,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Joe Milton (DAL)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Isaac Zico (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -4101,6 +4089,12 @@
     "player": "Jabari Small (DET)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Casey Washington (ATL)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -6495,6 +6489,12 @@
     "player": "Noah Gray (KC)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Joe Milton (DAL)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14370,12 +14370,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Nick Vannett (LAR)",
-    "ros_points": 68,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Jake Coker (None)",
     "ros_points": 68,
     "trend": "+0.0",
@@ -14883,6 +14877,12 @@
     "player": "Keenan Allen (LAC)",
     "ros_points": 67,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Nick Vannett (LAR)",
+    "ros_points": 67,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
