@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-06T23:19:59.288679",
+  "timestamp": "2026-03-07T01:12:40.766341",
   "players": {
     "QB": [
       {
@@ -20404,129 +20404,129 @@
       },
       {
         "rank": 9,
-        "player_id": "12487",
-        "name": "Terrance Ferguson",
-        "injury_status": null,
-        "ros_pts": 78,
-        "rank_change": 0,
-        "trend": ""
-      },
-      {
-        "rank": 10,
         "player_id": "13261",
         "name": "Layne Pryor",
         "injury_status": null,
         "ros_pts": 78,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 11,
+        "rank": 10,
         "player_id": "12473",
         "name": "Mitchell Evans",
         "injury_status": null,
         "ros_pts": 78,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "player_id": "12480",
         "name": "Moliki Matavao",
         "injury_status": null,
         "ros_pts": 78,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "player_id": "12521",
         "name": "Elijah Arroyo",
         "injury_status": null,
         "ros_pts": 78,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "player_id": "11600",
         "name": "Ja'Tavion Sanders",
         "injury_status": null,
         "ros_pts": 78,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "player_id": "6993",
         "name": "Dominick Wood-Anderson",
         "injury_status": null,
         "ros_pts": 77,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "player_id": "8878",
         "name": "Jared Scott",
         "injury_status": null,
         "ros_pts": 77,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "player_id": "4744",
         "name": "Barrett Burns",
         "injury_status": null,
         "ros_pts": 77,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "player_id": "12246",
         "name": "Mike Rigerman",
         "injury_status": null,
         "ros_pts": 77,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "player_id": "11524",
         "name": "Izaiah Gathings",
         "injury_status": null,
         "ros_pts": 77,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "player_id": "7272",
         "name": "Dylan Stapleton",
         "injury_status": null,
         "ros_pts": 77,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "player_id": "12941",
         "name": "Bryson Nesbit",
         "injury_status": null,
         "ros_pts": 77,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 22,
+        "rank": 21,
         "player_id": "12518",
         "name": "Tyler Warren",
         "injury_status": null,
         "ros_pts": 77,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
+      },
+      {
+        "rank": 22,
+        "player_id": "12487",
+        "name": "Terrance Ferguson",
+        "injury_status": null,
+        "ros_pts": 77,
+        "rank_change": -13,
+        "trend": "\u25bc"
       },
       {
         "rank": 23,

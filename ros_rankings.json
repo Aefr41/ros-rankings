@@ -150,12 +150,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Terrance Ferguson (LAR)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Quincy Skinner (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -681,6 +675,12 @@
     "player": "Emeka Egbuka (TB)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Terrance Ferguson (LAR)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
