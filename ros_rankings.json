@@ -2052,12 +2052,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jacob Saylors (DET)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Tony Brown (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -2485,12 +2479,6 @@
   },
   {
     "player": "Rysen John (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Tre Tucker (LV)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3205,12 +3193,6 @@
   },
   {
     "player": "Ainias Smith (CAR)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Xavier Gipson (NYG)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4302,6 +4284,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jacob Saylors (DET)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Darrin Hall (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -4809,6 +4797,12 @@
     "player": "Jonah Trinnaman (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tre Tucker (LV)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -5565,6 +5559,12 @@
     "player": "Taj McGowan (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Xavier Gipson (NYG)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
