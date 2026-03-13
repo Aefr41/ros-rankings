@@ -8082,12 +8082,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Princeton Fant (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jimmy Williams (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -10041,6 +10035,12 @@
     "player": "DeSean Smith (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Princeton Fant (DAL)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
