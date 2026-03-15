@@ -30,12 +30,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Isaiah Bond (CLE)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jordan James (SF)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -163,12 +157,6 @@
   },
   {
     "player": "Layne Pryor (HOU)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Tai Felton (MIN)",
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -318,12 +306,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Quinn Ewers (MIA)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Elijah Arroyo (SEA)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -333,6 +315,12 @@
     "player": "Ja'Tavion Sanders (CAR)",
     "ros_points": 78,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Isaiah Bond (CLE)",
+    "ros_points": 78,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -759,6 +747,12 @@
     "player": "Seth Dawkins (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tai Felton (MIN)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -1281,6 +1275,12 @@
     "player": "Jake Briningstool (KC)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Quinn Ewers (MIA)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -6522,12 +6522,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tanner McLachlan (LAC)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Romello Brooker (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8655,6 +8649,12 @@
     "player": "DeShone Kizer (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tanner McLachlan (LAC)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
