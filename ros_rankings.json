@@ -246,12 +246,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Moliki Matavao (NO)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Quinshon Judkins (CLE)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -954,12 +948,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kameron Johnson (TB)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Isaiah Spiller (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1017,6 +1005,12 @@
     "player": "Jalen White (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Moliki Matavao (NO)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -1111,12 +1105,6 @@
   },
   {
     "player": "Warren Jackson (None)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Ben Yurosek (MIN)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2772,6 +2760,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Kameron Johnson (TB)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Changa Hodge (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3093,6 +3087,12 @@
     "player": "Tru Edwards (LAR)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Ben Yurosek (MIN)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -9966,12 +9966,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brandon Aiyuk (SF)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Sam Cotton (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11547,6 +11541,12 @@
     "player": "Ty Johnson (BUF)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Brandon Aiyuk (SF)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
