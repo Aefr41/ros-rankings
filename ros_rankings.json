@@ -264,12 +264,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ja'seem Reed (CAR)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Leddie Brown (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -362,12 +356,6 @@
   {
     "player": "Matthew Golden (GB)",
     "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Parker Washington (JAX)",
-    "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
   },
@@ -751,12 +739,6 @@
   },
   {
     "player": "Keleki Latu (BUF)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Malachi Corley (CLE)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -1152,6 +1134,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Ja'seem Reed (CAR)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "CJ Verdell (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1476,12 +1464,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ahmani Marshall (CLE)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Ja'Lynn Polk (NO)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1611,6 +1593,12 @@
     "player": "Jerome Kapp (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Parker Washington (JAX)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -2349,6 +2337,12 @@
     "player": "Jelani Baker (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Malachi Corley (CLE)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -3705,6 +3699,12 @@
     "player": "Jalen Cropper (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Ahmani Marshall (CLE)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -5695,12 +5695,6 @@
   },
   {
     "player": "Ryan Willis (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Chase Brown (CIN)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7869,6 +7863,12 @@
     "player": "Ben Wooldridge (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Chase Brown (CIN)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -10560,12 +10560,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Nick Westbrook-Ikhine (IND)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Lucky Jackson (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -10705,12 +10699,6 @@
   },
   {
     "player": "Maxx Williams (None)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Josh Oliver (MIN)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -11982,6 +11970,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Nick Westbrook-Ikhine (IND)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Dawson Knox (BUF)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -12111,6 +12105,12 @@
     "player": "Kenny Golladay (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Josh Oliver (MIN)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13536,12 +13536,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Nick Mullens (JAX)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Adam Zaruba (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -14055,6 +14049,12 @@
     "player": "Cameron Brate (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Nick Mullens (JAX)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
