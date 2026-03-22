@@ -3942,12 +3942,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jahan Dotson (ATL)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jashaun Corbin (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6489,6 +6483,12 @@
     "player": "Reid Sinnett (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jahan Dotson (ATL)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
