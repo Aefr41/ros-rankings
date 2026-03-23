@@ -5082,12 +5082,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Blake Whiteheart (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "B.J. Emmons (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7413,6 +7407,12 @@
     "player": "Bryant Koback (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Blake Whiteheart (CLE)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -10098,7 +10098,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Travis Homer (None)",
+    "player": "Travis Homer (PIT)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
