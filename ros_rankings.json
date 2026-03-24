@@ -306,12 +306,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jackson Meeks (DET)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Khalil McClain (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1299,6 +1293,12 @@
     "player": "Adonai Mitchell (NYJ)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jackson Meeks (DET)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -6108,12 +6108,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Chris Collier (LV)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jalen Brooks (ARI)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6780,12 +6774,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Calvin Austin (NYG)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Dyami Brown (WAS)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -7412,7 +7400,7 @@
   {
     "player": "Blake Whiteheart (CLE)",
     "ros_points": 74,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
@@ -8298,6 +8286,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Chris Collier (LV)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Elijah Dotson (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8937,6 +8931,12 @@
     "player": "Jordan Veasy (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Calvin Austin (NYG)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -10003,12 +10003,6 @@
   },
   {
     "player": "Sherman Badie (None)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Samori Toure (NO)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -11553,6 +11547,12 @@
     "player": "Xavier Smith (LAR)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Samori Toure (NO)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
