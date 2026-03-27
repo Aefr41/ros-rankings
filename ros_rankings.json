@@ -282,12 +282,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ja'Tavion Sanders (CAR)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Isaiah Bond (CLE)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1269,6 +1263,12 @@
     "player": "Jordan Byrd (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Ja'Tavion Sanders (CAR)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -2635,12 +2635,6 @@
   },
   {
     "player": "Cary Angeline (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Nick Kallerup (SEA)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4512,12 +4506,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Elijah Moore (PHI)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Garrett Wilson (NYJ)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -4977,6 +4965,12 @@
     "player": "Justin Johnson (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Nick Kallerup (SEA)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -6915,6 +6909,12 @@
     "player": "Drew Anderson (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Elijah Moore (PHI)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -9960,12 +9960,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kylen Granson (TEN)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Sam Cotton (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11511,6 +11505,12 @@
     "player": "Geronimo Allison (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Kylen Granson (TEN)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
