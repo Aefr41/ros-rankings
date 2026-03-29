@@ -30,12 +30,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jordan James (SF)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "LeQuint Allen (JAX)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -300,6 +294,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jordan James (SF)",
+    "ros_points": 78,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Khalil McClain (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -385,12 +385,6 @@
   },
   {
     "player": "Ty James (None)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "LaJohntay Wester (BAL)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -1605,6 +1599,12 @@
     "player": "Devontez Walker (BAL)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "LaJohntay Wester (BAL)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
