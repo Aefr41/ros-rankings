@@ -330,12 +330,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jaylen Wright (MIA)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "C.J. Johnson (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1449,6 +1443,12 @@
     "player": "Brock Bowers (LV)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jaylen Wright (MIA)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -8382,12 +8382,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Danny Gray (PHI)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Tanner Knue (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -10209,6 +10203,12 @@
     "player": "Malik Cunningham (DET)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Danny Gray (PHI)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
