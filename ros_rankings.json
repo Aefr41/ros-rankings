@@ -144,12 +144,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Layne Pryor (HOU)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Devin Carter (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -246,12 +240,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tetairoa McMillan (CAR)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jonathon Brooks (CAR)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -265,12 +253,6 @@
   },
   {
     "player": "Keon Coleman (BUF)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Elijah Arroyo (SEA)",
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -645,6 +627,12 @@
     "player": "Jimmy Horn (CAR)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Layne Pryor (HOU)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -1038,6 +1026,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Tetairoa McMillan (CAR)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Sam Brown (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1227,6 +1221,12 @@
     "player": "Xavier Restrepo (TEN)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Elijah Arroyo (SEA)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
