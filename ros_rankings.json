@@ -6312,12 +6312,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "CeeDee Lamb (DAL)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jerry Jeudy (CLE)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8499,6 +8493,12 @@
     "player": "Salvon Ahmed (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "CeeDee Lamb (DAL)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
