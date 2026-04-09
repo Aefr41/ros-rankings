@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T23:30:44.514908",
+  "timestamp": "2026-04-09T01:21:20.720751",
   "players": {
     "QB": [
       {
@@ -20539,48 +20539,48 @@
       },
       {
         "rank": 2,
-        "player_id": "12517",
-        "name": "Colston Loveland",
-        "injury_status": null,
-        "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
-      },
-      {
-        "rank": 3,
         "player_id": "12498",
         "name": "Mason Taylor",
         "injury_status": null,
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "player_id": "12506",
         "name": "Harold Fannin",
         "injury_status": null,
         "ros_pts": 79,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "player_id": "11155",
         "name": "Christian Sims",
         "injury_status": null,
         "ros_pts": 78,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "player_id": "12493",
         "name": "Oronde Gadsden",
         "injury_status": null,
         "ros_pts": 78,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
+      },
+      {
+        "rank": 6,
+        "player_id": "12517",
+        "name": "Colston Loveland",
+        "injury_status": null,
+        "ros_pts": 78,
+        "rank_change": -4,
+        "trend": "\u25bc"
       },
       {
         "rank": 7,
