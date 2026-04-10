@@ -2412,12 +2412,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dalen Cambre (NYG)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Braydon Johnson (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4749,6 +4743,12 @@
     "player": "Jonah Trinnaman (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Dalen Cambre (NYG)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14784,12 +14784,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Chris Manhertz (NYG)",
-    "ros_points": 67,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Anthony Dable (None)",
     "ros_points": 67,
     "trend": "+0.0",
@@ -15141,6 +15135,12 @@
     "player": "Cordarrelle Patterson (None)",
     "ros_points": 66,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Chris Manhertz (NYG)",
+    "ros_points": 66,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
