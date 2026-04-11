@@ -102,12 +102,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brashard Smith (KC)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Gavin Bartholomew (MIN)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -525,6 +519,12 @@
     "player": "Quali Conley (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Brashard Smith (KC)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -1447,12 +1447,6 @@
   },
   {
     "player": "Jaylen Wright (MIA)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Ja'Lynn Polk (NO)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2436,12 +2430,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kedon Slovis (ARI)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kevin Foelsch (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3384,12 +3372,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Zonovan Knight (ARI)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Quartney Davis (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3657,6 +3639,12 @@
     "player": "Javon McKinley (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Ja'Lynn Polk (NO)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -4776,6 +4764,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Kedon Slovis (ARI)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Phillip Brooks (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5865,6 +5859,12 @@
     "player": "Derek Wright (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Zonovan Knight (ARI)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -11964,12 +11964,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jake Browning (TB)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Tyrell Williams (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -12987,6 +12981,12 @@
     "player": "Marshaun Coprich (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jake Browning (TB)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
