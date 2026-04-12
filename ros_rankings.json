@@ -1218,12 +1218,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Xavier Restrepo (TEN)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Elijah Arroyo (SEA)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2442,12 +2436,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jacory Croskey-Merritt (WAS)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Nick Easley (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3237,6 +3225,12 @@
     "player": "Luke Lachey (HOU)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Xavier Restrepo (TEN)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -4779,6 +4773,12 @@
     "player": "Matt Corral (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jacory Croskey-Merritt (WAS)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
