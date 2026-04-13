@@ -5592,12 +5592,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Romeo Doubs (NE)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Graham Mertz (HOU)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7773,6 +7767,12 @@
     "player": "Tyler Hoppes (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Romeo Doubs (NE)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -10746,12 +10746,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Irvin Charles (NYJ)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Beau Sandland (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12165,6 +12159,12 @@
     "player": "Antony Auclair (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Irvin Charles (NYJ)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
