@@ -10884,12 +10884,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "DJ Moore (BUF)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Gannon Sinclair (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12252,6 +12246,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "DJ Moore (BUF)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Brisly Estime (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13110,12 +13110,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Baker Mayfield (TB)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "James Conner (ARI)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -13707,6 +13701,12 @@
     "player": "Pharaoh Brown (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Baker Mayfield (TB)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
