@@ -4578,12 +4578,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyler Allgeier (ARI)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Julius Chestnut (TEN)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6486,12 +6480,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cade Otton (TB)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Marquis Young (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -6975,6 +6963,12 @@
     "player": "Tutu Atwell (MIA)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tyler Allgeier (ARI)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -8667,6 +8661,12 @@
     "player": "Quez Watkins (PHI)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Cade Otton (TB)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
