@@ -12456,12 +12456,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Drew Sample (CIN)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Sammy Watkins (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13317,6 +13311,12 @@
     "player": "Allen Hurns (MIA)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Drew Sample (CIN)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
