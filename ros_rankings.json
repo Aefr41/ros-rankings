@@ -2910,12 +2910,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "DJ Uiagalelei (LAC)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Caleb Repp (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -5298,6 +5292,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "DJ Uiagalelei (LAC)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Luke Musgrave (GB)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5623,12 +5623,6 @@
   },
   {
     "player": "Antonio Nunn (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Justin Shorter (LV)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7809,6 +7803,12 @@
     "player": "Michael Colubiale (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Justin Shorter (LV)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
