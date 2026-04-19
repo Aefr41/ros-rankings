@@ -5082,12 +5082,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cedric Tillman (CLE)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Devontae Jackson (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6666,12 +6660,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Colton Dowell (SF)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Deontez Alexander (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -7389,6 +7377,12 @@
     "player": "Terrell Newby (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Cedric Tillman (CLE)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -8880,6 +8874,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Colton Dowell (SF)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Joe Horn (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -9091,12 +9091,6 @@
   },
   {
     "player": "Elijah Cooks (NO)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Lil'Jordan Humphrey (DEN)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10725,6 +10719,12 @@
     "player": "Chris Blair (ATL)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Lil'Jordan Humphrey (DEN)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
