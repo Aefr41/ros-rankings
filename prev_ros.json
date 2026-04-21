@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-21T11:54:49.709869",
+  "timestamp": "2026-04-21T13:03:00.041826",
   "players": {
     "QB": [
       {
@@ -2029,120 +2029,120 @@
       },
       {
         "rank": 226,
-        "player_id": "5903",
-        "name": "Will Grier",
-        "injury_status": null,
-        "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
-      },
-      {
-        "rank": 227,
         "player_id": "4183",
         "name": "Nathan Peterman",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 228,
+        "rank": 227,
         "player_id": "5127",
         "name": "Kyle Allen",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 229,
+        "rank": 228,
         "player_id": "5089",
         "name": "Mike White",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 230,
+        "rank": 229,
         "player_id": "5709",
         "name": "Luis Perez",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 231,
+        "rank": 230,
         "player_id": "4972",
         "name": "Mason Rudolph",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 232,
+        "rank": 231,
         "player_id": "4017",
         "name": "Deshaun Watson",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 233,
+        "rank": 232,
         "player_id": "5806",
         "name": "John Wolford",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 234,
+        "rank": 233,
         "player_id": "3957",
         "name": "Blake Sims",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 235,
+        "rank": 234,
         "player_id": "1169",
         "name": "Robert Griffin",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 236,
+        "rank": 235,
         "player_id": "4892",
         "name": "Baker Mayfield",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 237,
+        "rank": 236,
         "player_id": "2106",
         "name": "David Fales",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 238,
+        "rank": 237,
         "player_id": "3976",
         "name": "Mitchell Trubisky",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
+      },
+      {
+        "rank": 238,
+        "player_id": "5903",
+        "name": "Will Grier",
+        "injury_status": null,
+        "ros_pts": 69,
+        "rank_change": -12,
+        "trend": "\u25bc"
       },
       {
         "rank": 239,

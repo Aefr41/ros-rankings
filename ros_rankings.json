@@ -13206,12 +13206,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Will Grier (None)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Mitch Mathews (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -13839,6 +13833,12 @@
     "player": "Evan Engram (DEN)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Will Grier (CAR)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
