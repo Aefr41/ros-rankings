@@ -4896,12 +4896,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Rashee Rice (KC)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Connor Bazelak (TB)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7251,6 +7245,12 @@
     "player": "Tyrone Tracy (NYG)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Rashee Rice (KC)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
