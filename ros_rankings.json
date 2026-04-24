@@ -6270,12 +6270,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jerry Jeudy (CLE)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Rashard Davis (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8004,12 +7998,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dennis Houston (TB)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Carter Bradley (JAX)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8487,6 +8475,12 @@
     "player": "CeeDee Lamb (DAL)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jerry Jeudy (CLE)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -9975,6 +9969,12 @@
     "player": "Lamar Jordan (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Dennis Houston (TB)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
