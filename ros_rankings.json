@@ -6,10 +6,34 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jeremiyah Love (ARI)",
+    "ros_points": 80,
+    "trend": "+80.0",
+    "quick_why": "Trending up"
+  },
+  {
+    "player": "Kenyon Sadiq (NYJ)",
+    "ros_points": 79,
+    "trend": "+79.0",
+    "quick_why": "Trending up"
+  },
+  {
+    "player": "Carnell Tate (TEN)",
+    "ros_points": 79,
+    "trend": "+79.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Trevor Etienne (CAR)",
     "ros_points": 79,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Jordyn Tyson (NO)",
+    "ros_points": 79,
+    "trend": "+79.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Dylan Sampson (CLE)",
@@ -220,6 +244,12 @@
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Fernando Mendoza (LV)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Quinshon Judkins (CLE)",
@@ -964,6 +994,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Ty Simpson (LAR)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Dont'e Thornton (LV)",
@@ -8480,7 +8516,7 @@
   {
     "player": "Jerry Jeudy (CLE)",
     "ros_points": 73,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
@@ -9974,7 +10010,7 @@
   {
     "player": "Dennis Houston (TB)",
     "ros_points": 73,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
@@ -16086,12 +16122,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kenyon Sadiq (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Preston Fox (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16356,7 +16386,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jadarian Price (None)",
+    "player": "Jadarian Price (SEA)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16518,12 +16548,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Carnell Tate (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "None (LAR)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16537,12 +16561,6 @@
   },
   {
     "player": "Jam Miller (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jeremiyah Love (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16722,12 +16740,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ty Simpson (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Stevo Klotz (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16747,12 +16759,6 @@
   },
   {
     "player": "Kaylon Horton (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Fernando Mendoza (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16818,12 +16824,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jordyn Tyson (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Cade Klubnik (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16842,7 +16842,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Omar Cooper (None)",
+    "player": "Omar Cooper (NYJ)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17448,7 +17448,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "KC Concepcion (None)",
+    "player": "KC Concepcion (CLE)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17544,7 +17544,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Makai Lemon (None)",
+    "player": "Makai Lemon (PHI)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
