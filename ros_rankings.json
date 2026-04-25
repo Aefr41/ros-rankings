@@ -12,10 +12,28 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Zachariah Branch (ATL)",
+    "ros_points": 80,
+    "trend": "+80.0",
+    "quick_why": "Trending up"
+  },
+  {
+    "player": "Antonio Williams (WAS)",
+    "ros_points": 79,
+    "trend": "+79.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Kenyon Sadiq (NYJ)",
     "ros_points": 79,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Chris Bell (MIA)",
+    "ros_points": 79,
+    "trend": "+79.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Carnell Tate (TEN)",
@@ -114,6 +132,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Eli Raridon (NE)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Tyler Snead (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -162,6 +186,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Caleb Douglas (MIA)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Braelon Allen (NYJ)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -202,6 +232,12 @@
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Malachi Fields (NYG)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Ashton Jeanty (LV)",
@@ -284,8 +320,8 @@
   {
     "player": "Omar Cooper (NYJ)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Jonathon Brooks (CAR)",
@@ -314,8 +350,8 @@
   {
     "player": "Germie Bernard (PIT)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "T.J. Pledger (None)",
@@ -350,6 +386,12 @@
   {
     "player": "Denzel Boston (CLE)",
     "ros_points": 78,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Ja'Kobi Lane (BAL)",
+    "ros_points": 78,
     "trend": "+78.0",
     "quick_why": "Trending up"
   },
@@ -368,6 +410,12 @@
   {
     "player": "Max Klare (LAR)",
     "ros_points": 78,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Oscar Delp (NO)",
+    "ros_points": 78,
     "trend": "+78.0",
     "quick_why": "Trending up"
   },
@@ -376,6 +424,18 @@
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Drew Allar (PIT)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
+  },
+  {
+    "player": "Sam Roush (CHI)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "C.J. Johnson (None)",
@@ -608,8 +668,8 @@
   {
     "player": "Eli Stowers (PHI)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Dylan Stapleton (None)",
@@ -646,6 +706,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Carson Beck (ARI)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Zay Malone (None)",
@@ -794,8 +860,8 @@
   {
     "player": "Marlin Klein (HOU)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Kaden Prather (None)",
@@ -2276,8 +2342,8 @@
   {
     "player": "Nate Boerkircher (JAX)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Eli Wolf (None)",
@@ -2608,6 +2674,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Kaelon Black (SF)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Kerryon Johnson (None)",
@@ -15804,12 +15876,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Antonio Williams (WAS)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "None (NE)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -15907,12 +15973,6 @@
   },
   {
     "player": "Travis Koontz (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Eli Raridon (NE)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16182,12 +16242,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Carson Beck (ARI)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Bell Braylon (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16224,12 +16278,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Caleb Douglas (MIA)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Braxton Westfield (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16255,12 +16303,6 @@
   },
   {
     "player": "Jordan Hudson (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Chris Bell (MIA)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16488,12 +16530,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Malachi Fields (NYG)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jeff Caldwell (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16537,12 +16573,6 @@
   },
   {
     "player": "Reggie Brown (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Kaelon Black (SF)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16777,12 +16807,6 @@
   },
   {
     "player": "Stevo Klotz (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Zachariah Branch (ATL)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17166,12 +17190,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ja'Kobi Lane (BAL)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Dallas Daniels (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17251,12 +17269,6 @@
   },
   {
     "player": "Bauer Sharp (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Oscar Delp (NO)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17424,19 +17436,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Drew Allar (PIT)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kevin Coleman (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Sam Roush (CHI)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
