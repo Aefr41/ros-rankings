@@ -150,6 +150,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "CJ Williams (JAX)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Josh Cuevas (BAL)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -190,6 +196,12 @@
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Demond Claiborne (MIN)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Jeremiah Haydel (None)",
@@ -408,6 +420,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Barion Brown (NO)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Emmett Johnson (KC)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -562,6 +580,12 @@
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Lewis Bond (HOU)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "C.J. Johnson (None)",
@@ -1218,6 +1242,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Emmanuel Henderson (SEA)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Trey Knox (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1746,6 +1776,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Malik Benson (LV)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Jalen Milroe (SEA)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2086,6 +2122,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "CJ Daniels (LAR)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Kimani Vidal (LAC)",
@@ -2480,8 +2522,8 @@
   {
     "player": "Anthony Smith (DAL)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Daniel Crawford (None)",
@@ -16164,12 +16206,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "CJ Williams (JAX)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "T.J. Linta (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16177,12 +16213,6 @@
   },
   {
     "player": "C.J. Germany (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "CJ Daniels (LAR)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16249,12 +16279,6 @@
   },
   {
     "player": "Dylan Devezin (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Demond Claiborne (MIN)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16453,6 +16477,12 @@
   },
   {
     "player": "Kayron Lynch-Adams (None)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Ben Patterson (JAX)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16722,7 +16752,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Trebor Pena (None)",
+    "player": "Trebor Pena (JAX)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16932,12 +16962,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Emmanuel Henderson (SEA)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "John Harris (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17125,12 +17149,6 @@
   },
   {
     "player": "Matthew Caldwell (LAR)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Barion Brown (NO)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17526,12 +17544,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Malik Benson (LV)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Evan Svoboda (LAC)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17623,12 +17635,6 @@
   },
   {
     "player": "Pro Wells (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Lewis Bond (HOU)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
