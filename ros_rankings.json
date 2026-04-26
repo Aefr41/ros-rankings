@@ -1824,6 +1824,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Deion Burks (IND)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Pooka Williams (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -5836,6 +5842,12 @@
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Dallen Bentley (DEN)",
+    "ros_points": 75,
+    "trend": "+75.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Taj McGowan (None)",
@@ -16188,7 +16200,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dae'Quan Wright (None)",
+    "player": "Dae'Quan Wright (PHI)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16225,6 +16237,12 @@
   },
   {
     "player": "None (PIT)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Chandler Morris (TB)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16333,12 +16351,6 @@
   },
   {
     "player": "Stephen Baggett (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Mark Fletcher (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16524,7 +16536,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Michael Trigg (None)",
+    "player": "Michael Trigg (DAL)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16686,7 +16698,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jeff Caldwell (None)",
+    "player": "Jeff Caldwell (KC)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16842,6 +16854,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Cash Jones (ATL)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Jake Herslow (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16884,7 +16902,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Sawyer Robertson (None)",
+    "player": "Sawyer Robertson (LV)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17106,12 +17124,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dallen Bentley (DEN)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Lance Mason (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17160,7 +17172,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "J'Mari Taylor (None)",
+    "player": "J'Mari Taylor (JAX)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17508,7 +17520,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Luke Altmyer (None)",
+    "player": "Luke Altmyer (DET)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17556,12 +17568,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Deion Burks (IND)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Shaq Roland (CHI)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17587,12 +17593,6 @@
   },
   {
     "player": "Marlon Williams (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Hollywood Smothers (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
