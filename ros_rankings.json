@@ -14,8 +14,8 @@
   {
     "player": "Adam Randall (BAL)",
     "ros_points": 79,
-    "trend": "+79.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Antonio Williams (WAS)",
@@ -26,8 +26,8 @@
   {
     "player": "Justin Joly (DEN)",
     "ros_points": 79,
-    "trend": "+79.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Kenyon Sadiq (NYJ)",
@@ -68,8 +68,8 @@
   {
     "player": "Reggie Virgil (ARI)",
     "ros_points": 79,
-    "trend": "+79.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Mason Taylor (NYJ)",
@@ -87,6 +87,12 @@
     "player": "Harold Fannin (CLE)",
     "ros_points": 79,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Ja'Kobi Lane (BAL)",
+    "ros_points": 79,
+    "trend": "+1.0",
     "quick_why": "Steady"
   },
   {
@@ -146,8 +152,8 @@
   {
     "player": "Josh Cuevas (BAL)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Jalen Wydermyer (None)",
@@ -380,8 +386,8 @@
   {
     "player": "Emmett Johnson (KC)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Jonathon Brooks (CAR)",
@@ -410,14 +416,14 @@
   {
     "player": "Tanner Koziol (JAX)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Nicholas Singleton (TEN)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Isaiah Bond (CLE)",
@@ -480,12 +486,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ja'Kobi Lane (BAL)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Henry Ruggs (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -524,8 +524,8 @@
   {
     "player": "Kevin Coleman (MIA)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Sam Roush (CHI)",
@@ -548,8 +548,8 @@
   {
     "player": "Kendrick Law (DET)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Bucky Irving (TB)",
@@ -710,8 +710,8 @@
   {
     "player": "Max Bredeson (MIN)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Michael Pratt (None)",
@@ -914,8 +914,8 @@
   {
     "player": "Cole Payton (PHI)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Ben Sinnott (WAS)",
@@ -1202,8 +1202,8 @@
   {
     "player": "Seydou Traore (MIA)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Moliki Matavao (NO)",
@@ -1280,8 +1280,8 @@
   {
     "player": "Cyrus Allen (KC)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Michael Young (None)",
@@ -1562,8 +1562,8 @@
   {
     "player": "Riley Nowakowski (PIT)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Drake Dabney (GB)",
@@ -1726,6 +1726,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Taylen Green (CLE)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Rivaldo Fairweather (ARI)",
@@ -3896,8 +3902,8 @@
   {
     "player": "Joe Royer (CLE)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Deuce Vaughn (DEN)",
@@ -17461,12 +17467,6 @@
   },
   {
     "player": "Mike Estes (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Taylen Green (CLE)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
