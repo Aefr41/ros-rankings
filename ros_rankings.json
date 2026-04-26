@@ -512,8 +512,8 @@
   {
     "player": "Carsen Ryan (CLE)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Jadon Haselwood (None)",
@@ -2598,6 +2598,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Seth McGowan (IND)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Joseph Ngata (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3578,8 +3584,8 @@
   {
     "player": "Garrett Nussmeier (KC)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Manasseh Bailey (None)",
@@ -16158,6 +16164,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jerand Bradley (LAC)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Jack Endries (CIN)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16285,6 +16297,12 @@
   },
   {
     "player": "Redd Douglas (None)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Sincere Brown (LAC)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16482,6 +16500,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Greg Desrosiers (LAC)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Felix Harper (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16542,6 +16566,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Marcus Sanders (MIN)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Haynes King (CAR)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16579,12 +16609,6 @@
   },
   {
     "player": "Eli Heidenreich (PIT)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Seth McGowan (IND)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17118,7 +17142,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kejon Owens (None)",
+    "player": "Kejon Owens (MIN)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17251,6 +17275,12 @@
   },
   {
     "player": "Chamon Metayer (None)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Shaleak Knotts (MIN)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17551,6 +17581,18 @@
   },
   {
     "player": "William Thompson (None)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Luke Wysong (MIN)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Dillon Bell (MIN)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
