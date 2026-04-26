@@ -510,6 +510,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Carsen Ryan (CLE)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Jadon Haselwood (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1826,8 +1832,8 @@
   {
     "player": "Deion Burks (IND)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Pooka Williams (None)",
@@ -3568,6 +3574,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Garrett Nussmeier (KC)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Manasseh Bailey (None)",
@@ -5846,8 +5858,8 @@
   {
     "player": "Dallen Bentley (DEN)",
     "ros_points": 75,
-    "trend": "+75.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Taj McGowan (None)",
@@ -15984,6 +15996,12 @@
     "quick_why": "Veteran downgrade"
   },
   {
+    "player": "Tyren Montgomery (TEN)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Behren Morton (NE)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16086,6 +16104,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Kyron Drones (GB)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Ja'Quan Gardner (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16164,7 +16188,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Miller Moss (None)",
+    "player": "Miller Moss (CHI)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16380,7 +16404,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Joey Aguilar (None)",
+    "player": "Joey Aguilar (JAX)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16518,7 +16542,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Haynes King (None)",
+    "player": "Haynes King (CAR)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16704,7 +16728,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Le'Veon Moss (None)",
+    "player": "Le'Veon Moss (MIA)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17022,7 +17046,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jaydn Ott (None)",
+    "player": "Jaydn Ott (KC)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17070,6 +17094,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Matthew Caldwell (LAR)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Barion Brown (NO)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17100,7 +17130,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jalon Daniels (None)",
+    "player": "Jalon Daniels (TB)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17221,12 +17251,6 @@
   },
   {
     "player": "Chamon Metayer (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Garrett Nussmeier (KC)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17496,12 +17520,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Carsen Ryan (CLE)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Julian Williams (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17521,6 +17539,12 @@
   },
   {
     "player": "Luke Altmyer (DET)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jack Strand (ATL)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
