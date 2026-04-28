@@ -4362,12 +4362,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jayden Reed (GB)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Seth Williams (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6891,6 +6885,12 @@
     "player": "John David Moore (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jayden Reed (GB)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -16236,6 +16236,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "E.J. Williams (LV)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Connor Jessop (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16356,7 +16362,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "John Michael Gyllenborg (None)",
+    "player": "John Michael Gyllenborg (KC)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16441,6 +16447,12 @@
   },
   {
     "player": "None (LV)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jacob Clark (LV)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16806,7 +16818,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Roman Hemby (None)",
+    "player": "Roman Hemby (LV)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17070,7 +17082,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Chase Roberts (None)",
+    "player": "Chase Roberts (LV)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17767,6 +17779,12 @@
   },
   {
     "player": "Jake Retzlaff (SEA)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Matt Lauter (LV)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
