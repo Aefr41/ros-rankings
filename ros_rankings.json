@@ -204,6 +204,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Dae'Quan Wright (PHI)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Jeremiah Haydel (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -3544,12 +3550,6 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
-  },
-  {
-    "player": "Antonio Williams (None)",
-    "ros_points": 76,
-    "trend": "-3.0",
-    "quick_why": "Trending down"
   },
   {
     "player": "AJ Henning (MIA)",
@@ -16314,12 +16314,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dae'Quan Wright (PHI)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Moral Stephens (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16338,7 +16332,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "DeaMonte Trayanum (None)",
+    "player": "DeaMonte Trayanum (NYJ)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17046,6 +17040,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jalen Walthall (HOU)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Dante Wright (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17388,7 +17388,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dane Key (None)",
+    "player": "Dane Key (DEN)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17568,6 +17568,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Sean Brown (DEN)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "None (TEN)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17599,6 +17605,12 @@
   },
   {
     "player": "Geordon Porter (None)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Quentin Moore (WAS)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17695,6 +17707,12 @@
   },
   {
     "player": "DeShon Williams (None)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Treyvhon Saunders (HOU)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17940,6 +17958,18 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Sam Scott (NYJ)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Daniel Sobkowicz (HOU)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Ademola Faleye (TB)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17976,7 +18006,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Noah Whittington (None)",
+    "player": "Noah Whittington (HOU)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
