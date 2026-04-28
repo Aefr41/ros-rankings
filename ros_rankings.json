@@ -206,8 +206,8 @@
   {
     "player": "Dae'Quan Wright (PHI)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Jeremiah Haydel (None)",
@@ -2242,6 +2242,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Caullin Lacy (NYJ)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Ladd McConkey (LAC)",
@@ -16302,12 +16308,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Caullin Lacy (NYJ)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Dylan Devezin (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -18001,6 +18001,12 @@
   },
   {
     "player": "Cody Chrest (None)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jameson Geers (ARI)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
