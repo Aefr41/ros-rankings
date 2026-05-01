@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-01T12:58:15.386616",
+  "timestamp": "2026-05-01T14:16:04.062844",
   "players": {
     "QB": [
       {
@@ -1680,7 +1680,7 @@
         "rank": 187,
         "player_id": "5870",
         "name": "Daniel Jones",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -5543,7 +5543,7 @@
         "rank": 262,
         "player_id": "9753",
         "name": "Zach Charbonnet",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -6956,7 +6956,7 @@
         "rank": 419,
         "player_id": "7528",
         "name": "Najee Harris",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -8009,7 +8009,7 @@
         "rank": 536,
         "player_id": "4988",
         "name": "Nick Chubb",
-        "injury_status": null,
+        "injury_status": "IR",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -9361,7 +9361,7 @@
         "rank": 26,
         "player_id": "11632",
         "name": "Malik Nabers",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -25914,7 +25914,7 @@
         "rank": 527,
         "player_id": "4217",
         "name": "George Kittle",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
