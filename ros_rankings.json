@@ -942,6 +942,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Michael Trigg (DAL)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Layne Pryor (HOU)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -3094,6 +3100,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "DJ Rogers (DAL)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Tyler Hoosman (None)",
@@ -16740,12 +16752,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Michael Trigg (DAL)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "T.J. Simmons (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17041,12 +17047,6 @@
   },
   {
     "player": "Kyle Dixon (NE)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "DJ Rogers (DAL)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
