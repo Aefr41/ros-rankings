@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-03T05:49:58.574686",
+  "timestamp": "2026-05-03T07:49:13.997551",
   "players": {
     "QB": [
       {
@@ -26902,8 +26902,8 @@
       },
       {
         "rank": 633,
-        "player_id": "13879",
-        "name": "Jameson Geers",
+        "player_id": "13913",
+        "name": "Patrick Gurd",
         "injury_status": null,
         "ros_pts": 0.0,
         "rank_change": 0,
@@ -26911,12 +26911,21 @@
       },
       {
         "rank": 634,
+        "player_id": "13879",
+        "name": "Jameson Geers",
+        "injury_status": null,
+        "ros_pts": 0.0,
+        "rank_change": -1,
+        "trend": "\u25bc"
+      },
+      {
+        "rank": 635,
         "player_id": "13312",
         "name": "Josh Kattus",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       }
     ],
     "DST": [
