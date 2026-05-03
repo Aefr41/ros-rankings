@@ -540,12 +540,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Bauer Sharp (TB)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Oscar Delp (NO)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1518,12 +1512,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "AJ Barner (SEA)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Leon Johnson (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1755,6 +1743,12 @@
     "player": "Pete Guerriero (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Bauer Sharp (TB)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -3609,6 +3603,12 @@
     "player": "Jamal Custis (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "AJ Barner (SEA)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
