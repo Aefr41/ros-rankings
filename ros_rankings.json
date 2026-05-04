@@ -2886,7 +2886,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jaheim Bell (None)",
+    "player": "Jaheim Bell (PIT)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8277,7 +8277,7 @@
     "player": "Justin Shorter (LV)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Robert Martin (None)",
@@ -17263,6 +17263,12 @@
   },
   {
     "player": "Stevo Klotz (None)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jonathan Brady (LV)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
