@@ -9570,7 +9570,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jake Haener (KC)",
+    "player": "Jake Haener (None)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16375,6 +16375,12 @@
   },
   {
     "player": "None (PIT)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Xavier Loyd (KC)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
