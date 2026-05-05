@@ -90,12 +90,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ja'Kobi Lane (BAL)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Ted Hurst (TB)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -519,6 +513,12 @@
     "player": "Jonah Coleman (DEN)",
     "ros_points": 78,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Ja'Kobi Lane (BAL)",
+    "ros_points": 78,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13608,12 +13608,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "James Conner (ARI)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Tyler Bray (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -14205,6 +14199,12 @@
     "player": "Baker Mayfield (TB)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "James Conner (ARI)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
