@@ -7548,12 +7548,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Clayton Tune (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Darrell Henderson (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9771,6 +9765,12 @@
     "player": "Darius Victor (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Clayton Tune (HOU)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -17053,6 +17053,12 @@
   },
   {
     "player": "Kyle Dixon (NE)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Josh Pitsenberger (HOU)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
