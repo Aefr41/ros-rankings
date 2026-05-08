@@ -72,12 +72,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mason Taylor (NYJ)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "LeQuint Allen (JAX)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -429,6 +423,12 @@
     "player": "Leddie Brown (None)",
     "ros_points": 78,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Mason Taylor (NYJ)",
+    "ros_points": 78,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -5394,12 +5394,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Michael Penix (ATL)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Anthony McFarland (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7728,6 +7722,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Michael Penix (ATL)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "McCallan Castles (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8605,12 +8605,6 @@
   },
   {
     "player": "Jake Fromm (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Emanuel Wilson (SEA)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10587,6 +10581,12 @@
     "player": "Luke Schoonmaker (DAL)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Emanuel Wilson (SEA)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
