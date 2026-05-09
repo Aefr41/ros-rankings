@@ -6120,12 +6120,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Michael Woods (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Ventell Bryant (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -8325,6 +8319,12 @@
     "player": "Tyrell Shavers (BUF)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Michael Woods (DEN)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -11766,7 +11766,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Scotty Miller (None)",
+    "player": "Scotty Miller (CHI)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13770,12 +13770,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Nathan Peterman (None)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Demetrius Harris (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -14889,6 +14883,12 @@
     "player": "Jake Coker (None)",
     "ros_points": 68,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Nathan Peterman (DEN)",
+    "ros_points": 68,
+    "trend": "-2.0",
     "quick_why": "Veteran downgrade"
   },
   {
