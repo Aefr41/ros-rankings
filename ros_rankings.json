@@ -5526,12 +5526,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Trey Lance (LAC)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Brevin Jordan (HOU)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6288,7 +6282,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Courtney Jackson (None)",
+    "player": "Courtney Jackson (TEN)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7815,6 +7809,12 @@
     "player": "Julian Hicks (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Trey Lance (LAC)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14364,12 +14364,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Eric Saubert (SEA)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Hayden Hurst (None)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -14823,6 +14817,12 @@
     "player": "Jared Dangerfield (None)",
     "ros_points": 68,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Eric Saubert (SEA)",
+    "ros_points": 68,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
@@ -18145,6 +18145,12 @@
   },
   {
     "player": "Pro Wells (None)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Kolbe Katsis (DEN)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
