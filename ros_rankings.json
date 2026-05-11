@@ -8550,12 +8550,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Xavier Johnson (CIN)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Auden Tate (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -10560,6 +10554,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Xavier Johnson (CIN)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Travis Homer (PIT)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11209,12 +11209,6 @@
   },
   {
     "player": "Skylar Thompson (BAL)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Velus Jones (SEA)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -12627,6 +12621,12 @@
     "player": "Nikola Kalinic (CHI)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Velus Jones (SEA)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
