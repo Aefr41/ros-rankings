@@ -3696,7 +3696,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ja'Quinden Jackson (JAX)",
+    "player": "Ja'Quinden Jackson (None)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13302,7 +13302,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "David Njoku (None)",
+    "player": "David Njoku (LAC)",
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -14640,7 +14640,7 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Ameer Abdullah (None)",
+    "player": "Ameer Abdullah (JAX)",
     "ros_points": 68,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
@@ -16668,6 +16668,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Dean Patterson (TB)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Trent Battle (ATL)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17947,6 +17953,12 @@
   },
   {
     "player": "Tayon Fleet-Davis (None)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Kadarius Calloway (TB)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
