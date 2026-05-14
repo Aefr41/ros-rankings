@@ -572,8 +572,8 @@
   {
     "player": "TJ Harden (CLE)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Lewis Bond (HOU)",
@@ -17370,6 +17370,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Rashad Rochelle (SEA)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "La'Damian Webb (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17875,6 +17881,12 @@
   },
   {
     "player": "Andre Lindsey (None)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Trayvon Rudolph (SEA)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
