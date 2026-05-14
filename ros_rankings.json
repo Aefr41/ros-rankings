@@ -66,12 +66,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Reggie Virgil (ARI)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "LeQuint Allen (JAX)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -417,6 +411,12 @@
     "player": "Leddie Brown (None)",
     "ros_points": 78,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Reggie Virgil (ARI)",
+    "ros_points": 78,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -1621,12 +1621,6 @@
   },
   {
     "player": "Riley Nowakowski (PIT)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Drake Dabney (GB)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3723,6 +3717,12 @@
     "player": "Hayden Hatten (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Drake Dabney (GB)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -7728,12 +7728,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dante Miller (NYG)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Hajj-Malik Williams (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9891,6 +9885,12 @@
     "player": "Keeon Johnson (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Dante Miller (NYG)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
