@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-14T13:46:57.258898",
+  "timestamp": "2026-05-14T16:05:23.724080",
   "players": {
     "QB": [
       {
@@ -3284,7 +3284,7 @@
         "rank": 10,
         "player_id": "11576",
         "name": "Braelon Allen",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -4076,7 +4076,7 @@
         "rank": 98,
         "player_id": "11571",
         "name": "Isaiah Davis",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
