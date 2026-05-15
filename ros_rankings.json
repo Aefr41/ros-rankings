@@ -9570,12 +9570,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tim Jones (JAX)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Blake Jarwin (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11214,6 +11208,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Tim Jones (JAX)",
+    "ros_points": 72,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Marcus Johnson (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12252,12 +12252,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ashton Dulin (IND)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jordan Howard (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12391,12 +12385,6 @@
   },
   {
     "player": "Rory Anderson (None)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Andrew Beck (NYJ)",
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13362,6 +13350,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Ashton Dulin (IND)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Alonzo Moore (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13461,6 +13455,12 @@
     "player": "Christian Wade (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Andrew Beck (NYJ)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -16050,12 +16050,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Josh Johnson (CIN)",
-    "ros_points": 61,
-    "trend": "-16.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Jason Witten (None)",
     "ros_points": 61,
     "trend": "+0.0",
@@ -16071,6 +16065,12 @@
     "player": "Ryan Fitzpatrick (None)",
     "ros_points": 61,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Josh Johnson (CIN)",
+    "ros_points": 60,
+    "trend": "-17.0",
     "quick_why": "Veteran downgrade"
   },
   {
