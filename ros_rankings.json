@@ -3738,12 +3738,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tahj Washington (MIA)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Bryce Love (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -5322,12 +5316,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ben Sims (MIA)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Alec Holler (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6177,6 +6165,12 @@
     "player": "Tony Poljan (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tahj Washington (MIA)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -7617,6 +7611,12 @@
     "player": "Davon Grayson (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Ben Sims (MIA)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13080,12 +13080,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Gardner Minshew (ARI)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jarrett Stidham (DEN)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13869,6 +13863,12 @@
     "player": "Seth Roberts (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Gardner Minshew (ARI)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
