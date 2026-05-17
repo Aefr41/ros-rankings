@@ -432,12 +432,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Keon Coleman (BUF)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Tanner Koziol (JAX)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1551,6 +1545,12 @@
     "player": "Carson Steele (PHI)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Keon Coleman (BUF)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -3307,12 +3307,6 @@
   },
   {
     "player": "Dylan Leonard (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jeremiah Webb (NE)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5655,6 +5649,12 @@
     "player": "JJ Howland (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jeremiah Webb (NE)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -16098,7 +16098,7 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Aaron Rodgers (None)",
+    "player": "Aaron Rodgers (PIT)",
     "ros_points": 58,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
