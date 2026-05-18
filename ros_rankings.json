@@ -564,6 +564,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Dillon Bell (MIN)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Lewis Bond (HOU)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -5014,6 +5020,12 @@
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Haynes King (CAR)",
+    "ros_points": 75,
+    "trend": "+75.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "David White (None)",
@@ -16800,12 +16812,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Haynes King (CAR)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "None (LAC)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -18205,12 +18211,6 @@
   },
   {
     "player": "Luke Wysong (MIN)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Dillon Bell (MIN)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
