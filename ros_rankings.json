@@ -1,5 +1,11 @@
 [
   {
+    "player": "Mark Gronowski (MIA)",
+    "ros_points": 100,
+    "trend": "+100.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Easton Dean (None)",
     "ros_points": 80,
     "trend": "+0.0",
@@ -80,8 +86,8 @@
   {
     "player": "Desmond Reid (BUF)",
     "ros_points": 79,
-    "trend": "+79.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Ted Hurst (TB)",
@@ -746,8 +752,8 @@
   {
     "player": "John Michael Gyllenborg (KC)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Jamoi Mayes (None)",
@@ -1082,8 +1088,8 @@
   {
     "player": "Harrison Wallace (ARI)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Charlie Taumoepeau (None)",
@@ -1106,8 +1112,8 @@
   {
     "player": "Jeff Caldwell (KC)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Riley Leonard (IND)",
@@ -1400,8 +1406,8 @@
   {
     "player": "Jaydn Ott (KC)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Anthony Tyus (CAR)",
@@ -3082,6 +3088,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Diego Pavia (BAL)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Bijan Robinson (ATL)",
@@ -16710,12 +16722,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mark Gronowski (MIA)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Preston Fox (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17143,12 +17149,6 @@
   },
   {
     "player": "Jamal Haynes (CIN)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Diego Pavia (BAL)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
