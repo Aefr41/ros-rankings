@@ -2,8 +2,8 @@
   {
     "player": "Mark Gronowski (MIA)",
     "ros_points": 100,
-    "trend": "+100.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Easton Dean (None)",
@@ -2292,6 +2292,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "DeaMonte Trayanum (NYJ)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Elijhah Badger (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3092,8 +3098,8 @@
   {
     "player": "Diego Pavia (BAL)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Bijan Robinson (ATL)",
@@ -5148,12 +5154,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Bryce Oliver (TEN)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kyle Markway (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5898,12 +5898,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tejhaun Palmer (ARI)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Shawn Bowman (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6370,6 +6364,12 @@
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "DT Sheffield (NYJ)",
+    "ros_points": 75,
+    "trend": "+75.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Lawrence Keys (None)",
@@ -7464,6 +7464,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Bryce Oliver (TEN)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "John Stephens (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8073,6 +8079,12 @@
     "player": "Tyrie Cleveland (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tejhaun Palmer (ARI)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -16464,12 +16476,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "DeaMonte Trayanum (NYJ)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Erik Krommenhoek (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17887,12 +17893,6 @@
   },
   {
     "player": "None (CHI)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "DT Sheffield (NYJ)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
