@@ -720,6 +720,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Miles Kitselman (DET)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Seth Henigan (IND)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -810,7 +816,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Montrell Johnson (CAR)",
+    "player": "Montrell Johnson (None)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -1878,6 +1884,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Luke Altmyer (DET)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Jaylen Wright (MIA)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2934,6 +2946,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Trebor Pena (JAX)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Jaheim Bell (PIT)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3664,6 +3682,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "J'Mari Taylor (JAX)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Kelvin McKnight (None)",
@@ -5040,7 +5064,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Bryce Pierre (CAR)",
+    "player": "Bryce Pierre (None)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6630,6 +6654,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Joe Fagnano (BAL)",
+    "ros_points": 75,
+    "trend": "+75.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Josh Love (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7704,7 +7734,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Isaiah Wooden (CLE)",
+    "player": "Isaiah Wooden (None)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8184,7 +8214,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Caden Prieskorn (CLE)",
+    "player": "Caden Prieskorn (None)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16428,12 +16458,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Miles Kitselman (DET)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Miller Moss (CHI)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16608,7 +16632,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Alex Bullock (JAX)",
+    "player": "Alex Bullock (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16752,7 +16776,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Trent Battle (ATL)",
+    "player": "Trent Battle (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17011,12 +17035,6 @@
   },
   {
     "player": "Brennan Eagles (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Trebor Pena (JAX)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17706,12 +17724,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "J'Mari Taylor (JAX)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "None (BUF)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -18126,7 +18138,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Malik Rutherford (ATL)",
+    "player": "Malik Rutherford (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -18174,19 +18186,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Joe Fagnano (BAL)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Romello Brinson (MIA)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Luke Altmyer (DET)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
