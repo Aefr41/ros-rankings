@@ -182,8 +182,8 @@
   {
     "player": "Noah Thomas (CIN)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Brenen Thompson (LAC)",
@@ -358,6 +358,12 @@
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Injury concern"
+  },
+  {
+    "player": "Anthony Hankerson (MIA)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Elic Ayomanor (TEN)",
@@ -672,6 +678,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Donaven McCulley (MIA)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Blayne Taylor (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -837,7 +849,7 @@
     "player": "Montrell Johnson (None)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Izaiah Gathings (None)",
@@ -1104,6 +1116,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Aaron Anderson (CLE)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Jaxson Dart (NYG)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1214,8 +1232,8 @@
   {
     "player": "Jamal Haynes (CIN)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Travis Hunter (JAX)",
@@ -2960,6 +2978,12 @@
   {
     "player": "Ja'Mori Maclin (BUF)",
     "ros_points": 76,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Davon Booth (CLE)",
+    "ros_points": 76,
     "trend": "+76.0",
     "quick_why": "Trending up"
   },
@@ -3816,6 +3840,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Kentrel Bullock (CIN)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Manasseh Bailey (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4168,6 +4198,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Romello Brinson (MIA)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Kaden Wetjen (PIT)",
@@ -5103,7 +5139,7 @@
     "player": "Bryce Pierre (None)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Treyton Welch (NO)",
@@ -16332,12 +16368,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Donaven McCulley (MIA)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Caleb Chapman (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17022,18 +17052,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Davon Booth (CLE)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Aaron Anderson (CLE)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Darius Davis (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17239,12 +17257,6 @@
   },
   {
     "player": "Will Pauling (SF)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Anthony Hankerson (MIA)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17808,12 +17820,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kentrel Bullock (CIN)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Riley Lees (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -18181,12 +18187,6 @@
   },
   {
     "player": "Matt Lauter (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Romello Brinson (MIA)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
