@@ -534,6 +534,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Dean Connors (LAR)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Denzel Boston (CLE)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -724,6 +730,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Jerand Bradley (LAC)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Trevon Clark (None)",
@@ -1072,6 +1084,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Dan Villari (LAR)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Tre Watson (KC)",
@@ -2372,8 +2390,8 @@
   {
     "player": "Miller Moss (CHI)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Isaac Nauta (GB)",
@@ -16566,12 +16584,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jerand Bradley (LAC)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "None (BAL)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17082,12 +17094,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dan Villari (LAR)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jjay Mcafee (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17286,7 +17292,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Josh Pitsenberger (HOU)",
+    "player": "Joshua Pitsenberger (HOU)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17917,12 +17923,6 @@
   },
   {
     "player": "Tommy Thomas (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Dean Connors (LAR)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
