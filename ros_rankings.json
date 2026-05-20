@@ -2370,6 +2370,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Miller Moss (CHI)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Isaac Nauta (GB)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4278,7 +4284,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Romello Brinson (MIA)",
+    "player": "Romello Brinson (None)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4368,7 +4374,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ademola Faleye (TB)",
+    "player": "Ademola Faleye (None)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4776,7 +4782,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Chandler Morris (TB)",
+    "player": "Chandler Morris (None)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7476,7 +7482,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mason Pline (NO)",
+    "player": "Mason Pline (None)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10020,7 +10026,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Clayton Tune (HOU)",
+    "player": "Clayton Tune (None)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -15174,7 +15180,7 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Nathan Peterman (DEN)",
+    "player": "Nathan Peterman (None)",
     "ros_points": 68,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
@@ -16446,7 +16452,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brett Weaver (DEN)",
+    "player": "Brett Weaver (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16506,7 +16512,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Stone Eby (DEN)",
+    "player": "Stone Eby (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16578,7 +16584,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Julius Davis (DEN)",
+    "player": "Julius Davis (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16591,12 +16597,6 @@
   },
   {
     "player": "Miles Davis (CAR)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Miller Moss (CHI)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16687,6 +16687,12 @@
   },
   {
     "player": "Sincere Brown (LAC)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Heinrich Haarberg (CAR)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16854,7 +16860,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Marcus Burke (TEN)",
+    "player": "Marcus Burke (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17052,7 +17058,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mekhi Mews (NO)",
+    "player": "Mekhi Mews (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17328,7 +17334,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "DeShawn Hanika (IND)",
+    "player": "DeShawn Hanika (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17346,7 +17352,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Al-Jay Henderson (KC)",
+    "player": "Al-Jay Henderson (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17418,7 +17424,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Sawyer Robertson (LV)",
+    "player": "Sawyer Robertson (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17532,7 +17538,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ken Seals (KC)",
+    "player": "Ken Seals (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17550,7 +17556,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Isaiah Jacobs (GB)",
+    "player": "Isaiah Jacobs (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17838,7 +17844,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Shaleak Knotts (MIN)",
+    "player": "Shaleak Knotts (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17862,7 +17868,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jordan Nubin (DEN)",
+    "player": "Jordan Nubin (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17880,7 +17886,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Sean Brown (DEN)",
+    "player": "Sean Brown (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17910,7 +17916,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tommy Thomas (DEN)",
+    "player": "Tommy Thomas (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17970,7 +17976,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "E.J. Warner (DEN)",
+    "player": "E.J. Warner (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -18114,13 +18120,13 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kevorian Barnes (NYG)",
+    "player": "Kevorian Barnes (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
-    "player": "Trent Howland (DEN)",
+    "player": "Trent Howland (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -18162,7 +18168,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Eni Falayi (GB)",
+    "player": "Eni Falayi (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
