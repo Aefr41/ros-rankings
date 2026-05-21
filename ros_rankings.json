@@ -452,8 +452,8 @@
   {
     "player": "Dane Key (DEN)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Leddie Brown (None)",
@@ -904,6 +904,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Devonte Ross (LAC)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Osirus Mitchell (None)",
@@ -1950,6 +1956,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Evan Svoboda (LAC)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Jalen Milroe (SEA)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2096,8 +2108,8 @@
   {
     "player": "Joseph Manjack (DEN)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Skyler Howard (SEA)",
@@ -2608,6 +2620,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Cameron Ross (DEN)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Taulia Tagovailoa (None)",
@@ -9234,7 +9252,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Salvon Ahmed (None)",
+    "player": "Salvon Ahmed (CHI)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13458,12 +13476,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Josh Allen (BUF)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Will Dissly (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -14235,6 +14247,12 @@
     "player": "Chris Myarick (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Josh Allen (BUF)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -16848,12 +16866,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cameron Ross (DEN)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Carson Williams (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16867,12 +16879,6 @@
   },
   {
     "player": "Lujuan Winningham (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Devonte Ross (LAC)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -18163,12 +18169,6 @@
   },
   {
     "player": "Alex Larson (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Evan Svoboda (LAC)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
