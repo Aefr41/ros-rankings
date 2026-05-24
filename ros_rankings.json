@@ -1602,6 +1602,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Matthew Caldwell (LAR)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Brian Thomas (JAX)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -17689,12 +17695,6 @@
   },
   {
     "player": "Michael Briscoe (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Matthew Caldwell (LAR)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
