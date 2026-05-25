@@ -828,6 +828,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Xavier Loyd (KC)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Jerreth Sterns (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1069,12 +1075,6 @@
   },
   {
     "player": "Ben Sinnott (WAS)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Cam Ward (TEN)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -1466,8 +1466,8 @@
   {
     "player": "Rashad Rochelle (SEA)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Dont'e Thornton (LV)",
@@ -2982,6 +2982,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Cam Ward (TEN)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Louis Rees-Zammit (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3214,6 +3220,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Terion Stewart (KC)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Silas Bolden (None)",
@@ -4196,8 +4208,8 @@
   {
     "player": "Trayvon Rudolph (SEA)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Luke Grimm (LAC)",
@@ -8610,12 +8622,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Malik Willis (MIA)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Ellis Merriweather (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -10695,6 +10701,12 @@
     "player": "Travis Vokolek (ARI)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Malik Willis (MIA)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -16758,12 +16770,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Xavier Loyd (KC)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Keelan Marion (ATL)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17245,12 +17251,6 @@
   },
   {
     "player": "Le'Veon Moss (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Terion Stewart (KC)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
