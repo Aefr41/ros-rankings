@@ -11376,12 +11376,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Daniel Jones (IND)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "T.J. Hockenson (MIN)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12820,6 +12814,12 @@
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Daniel Jones (IND)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jesse James (None)",
