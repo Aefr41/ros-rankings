@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-28T14:29:04.578260",
+  "timestamp": "2026-05-28T17:56:53.314749",
   "players": {
     "QB": [
       {
@@ -996,7 +996,7 @@
         "rank": 111,
         "player_id": "11562",
         "name": "Spencer Rattler",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -4562,7 +4562,7 @@
         "rank": 152,
         "player_id": "12969",
         "name": "Lan Larison",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12664,7 +12664,7 @@
         "rank": 378,
         "player_id": "11636",
         "name": "Johnny Wilson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13060,7 +13060,7 @@
         "rank": 422,
         "player_id": "8146",
         "name": "Garrett Wilson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -17830,7 +17830,7 @@
         "rank": 952,
         "player_id": "11834",
         "name": "Devaughn Vele",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -18207,7 +18207,7 @@
       {
         "rank": 994,
         "player_id": "8861",
-        "name": "Irvin Charles",
+        "name": "Irv Charles",
         "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
@@ -21558,7 +21558,7 @@
         "rank": 4,
         "player_id": "13330",
         "name": "Kenyon Sadiq",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -23493,7 +23493,7 @@
         "rank": 219,
         "player_id": "11599",
         "name": "Cade Stover",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
