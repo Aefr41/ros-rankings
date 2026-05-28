@@ -210,12 +210,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Elijah Sarratt (BAL)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Tyler Snead (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -801,6 +795,12 @@
     "player": "Miles Kitselman (DET)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Elijah Sarratt (BAL)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
