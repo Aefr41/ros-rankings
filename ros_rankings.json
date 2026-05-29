@@ -648,12 +648,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Lewis Bond (HOU)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "C.J. Johnson (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -2088,6 +2082,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Lewis Bond (HOU)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Phil Mafah (DAL)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -3013,12 +3013,6 @@
   },
   {
     "player": "Bruno Labelle (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Puka Nacua (LAR)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5529,6 +5523,12 @@
     "player": "Sean Ryan (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Puka Nacua (LAR)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -11016,12 +11016,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Greg Dortch (DET)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Ben Braunecker (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -12540,6 +12534,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Greg Dortch (DET)",
+    "ros_points": 72,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Rasheed Bailey (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -13458,12 +13458,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "David Sills (TB)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Cody Latimer (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -14277,6 +14271,12 @@
     "player": "Kendrick Bourne (ARI)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "David Sills (TB)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
