@@ -12,12 +12,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jeremiyah Love (ARI)",
-    "ros_points": 80,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Adam Randall (BAL)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -63,6 +57,12 @@
     "player": "Carnell Tate (TEN)",
     "ros_points": 79,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jeremiyah Love (ARI)",
+    "ros_points": 79,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -3888,12 +3888,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ainias Smith (CAR)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "AJ Henning (MIA)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4531,12 +4525,6 @@
   },
   {
     "player": "Trevontae Hights (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Breece Hall (NYJ)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6348,6 +6336,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Ainias Smith (CAR)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Taj McGowan (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7029,6 +7023,12 @@
     "player": "Kazmeir Allen (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Breece Hall (NYJ)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
