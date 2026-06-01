@@ -2262,7 +2262,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mac Dalena (None)",
+    "player": "Mac Dalena (BUF)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6876,7 +6876,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Da'Quan Felton (None)",
+    "player": "Da'Quan Felton (NYJ)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -11682,7 +11682,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "A.J. Brown (PHI)",
+    "player": "A.J. Brown (NE)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13026,7 +13026,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "JuJu Smith-Schuster (None)",
+    "player": "JuJu Smith-Schuster (NYG)",
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -14070,7 +14070,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Easton Stick (None)",
+    "player": "Easton Stick (IND)",
     "ros_points": 70,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -15342,12 +15342,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Odell Beckham (None)",
-    "ros_points": 68,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Stefon Diggs (None)",
     "ros_points": 68,
     "trend": "+0.0",
@@ -15855,6 +15849,12 @@
     "player": "Robert Woods (None)",
     "ros_points": 67,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Odell Beckham (NYG)",
+    "ros_points": 67,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
