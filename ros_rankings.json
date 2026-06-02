@@ -2726,8 +2726,8 @@
   {
     "player": "Mark Gronowski (MIA)",
     "ros_points": 76,
-    "trend": "-24.0",
-    "quick_why": "Trending down"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Shea Patterson (None)",
@@ -8952,12 +8952,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jalen Reagor (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kirk Merritt (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -10980,6 +10974,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jalen Reagor (MIA)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Spencer Schnell (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11414,7 +11414,7 @@
   {
     "player": "Elijah Mitchell (PHI)",
     "ros_points": 72,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
