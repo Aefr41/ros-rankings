@@ -366,12 +366,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Elic Ayomanor (TEN)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jaden Shirden (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -811,12 +805,6 @@
   },
   {
     "player": "Barrett Burns (BAL)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Rome Odunze (CHI)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -1359,6 +1347,12 @@
     "player": "Holton Ahlers (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Elic Ayomanor (TEN)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -2505,6 +2499,12 @@
     "player": "DeaMonte Trayanum (NYJ)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Rome Odunze (CHI)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
