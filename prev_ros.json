@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-03T21:42:02.443524",
+  "timestamp": "2026-06-03T23:26:37.213934",
   "players": {
     "QB": [
       {
@@ -1752,7 +1752,7 @@
         "rank": 195,
         "player_id": "7527",
         "name": "Mac Jones",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -12475,7 +12475,7 @@
         "rank": 357,
         "player_id": "11619",
         "name": "Ja'Lynn Polk",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
