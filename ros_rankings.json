@@ -651,7 +651,7 @@
     "player": "Kendrick Law (DET)",
     "ros_points": 78,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Bucky Irving (TB)",
@@ -1290,7 +1290,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jalen Walthall (HOU)",
+    "player": "Jalen Walthall (None)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -1446,7 +1446,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Joaquin Davis (MIN)",
+    "player": "Joaquin Davis (None)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4206,7 +4206,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Trayvon Rudolph (None)",
+    "player": "Trayvon Rudolph (MIN)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4758,7 +4758,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Gee Scott (None)",
+    "player": "Gee Scott (NYJ)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -14784,12 +14784,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Robert Tonyan (None)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Hayden Hurst (None)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -15243,6 +15237,12 @@
     "player": "Jared Dangerfield (None)",
     "ros_points": 68,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Robert Tonyan (PIT)",
+    "ros_points": 68,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
@@ -17202,6 +17202,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Kyre Duplessis (DET)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Samson Nacua (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17712,7 +17718,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Michael Briscoe (None)",
+    "player": "Michael Briscoe (MIN)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
