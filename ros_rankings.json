@@ -11328,12 +11328,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Sam Darnold (SEA)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Pharoh Cooper (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12795,6 +12789,12 @@
     "player": "Rory Anderson (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Sam Darnold (SEA)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
