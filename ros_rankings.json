@@ -1602,12 +1602,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kyle Monangai (CHI)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Matthew Caldwell (LAR)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -3831,6 +3825,12 @@
     "player": "Tyjae Spears (TEN)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Kyle Monangai (CHI)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -10086,12 +10086,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kenny Pickett (CAR)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kawaan Baker (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11661,6 +11655,12 @@
     "player": "Rashard Higgins (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Kenny Pickett (CAR)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13464,12 +13464,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ian Thomas (LV)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Xavier Grimble (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -14277,6 +14271,12 @@
     "player": "David Sills (TB)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Ian Thomas (LV)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
