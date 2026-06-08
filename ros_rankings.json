@@ -1656,12 +1656,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Raheim Sanders (CLE)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Eric Rivers (TB)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -3879,6 +3873,12 @@
     "player": "Jacoby Jones (WAS)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Raheim Sanders (CLE)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -6906,12 +6906,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyson Bagent (CHI)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Zakhari Franklin (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -9129,6 +9123,12 @@
     "player": "Kyle Lauletta (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tyson Bagent (CHI)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
