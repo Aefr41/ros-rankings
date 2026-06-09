@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-09T19:07:53.272691",
+  "timestamp": "2026-06-09T21:41:31.058384",
   "players": {
     "QB": [
       {
@@ -12115,7 +12115,7 @@
         "rank": 317,
         "player_id": "12907",
         "name": "Quentin Skinner",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -14104,7 +14104,7 @@
         "rank": 538,
         "player_id": "12892",
         "name": "Da'Quan Felton",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
