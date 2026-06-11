@@ -1668,12 +1668,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kendre Miller (NO)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kyle Williams (NE)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -3921,6 +3915,12 @@
     "player": "Kelvin McKnight (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Kendre Miller (NO)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -8862,12 +8862,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Chuba Hubbard (CAR)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jimmy Williams (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -10863,6 +10857,12 @@
     "player": "De'Mard Llorens (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Chuba Hubbard (CAR)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
