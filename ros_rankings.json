@@ -84,7 +84,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Desmond Reid (BUF)",
+    "player": "Desmond Reid (None)",
     "ros_points": 79,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7050,12 +7050,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cade Stover (HOU)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Tyquan Thornton (KC)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7812,7 +7806,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Deven Thompkins (None)",
+    "player": "Deven Thompkins (BUF)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9294,6 +9288,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Cade Stover (HOU)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Christian Blake (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -10470,7 +10470,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kenny Yeboah (None)",
+    "player": "Kenny Yeboah (ARI)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16704,7 +16704,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Gabriel Benyard (BUF)",
+    "player": "Gabriel Benyard (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -18054,7 +18054,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Max Tomczak (None)",
+    "player": "Max Tomczak (BUF)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
