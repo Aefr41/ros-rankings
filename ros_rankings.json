@@ -642,12 +642,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kendrick Law (DET)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Bucky Irving (TB)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2134,6 +2128,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Kendrick Law (DET)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Carl Tucker (None)",
@@ -15066,12 +15066,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Ameer Abdullah (JAX)",
-    "ros_points": 68,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Dak Prescott (DAL)",
     "ros_points": 68,
     "trend": "+0.0",
@@ -15573,6 +15567,12 @@
     "player": "Ryan Griffin (None)",
     "ros_points": 67,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Ameer Abdullah (JAX)",
+    "ros_points": 67,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
