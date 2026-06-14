@@ -1044,12 +1044,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ben Sinnott (WAS)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Seth Dawkins (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2976,6 +2970,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Ben Sinnott (WAS)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Cam Ward (TEN)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3157,12 +3157,6 @@
   },
   {
     "player": "Trebor Pena (JAX)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jaheim Bell (PIT)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5583,6 +5577,12 @@
     "player": "Matt Corral (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jaheim Bell (PIT)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -9906,12 +9906,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Rico Dowdle (PIT)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Vyncint Smith (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11565,6 +11559,12 @@
     "player": "John Ursua (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Rico Dowdle (PIT)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14394,12 +14394,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Laquon Treadwell (IND)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Alvin Kamara (NO)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -14937,6 +14931,12 @@
     "player": "Jermaine Kearse (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Laquon Treadwell (IND)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
