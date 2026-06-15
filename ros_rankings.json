@@ -3786,12 +3786,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyjae Spears (TEN)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kyle Monangai (CHI)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -5838,12 +5832,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Payne Durham (TB)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Davis Allen (LAR)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6225,6 +6213,12 @@
     "player": "Jaylen Johnson (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tyjae Spears (TEN)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -8163,6 +8157,12 @@
     "player": "Bryant Koback (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Payne Durham (TB)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -12192,12 +12192,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Hakeem Butler (None)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Andy Isabella (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -14274,6 +14268,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Hakeem Butler (DEN)",
+    "ros_points": 70,
+    "trend": "-2.0",
+    "quick_why": "Trending down"
+  },
+  {
     "player": "Ian Thomas (LV)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -15288,12 +15288,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Cooper Kupp (SEA)",
-    "ros_points": 68,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "George Kittle (SF)",
     "ros_points": 68,
     "trend": "+0.0",
@@ -15783,6 +15777,12 @@
     "player": "Quenton Bundrage (None)",
     "ros_points": 67,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Cooper Kupp (SEA)",
+    "ros_points": 67,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
