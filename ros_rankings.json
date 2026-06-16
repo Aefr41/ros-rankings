@@ -2652,19 +2652,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dontayvion Wicks (PHI)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Montorie Foster (SEA)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Joey Aguilar (JAX)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5061,6 +5049,18 @@
     "player": "Bryan Thompson (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Dontayvion Wicks (PHI)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Joey Aguilar (JAX)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -8688,12 +8688,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Justin Jefferson (MIN)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Tyrell Shavers (BUF)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -10731,6 +10725,12 @@
     "player": "Jalen Williams (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Justin Jefferson (MIN)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
