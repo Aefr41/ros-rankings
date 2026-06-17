@@ -3054,7 +3054,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Hunter Dekkers (None)",
+    "player": "Hunter Dekkers (NO)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4399,12 +4399,6 @@
   },
   {
     "player": "Will Sheppard (GB)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jalen Cropper (None)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6957,6 +6951,12 @@
     "player": "Brandon Polk (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jalen Cropper (NO)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -10290,12 +10290,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tay Martin (None)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Aidan O'Connell (LV)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11811,6 +11805,12 @@
     "player": "Austin Duke (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tay Martin (DET)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
