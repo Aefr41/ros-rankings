@@ -3198,12 +3198,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Antwane Wells (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Traeshon Holden (DAL)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -5640,6 +5634,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Antwane Wells (ATL)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Alex Barnes (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6956,7 +6956,7 @@
   {
     "player": "Jalen Cropper (NO)",
     "ros_points": 75,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
@@ -8691,7 +8691,7 @@
     "player": "Michael Woods (None)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Isaac Rex (None)",
@@ -11810,7 +11810,7 @@
   {
     "player": "Tay Martin (DET)",
     "ros_points": 72,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
