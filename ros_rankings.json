@@ -2076,6 +2076,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Damon Bankston (NYG)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Pooka Williams (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -4782,13 +4788,13 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Damien Alford (NO)",
+    "player": "Damien Alford (None)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
-    "player": "Casey Washington (ATL)",
+    "player": "Casey Washington (None)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17202,7 +17208,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kyre Duplessis (DET)",
+    "player": "Kyre Duplessis (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -18331,12 +18337,6 @@
   },
   {
     "player": "None (KC)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Damon Bankston (NYG)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
