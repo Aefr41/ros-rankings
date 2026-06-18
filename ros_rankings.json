@@ -2078,8 +2078,8 @@
   {
     "player": "Damon Bankston (NYG)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Pooka Williams (None)",
@@ -3090,7 +3090,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ian Wheeler (None)",
+    "player": "Ian Wheeler (BUF)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7524,12 +7524,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Denzel Mims (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Trayone Gray (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -11482,6 +11476,12 @@
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Denzel Mims (DAL)",
+    "ros_points": 72,
+    "trend": "-2.0",
+    "quick_why": "Trending down"
   },
   {
     "player": "Kelvin Harmon (None)",
