@@ -36,6 +36,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Marcus Sanders (MIN)",
+    "ros_points": 79,
+    "trend": "+79.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "CJ Donaldson (NO)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -184,6 +190,12 @@
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Omari Evans (KC)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Tyler Snead (None)",
@@ -364,6 +376,12 @@
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Terrill Davis (MIN)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Javian Hawkins (None)",
@@ -2004,6 +2022,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Luke Wysong (MIN)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Isaiah Washington (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2173,12 +2197,6 @@
   },
   {
     "player": "Kayshon Boutte (NE)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Devontez Walker (BAL)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2821,12 +2839,6 @@
   },
   {
     "player": "Raymond Calais (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Roman Wilson (PIT)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4350,7 +4362,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Romello Brinson (DAL)",
+    "player": "Romello Brinson (None)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4587,6 +4599,12 @@
     "player": "Ryan Yurachek (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Devontez Walker (BAL)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -4956,6 +4974,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jacob Clark (LV)",
+    "ros_points": 75,
+    "trend": "+75.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "John Jackson (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5229,6 +5253,12 @@
     "player": "Ahmad Wagner (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Roman Wilson (PIT)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -6667,12 +6697,6 @@
   },
   {
     "player": "DT Sheffield (NYJ)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Lawrence Keys (None)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8859,6 +8883,12 @@
     "player": "Derrick Dillon (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Lawrence Keys (DET)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -16752,12 +16782,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Omari Evans (KC)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Dylan Devezin (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16903,12 +16927,6 @@
   },
   {
     "player": "None (LV)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jacob Clark (LV)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17119,12 +17137,6 @@
   },
   {
     "player": "Travell Harris (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Marcus Sanders (MIN)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17485,12 +17497,6 @@
   },
   {
     "player": "John Harris (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Terrill Davis (MIN)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -18271,12 +18277,6 @@
   },
   {
     "player": "Josh Pitsenburger (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Luke Wysong (MIN)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
