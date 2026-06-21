@@ -644,8 +644,8 @@
   {
     "player": "Wesley Grimes (SF)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "C.J. Johnson (None)",
@@ -1016,8 +1016,8 @@
   {
     "player": "Elijah Tau-Tolliver (BAL)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Jimmy Horn (CAR)",
@@ -1328,8 +1328,8 @@
   {
     "player": "Octavian Smith (BAL)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Corey Crooms (None)",
@@ -1454,8 +1454,8 @@
   {
     "player": "Ty Pezza (BAL)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "DJ Thomas-Jones (None)",
@@ -2376,6 +2376,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jaden Smith (DAL)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Derrick Deese (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -2596,6 +2602,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Le'Meke Brockington (ATL)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Benny LeMay (CLE)",
@@ -2878,6 +2890,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Dontae McMillan (BAL)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Caleb Lohner (DEN)",
@@ -4896,6 +4914,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Keelan Marion (ATL)",
+    "ros_points": 75,
+    "trend": "+75.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Chandler Morris (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6194,8 +6218,8 @@
   {
     "player": "Malick Meiga (CAR)",
     "ros_points": 75,
-    "trend": "+75.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "T.J. Luther (None)",
@@ -7406,8 +7430,8 @@
   {
     "player": "Miles Davis (CAR)",
     "ros_points": 74,
-    "trend": "+74.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Ethan Wolf (None)",
@@ -8254,6 +8278,12 @@
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Cortez Braham (BAL)",
+    "ros_points": 74,
+    "trend": "+74.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Gerrit Prince (None)",
@@ -16758,12 +16788,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jaden Smith (DAL)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kenny Fletcher (TB)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16872,12 +16896,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Keelan Marion (ATL)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "None (IND)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -16915,12 +16933,6 @@
   },
   {
     "player": "Kairee Robinson (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Le'Meke Brockington (ATL)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17125,12 +17137,6 @@
   },
   {
     "player": "Braxton Westfield (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Dontae McMillan (BAL)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17497,12 +17503,6 @@
   },
   {
     "player": "Jordan Bly (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Cortez Braham (BAL)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
