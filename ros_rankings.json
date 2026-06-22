@@ -2378,8 +2378,8 @@
   {
     "player": "Jaden Smith (DAL)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Derrick Deese (None)",
@@ -2606,8 +2606,8 @@
   {
     "player": "Le'Meke Brockington (ATL)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Benny LeMay (CLE)",
@@ -2894,8 +2894,8 @@
   {
     "player": "Dontae McMillan (BAL)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Caleb Lohner (DEN)",
@@ -4914,12 +4914,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Keelan Marion (ATL)",
-    "ros_points": 75,
-    "trend": "+75.0",
-    "quick_why": "Trending up"
-  },
-  {
     "player": "Chandler Morris (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6804,6 +6798,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Dominic Richardson (DAL)",
+    "ros_points": 75,
+    "trend": "+75.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Tanner Mordecai (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7488,6 +7488,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Keelan Marion (ATL)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Latreal Jones (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -7525,12 +7531,6 @@
   },
   {
     "player": "Chase Allen (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Will Mallory (IND)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8282,8 +8282,8 @@
   {
     "player": "Cortez Braham (BAL)",
     "ros_points": 74,
-    "trend": "+74.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Gerrit Prince (None)",
@@ -9795,6 +9795,12 @@
     "player": "Collin Johnson (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Will Mallory (IND)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -18055,12 +18061,6 @@
   },
   {
     "player": "None (CIN)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Dominic Richardson (DAL)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
