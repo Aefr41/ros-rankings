@@ -102,12 +102,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jack Strand (ATL)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "KC Concepcion (CLE)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -236,8 +230,8 @@
   {
     "player": "Kole Wilson (CLE)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Jaren Kanak (TEN)",
@@ -627,6 +621,12 @@
     "player": "Tanner Arkin (NE)",
     "ros_points": 78,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jack Strand (ATL)",
+    "ros_points": 78,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
