@@ -1032,12 +1032,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Michael Trigg (DAL)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Layne Pryor (HOU)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2985,6 +2979,12 @@
     "player": "Cephus Johnson (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Michael Trigg (DAL)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -6642,12 +6642,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Chris Olave (NO)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Antoine Green (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7681,12 +7675,6 @@
   },
   {
     "player": "Jermar Jefferson (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Will Levis (TEN)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8868,6 +8856,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Chris Olave (NO)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Austin Watkins (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9987,6 +9981,12 @@
     "player": "Darren Carrington (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Will Levis (TEN)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -12234,12 +12234,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ben Skowronek (PIT)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Darrell Daniels (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -13503,6 +13497,12 @@
     "player": "Alex Ellis (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Ben Skowronek (PIT)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
