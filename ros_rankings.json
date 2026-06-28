@@ -288,12 +288,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Eli Heidenreich (PIT)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Devin Carter (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1047,6 +1041,12 @@
     "player": "Taylor Elgersma (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Eli Heidenreich (PIT)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -5220,12 +5220,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Isaac Guerendo (SF)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Bryce Sterk (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7689,6 +7683,12 @@
     "player": "A.J. Richardson (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Isaac Guerendo (SF)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
