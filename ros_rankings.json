@@ -1092,12 +1092,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dan Villari (LAR)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Tre Watson (KC)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2244,12 +2238,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Lincoln Pare (IND)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Josh Kelly (HOU)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3057,6 +3045,12 @@
     "player": "Bruno Labelle (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Dan Villari (LAR)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -4020,12 +4014,6 @@
     "quick_why": "Trending up"
   },
   {
-    "player": "Luke Lachey (GB)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Xavier Restrepo (TEN)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4677,6 +4665,12 @@
     "player": "Demario Richard (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Lincoln Pare (IND)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -6531,6 +6525,12 @@
     "player": "Antonio Nunn (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Luke Lachey (GB)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
