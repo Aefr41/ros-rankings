@@ -1806,12 +1806,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Riley Nowakowski (PIT)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Adonai Mitchell (NYJ)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -4053,6 +4047,12 @@
     "player": "Hayden Hatten (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Riley Nowakowski (PIT)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -11784,12 +11784,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "A.J. Brown (NE)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Cayleb Jones (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -13203,6 +13197,12 @@
     "player": "JaMycal Hasty (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "A.J. Brown (NE)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
