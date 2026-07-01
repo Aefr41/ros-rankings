@@ -438,12 +438,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dane Key (DEN)",
-    "ros_points": 78,
-    "trend": "+1.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Leddie Brown (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1638,6 +1632,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Dane Key (DEN)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Ja'seem Reed (CAR)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2229,12 +2229,6 @@
     "player": "LaJohntay Wester (BAL)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Josh Kelly (HOU)",
-    "ros_points": 76,
-    "trend": "+1.0",
     "quick_why": "Steady"
   },
   {
@@ -4695,6 +4689,12 @@
     "player": "Deshaun Fenwick (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Josh Kelly (HOU)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
