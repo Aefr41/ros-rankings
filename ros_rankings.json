@@ -96,12 +96,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ted Hurst (TB)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "KC Concepcion (CLE)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -567,6 +561,12 @@
     "player": "Oscar Delp (NO)",
     "ros_points": 78,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Ted Hurst (TB)",
+    "ros_points": 78,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
