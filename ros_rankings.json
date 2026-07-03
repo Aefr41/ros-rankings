@@ -498,12 +498,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mike Washington (LV)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Khalil McClain (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1809,6 +1803,12 @@
     "player": "Adonai Mitchell (NYJ)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Mike Washington (LV)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -11466,12 +11466,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "T.J. Hockenson (MIN)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "I'Tavius Mathers (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12927,6 +12921,12 @@
     "player": "Marken Michel (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "T.J. Hockenson (MIN)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
