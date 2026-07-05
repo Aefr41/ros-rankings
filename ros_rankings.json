@@ -738,12 +738,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jahdae Walker (CHI)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Dominick Wood-Anderson (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1866,12 +1860,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Skyler Bell (BUF)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Luke Benson (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2433,6 +2421,12 @@
     "player": "Derrius Guice (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jahdae Walker (CHI)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -4173,6 +4167,12 @@
     "player": "Markese Stepp (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Skyler Bell (BUF)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
