@@ -4188,12 +4188,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Michael Mayer (LV)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Slade Bolden (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -5167,12 +5161,6 @@
   },
   {
     "player": "Emory Jones (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Dohnte Meyers (CIN)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6798,6 +6786,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Michael Mayer (LV)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Tanner Mordecai (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7659,6 +7653,12 @@
     "player": "Mason Pline (KC)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Dohnte Meyers (CIN)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
