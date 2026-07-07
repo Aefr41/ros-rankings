@@ -594,12 +594,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tanner Arkin (NE)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jack Strand (ATL)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -2019,6 +2013,12 @@
     "player": "Jaylen Wright (MIA)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tanner Arkin (NE)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -5508,12 +5508,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Eli Pancol (IND)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Evan Hull (HOU)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7893,6 +7887,12 @@
     "player": "Marcus Martin (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Eli Pancol (IND)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
