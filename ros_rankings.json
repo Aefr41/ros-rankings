@@ -546,12 +546,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Max Klare (LAR)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Oscar Delp (NO)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1857,6 +1851,12 @@
     "player": "Luke Benson (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Max Klare (LAR)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -7188,12 +7188,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jake Tonges (SF)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Steven Montez (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9447,6 +9441,12 @@
     "player": "E.J. Jenkins (PHI)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jake Tonges (SF)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
