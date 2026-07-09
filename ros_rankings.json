@@ -18,18 +18,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Justin Joly (DEN)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "RJ Maryland (GB)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kenyon Sadiq (NYJ)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -42,12 +30,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "CJ Donaldson (NO)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Carnell Tate (TEN)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -55,12 +37,6 @@
   },
   {
     "player": "Jeremiyah Love (ARI)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Trevor Etienne (CAR)",
     "ros_points": 79,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -168,6 +144,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Justin Joly (DEN)",
+    "ros_points": 78,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Eli Raridon (NE)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -231,6 +213,12 @@
     "player": "Luther Burden (CHI)",
     "ros_points": 78,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "RJ Maryland (GB)",
+    "ros_points": 78,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -324,6 +312,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "CJ Donaldson (NO)",
+    "ros_points": 78,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Ollie Gordon (MIA)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -369,6 +363,12 @@
     "player": "Javian Hawkins (None)",
     "ros_points": 78,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Trevor Etienne (CAR)",
+    "ros_points": 78,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -5868,12 +5868,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Julian Hill (NE)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Rodney Smith (None)",
     "ros_points": 75,
     "trend": "+5.0",
@@ -8238,6 +8232,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Julian Hill (NE)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
+  },
+  {
     "player": "Payne Durham (TB)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9103,12 +9103,6 @@
   },
   {
     "player": "KJ Hamler (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Nate Adkins (DEN)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -11097,6 +11091,12 @@
     "player": "Ben Braunecker (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Nate Adkins (DEN)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
