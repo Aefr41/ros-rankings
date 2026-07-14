@@ -6,25 +6,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Adam Randall (BAL)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Antonio Williams (WAS)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kenyon Sadiq (NYJ)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Marcus Sanders (MIN)",
     "ros_points": 79,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -84,6 +66,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Adam Randall (BAL)",
+    "ros_points": 78,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Jacolby George (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -93,6 +81,12 @@
     "player": "Audric Estime (NO)",
     "ros_points": 78,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Antonio Williams (WAS)",
+    "ros_points": 78,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -261,6 +255,12 @@
     "player": "Chris Bell (MIA)",
     "ros_points": 78,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Marcus Sanders (MIN)",
+    "ros_points": 78,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -9924,12 +9924,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Sean Clifford (CIN)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Matt Colburn (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11607,6 +11601,12 @@
     "player": "Jason Moore (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Sean Clifford (CIN)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
