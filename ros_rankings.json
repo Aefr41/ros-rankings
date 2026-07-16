@@ -5916,12 +5916,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brevin Jordan (HOU)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Chase Roberts (LV)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -8271,6 +8265,12 @@
     "player": "Cortez Braham (BAL)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Brevin Jordan (HOU)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
