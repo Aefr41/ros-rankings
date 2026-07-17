@@ -8244,12 +8244,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Zavier Scott (MIN)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Julian Hicks (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -10404,6 +10398,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Zavier Scott (MIN)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Quintez Cephus (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11491,12 +11491,6 @@
   },
   {
     "player": "Ka'Raun White (None)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Lucky Jackson (DET)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -12957,6 +12951,12 @@
     "player": "Nick Westbrook-Ikhine (IND)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Lucky Jackson (DET)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14532,12 +14532,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mason Rudolph (PIT)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jamel Johnson (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -15093,6 +15087,12 @@
     "player": "Michael Thomas (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Mason Rudolph (PIT)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
