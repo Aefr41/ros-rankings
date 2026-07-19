@@ -1974,12 +1974,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Rivaldo Fairweather (ARI)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Wyatt Houston (CAR)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -4353,6 +4347,12 @@
     "player": "KeAndre Lambert-Smith (LAC)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Rivaldo Fairweather (ARI)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
