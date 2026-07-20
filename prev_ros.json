@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T19:26:00.639224",
+  "timestamp": "2026-07-20T21:01:39.866289",
   "players": {
     "QB": [
       {
@@ -6524,7 +6524,7 @@
         "rank": 370,
         "player_id": "10216",
         "name": "Kenny McIntosh",
-        "injury_status": "Questionable",
+        "injury_status": "PUP",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -14167,7 +14167,7 @@
         "rank": 545,
         "player_id": "13034",
         "name": "Tyrone Broden",
-        "injury_status": null,
+        "injury_status": "PUP",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
