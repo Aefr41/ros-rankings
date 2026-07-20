@@ -42,12 +42,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Harold Fannin (CLE)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Desmond Reid (None)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -513,6 +507,12 @@
     "player": "Dean Connors (LAR)",
     "ros_points": 78,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Harold Fannin (CLE)",
+    "ros_points": 78,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
