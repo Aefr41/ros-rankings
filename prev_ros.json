@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T20:14:17.860745",
+  "timestamp": "2026-07-21T21:56:06.888096",
   "players": {
     "QB": [
       {
@@ -5651,7 +5651,7 @@
         "rank": 273,
         "player_id": "12412",
         "name": "Terrell Jennings",
-        "injury_status": null,
+        "injury_status": "PUP",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -9424,7 +9424,7 @@
         "rank": 18,
         "player_id": "13311",
         "name": "Chris Bell",
-        "injury_status": "Questionable",
+        "injury_status": "PUP",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -22548,7 +22548,7 @@
         "rank": 112,
         "player_id": "12984",
         "name": "CJ Dippre",
-        "injury_status": null,
+        "injury_status": "PUP",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
