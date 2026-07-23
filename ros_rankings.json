@@ -840,12 +840,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Trey Benson (ARI)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Dontay Demus (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2586,6 +2580,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Trey Benson (ARI)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Jimmy Holiday (KC)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4105,12 +4105,6 @@
   },
   {
     "player": "Michael Wiley (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Carter Runyon (LV)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6657,6 +6651,12 @@
     "player": "Ra'Shaun Henry (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Carter Runyon (LV)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -11796,12 +11796,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Olamide Zaccheaus (ATL)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Austin Carr (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -13263,6 +13257,12 @@
     "player": "Ezekiel Elliott (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Olamide Zaccheaus (ATL)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
