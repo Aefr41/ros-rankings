@@ -90,12 +90,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kyron Drones (GB)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "CJ Williams (JAX)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -699,6 +693,12 @@
     "player": "Jamaal Pritchett (NYJ)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Kyron Drones (GB)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -1717,12 +1717,6 @@
   },
   {
     "player": "Quinn Ewers (MIA)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Colbie Young (CIN)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3432,12 +3426,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Drake London (ATL)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Hal Presley (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3975,6 +3963,12 @@
     "player": "Xavier Restrepo (TEN)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Colbie Young (CIN)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -5835,6 +5829,12 @@
     "player": "Nick Brossette (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Drake London (ATL)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
