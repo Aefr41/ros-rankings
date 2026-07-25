@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-25T17:51:38.457315",
+  "timestamp": "2026-07-25T18:54:07.891067",
   "players": {
     "QB": [
       {
@@ -5984,7 +5984,7 @@
         "rank": 310,
         "player_id": "11651",
         "name": "Isaac Guerendo",
-        "injury_status": "Questionable",
+        "injury_status": "PUP",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -26400,7 +26400,7 @@
         "rank": 540,
         "player_id": "4217",
         "name": "George Kittle",
-        "injury_status": "Questionable",
+        "injury_status": "PUP",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -27327,7 +27327,7 @@
         "rank": 643,
         "player_id": "13312",
         "name": "Josh Kattus",
-        "injury_status": null,
+        "injury_status": "PUP",
         "ros_pts": 0.0,
         "rank_change": 0,
         "trend": ""
