@@ -120,12 +120,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brenen Thompson (LAC)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Justin Joly (DEN)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -717,6 +711,12 @@
     "player": "Trevon Clark (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Brenen Thompson (LAC)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -2821,12 +2821,6 @@
   },
   {
     "player": "Daniel Crawford (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Bryce Young (CAR)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5217,6 +5211,12 @@
     "player": "Jacob Dolegala (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Bryce Young (CAR)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14514,12 +14514,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Alvin Kamara (NO)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Luis Perez (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -15081,6 +15075,12 @@
     "player": "Jake Kumerow (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Alvin Kamara (NO)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
@@ -15716,7 +15716,7 @@
   {
     "player": "Chris Moore (BAL)",
     "ros_points": 67,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Veteran downgrade"
   },
   {
