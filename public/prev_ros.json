@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-26T20:07:01.040807",
+  "timestamp": "2026-07-26T21:50:53.182146",
   "players": {
     "QB": [
       {
@@ -13537,7 +13537,7 @@
         "rank": 475,
         "player_id": "13124",
         "name": "Jeremiah Webb",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -25914,7 +25914,7 @@
         "rank": 486,
         "player_id": "5133",
         "name": "Tyler Conklin",
-        "injury_status": null,
+        "injury_status": "PUP",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
