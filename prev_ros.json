@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T20:13:57.284361",
+  "timestamp": "2026-07-27T21:56:55.683723",
   "players": {
     "QB": [
       {
@@ -4967,7 +4967,7 @@
         "rank": 197,
         "player_id": "13352",
         "name": "Lincoln Pare",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5867,7 +5867,7 @@
         "rank": 297,
         "player_id": "11370",
         "name": "Chris Brooks",
-        "injury_status": null,
+        "injury_status": "PUP",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -9116,7 +9116,7 @@
         "rank": 658,
         "player_id": "13291",
         "name": "Kejon Owens",
-        "injury_status": null,
+        "injury_status": "PUP",
         "ros_pts": 0.0,
         "rank_change": 0,
         "trend": ""
@@ -14896,7 +14896,7 @@
         "rank": 626,
         "player_id": "8142",
         "name": "Alec Pierce",
-        "injury_status": "Questionable",
+        "injury_status": "PUP",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -19009,7 +19009,7 @@
         "rank": 1083,
         "player_id": "4080",
         "name": "Zay Jones",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -22944,7 +22944,7 @@
         "rank": 156,
         "player_id": "9484",
         "name": "Tucker Kraft",
-        "injury_status": "Questionable",
+        "injury_status": "PUP",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -23196,7 +23196,7 @@
         "rank": 184,
         "player_id": "9481",
         "name": "Luke Musgrave",
-        "injury_status": "Questionable",
+        "injury_status": "PUP",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
