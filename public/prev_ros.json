@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T16:07:44.671656",
+  "timestamp": "2026-07-27T18:17:50.384453",
   "players": {
     "QB": [
       {
@@ -2004,7 +2004,7 @@
         "rank": 223,
         "player_id": "5870",
         "name": "Daniel Jones",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -7658,7 +7658,7 @@
         "rank": 496,
         "player_id": "6151",
         "name": "Miles Sanders",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
