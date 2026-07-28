@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-28T22:04:54.532500",
+  "timestamp": "2026-07-28T23:51:40.312150",
   "players": {
     "QB": [
       {
@@ -4724,7 +4724,7 @@
         "rank": 170,
         "player_id": "9757",
         "name": "Kendre Miller",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -16156,7 +16156,7 @@
         "rank": 766,
         "player_id": "10867",
         "name": "Jake Bobo",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -27147,7 +27147,7 @@
         "rank": 623,
         "player_id": "13834",
         "name": "Cody Hardy",
-        "injury_status": null,
+        "injury_status": "PUP",
         "ros_pts": 0.0,
         "rank_change": 0,
         "trend": ""
