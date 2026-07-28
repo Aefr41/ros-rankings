@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-28T19:09:06.495245",
+  "timestamp": "2026-07-28T20:59:15.764979",
   "players": {
     "QB": [
       {
@@ -9280,7 +9280,7 @@
         "rank": 2,
         "player_id": "13281",
         "name": "Jordyn Tyson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -13015,7 +13015,7 @@
         "rank": 417,
         "player_id": "11895",
         "name": "Mason Tipton",
-        "injury_status": "Questionable",
+        "injury_status": "PUP",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -19666,7 +19666,7 @@
         "rank": 1156,
         "player_id": "4351",
         "name": "Tim Patrick",
-        "injury_status": "PUP",
+        "injury_status": null,
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -21873,7 +21873,7 @@
         "rank": 37,
         "player_id": "13307",
         "name": "Marlin Klein",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
