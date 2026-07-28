@@ -318,12 +318,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Malik Nabers (NYG)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Anthony Hankerson (MIA)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1275,6 +1269,12 @@
     "player": "DeWayne McBride (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Malik Nabers (NYG)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -10902,12 +10902,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Drew Ogletree (IND)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Lamar Jordan (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -12489,6 +12483,12 @@
     "player": "Xavier Smith (LAR)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Drew Ogletree (IND)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
