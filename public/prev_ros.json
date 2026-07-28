@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-28T17:25:12.299204",
+  "timestamp": "2026-07-28T19:09:06.495245",
   "players": {
     "QB": [
       {
@@ -7559,7 +7559,7 @@
         "rank": 485,
         "player_id": "7611",
         "name": "Rhamondre Stevenson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -11017,7 +11017,7 @@
         "rank": 195,
         "player_id": "11635",
         "name": "Ladd McConkey",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
