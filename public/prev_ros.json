@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T18:58:59.687492",
+  "timestamp": "2026-07-29T20:12:29.032420",
   "players": {
     "QB": [
       {
@@ -2571,7 +2571,7 @@
         "rank": 286,
         "player_id": "3294",
         "name": "Dak Prescott",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
@@ -15886,7 +15886,7 @@
         "rank": 736,
         "player_id": "6783",
         "name": "Jerry Jeudy",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -18460,7 +18460,7 @@
         "rank": 1022,
         "player_id": "7357",
         "name": "Dan Chisena",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
