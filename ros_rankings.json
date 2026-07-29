@@ -11934,12 +11934,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "DJ Turner (None)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Feleipe Franks (CAR)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -13407,6 +13401,12 @@
     "player": "Jerell Adams (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "DJ Turner (HOU)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14976,7 +14976,7 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "River Cracraft (None)",
+    "player": "River Cracraft (WAS)",
     "ros_points": 69,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
@@ -15234,7 +15234,7 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Cooper Rush (None)",
+    "player": "Cooper Rush (ATL)",
     "ros_points": 68,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
