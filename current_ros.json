@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T20:12:29.032420",
+  "timestamp": "2026-07-29T21:50:52.817978",
   "players": {
     "QB": [
       {
@@ -12079,7 +12079,7 @@
         "rank": 313,
         "player_id": "11621",
         "name": "Brenden Rice",
-        "injury_status": null,
+        "injury_status": "PUP",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -13276,7 +13276,7 @@
         "rank": 446,
         "player_id": "10225",
         "name": "Jonathan Mingo",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
