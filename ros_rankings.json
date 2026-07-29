@@ -8166,7 +8166,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Thomas Yassmin (None)",
+    "player": "Thomas Yassmin (GB)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8995,12 +8995,6 @@
   },
   {
     "player": "Joe Walker (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Sam Hartman (WAS)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -11007,6 +11001,12 @@
     "player": "Malik Davis (DAL)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Sam Hartman (WAS)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13788,12 +13788,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tom Kennedy (DET)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Trevon Wesco (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -14580,6 +14574,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Tom Kennedy (DET)",
+    "ros_points": 70,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Zach Zenner (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -15198,12 +15198,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Dak Prescott (DAL)",
-    "ros_points": 68,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Marquise Williams (None)",
     "ros_points": 68,
     "trend": "+0.0",
@@ -15699,6 +15693,12 @@
     "player": "Devin Gardner (None)",
     "ros_points": 67,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Dak Prescott (DAL)",
+    "ros_points": 67,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
