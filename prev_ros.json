@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T12:23:24.960196",
+  "timestamp": "2026-07-30T15:02:57.445339",
   "players": {
     "QB": [
       {
@@ -1743,7 +1743,7 @@
         "rank": 194,
         "player_id": "7527",
         "name": "Mac Jones",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -12322,7 +12322,7 @@
         "rank": 340,
         "player_id": "13075",
         "name": "Myles Price",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -13411,7 +13411,7 @@
         "rank": 461,
         "player_id": "8112",
         "name": "Drake London",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -14050,7 +14050,7 @@
         "rank": 532,
         "player_id": "11748",
         "name": "Bub Means",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -18658,7 +18658,7 @@
         "rank": 1044,
         "player_id": "6149",
         "name": "Darius Slayton",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
