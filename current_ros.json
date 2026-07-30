@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T17:15:41.931385",
+  "timestamp": "2026-07-30T19:10:29.695969",
   "players": {
     "QB": [
       {
@@ -2328,7 +2328,7 @@
         "rank": 259,
         "player_id": "3976",
         "name": "Mitchell Trubisky",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -21801,7 +21801,7 @@
         "rank": 29,
         "player_id": "13349",
         "name": "Eli Stowers",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
