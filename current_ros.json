@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T17:20:09.264597",
+  "timestamp": "2026-07-31T19:09:37.740777",
   "players": {
     "QB": [
       {
@@ -9451,7 +9451,7 @@
         "rank": 20,
         "player_id": "13353",
         "name": "Chris Brazzell",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -10099,7 +10099,7 @@
         "rank": 92,
         "player_id": "12530",
         "name": "Travis Hunter",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
