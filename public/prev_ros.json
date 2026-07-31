@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T19:09:37.740777",
+  "timestamp": "2026-07-31T20:53:43.095862",
   "players": {
     "QB": [
       {
@@ -10108,7 +10108,7 @@
         "rank": 93,
         "player_id": "13859",
         "name": "Jalen Walthall",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -12088,7 +12088,7 @@
         "rank": 313,
         "player_id": "11621",
         "name": "Brenden Rice",
-        "injury_status": "PUP",
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -22764,7 +22764,7 @@
         "rank": 134,
         "player_id": "12981",
         "name": "Gee Scott",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
