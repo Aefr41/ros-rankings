@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T20:05:47.362716",
+  "timestamp": "2026-08-01T21:44:25.939997",
   "players": {
     "QB": [
       {
@@ -10738,7 +10738,7 @@
         "rank": 163,
         "player_id": "13743",
         "name": "Joseph Manjack",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -22764,7 +22764,7 @@
         "rank": 134,
         "player_id": "12981",
         "name": "Gee Scott",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -25284,7 +25284,7 @@
         "rank": 414,
         "player_id": "6074",
         "name": "Donald Parham",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
