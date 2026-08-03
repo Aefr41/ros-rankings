@@ -2682,12 +2682,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Montorie Foster (SEA)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jalen McMillan (TB)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -5076,6 +5070,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Montorie Foster (SEA)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Joey Aguilar (JAX)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7404,12 +7404,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Zach Wilson (NO)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Adonis Jennings (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9153,7 +9147,7 @@
     "player": "Chris Collier (LV)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Elijah Dotson (None)",
@@ -9645,6 +9639,12 @@
     "player": "Jalen Hurts (PHI)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Zach Wilson (NO)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -16428,12 +16428,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Tyrod Taylor (GB)",
-    "ros_points": 64,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Ted Ginn (None)",
     "ros_points": 64,
     "trend": "+0.0",
@@ -16509,6 +16503,12 @@
     "player": "Vernon Davis (None)",
     "ros_points": 63,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Tyrod Taylor (GB)",
+    "ros_points": 63,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
