@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T15:16:02.861494",
+  "timestamp": "2026-08-04T17:29:18.904402",
   "players": {
     "QB": [
       {
@@ -1779,7 +1779,7 @@
         "rank": 198,
         "player_id": "6768",
         "name": "Tua Tagovailoa",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -22053,7 +22053,7 @@
         "rank": 54,
         "player_id": "11600",
         "name": "Ja'Tavion Sanders",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -26283,7 +26283,7 @@
         "rank": 524,
         "player_id": "4435",
         "name": "Anthony Firkser",
-        "injury_status": "NA",
+        "injury_status": "IR",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
