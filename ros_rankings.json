@@ -2064,7 +2064,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Roc Taylor (None)",
+    "player": "Roc Taylor (CAR)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4731,7 +4731,7 @@
     "player": "Gee Scott (NYJ)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Kadarius Toney (None)",
@@ -8484,7 +8484,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tejhaun Palmer (None)",
+    "player": "Tejhaun Palmer (NE)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10008,7 +10008,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Elijah Cooks (None)",
+    "player": "Elijah Cooks (CAR)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17512,6 +17512,12 @@
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Injury concern"
+  },
+  {
+    "player": "Drew Biber (GB)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Al-Jay Henderson (None)",
