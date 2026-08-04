@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T17:29:18.904402",
+  "timestamp": "2026-08-04T19:18:45.426058",
   "players": {
     "QB": [
       {
@@ -23322,7 +23322,7 @@
         "rank": 195,
         "player_id": "12725",
         "name": "Luke Lachey",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -24771,7 +24771,7 @@
         "rank": 356,
         "player_id": "11508",
         "name": "Princeton Fant",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
