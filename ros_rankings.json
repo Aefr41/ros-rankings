@@ -516,12 +516,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Oscar Delp (NO)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Ted Hurst (TB)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1881,6 +1875,12 @@
     "player": "Ayir Asante (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Oscar Delp (NO)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -9810,12 +9810,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jake Bobo (SEA)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Demetric Felton (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11535,6 +11529,12 @@
     "player": "Kermit Whitfield (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jake Bobo (SEA)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14364,12 +14364,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kendrick Bourne (ARI)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "David Sills (TB)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -14997,6 +14991,12 @@
     "player": "Josh Hill (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Kendrick Bourne (ARI)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
