@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T19:18:45.426058",
+  "timestamp": "2026-08-04T21:02:10.861979",
   "players": {
     "QB": [
       {
@@ -4202,7 +4202,7 @@
         "rank": 112,
         "player_id": "11589",
         "name": "Trey Benson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -9991,7 +9991,7 @@
         "rank": 80,
         "player_id": "13309",
         "name": "Aaron Anderson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -13771,7 +13771,7 @@
         "rank": 500,
         "player_id": "11615",
         "name": "Ainias Smith",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -18244,7 +18244,7 @@
         "rank": 997,
         "player_id": "4040",
         "name": "JuJu Smith-Schuster",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -21675,7 +21675,7 @@
         "rank": 12,
         "player_id": "13430",
         "name": "RJ Maryland",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
