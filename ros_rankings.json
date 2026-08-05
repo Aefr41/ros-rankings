@@ -36,12 +36,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "LeQuint Allen (JAX)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Desmond Reid (None)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -477,6 +471,12 @@
     "player": "Dean Connors (LAR)",
     "ros_points": 78,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "LeQuint Allen (JAX)",
+    "ros_points": 78,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -4278,12 +4278,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "JJ Galbreath (PIT)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Dillon Mitchell (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -6918,6 +6912,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "JJ Galbreath (PIT)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Jibri Blount (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7465,12 +7465,6 @@
   },
   {
     "player": "Jason Reese (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Montrell Washington (None)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9759,6 +9753,12 @@
     "player": "Jerome Washington (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Montrell Washington (HOU)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -12524,7 +12524,7 @@
   {
     "player": "Raheem Blackshear (DET)",
     "ros_points": 72,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
