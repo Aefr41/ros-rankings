@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T20:57:49.405482",
+  "timestamp": "2026-08-05T22:10:23.477165",
   "players": {
     "QB": [
       {
@@ -9874,7 +9874,7 @@
         "rank": 67,
         "player_id": "12514",
         "name": "Emeka Egbuka",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9991,7 +9991,7 @@
         "rank": 80,
         "player_id": "13309",
         "name": "Aaron Anderson",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -15301,7 +15301,7 @@
         "rank": 670,
         "player_id": "12210",
         "name": "Cole Burgess",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -23934,7 +23934,7 @@
         "rank": 263,
         "player_id": "12062",
         "name": "Cam Grandy",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
