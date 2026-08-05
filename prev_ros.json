@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T15:08:01.114606",
+  "timestamp": "2026-08-05T17:20:54.231782",
   "players": {
     "QB": [
       {
@@ -22575,7 +22575,7 @@
         "rank": 112,
         "player_id": "12984",
         "name": "CJ Dippre",
-        "injury_status": "PUP",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -27253,8 +27253,8 @@
       },
       {
         "rank": 632,
-        "player_id": "13870",
-        "name": "Quentin Moore",
+        "player_id": "14069",
+        "name": "Connor Hulstein",
         "injury_status": null,
         "ros_pts": 0.0,
         "rank_change": 0,
@@ -27262,120 +27262,129 @@
       },
       {
         "rank": 633,
+        "player_id": "13870",
+        "name": "Quentin Moore",
+        "injury_status": null,
+        "ros_pts": 0.0,
+        "rank_change": -1,
+        "trend": "\u25bc"
+      },
+      {
+        "rank": 634,
         "player_id": "8102",
         "name": "DeShon Williams",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 634,
+        "rank": 635,
         "player_id": "12551",
         "name": "Colin Granger",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 635,
+        "rank": 636,
         "player_id": "12443",
         "name": "Devon Garrison",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 636,
+        "rank": 637,
         "player_id": "13014",
         "name": "Pat Conroy",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 637,
+        "rank": 638,
         "player_id": "12340",
         "name": "Alex Larson",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 638,
+        "rank": 639,
         "player_id": "13772",
         "name": "Eni Falayi",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 639,
+        "rank": 640,
         "player_id": "4807",
         "name": "Mike Estes",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 640,
+        "rank": 641,
         "player_id": "13158",
         "name": "Sam Pitz",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 641,
+        "rank": 642,
         "player_id": "13661",
         "name": "Ethan Conner",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 642,
+        "rank": 643,
         "player_id": "13806",
         "name": "Matt Lauter",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 643,
+        "rank": 644,
         "player_id": "7985",
         "name": "Pro Wells",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 644,
+        "rank": 645,
         "player_id": "13913",
         "name": "Patrick Gurd",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 645,
+        "rank": 646,
         "player_id": "13312",
         "name": "Josh Kattus",
         "injury_status": "PUP",
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       }
     ],
     "DST": [

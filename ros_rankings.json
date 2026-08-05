@@ -186,7 +186,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "RJ Maryland (GB)",
+    "player": "RJ Maryland (None)",
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -1092,7 +1092,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Aaron Anderson (CLE)",
+    "player": "Aaron Anderson (None)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4722,7 +4722,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Gee Scott (NYJ)",
+    "player": "Gee Scott (None)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6330,7 +6330,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ainias Smith (CAR)",
+    "player": "Ainias Smith (None)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6474,7 +6474,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Luke Lachey (GB)",
+    "player": "Luke Lachey (None)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8940,7 +8940,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Lawrence Keys (DET)",
+    "player": "Lawrence Keys (None)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -14706,7 +14706,7 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "KhaDarel Hodge (None)",
+    "player": "KhaDarel Hodge (SF)",
     "ros_points": 69,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
@@ -16836,7 +16836,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Gabriel Benyard (CAR)",
+    "player": "Gabriel Benyard (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16884,7 +16884,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brandon Hayes (None)",
+    "player": "Brandon Hayes (PHI)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17202,7 +17202,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jeremiah Franklin (NE)",
+    "player": "Jeremiah Franklin (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -18043,6 +18043,12 @@
   },
   {
     "player": "Tommy Thomas (None)",
+    "ros_points": 0.0,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Connor Hulstein (NYJ)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
