@@ -2022,10 +2022,10 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Beaux Collins (NYG)",
+    "player": "Beaux Collins (None)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Earnest Edwards (None)",
@@ -6333,7 +6333,7 @@
     "player": "Ainias Smith (CAR)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Taj McGowan (None)",
@@ -8943,7 +8943,7 @@
     "player": "Lawrence Keys (DET)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Kameron Brown (None)",
@@ -9720,7 +9720,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Zack Kuntz (LV)",
+    "player": "Zack Kuntz (DAL)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -11775,7 +11775,7 @@
     "player": "Sean McKeon (IND)",
     "ros_points": 72,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Tyler Ferguson (None)",
@@ -14724,12 +14724,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Pharaoh Brown (None)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Baker Mayfield (TB)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -15036,12 +15030,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Dare Ogunbowale (None)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Jay Lee (None)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -15255,6 +15243,12 @@
     "player": "Alex Erickson (None)",
     "ros_points": 68,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Pharaoh Brown (IND)",
+    "ros_points": 68,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
@@ -15537,6 +15531,12 @@
     "player": "Alstevis Squirewell (None)",
     "ros_points": 68,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Dare Ogunbowale (LV)",
+    "ros_points": 68,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
