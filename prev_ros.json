@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T12:50:54.288181",
+  "timestamp": "2026-08-06T15:06:59.817460",
   "players": {
     "QB": [
       {
@@ -4139,7 +4139,7 @@
         "rank": 105,
         "player_id": "11571",
         "name": "Isaiah Davis",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -9874,7 +9874,7 @@
         "rank": 67,
         "player_id": "12514",
         "name": "Emeka Egbuka",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -13159,7 +13159,7 @@
         "rank": 432,
         "player_id": "11964",
         "name": "Dayton Wade",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -27381,7 +27381,7 @@
         "rank": 646,
         "player_id": "13312",
         "name": "Josh Kattus",
-        "injury_status": "PUP",
+        "injury_status": null,
         "ros_pts": 0.0,
         "rank_change": 0,
         "trend": ""
