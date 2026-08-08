@@ -4152,12 +4152,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Luke Grimm (LAC)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Ricky Person (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -6765,6 +6759,12 @@
     "player": "Nick Ralston (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Luke Grimm (LAC)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13608,12 +13608,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jarrett Stidham (DEN)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kevin Rader (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -14400,6 +14394,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jarrett Stidham (DEN)",
+    "ros_points": 70,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Trent Sherfield (BUF)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -14695,12 +14695,6 @@
   },
   {
     "player": "Carlos Hyde (None)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
-    "player": "Kalif Raymond (CHI)",
     "ros_points": 69,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
@@ -15225,6 +15219,12 @@
     "player": "Rob Gronkowski (None)",
     "ros_points": 68,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Kalif Raymond (CHI)",
+    "ros_points": 68,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
