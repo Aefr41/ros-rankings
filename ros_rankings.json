@@ -4992,7 +4992,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jamari Thrash (None)",
+    "player": "Jamari Thrash (CLE)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Injury concern"
@@ -9960,12 +9960,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kyle Trask (None)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Nico Collins (HOU)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11619,6 +11613,12 @@
     "player": "Maxx Williams (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Kyle Trask (CAR)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
