@@ -6198,12 +6198,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Shawn Bowman (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Racey McMath (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -8493,6 +8487,12 @@
     "player": "DeAndre Thompkins (GB)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Shawn Bowman (ARI)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
