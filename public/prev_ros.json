@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-09T16:23:06.057785",
+  "timestamp": "2026-08-09T17:21:51.711645",
   "players": {
     "QB": [
       {
@@ -2049,7 +2049,7 @@
         "rank": 228,
         "player_id": "8206",
         "name": "Skylar Thompson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -2607,7 +2607,7 @@
         "rank": 290,
         "player_id": "2152",
         "name": "Teddy Bridgewater",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
@@ -5876,7 +5876,7 @@
         "rank": 298,
         "player_id": "11370",
         "name": "Chris Brooks",
-        "injury_status": "PUP",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -10765,7 +10765,7 @@
         "rank": 165,
         "player_id": "12501",
         "name": "Matthew Golden",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -14383,7 +14383,7 @@
         "rank": 567,
         "player_id": "10222",
         "name": "Jayden Reed",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -24078,7 +24078,7 @@
         "rank": 278,
         "player_id": "10212",
         "name": "Josh Whyle",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
