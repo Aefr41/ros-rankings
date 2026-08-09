@@ -14424,12 +14424,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Durham Smythe (BAL)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jamal Agnew (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -15009,6 +15003,12 @@
     "player": "Austin Hooper (ATL)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Durham Smythe (BAL)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
