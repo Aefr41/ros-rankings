@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T21:32:20.236446",
+  "timestamp": "2026-08-10T22:27:01.672167",
   "players": {
     "QB": [
       {
@@ -11602,7 +11602,7 @@
         "rank": 258,
         "player_id": "14031",
         "name": "Kyron Hudson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -26283,7 +26283,7 @@
         "rank": 523,
         "player_id": "4435",
         "name": "Anthony Firkser",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
