@@ -1104,7 +1104,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Chris Hilton (None)",
+    "player": "Chris Hilton (GB)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3954,7 +3954,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ja'Quinden Jackson (None)",
+    "player": "Ja'Quinden Jackson (PHI)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -11439,7 +11439,7 @@
     "player": "Elijah Mitchell (PHI)",
     "ros_points": 72,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Tyler Mabry (None)",
@@ -11917,12 +11917,6 @@
   },
   {
     "player": "Andrew Price (None)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Juwann Winfree (None)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13377,6 +13371,12 @@
     "player": "De'Chavon Hayes (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Juwann Winfree (HOU)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
