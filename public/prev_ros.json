@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-11T15:51:10.755626",
+  "timestamp": "2026-08-11T16:47:48.314244",
   "players": {
     "QB": [
       {
@@ -10756,7 +10756,7 @@
         "rank": 164,
         "player_id": "12501",
         "name": "Matthew Golden",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -14374,7 +14374,7 @@
         "rank": 566,
         "player_id": "10222",
         "name": "Jayden Reed",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -24069,7 +24069,7 @@
         "rank": 277,
         "player_id": "10212",
         "name": "Josh Whyle",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
