@@ -318,12 +318,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Terrill Davis (MIN)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Javian Hawkins (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1350,6 +1344,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Terrill Davis (MIN)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Jalen White (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1363,12 +1363,6 @@
   },
   {
     "player": "Moliki Matavao (NO)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Marvin Harrison (ARI)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3528,6 +3522,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Marvin Harrison (ARI)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Zach Terrell (BAL)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -5100,12 +5100,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jeremy Ruckert (NYJ)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Emory Jones (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6120,7 +6114,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Malick Meiga (None)",
+    "player": "Malick Meiga (CAR)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Injury concern"
@@ -7194,12 +7188,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Trey Sermon (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Joel Bouagnon (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -7584,6 +7572,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jeremy Ruckert (NYJ)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Mason Pline (KC)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -7903,12 +7897,6 @@
   },
   {
     "player": "Jake Funk (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "James Mitchell (CAR)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9444,6 +9432,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Trey Sermon (ATL)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Dorren Miller (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -10167,6 +10161,12 @@
     "player": "Keith Marshall (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "James Mitchell (CAR)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
