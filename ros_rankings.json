@@ -4758,12 +4758,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Austin Reed (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Travon McMillian (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7323,6 +7317,12 @@
     "player": "Clyde Edwards-Helaire (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Austin Reed (BAL)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13101,7 +13101,7 @@
     "player": "Skylar Thompson (BAL)",
     "ros_points": 71,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Russell Gage (None)",
