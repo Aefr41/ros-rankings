@@ -24,12 +24,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jordyn Tyson (NO)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Dylan Sampson (CLE)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -294,12 +288,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Devin Neal (NO)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jaydon Blue (DAL)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -357,6 +345,12 @@
     "player": "Damien Martinez (GB)",
     "ros_points": 78,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jordyn Tyson (NO)",
+    "ros_points": 78,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -1218,6 +1212,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Devin Neal (NO)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Bhayshul Tuten (JAX)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1351,12 +1351,6 @@
   },
   {
     "player": "Jalen White (None)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Seydou Traore (MIA)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3216,12 +3210,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Traeshon Holden (DAL)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kyron Hudson (CHI)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3489,6 +3477,12 @@
     "player": "Jalen Sample (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Seydou Traore (MIA)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -4039,12 +4033,6 @@
   },
   {
     "player": "Quentin Skinner (BUF)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Josh Downs (IND)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5634,6 +5622,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Traeshon Holden (DAL)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Alex Barnes (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6561,6 +6555,12 @@
     "player": "Reggie White (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Josh Downs (IND)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
