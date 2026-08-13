@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T15:50:15.264810",
+  "timestamp": "2026-08-13T16:45:07.036777",
   "players": {
     "QB": [
       {
@@ -7127,7 +7127,7 @@
         "rank": 437,
         "player_id": "7594",
         "name": "Chuba Hubbard",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -9487,7 +9487,7 @@
         "rank": 23,
         "player_id": "13281",
         "name": "Jordyn Tyson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -13942,7 +13942,7 @@
         "rank": 518,
         "player_id": "9997",
         "name": "Zay Flowers",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -15067,7 +15067,7 @@
         "rank": 643,
         "player_id": "10444",
         "name": "Cedric Tillman",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
