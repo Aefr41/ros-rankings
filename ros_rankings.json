@@ -888,7 +888,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tre Stewart (None)",
+    "player": "Tre Stewart (ARI)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6705,7 +6705,7 @@
     "player": "Terrell Jennings (NE)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Dominic Richardson (None)",
@@ -6985,12 +6985,6 @@
   },
   {
     "player": "Ty Scott (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Baylor Cupp (None)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9237,6 +9231,12 @@
     "player": "CJ Marable (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Baylor Cupp (ARI)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
