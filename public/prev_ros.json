@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T19:14:38.158491",
+  "timestamp": "2026-08-15T20:11:51.762258",
   "players": {
     "QB": [
       {
@@ -897,7 +897,7 @@
         "rank": 100,
         "player_id": "12477",
         "name": "Kurtis Rourke",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -19657,7 +19657,7 @@
         "rank": 1153,
         "player_id": "2216",
         "name": "Mike Evans",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -22125,7 +22125,7 @@
         "rank": 62,
         "player_id": "13879",
         "name": "Jameson Geers",
-        "injury_status": null,
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
