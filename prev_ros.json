@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T23:12:46.750920",
+  "timestamp": "2026-08-15T00:42:39.960595",
   "players": {
     "QB": [
       {
@@ -2526,7 +2526,7 @@
         "rank": 281,
         "player_id": "2307",
         "name": "Marcus Mariota",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -4949,7 +4949,7 @@
         "rank": 195,
         "player_id": "11439",
         "name": "Jaleel McLaughlin",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
