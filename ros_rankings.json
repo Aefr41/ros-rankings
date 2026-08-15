@@ -13344,12 +13344,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brett Rypien (None)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jalen Simmons (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -14253,6 +14247,12 @@
     "player": "Josh Magee (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Brett Rypien (HOU)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -17463,7 +17463,7 @@
     "player": "Joshua Pitsenberger (HOU)",
     "ros_points": 0.0,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Josh Bist (None)",
