@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T17:11:59.476164",
+  "timestamp": "2026-08-16T18:15:12.228225",
   "players": {
     "QB": [
       {
@@ -13924,7 +13924,7 @@
         "rank": 516,
         "player_id": "9500",
         "name": "Josh Downs",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -21666,7 +21666,7 @@
         "rank": 11,
         "player_id": "13422",
         "name": "Jaren Kanak",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -21837,7 +21837,7 @@
         "rank": 30,
         "player_id": "12700",
         "name": "Gavin Bartholomew",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
