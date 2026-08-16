@@ -1074,12 +1074,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Roman Hemby (LV)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jaxson Dart (NYG)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2364,12 +2358,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Lew Nichols (PIT)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Isaiah Davis (NYJ)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -2635,12 +2623,6 @@
   },
   {
     "player": "Luke Floriea (CLE)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Cameron Ross (DEN)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3147,6 +3129,12 @@
     "player": "Marcus Marshall (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Roman Hemby (LV)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -4734,6 +4722,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Lew Nichols (PIT)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Jacardia Wright (SEA)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -4983,6 +4977,12 @@
     "player": "Grayson Gunter (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Cameron Ross (DEN)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
