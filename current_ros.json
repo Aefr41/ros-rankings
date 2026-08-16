@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T14:13:49.600806",
+  "timestamp": "2026-08-16T15:12:11.613969",
   "players": {
     "QB": [
       {
@@ -7163,7 +7163,7 @@
         "rank": 441,
         "player_id": "11435",
         "name": "Emanuel Wilson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -10252,7 +10252,7 @@
         "rank": 108,
         "player_id": "12541",
         "name": "Dont'e Thornton",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -22692,7 +22692,7 @@
         "rank": 125,
         "player_id": "13435",
         "name": "Joe Royer",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
