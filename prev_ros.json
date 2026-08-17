@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T19:20:20.294433",
+  "timestamp": "2026-08-17T20:15:29.726390",
   "players": {
     "QB": [
       {
@@ -3545,7 +3545,7 @@
         "rank": 39,
         "player_id": "12868",
         "name": "Montrell Johnson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -6470,7 +6470,7 @@
         "rank": 364,
         "player_id": "11568",
         "name": "Blake Watson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
