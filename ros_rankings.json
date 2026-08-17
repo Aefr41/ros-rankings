@@ -3192,7 +3192,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kyron Hudson (CHI)",
+    "player": "Kyron Hudson (None)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7266,7 +7266,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brenden Bates (CLE)",
+    "player": "Brenden Bates (None)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13056,12 +13056,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Craig Reynolds (None)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kenny Golladay (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -14109,6 +14103,12 @@
     "player": "Nick Chubb (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Craig Reynolds (WAS)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -16896,7 +16896,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jermaine Terry (None)",
+    "player": "Jermaine Terry (CLE)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -18222,7 +18222,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kadarius Calloway (TB)",
+    "player": "Kadarius Calloway (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -18312,7 +18312,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ethan Conner (JAX)",
+    "player": "Ethan Conner (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
