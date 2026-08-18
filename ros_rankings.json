@@ -8574,12 +8574,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tre' McKitty (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Larry Rose (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -10605,6 +10599,12 @@
     "player": "Mark Thompson (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tre' McKitty (WAS)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -16226,7 +16226,7 @@
   {
     "player": "Keenan Allen (IND)",
     "ros_points": 66,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Veteran downgrade"
   },
   {
@@ -17070,7 +17070,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ben Patterson (None)",
+    "player": "Ben Patterson (CLE)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
