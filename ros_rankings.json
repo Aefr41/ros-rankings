@@ -1380,12 +1380,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Joaquin Davis (PIT)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Rodney Hammond (DEN)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -3531,6 +3525,12 @@
     "player": "Oliver Martin (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Joaquin Davis (PIT)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -8718,12 +8718,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyrell Shavers (BUF)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Michael Woods (DEN)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9085,12 +9079,6 @@
   },
   {
     "player": "Zamir White (SF)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jawhar Jordan (HOU)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10782,6 +10770,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Tyrell Shavers (BUF)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Xavier Ubosi (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11037,6 +11031,12 @@
     "player": "K.J. Maye (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jawhar Jordan (HOU)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
