@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T18:23:15.616017",
+  "timestamp": "2026-08-18T19:20:50.124915",
   "players": {
     "QB": [
       {
@@ -1428,7 +1428,7 @@
         "rank": 159,
         "player_id": "11256",
         "name": "Tyson Bagent",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -19666,7 +19666,7 @@
         "rank": 1153,
         "player_id": "2216",
         "name": "Mike Evans",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
