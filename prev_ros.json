@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T11:16:13.108460",
+  "timestamp": "2026-08-18T12:25:39.919500",
   "players": {
     "QB": [
       {
@@ -6056,7 +6056,7 @@
         "rank": 318,
         "player_id": "8143",
         "name": "Jerome Ford",
-        "injury_status": null,
+        "injury_status": "IR",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -19441,7 +19441,7 @@
         "rank": 1128,
         "player_id": "4854",
         "name": "River Cracraft",
-        "injury_status": null,
+        "injury_status": "IR",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
