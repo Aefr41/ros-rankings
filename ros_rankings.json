@@ -576,12 +576,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Bucky Irving (TB)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Dorian Singer (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2139,6 +2133,12 @@
     "player": "Parker Washington (JAX)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Bucky Irving (TB)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -10014,12 +10014,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Hunter Long (JAX)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kurt Benkert (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11655,6 +11649,12 @@
     "player": "Tim Jones (JAX)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Hunter Long (JAX)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -16488,12 +16488,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Kirk Cousins (LV)",
-    "ros_points": 63,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Vernon Davis (None)",
     "ros_points": 63,
     "trend": "+0.0",
@@ -16575,6 +16569,12 @@
     "player": "Brian Hoyer (None)",
     "ros_points": 62,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Kirk Cousins (LV)",
+    "ros_points": 62,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
