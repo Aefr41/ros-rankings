@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T15:21:13.000875",
+  "timestamp": "2026-08-19T16:19:45.865922",
   "players": {
     "QB": [
       {
@@ -2328,7 +2328,7 @@
         "rank": 259,
         "player_id": "3976",
         "name": "Mitchell Trubisky",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -7919,7 +7919,7 @@
         "rank": 525,
         "player_id": "5967",
         "name": "Tony Pollard",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
