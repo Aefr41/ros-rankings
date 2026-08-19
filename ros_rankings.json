@@ -1794,7 +1794,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Junior Bergen (None)",
+    "player": "Junior Bergen (NYJ)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13140,12 +13140,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "D'Ernest Johnson (None)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jeff Heuerman (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -14157,6 +14151,12 @@
     "player": "Trey Millard (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "D'Ernest Johnson (TEN)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
