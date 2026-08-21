@@ -294,6 +294,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Hank Beatty (TEN)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Javian Hawkins (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -4522,6 +4528,12 @@
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Tyren Montgomery (TEN)",
+    "ros_points": 75,
+    "trend": "+75.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Jacob Cowing (SF)",
@@ -14274,12 +14286,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Zay Jones (None)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Samaje Perine (CIN)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -14907,6 +14913,12 @@
     "player": "Keelan Cole (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Zay Jones (HOU)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
@@ -16050,7 +16062,7 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Sterling Shepard (None)",
+    "player": "Sterling Shepard (HOU)",
     "ros_points": 67,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
@@ -16684,12 +16696,6 @@
     "ros_points": 55,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
-  },
-  {
-    "player": "Tyren Montgomery (TEN)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
   },
   {
     "player": "TaMerik Williams (None)",
@@ -17545,12 +17551,6 @@
   },
   {
     "player": "None (NO)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Hank Beatty (TEN)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
