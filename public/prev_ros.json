@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T20:12:17.814051",
+  "timestamp": "2026-08-22T21:12:30.642472",
   "players": {
     "QB": [
       {
@@ -150,7 +150,7 @@
         "rank": 17,
         "player_id": "11565",
         "name": "J.J. McCarthy",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -3230,7 +3230,7 @@
         "rank": 4,
         "player_id": "13302",
         "name": "Adam Randall",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -3671,7 +3671,7 @@
         "rank": 53,
         "player_id": "12476",
         "name": "Devin Neal",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9550,7 +9550,7 @@
         "rank": 29,
         "player_id": "12503",
         "name": "Isaiah Bond",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
