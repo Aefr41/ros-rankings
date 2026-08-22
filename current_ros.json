@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T19:16:07.710087",
+  "timestamp": "2026-08-22T20:12:17.814051",
   "players": {
     "QB": [
       {
@@ -5039,7 +5039,7 @@
         "rank": 205,
         "player_id": "12356",
         "name": "Jabari Small",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5570,7 +5570,7 @@
         "rank": 264,
         "player_id": "11729",
         "name": "Sione Vaki",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -19153,7 +19153,7 @@
         "rank": 1096,
         "player_id": "5113",
         "name": "Cedrick Wilson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
