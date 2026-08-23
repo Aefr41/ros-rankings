@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-23T21:12:30.285071",
+  "timestamp": "2026-08-23T22:12:08.306783",
   "players": {
     "QB": [
       {
@@ -3302,7 +3302,7 @@
         "rank": 12,
         "player_id": "12527",
         "name": "Ashton Jeanty",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9278,7 +9278,7 @@
         "rank": 676,
         "player_id": "13873",
         "name": "Sam Scott",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 0.0,
         "rank_change": 0,
         "trend": ""
@@ -11017,7 +11017,7 @@
         "rank": 192,
         "player_id": "13826",
         "name": "Caullin Lacy",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
