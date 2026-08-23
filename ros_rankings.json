@@ -7290,12 +7290,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Gary Jennings (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Trinity Benson (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -12856,6 +12850,12 @@
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Gary Jennings (LAC)",
+    "ros_points": 71,
+    "trend": "-3.0",
+    "quick_why": "Trending down"
   },
   {
     "player": "Matt LaCosse (NE)",
