@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T16:24:18.919611",
+  "timestamp": "2026-08-24T17:22:24.108595",
   "players": {
     "QB": [
       {
@@ -3509,7 +3509,7 @@
         "rank": 35,
         "player_id": "12529",
         "name": "TreVeyon Henderson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -6245,7 +6245,7 @@
         "rank": 339,
         "player_id": "8129",
         "name": "Dameon Pierce",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -9298,8 +9298,8 @@
         "name": "Marcelias Sutton",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": -1,
-        "trend": "\u25bc"
+        "rank_change": 0,
+        "trend": ""
       }
     ],
     "WR": [
@@ -9694,7 +9694,7 @@
         "rank": 44,
         "player_id": "13294",
         "name": "Makai Lemon",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -14698,7 +14698,7 @@
         "rank": 600,
         "player_id": "7596",
         "name": "Elijah Moore",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16570,7 +16570,7 @@
         "rank": 808,
         "player_id": "7525",
         "name": "DeVonta Smith",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -21819,7 +21819,7 @@
         "rank": 26,
         "player_id": "13349",
         "name": "Eli Stowers",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
