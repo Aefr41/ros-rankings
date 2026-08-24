@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T20:18:56.645228",
+  "timestamp": "2026-08-24T21:19:48.808547",
   "players": {
     "QB": [
       {
@@ -12781,7 +12781,7 @@
         "rank": 387,
         "player_id": "11921",
         "name": "Xavier Weaver",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -22971,7 +22971,7 @@
         "rank": 154,
         "player_id": "11597",
         "name": "Theo Johnson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
