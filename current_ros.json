@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T15:29:14.950900",
+  "timestamp": "2026-08-24T16:24:18.919611",
   "players": {
     "QB": [
       {
@@ -9285,12 +9285,21 @@
       },
       {
         "rank": 677,
-        "player_id": "6700",
-        "name": "Marcelias Sutton",
+        "player_id": "14082",
+        "name": "Alex Tecza",
         "injury_status": null,
         "ros_pts": 0.0,
         "rank_change": 0,
         "trend": ""
+      },
+      {
+        "rank": 678,
+        "player_id": "6700",
+        "name": "Marcelias Sutton",
+        "injury_status": null,
+        "ros_pts": 0.0,
+        "rank_change": -1,
+        "trend": "\u25bc"
       }
     ],
     "WR": [
