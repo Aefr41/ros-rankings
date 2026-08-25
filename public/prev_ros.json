@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-25T22:16:28.807044",
+  "timestamp": "2026-08-25T23:17:08.899280",
   "players": {
     "QB": [
       {
@@ -1428,7 +1428,7 @@
         "rank": 159,
         "player_id": "11256",
         "name": "Tyson Bagent",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -7604,7 +7604,7 @@
         "rank": 490,
         "player_id": "8255",
         "name": "Raheem Blackshear",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -9224,7 +9224,7 @@
         "rank": 670,
         "player_id": "14021",
         "name": "Kadarius Calloway",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 0.0,
         "rank_change": 0,
         "trend": ""
@@ -14077,7 +14077,7 @@
         "rank": 531,
         "player_id": "12803",
         "name": "Luke Grimm",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
