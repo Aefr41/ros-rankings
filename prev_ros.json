@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-25T19:23:30.861133",
+  "timestamp": "2026-08-25T20:17:51.482915",
   "players": {
     "QB": [
       {
@@ -7541,7 +7541,7 @@
         "rank": 483,
         "player_id": "8230",
         "name": "Ty Chandler",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -14068,7 +14068,7 @@
         "rank": 530,
         "player_id": "11748",
         "name": "Bub Means",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -15436,7 +15436,7 @@
         "rank": 682,
         "player_id": "8144",
         "name": "Chris Olave",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
