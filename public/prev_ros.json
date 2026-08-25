@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-25T17:22:43.222298",
+  "timestamp": "2026-08-25T18:25:05.188930",
   "players": {
     "QB": [
       {
@@ -5453,7 +5453,7 @@
         "rank": 251,
         "player_id": "8151",
         "name": "Kenneth Walker",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13960,7 +13960,7 @@
         "rank": 518,
         "player_id": "9500",
         "name": "Josh Downs",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -21464,8 +21464,8 @@
       },
       {
         "rank": 1352,
-        "player_id": "13191",
-        "name": "TJ Sheffield",
+        "player_id": "14085",
+        "name": "Matthew Henry",
         "injury_status": null,
         "ros_pts": 0.0,
         "rank_change": 0,
@@ -21473,120 +21473,129 @@
       },
       {
         "rank": 1353,
+        "player_id": "13191",
+        "name": "TJ Sheffield",
+        "injury_status": null,
+        "ros_pts": 0.0,
+        "rank_change": -1,
+        "trend": "\u25bc"
+      },
+      {
+        "rank": 1354,
         "player_id": "13702",
         "name": "Malik Rutherford",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 1354,
+        "rank": 1355,
         "player_id": "8891",
         "name": "Ryan McDaniel",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 1355,
+        "rank": 1356,
         "player_id": "5804",
         "name": "Julian Williams",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 1356,
+        "rank": 1357,
         "player_id": "2502",
         "name": "Bud Sasser",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 1357,
+        "rank": 1358,
         "player_id": "13783",
         "name": "Raylen Sharpe",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 1358,
+        "rank": 1359,
         "player_id": "11284",
         "name": "Cody Chrest",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 1359,
+        "rank": 1360,
         "player_id": "5638",
         "name": "Shaq Roland",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 1360,
+        "rank": 1361,
         "player_id": "13194",
         "name": "Key'Shawn Smith",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 1361,
+        "rank": 1362,
         "player_id": "8581",
         "name": "Trevon Bradford",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 1362,
+        "rank": 1363,
         "player_id": "7545",
         "name": "Marlon Williams",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 1363,
+        "rank": 1364,
         "player_id": "12074",
         "name": "Talik Keaton",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 1364,
+        "rank": 1365,
         "player_id": "13143",
         "name": "Dymere Miller",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       },
       {
-        "rank": 1365,
+        "rank": 1366,
         "player_id": "11530",
         "name": "Nick Williams",
         "injury_status": null,
         "ros_pts": 0.0,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": -1,
+        "trend": "\u25bc"
       }
     ],
     "TE": [
@@ -21855,7 +21864,7 @@
         "rank": 30,
         "player_id": "12487",
         "name": "Terrance Ferguson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
