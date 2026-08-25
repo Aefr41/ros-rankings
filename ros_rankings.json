@@ -1755,7 +1755,7 @@
     "player": "Kye Robichaux (DET)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Jerrion Ealy (None)",
@@ -2421,7 +2421,7 @@
     "player": "Caullin Lacy (None)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Ladd McConkey (LAC)",
@@ -9501,7 +9501,7 @@
     "player": "Tanner McLachlan (SF)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Jason Brownlee (KC)",
@@ -11142,12 +11142,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyler Johnson (DAL)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Isaiah Ford (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -12669,6 +12663,12 @@
     "player": "Dominique Dafney (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tyler Johnson (DAL)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -18351,7 +18351,7 @@
     "player": "Sam Scott (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Alex Tecza (PIT)",
