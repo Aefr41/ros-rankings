@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-25T20:17:51.482915",
+  "timestamp": "2026-08-25T21:18:32.487113",
   "players": {
     "QB": [
       {
@@ -4184,7 +4184,7 @@
         "rank": 110,
         "player_id": "11589",
         "name": "Trey Benson",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -7541,7 +7541,7 @@
         "rank": 483,
         "player_id": "8230",
         "name": "Ty Chandler",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -9278,7 +9278,7 @@
         "rank": 676,
         "player_id": "13873",
         "name": "Sam Scott",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 0.0,
         "rank_change": 0,
         "trend": ""
@@ -21972,7 +21972,7 @@
         "rank": 42,
         "player_id": "12480",
         "name": "Moliki Matavao",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
