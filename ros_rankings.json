@@ -252,12 +252,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Malachi Fields (NYG)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Ashton Jeanty (LV)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -421,12 +415,6 @@
   },
   {
     "player": "T.J. Pledger (None)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "DJ Giddens (IND)",
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -1104,6 +1092,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Malachi Fields (NYG)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Jeff Caldwell (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1710,6 +1704,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "DJ Giddens (IND)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Mike Washington (LV)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2017,12 +2017,6 @@
   },
   {
     "player": "Michael Warren (DET)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Roc Taylor (CAR)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3927,7 +3921,7 @@
     "player": "Ja'Quinden Jackson (None)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Garrett Nussmeier (KC)",
@@ -4443,6 +4437,12 @@
     "player": "Devron Harper (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Roc Taylor (CAR)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -6361,12 +6361,6 @@
   },
   {
     "player": "Mark Vital (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Kyren Williams (LAR)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8625,6 +8619,12 @@
     "player": "Tyler Hoppes (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Kyren Williams (LAR)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
