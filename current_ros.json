@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-27T13:22:39.997652",
+  "timestamp": "2026-08-27T23:22:59.753738",
   "players": {
     "QB": [
       {
@@ -13996,7 +13996,7 @@
         "rank": 522,
         "player_id": "8126",
         "name": "Wan'Dale Robinson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -14896,7 +14896,7 @@
         "rank": 622,
         "player_id": "8142",
         "name": "Alec Pierce",
-        "injury_status": "PUP",
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16192,7 +16192,7 @@
         "rank": 766,
         "player_id": "8125",
         "name": "Calvin Austin",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -26065,228 +26065,228 @@
       },
       {
         "rank": 497,
-        "player_id": "4144",
-        "name": "Jonnu Smith",
-        "injury_status": null,
-        "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
-      },
-      {
-        "rank": 498,
         "player_id": "4089",
         "name": "Gerald Everett",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 499,
+        "rank": 498,
         "player_id": "4768",
         "name": "Adam Zaruba",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 500,
+        "rank": 499,
         "player_id": "5001",
         "name": "Dalton Schultz",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 501,
+        "rank": 500,
         "player_id": "4033",
         "name": "David Njoku",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 502,
+        "rank": 501,
         "player_id": "6233",
         "name": "Matt Sokol",
         "injury_status": null,
         "ros_pts": 70,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 503,
+        "rank": 502,
         "player_id": "3496",
         "name": "Stephen Anderson",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 504,
+        "rank": 503,
         "player_id": "1587",
         "name": "Vance McDonald",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 505,
+        "rank": 504,
         "player_id": "3036",
         "name": "Matt Lengel",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 506,
+        "rank": 505,
         "player_id": "1718",
         "name": "Derek Carrier",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 507,
+        "rank": 506,
         "player_id": "2146",
         "name": "Richard Rodgers",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 508,
+        "rank": 507,
         "player_id": "1706",
         "name": "Jack Doyle",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 509,
+        "rank": 508,
         "player_id": "1500",
         "name": "Jordan Reed",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 510,
+        "rank": 509,
         "player_id": "3214",
         "name": "Hunter Henry",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 511,
+        "rank": 510,
         "player_id": "4066",
         "name": "Evan Engram",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 512,
+        "rank": 511,
         "player_id": "5022",
         "name": "Dallas Goedert",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 513,
+        "rank": 512,
         "player_id": "5133",
         "name": "Tyler Conklin",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 514,
+        "rank": 513,
         "player_id": "4973",
         "name": "Hayden Hurst",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 515,
+        "rank": 514,
         "player_id": "1388",
         "name": "Tyler Eifert",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 516,
+        "rank": 515,
         "player_id": "3020",
         "name": "Dan Light",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 517,
+        "rank": 516,
         "player_id": "1603",
         "name": "Luke Willson",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 518,
+        "rank": 517,
         "player_id": "1777",
         "name": "Josh Hill",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 519,
+        "rank": 518,
         "player_id": "3921",
         "name": "Nick Truesdell",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 520,
+        "rank": 519,
         "player_id": "3202",
         "name": "Austin Hooper",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
       },
       {
-        "rank": 521,
+        "rank": 520,
         "player_id": "5008",
         "name": "Durham Smythe",
         "injury_status": null,
         "ros_pts": 69,
-        "rank_change": 0,
-        "trend": ""
+        "rank_change": 1,
+        "trend": "\u25b2"
+      },
+      {
+        "rank": 521,
+        "player_id": "4144",
+        "name": "Jonnu Smith",
+        "injury_status": null,
+        "ros_pts": 69,
+        "rank_change": -24,
+        "trend": "\u25bc"
       },
       {
         "rank": 522,

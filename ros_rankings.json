@@ -1806,7 +1806,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jarquez Hunter (LAR)",
+    "player": "Jarquez Hunter (MIA)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2178,7 +2178,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mac Dalena (BUF)",
+    "player": "Mac Dalena (None)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6528,7 +6528,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tahj Washington (None)",
+    "player": "Tahj Washington (PHI)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7272,7 +7272,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brenden Bates (CLE)",
+    "player": "Brenden Bates (None)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7740,7 +7740,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tutu Atwell (MIA)",
+    "player": "Tutu Atwell (LAR)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8220,7 +8220,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cedric Tillman (CLE)",
+    "player": "Cedric Tillman (None)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10296,7 +10296,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dante Miller (NYG)",
+    "player": "Dante Miller (None)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -14454,12 +14454,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jonnu Smith (None)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Van Jefferson (WAS)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -14502,7 +14496,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cedrick Wilson (DET)",
+    "player": "Cedrick Wilson (None)",
     "ros_points": 70,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -15009,6 +15003,12 @@
     "player": "Durham Smythe (BAL)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Jonnu Smith (GB)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
@@ -16890,7 +16890,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brandon Hayes (PHI)",
+    "player": "Brandon Hayes (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17292,7 +17292,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kyre Duplessis (DEN)",
+    "player": "Kyre Duplessis (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
