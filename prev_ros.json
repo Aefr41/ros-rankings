@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-26T21:29:30.359691",
+  "timestamp": "2026-08-27T02:26:14.122538",
   "players": {
     "QB": [
       {
@@ -6821,7 +6821,7 @@
         "rank": 403,
         "player_id": "11654",
         "name": "Dante Miller",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -15436,7 +15436,7 @@
         "rank": 682,
         "player_id": "8144",
         "name": "Chris Olave",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -19162,7 +19162,7 @@
         "rank": 1096,
         "player_id": "5113",
         "name": "Cedrick Wilson",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -24168,7 +24168,7 @@
         "rank": 286,
         "player_id": "8214",
         "name": "Cole Turner",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
