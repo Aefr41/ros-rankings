@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T18:16:52.153312",
+  "timestamp": "2026-08-30T21:44:46.515491",
   "players": {
     "QB": [
       {
@@ -987,7 +987,7 @@
         "rank": 110,
         "player_id": "12486",
         "name": "Dillon Gabriel",
-        "injury_status": null,
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -4868,7 +4868,7 @@
         "rank": 186,
         "player_id": "13437",
         "name": "Noah Whittington",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -7694,7 +7694,7 @@
         "rank": 500,
         "player_id": "5850",
         "name": "Josh Jacobs",
-        "injury_status": "Questionable",
+        "injury_status": "DNR",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -22710,7 +22710,7 @@
         "rank": 124,
         "player_id": "13435",
         "name": "Joe Royer",
-        "injury_status": "Questionable",
+        "injury_status": "PUP",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
