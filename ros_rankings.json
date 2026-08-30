@@ -1566,12 +1566,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tank Bigsby (PHI)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Leon Johnson (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2035,12 +2029,6 @@
   },
   {
     "player": "Pooka Williams (None)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Drake Maye (NE)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3834,6 +3822,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Tank Bigsby (PHI)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "AJ Barner (SEA)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4461,6 +4455,12 @@
     "player": "Tayvion Robinson (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Drake Maye (NE)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
