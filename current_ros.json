@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T21:44:46.515491",
+  "timestamp": "2026-08-31T00:02:54.660759",
   "players": {
     "QB": [
       {
@@ -3365,7 +3365,7 @@
         "rank": 19,
         "player_id": "12531",
         "name": "Trevor Etienne",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -8414,7 +8414,7 @@
         "rank": 580,
         "player_id": "4137",
         "name": "James Conner",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -9505,7 +9505,7 @@
         "rank": 23,
         "player_id": "13281",
         "name": "Jordyn Tyson",
-        "injury_status": "Doubtful",
+        "injury_status": "IR",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -11377,7 +11377,7 @@
         "rank": 231,
         "player_id": "12482",
         "name": "Savion Williams",
-        "injury_status": null,
+        "injury_status": "IR",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -15670,7 +15670,7 @@
         "rank": 708,
         "player_id": "9502",
         "name": "Tank Dell",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
