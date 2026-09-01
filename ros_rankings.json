@@ -1602,7 +1602,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Carson Steele (None)",
+    "player": "Carson Steele (PHI)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2613,7 +2613,7 @@
     "player": "Dalevon Campbell (None)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Terry Wright (None)",
@@ -2703,7 +2703,7 @@
     "player": "Dontae Fleming (MIN)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Taysir Mack (None)",
@@ -3372,7 +3372,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cash Jones (None)",
+    "player": "Cash Jones (ATL)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5616,7 +5616,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Antwane Wells (None)",
+    "player": "Antwane Wells (ATL)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5766,7 +5766,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyler Goodson (None)",
+    "player": "Tyler Goodson (ATL)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6285,7 +6285,7 @@
     "player": "Jacoby Jones (None)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Dallen Bentley (DEN)",
@@ -6711,7 +6711,7 @@
     "player": "Dominic Richardson (NYJ)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Michael Mayer (LV)",
@@ -6942,7 +6942,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ulysses Bentley (None)",
+    "player": "Ulysses Bentley (IND)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7587,7 +7587,7 @@
     "player": "Jermar Jefferson (MIN)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jon'Vea Johnson (None)",
@@ -8358,7 +8358,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dylan Drummond (None)",
+    "player": "Dylan Drummond (ATL)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8376,7 +8376,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dameon Pierce (None)",
+    "player": "Dameon Pierce (PHI)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9822,7 +9822,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Nick Muse (None)",
+    "player": "Nick Muse (ATL)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10302,13 +10302,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cody White (SEA)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Aidan O'Connell (LV)",
+    "player": "Cody White (LV)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -11883,6 +11877,12 @@
     "player": "Nick Bowers (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Aidan O'Connell (LV)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -15246,7 +15246,7 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Pharaoh Brown (None)",
+    "player": "Pharaoh Brown (IND)",
     "ros_points": 68,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
@@ -16935,10 +16935,10 @@
     "player": "Sincere Brown (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
-    "player": "Jack Velling (None)",
+    "player": "Jack Velling (ATL)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17337,7 +17337,7 @@
     "player": "Chase Curtis (NYJ)",
     "ros_points": 0.0,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Roland Rivers (None)",
@@ -18057,7 +18057,7 @@
     "player": "Connor Hulstein (NYJ)",
     "ros_points": 0.0,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Squirrel White (None)",
@@ -18081,7 +18081,7 @@
     "player": "Quentin Moore (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Dallas Daniels (None)",
