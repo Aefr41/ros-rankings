@@ -11370,12 +11370,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Devin Singletary (NYG)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Rushel Shell (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12082,12 +12076,6 @@
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
-  },
-  {
-    "player": "Chris Oladokun (KC)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
   },
   {
     "player": "Josiah Price (None)",
@@ -12900,6 +12888,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Devin Singletary (NYG)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Brett Hundley (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13426,6 +13420,12 @@
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Chris Oladokun (KC)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Steven Scheu (None)",
