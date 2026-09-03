@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03T16:46:05.517196",
+  "timestamp": "2026-09-03T19:30:41.140723",
   "players": {
     "QB": [
       {
@@ -474,7 +474,7 @@
         "rank": 53,
         "player_id": "12511",
         "name": "Will Howard",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -14905,7 +14905,7 @@
         "rank": 621,
         "player_id": "8142",
         "name": "Alec Pierce",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
