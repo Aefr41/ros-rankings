@@ -4227,7 +4227,7 @@
     "player": "EJ Smith (KC)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Jalen Jackson (None)",
@@ -4855,12 +4855,6 @@
   },
   {
     "player": "Jake Burt (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Thomas Gordon (DET)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5847,7 +5841,7 @@
     "player": "Chase Roberts (LV)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Derius Davis (LAC)",
@@ -7425,6 +7419,12 @@
     "player": "Rocky Lombardi (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Thomas Gordon (DET)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -11052,12 +11052,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mac Jones (SF)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Cullen Gillaspia (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -12606,6 +12600,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Mac Jones (SF)",
+    "ros_points": 72,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Christian Scotland-Williamson (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -13419,7 +13419,7 @@
     "player": "Chris Oladokun (KC)",
     "ros_points": 71,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Steven Scheu (None)",
@@ -13677,7 +13677,7 @@
     "player": "Ray-Ray McCloud (CHI)",
     "ros_points": 71,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Malcolm Brown (None)",
