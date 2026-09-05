@@ -4224,7 +4224,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "EJ Smith (KC)",
+    "player": "EJ Smith (None)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5838,7 +5838,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Chase Roberts (LV)",
+    "player": "Chase Roberts (None)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -12174,12 +12174,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Thomas Odukoya (None)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "B.J. Johnson (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -13416,7 +13410,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Chris Oladokun (KC)",
+    "player": "Chris Oladokun (None)",
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13515,6 +13509,12 @@
     "player": "Scott Simonson (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Thomas Odukoya (KC)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13674,7 +13674,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ray-Ray McCloud (CHI)",
+    "player": "Ray-Ray McCloud (None)",
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
