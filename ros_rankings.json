@@ -60,12 +60,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Audric Estime (NO)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Antonio Williams (WAS)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -498,12 +492,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Sam Roush (CHI)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jack Strand (ATL)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -603,6 +591,12 @@
     "player": "Javon Leake (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Audric Estime (NO)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -976,12 +970,6 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
-  },
-  {
-    "player": "Robbie Ouzts (SEA)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
   },
   {
     "player": "Tre Watson (MIA)",
@@ -1524,12 +1512,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Gunnar Helm (TEN)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jase McClellan (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1872,12 +1854,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "J. Michael Sturdivant (GB)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Wyatt Houston (CAR)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1905,6 +1881,12 @@
     "player": "Brock Bowers (LV)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Sam Roush (CHI)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -2904,6 +2886,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Robbie Ouzts (SEA)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
+  },
+  {
     "player": "Dan Villari (LAR)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3762,6 +3750,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Gunnar Helm (TEN)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Jackson Harris (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3913,12 +3907,6 @@
   },
   {
     "player": "Manasseh Bailey (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Quentin Johnston (LAC)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4080,12 +4068,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Trayvon Rudolph (MIN)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Ricky Person (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4239,6 +4221,12 @@
     "player": "KeAndre Lambert-Smith (LAC)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "J. Michael Sturdivant (GB)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -6474,6 +6462,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Quentin Johnston (LAC)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Bo Scarbrough (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6711,6 +6705,12 @@
     "player": "Nick Ralston (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Trayvon Rudolph (MIN)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14400,12 +14400,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mark Andrews (BAL)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Antwan Goodley (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -14973,6 +14967,12 @@
     "player": "Nick Truesdell (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Mark Andrews (BAL)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
