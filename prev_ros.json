@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-08T19:40:54.768277",
+  "timestamp": "2026-09-08T22:11:42.787873",
   "players": {
     "QB": [
       {
@@ -3491,7 +3491,7 @@
         "rank": 33,
         "player_id": "12529",
         "name": "TreVeyon Henderson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -22575,7 +22575,7 @@
         "rank": 108,
         "player_id": "13121",
         "name": "Ben Yurosek",
-        "injury_status": null,
+        "injury_status": "IR",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
