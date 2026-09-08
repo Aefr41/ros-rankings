@@ -3030,12 +3030,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ja'Mori Maclin (BUF)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Davon Booth (IND)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -5496,6 +5490,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Ja'Mori Maclin (BUF)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Spencer Sanders (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7710,12 +7710,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cody Schrader (DEN)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "British Brooks (HOU)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8640,12 +8634,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Josh Whyle (GB)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Ellis Merriweather (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9091,12 +9079,6 @@
   },
   {
     "player": "Jalen Brooks (ARI)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Chig Okonkwo (WAS)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9972,6 +9954,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Cody Schrader (DEN)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Blake Jarwin (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -10674,6 +10662,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Josh Whyle (GB)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Travis Vokolek (ARI)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11019,6 +11013,12 @@
     "player": "Jack Westover (WAS)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Chig Okonkwo (WAS)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
