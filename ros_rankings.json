@@ -144,6 +144,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jack Velling (ATL)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Rushawn Baker (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -168,7 +174,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "RJ Maryland (GB)",
+    "player": "RJ Maryland (None)",
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -334,6 +340,12 @@
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Cameron Dorner (NE)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Camden Brown (DAL)",
@@ -760,6 +772,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Myles Montgomery (NE)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Mike Rigerman (None)",
@@ -1462,6 +1480,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Vinny Anthony (ATL)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Davis Cheek (None)",
@@ -6039,7 +6063,7 @@
     "player": "Coleman Owen (None)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "DJ Uiagalelei (LAC)",
@@ -7764,7 +7788,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Bryce Oliver (CLE)",
+    "player": "Bryce Oliver (None)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8859,7 +8883,7 @@
     "player": "Carter Bradley (None)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Keevan Lucas (None)",
@@ -13569,7 +13593,7 @@
     "player": "Joe Mixon (None)",
     "ros_points": 71,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Mason Schreck (None)",
@@ -16938,12 +16962,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jack Velling (ATL)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Cade Peterson (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17026,12 +17044,6 @@
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
-  },
-  {
-    "player": "Myles Montgomery (NE)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
   },
   {
     "player": "Brian Burt (None)",
@@ -17736,12 +17748,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cameron Dorner (NE)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Ketron Jackson (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17779,12 +17785,6 @@
   },
   {
     "player": "Tyler Moore (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Vinny Anthony (ATL)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
