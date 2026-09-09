@@ -146,8 +146,8 @@
   {
     "player": "Jack Velling (ATL)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Rushawn Baker (None)",
@@ -344,8 +344,8 @@
   {
     "player": "Cameron Dorner (NE)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Camden Brown (DAL)",
@@ -776,7 +776,7 @@
   {
     "player": "Myles Montgomery (NE)",
     "ros_points": 77,
-    "trend": "+77.0",
+    "trend": "+0.0",
     "quick_why": "Injury concern"
   },
   {
@@ -1484,8 +1484,8 @@
   {
     "player": "Vinny Anthony (ATL)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Davis Cheek (None)",
@@ -1911,7 +1911,7 @@
     "player": "Brock Bowers (LV)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Sam Roush (CHI)",
@@ -2016,7 +2016,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Damon Bankston (None)",
+    "player": "Damon Bankston (GB)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2620,6 +2620,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Khalil Dinkins (SF)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Tyler Warren (IND)",
@@ -6654,7 +6660,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kyrese Rowan (None)",
+    "player": "Kyrese Rowan (NO)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17095,12 +17101,6 @@
   },
   {
     "player": "John Matocha (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Khalil Dinkins (SF)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
