@@ -429,7 +429,7 @@
     "player": "Jordan James (SF)",
     "ros_points": 78,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Khalil McClain (None)",
@@ -1353,7 +1353,7 @@
     "player": "Ty Simpson (LAR)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Rashad Rochelle (None)",
@@ -1761,7 +1761,7 @@
     "player": "Max Klare (LAR)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Junior Bergen (None)",
@@ -2283,7 +2283,7 @@
     "player": "CJ Daniels (LAR)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "E.J. Williams (None)",
@@ -3537,7 +3537,7 @@
     "player": "Jordan Watkins (SF)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Dylan Leonard (None)",
@@ -5862,12 +5862,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Derius Davis (LAC)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Johnathon Johnson (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5925,7 +5919,7 @@
     "player": "Kurtis Rourke (SF)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Travis Jonsen (None)",
@@ -6571,12 +6565,6 @@
   },
   {
     "player": "Jordan Ellis (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Zay Flowers (BAL)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7755,7 +7743,7 @@
     "player": "Tutu Atwell (LAR)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Tyler Allgeier (ARI)",
@@ -8223,6 +8211,12 @@
     "player": "Brevin Jordan (HOU)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Derius Davis (LAC)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -8829,6 +8823,12 @@
     "player": "Pokey Wilson (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Zay Flowers (BAL)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13605,7 +13605,7 @@
     "player": "Joe Mixon (None)",
     "ros_points": 71,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Mason Schreck (None)",
