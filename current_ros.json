@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-12T17:32:39.939183",
+  "timestamp": "2026-09-12T19:53:38.520143",
   "players": {
     "QB": [
       {
@@ -3464,7 +3464,7 @@
         "rank": 30,
         "player_id": "11579",
         "name": "Audric Estime",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -7163,7 +7163,7 @@
         "rank": 441,
         "player_id": "8800",
         "name": "Malik Davis",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7541,7 +7541,7 @@
         "rank": 483,
         "player_id": "7720",
         "name": "Kene Nwangwu",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -19747,7 +19747,7 @@
         "rank": 1158,
         "player_id": "4351",
         "name": "Tim Patrick",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
