@@ -924,12 +924,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jimmy Horn (CAR)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Layne Pryor (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2841,6 +2835,12 @@
     "player": "Cephus Johnson (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jimmy Horn (CAR)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -11688,12 +11688,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Devin Duvernay (ARI)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jack Stoll (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -13167,6 +13161,12 @@
     "player": "Nick O'Leary (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Devin Duvernay (ARI)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
