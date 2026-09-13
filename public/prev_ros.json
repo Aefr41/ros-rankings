@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-13T16:49:20.797558",
+  "timestamp": "2026-09-13T19:07:13.491983",
   "players": {
     "QB": [
       {
@@ -123,7 +123,7 @@
         "rank": 14,
         "player_id": "13335",
         "name": "Cole Payton",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -3212,7 +3212,7 @@
         "rank": 2,
         "player_id": "12469",
         "name": "Dylan Sampson",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -9550,7 +9550,7 @@
         "rank": 25,
         "player_id": "13276",
         "name": "Omar Cooper",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -10414,7 +10414,7 @@
         "rank": 121,
         "player_id": "11631",
         "name": "Brian Thomas",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -14716,7 +14716,7 @@
         "rank": 599,
         "player_id": "7596",
         "name": "Elijah Moore",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -15499,7 +15499,7 @@
         "rank": 686,
         "player_id": "9997",
         "name": "Zay Flowers",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
