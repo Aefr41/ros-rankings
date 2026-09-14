@@ -24,12 +24,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dylan Sampson (CLE)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Desmond Reid (None)",
     "ros_points": 79,
     "trend": "+0.0",
@@ -370,6 +364,12 @@
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Dylan Sampson (CLE)",
+    "ros_points": 78,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Leddie Brown (None)",
@@ -5748,12 +5748,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kyle Dixon (NE)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Antoine Wesley (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -8121,6 +8115,12 @@
     "player": "Hajj-Malik Williams (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Kyle Dixon (NE)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14544,12 +14544,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Deshaun Watson (CLE)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Adam Zaruba (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -15123,6 +15117,12 @@
     "player": "Cameron Brate (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Deshaun Watson (CLE)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
