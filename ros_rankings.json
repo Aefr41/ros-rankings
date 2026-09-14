@@ -68,8 +68,8 @@
   {
     "player": "Kenny Fletcher (IND)",
     "ros_points": 78,
-    "trend": "+78.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "CJ Williams (JAX)",
@@ -1212,6 +1212,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Malik McClain (NYJ)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Corey Crooms (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1268,8 +1274,8 @@
   {
     "player": "Al-Jay Henderson (NYJ)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Keshunn Abram (None)",
@@ -1450,6 +1456,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Jaden Bradley (WAS)",
+    "ros_points": 77,
+    "trend": "+77.0",
+    "quick_why": "Trending up"
   },
   {
     "player": "Jaaron Hayek (None)",
@@ -1980,7 +1992,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Phil Mafah (None)",
+    "player": "Phil Mafah (NYG)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2714,8 +2726,8 @@
   {
     "player": "Dean Patterson (TB)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Dylan Parham (None)",
@@ -2738,8 +2750,8 @@
   {
     "player": "Lake McRee (PIT)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Anthony Smith (DAL)",
@@ -3434,8 +3446,8 @@
   {
     "player": "Anderson Castle (IND)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Jalen Sample (None)",
@@ -3774,6 +3786,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Michael Briscoe (MIN)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Bronson Rechsteiner (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3954,10 +3972,16 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Michael Wortham (JAX)",
+    "ros_points": 76,
+    "trend": "+76.0",
+    "quick_why": "Trending up"
+  },
+  {
     "player": "Garrett Nussmeier (KC)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Kentrel Bullock (CIN)",
@@ -4436,8 +4460,8 @@
   {
     "player": "Patrick Gurd (LV)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Trevontae Hights (None)",
@@ -4890,7 +4914,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Chandler Brayboy (None)",
+    "player": "Chandler Brayboy (NE)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5204,8 +5228,8 @@
   {
     "player": "Gregory Desrosiers (LAC)",
     "ros_points": 75,
-    "trend": "+75.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Luke McCaffrey (WAS)",
@@ -5955,7 +5979,7 @@
     "player": "Jared Wiley (KC)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Blake Mack (None)",
@@ -6309,7 +6333,7 @@
     "player": "Dallen Bentley (DEN)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Ainias Smith (None)",
@@ -7725,7 +7749,7 @@
     "player": "Tyler Badie (DEN)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Keenen Brown (None)",
@@ -9687,7 +9711,7 @@
     "player": "Sam Ehlinger (DEN)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Keon Hatcher (None)",
@@ -17526,12 +17550,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Malik McClain (NYJ)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Lachlan Pitts (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17790,12 +17808,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jaden Bradley (WAS)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Tyler Moore (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
@@ -17803,12 +17815,6 @@
   },
   {
     "player": "Coleman Bennett (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Michael Briscoe (MIN)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -17983,12 +17989,6 @@
   },
   {
     "player": "Shaleak Knotts (None)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Michael Wortham (JAX)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
