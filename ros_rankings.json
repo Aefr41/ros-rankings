@@ -78,12 +78,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Josh Cuevas (BAL)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jack Endries (CIN)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -627,6 +621,12 @@
     "player": "Emani Bailey (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Josh Cuevas (BAL)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -1214,8 +1214,8 @@
   {
     "player": "Malik McClain (NYJ)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Corey Crooms (None)",
@@ -1460,8 +1460,8 @@
   {
     "player": "Jaden Bradley (WAS)",
     "ros_points": 77,
-    "trend": "+77.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Jaaron Hayek (None)",
@@ -3788,8 +3788,8 @@
   {
     "player": "Michael Briscoe (MIN)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Bronson Rechsteiner (None)",
@@ -3974,8 +3974,8 @@
   {
     "player": "Michael Wortham (JAX)",
     "ros_points": 76,
-    "trend": "+76.0",
-    "quick_why": "Trending up"
+    "trend": "+0.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Garrett Nussmeier (KC)",
@@ -9300,12 +9300,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mitchell Tinsley (HOU)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Ray Davis (BUF)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -11211,6 +11205,12 @@
     "player": "Artavis Scott (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Mitchell Tinsley (HOU)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14244,12 +14244,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Easton Stick (TB)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "J.P. Holtz (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -14437,12 +14431,6 @@
   },
   {
     "player": "Spencer Ware (None)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Terry McLaurin (WAS)",
     "ros_points": 70,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -14844,6 +14832,12 @@
     "quick_why": "Veteran downgrade"
   },
   {
+    "player": "Easton Stick (TB)",
+    "ros_points": 69,
+    "trend": "-1.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
     "player": "Russell Shepard (None)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -15039,6 +15033,12 @@
     "player": "River Cracraft (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Terry McLaurin (WAS)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
