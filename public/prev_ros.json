@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-16T17:51:57.616996",
+  "timestamp": "2026-09-16T20:40:06.964791",
   "players": {
     "QB": [
       {
@@ -1428,7 +1428,7 @@
         "rank": 159,
         "player_id": "11256",
         "name": "Tyson Bagent",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -1977,7 +1977,7 @@
         "rank": 220,
         "player_id": "4943",
         "name": "Sam Darnold",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -2049,7 +2049,7 @@
         "rank": 228,
         "player_id": "6770",
         "name": "Joe Burrow",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -4670,7 +4670,7 @@
         "rank": 164,
         "player_id": "12534",
         "name": "Kyle Monangai",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -5237,7 +5237,7 @@
         "rank": 227,
         "player_id": "12489",
         "name": "RJ Harvey",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -6650,7 +6650,7 @@
         "rank": 384,
         "player_id": "6790",
         "name": "D'Andre Swift",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -6749,7 +6749,7 @@
         "rank": 395,
         "player_id": "8408",
         "name": "Jordan Mason",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -9640,7 +9640,7 @@
         "rank": 34,
         "player_id": "13293",
         "name": "Ja'Kobi Lane",
-        "injury_status": "Doubtful",
+        "injury_status": "IR",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -10027,7 +10027,7 @@
         "rank": 77,
         "player_id": "13417",
         "name": "De'Zhaun Stribling",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11521,7 +11521,7 @@
         "rank": 243,
         "player_id": "12641",
         "name": "Jaylin Lane",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -18091,7 +18091,7 @@
         "rank": 973,
         "player_id": "6819",
         "name": "Michael Pittman",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -24330,7 +24330,7 @@
         "rank": 301,
         "player_id": "8698",
         "name": "Jake Tonges",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
