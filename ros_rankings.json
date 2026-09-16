@@ -1968,12 +1968,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Daniel Sobkowicz (HOU)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Beaux Collins (ATL)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -4422,6 +4416,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Daniel Sobkowicz (HOU)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Ademola Faleye (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -6792,12 +6792,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Sam Howell (DAL)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Justin Hall (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7429,6 +7423,12 @@
   },
   {
     "player": "Ishmael Zamora (None)",
+    "ros_points": 74,
+    "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Ben VanSumeren (KC)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9027,6 +9027,12 @@
     "player": "A.T. Perry (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Sam Howell (DAL)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -10674,12 +10680,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "DeeJay Dallas (MIN)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "James Summers (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -12285,6 +12285,12 @@
     "player": "Adam Shaheen (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "DeeJay Dallas (MIN)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14376,12 +14382,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Samaje Perine (CIN)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Byron Pringle (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -14994,6 +14994,12 @@
     "quick_why": "Veteran downgrade"
   },
   {
+    "player": "Samaje Perine (CIN)",
+    "ros_points": 69,
+    "trend": "-1.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
     "player": "Sean Mannion (None)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -15198,7 +15204,7 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Marquez Valdes-Scantling (None)",
+    "player": "Marquez Valdes-Scantling (LAC)",
     "ros_points": 69,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
@@ -15493,12 +15499,6 @@
   },
   {
     "player": "John Brown (None)",
-    "ros_points": 68,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
-    "player": "Mack Hollins (NE)",
     "ros_points": 68,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
@@ -16011,6 +16011,12 @@
     "player": "Raheem Mostert (None)",
     "ros_points": 67,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Mack Hollins (NE)",
+    "ros_points": 67,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
