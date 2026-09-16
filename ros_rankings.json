@@ -888,7 +888,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Quincy Skinner (None)",
+    "player": "Quincy Skinner (GB)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5562,7 +5562,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dalen Cambre (None)",
+    "player": "Dalen Cambre (NYG)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7884,12 +7884,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jerome Ford (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Andrei Iosivas (CIN)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -10144,6 +10138,12 @@
     "ros_points": 73,
     "trend": "+5.0",
     "quick_why": "Trending up"
+  },
+  {
+    "player": "Jerome Ford (MIN)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Jake Wieneke (None)",
