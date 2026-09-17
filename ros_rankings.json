@@ -1008,12 +1008,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Marlin Klein (HOU)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kaden Prather (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1555,12 +1549,6 @@
   },
   {
     "player": "Taye Barber (None)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Eric Rivers (TB)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3006,6 +2994,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Marlin Klein (HOU)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Charles McClelland (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3852,6 +3846,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Eric Rivers (TB)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Lawrance Toafili (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4171,12 +4171,6 @@
   },
   {
     "player": "Ryan Davis (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Tip Reiman (ARI)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6831,6 +6825,12 @@
     "player": "Jacob Breeland (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tip Reiman (ARI)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -10142,7 +10142,7 @@
   {
     "player": "Jerome Ford (MIN)",
     "ros_points": 73,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
@@ -12480,12 +12480,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ty Johnson (BUF)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Brandon Aiyuk (SF)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -13758,6 +13752,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Ty Johnson (BUF)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Breshad Perriman (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -14137,12 +14137,6 @@
   },
   {
     "player": "Bronson Kaufusi (GB)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Patrick Mahomes (KC)",
     "ros_points": 70,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -14775,6 +14769,12 @@
     "player": "Richard Rodgers (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Patrick Mahomes (KC)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
