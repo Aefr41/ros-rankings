@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T13:57:53.387919",
+  "timestamp": "2026-09-17T17:55:45.692952",
   "players": {
     "QB": [
       {
@@ -8081,7 +8081,7 @@
         "rank": 543,
         "player_id": "4018",
         "name": "Joe Mixon",
-        "injury_status": "Out",
+        "injury_status": "",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -17785,7 +17785,7 @@
         "rank": 939,
         "player_id": "5915",
         "name": "Andy Isabella",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
