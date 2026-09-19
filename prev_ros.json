@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T19:05:28.264337",
+  "timestamp": "2026-09-19T21:57:23.533156",
   "players": {
     "QB": [
       {
@@ -1878,7 +1878,7 @@
         "rank": 209,
         "player_id": "10866",
         "name": "Aidan O'Connell",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -9559,7 +9559,7 @@
         "rank": 25,
         "player_id": "13276",
         "name": "Omar Cooper",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -10027,7 +10027,7 @@
         "rank": 77,
         "player_id": "13417",
         "name": "De'Zhaun Stribling",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -15553,7 +15553,7 @@
         "rank": 691,
         "player_id": "9997",
         "name": "Zay Flowers",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
