@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-20T20:00:46.572172",
+  "timestamp": "2026-09-20T22:48:04.481713",
   "players": {
     "QB": [
       {
@@ -600,7 +600,7 @@
         "rank": 67,
         "player_id": "11560",
         "name": "Caleb Williams",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -1095,7 +1095,7 @@
         "rank": 122,
         "player_id": "11566",
         "name": "Jayden Daniels",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -3761,7 +3761,7 @@
         "rank": 63,
         "player_id": "11583",
         "name": "Jonathon Brooks",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -3959,7 +3959,7 @@
         "rank": 85,
         "player_id": "11643",
         "name": "Jaylen Wright",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -7271,7 +7271,7 @@
         "rank": 453,
         "player_id": "6806",
         "name": "J.K. Dobbins",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -19378,7 +19378,7 @@
         "rank": 1116,
         "player_id": "3286",
         "name": "Demarcus Robinson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -21747,7 +21747,7 @@
         "rank": 14,
         "player_id": "12498",
         "name": "Mason Taylor",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -26130,7 +26130,7 @@
         "rank": 501,
         "player_id": "4033",
         "name": "David Njoku",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
