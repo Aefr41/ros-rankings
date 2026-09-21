@@ -1659,7 +1659,7 @@
     "player": "DJ Giddens (IND)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Mike Washington (LV)",
@@ -3129,7 +3129,7 @@
     "player": "Riley Leonard (IND)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jacob Warren (None)",
@@ -3975,7 +3975,7 @@
     "player": "Garrett Nussmeier (KC)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Kentrel Bullock (CIN)",
@@ -5973,7 +5973,7 @@
     "player": "Jared Wiley (KC)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Blake Mack (None)",
@@ -6987,7 +6987,7 @@
     "player": "Jayden Daniels (WAS)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Bisi Johnson (None)",
@@ -12504,12 +12504,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Xavier Smith (LAR)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Drew Ogletree (IND)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -13770,6 +13764,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Xavier Smith (LAR)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Malik Taylor (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -14778,12 +14778,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Demarcus Robinson (SF)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Baker Mayfield (TB)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -15334,6 +15328,12 @@
     "ros_points": 68,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Demarcus Robinson (SF)",
+    "ros_points": 68,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Alex Erickson (None)",
