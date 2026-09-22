@@ -222,12 +222,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Chris Brazzell (CAR)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Jadarian Price (SEA)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1026,6 +1020,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Chris Brazzell (CAR)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
+  },
+  {
     "player": "Camerun Peoples (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1041,7 +1041,7 @@
     "player": "Jaxson Dart (NYG)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Chris Hilton (None)",
@@ -5310,12 +5310,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Daniel Bellinger (TEN)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Bryce Pierre (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7764,6 +7758,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Daniel Bellinger (TEN)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Keith Towbridge (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8683,12 +8683,6 @@
   },
   {
     "player": "Andre Levrone (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Joshua Palmer (BUF)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10611,7 +10605,7 @@
     "player": "Ronnie Rivers (LAR)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Lamar Atkins (None)",
@@ -10677,6 +10671,12 @@
     "player": "James Summers (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Joshua Palmer (BUF)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13824,7 +13824,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Darius Slayton (None)",
+    "player": "Darius Slayton (IND)",
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
