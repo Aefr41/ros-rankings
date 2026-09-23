@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T13:08:15.069943",
+  "timestamp": "2026-09-23T18:04:14.836866",
   "players": {
     "QB": [
       {
@@ -141,7 +141,7 @@
         "rank": 16,
         "player_id": "12508",
         "name": "Jaxson Dart",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -1095,7 +1095,7 @@
         "rank": 122,
         "player_id": "11566",
         "name": "Jayden Daniels",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -3761,7 +3761,7 @@
         "rank": 63,
         "player_id": "11583",
         "name": "Jonathon Brooks",
-        "injury_status": "Doubtful",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -5525,7 +5525,7 @@
         "rank": 259,
         "player_id": "9508",
         "name": "Tyjae Spears",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -7118,7 +7118,7 @@
         "rank": 436,
         "player_id": "8228",
         "name": "Jaylen Warren",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7973,7 +7973,7 @@
         "rank": 531,
         "player_id": "5967",
         "name": "Tony Pollard",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -14887,7 +14887,7 @@
         "rank": 617,
         "player_id": "10226",
         "name": "Andrei Iosivas",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -14959,7 +14959,7 @@
         "rank": 625,
         "player_id": "8142",
         "name": "Alec Pierce",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -19405,7 +19405,7 @@
         "rank": 1119,
         "player_id": "3321",
         "name": "Tyreek Hill",
-        "injury_status": "Out",
+        "injury_status": "",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -19729,7 +19729,7 @@
         "rank": 1155,
         "player_id": "3286",
         "name": "Demarcus Robinson",
-        "injury_status": "Out",
+        "injury_status": "Doubtful",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
