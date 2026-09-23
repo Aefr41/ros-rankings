@@ -30,12 +30,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "KC Concepcion (CLE)",
-    "ros_points": 79,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Christian Sims (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -513,6 +507,12 @@
     "player": "Dillon Bell (MIN)",
     "ros_points": 78,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "KC Concepcion (CLE)",
+    "ros_points": 78,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -15294,7 +15294,7 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Brandin Cooks (None)",
+    "player": "Brandin Cooks (SF)",
     "ros_points": 68,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
@@ -17862,7 +17862,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cody Hardy (None)",
+    "player": "Cody Hardy (NYJ)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
