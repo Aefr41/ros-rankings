@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T18:04:14.836866",
+  "timestamp": "2026-09-23T21:53:45.764833",
   "players": {
     "QB": [
       {
@@ -3428,7 +3428,7 @@
         "rank": 26,
         "player_id": "12544",
         "name": "LeQuint Allen",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -3824,7 +3824,7 @@
         "rank": 70,
         "player_id": "12471",
         "name": "DJ Giddens",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -3869,7 +3869,7 @@
         "rank": 75,
         "player_id": "13345",
         "name": "Jonah Coleman",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -4670,7 +4670,7 @@
         "rank": 164,
         "player_id": "12534",
         "name": "Kyle Monangai",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -7001,7 +7001,7 @@
         "rank": 423,
         "player_id": "7543",
         "name": "Travis Etienne",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7019,7 +7019,7 @@
         "rank": 425,
         "player_id": "8195",
         "name": "Ronnie Rivers",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -8045,7 +8045,7 @@
         "rank": 539,
         "player_id": "7204",
         "name": "Reggie Gilliam",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -8531,7 +8531,7 @@
         "rank": 593,
         "player_id": "4199",
         "name": "Aaron Jones",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -9451,7 +9451,7 @@
         "rank": 13,
         "player_id": "13311",
         "name": "Chris Bell",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9550,7 +9550,7 @@
         "rank": 24,
         "player_id": "13533",
         "name": "Barion Brown",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9802,7 +9802,7 @@
         "rank": 52,
         "player_id": "13380",
         "name": "Brenen Thompson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11998,7 +11998,7 @@
         "rank": 296,
         "player_id": "11646",
         "name": "Jalen Coker",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -14455,7 +14455,7 @@
         "rank": 569,
         "player_id": "10222",
         "name": "Jayden Reed",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -15562,7 +15562,7 @@
         "rank": 692,
         "player_id": "11421",
         "name": "Ryan Miller",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -18289,7 +18289,7 @@
         "rank": 995,
         "player_id": "5947",
         "name": "Jakobi Meyers",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -20053,7 +20053,7 @@
         "rank": 1191,
         "player_id": "3269",
         "name": "Chris Moore",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
@@ -26130,7 +26130,7 @@
         "rank": 501,
         "player_id": "4033",
         "name": "David Njoku",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
