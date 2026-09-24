@@ -3822,12 +3822,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "AJ Henning (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jalen Coker (CAR)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -6351,6 +6345,12 @@
     "player": "Benny Snell (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "AJ Henning (MIA)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
