@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-25T17:38:17.077701",
+  "timestamp": "2026-09-25T20:53:30.897619",
   "players": {
     "QB": [
       {
@@ -1275,7 +1275,7 @@
         "rank": 142,
         "player_id": "7610",
         "name": "Trey Lance",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -3869,7 +3869,7 @@
         "rank": 75,
         "player_id": "13345",
         "name": "Jonah Coleman",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -4670,7 +4670,7 @@
         "rank": 164,
         "player_id": "12534",
         "name": "Kyle Monangai",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -4742,7 +4742,7 @@
         "rank": 172,
         "player_id": "9757",
         "name": "Kendre Miller",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -7001,7 +7001,7 @@
         "rank": 423,
         "player_id": "7543",
         "name": "Travis Etienne",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7586,7 +7586,7 @@
         "rank": 488,
         "player_id": "6931",
         "name": "DeeJay Dallas",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -7973,7 +7973,7 @@
         "rank": 531,
         "player_id": "5967",
         "name": "Tony Pollard",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -8531,7 +8531,7 @@
         "rank": 593,
         "player_id": "4199",
         "name": "Aaron Jones",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -9550,7 +9550,7 @@
         "rank": 24,
         "player_id": "13533",
         "name": "Barion Brown",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9802,7 +9802,7 @@
         "rank": 52,
         "player_id": "13380",
         "name": "Brenen Thompson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -13222,7 +13222,7 @@
         "rank": 432,
         "player_id": "9493",
         "name": "Puka Nacua",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -16372,7 +16372,7 @@
         "rank": 782,
         "player_id": "7569",
         "name": "Nico Collins",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -18289,7 +18289,7 @@
         "rank": 995,
         "player_id": "5947",
         "name": "Jakobi Meyers",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
