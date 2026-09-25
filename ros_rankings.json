@@ -489,7 +489,7 @@
     "player": "Jack Strand (ATL)",
     "ros_points": 78,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Kobe Prentice (None)",
@@ -4080,12 +4080,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jalin Hyatt (NYG)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Chris Rowland (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -6648,6 +6642,12 @@
     "quick_why": "Injury concern"
   },
   {
+    "player": "Jalin Hyatt (NYG)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Charles Jones (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7233,12 +7233,6 @@
     "player": "Ronald Jones (None)",
     "ros_points": 74,
     "trend": "+1.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "James Cook (BUF)",
-    "ros_points": 74,
-    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
@@ -9516,6 +9510,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "James Cook (BUF)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Jaren Hall (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -10297,12 +10297,6 @@
   },
   {
     "player": "Joe Horn (None)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Kaden Davis (CHI)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -11877,6 +11871,12 @@
     "player": "Cody Kessler (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Kaden Davis (CHI)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -15294,12 +15294,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Brandin Cooks (SF)",
-    "ros_points": 68,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "C.J. Beathard (None)",
     "ros_points": 68,
     "trend": "+0.0",
@@ -15321,7 +15315,7 @@
     "player": "Cooper Rush (ATL)",
     "ros_points": 68,
     "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Taylor Heinicke (None)",
@@ -15825,6 +15819,12 @@
     "player": "Chris Moore (BAL)",
     "ros_points": 67,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Brandin Cooks (SF)",
+    "ros_points": 67,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
