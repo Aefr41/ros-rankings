@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-25T20:53:30.897619",
+  "timestamp": "2026-09-25T23:42:22.806891",
   "players": {
     "QB": [
       {
@@ -3266,7 +3266,7 @@
         "rank": 8,
         "player_id": "13286",
         "name": "Jadarian Price",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -3428,7 +3428,7 @@
         "rank": 26,
         "player_id": "12544",
         "name": "LeQuint Allen",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -7442,7 +7442,7 @@
         "rank": 472,
         "player_id": "7021",
         "name": "Rico Dowdle",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -7568,7 +7568,7 @@
         "rank": 486,
         "player_id": "7720",
         "name": "Kene Nwangwu",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -7964,7 +7964,7 @@
         "rank": 530,
         "player_id": "4866",
         "name": "Saquon Barkley",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -8045,7 +8045,7 @@
         "rank": 539,
         "player_id": "7204",
         "name": "Reggie Gilliam",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -9451,7 +9451,7 @@
         "rank": 13,
         "player_id": "13311",
         "name": "Chris Bell",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -11512,7 +11512,7 @@
         "rank": 242,
         "player_id": "12641",
         "name": "Jaylin Lane",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -13852,7 +13852,7 @@
         "rank": 502,
         "player_id": "11623",
         "name": "Jordan Whittington",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -18523,7 +18523,7 @@
         "rank": 1021,
         "player_id": "5848",
         "name": "Marquise Brown",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -20044,7 +20044,7 @@
         "rank": 1190,
         "player_id": "3269",
         "name": "Chris Moore",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
@@ -23763,7 +23763,7 @@
         "rank": 238,
         "player_id": "8225",
         "name": "Daniel Bellinger",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -24906,7 +24906,7 @@
         "rank": 365,
         "player_id": "8210",
         "name": "Chig Okonkwo",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
