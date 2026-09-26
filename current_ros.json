@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-26T17:29:35.383875",
+  "timestamp": "2026-09-26T20:24:09.214186",
   "players": {
     "QB": [
       {
@@ -591,7 +591,7 @@
         "rank": 66,
         "player_id": "11560",
         "name": "Caleb Williams",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -1878,7 +1878,7 @@
         "rank": 209,
         "player_id": "10866",
         "name": "Aidan O'Connell",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -4346,7 +4346,7 @@
         "rank": 128,
         "player_id": "11577",
         "name": "Will Shipley",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -4724,7 +4724,7 @@
         "rank": 170,
         "player_id": "9225",
         "name": "Tank Bigsby",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -7568,7 +7568,7 @@
         "rank": 486,
         "player_id": "7720",
         "name": "Kene Nwangwu",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -16615,7 +16615,7 @@
         "rank": 809,
         "player_id": "7525",
         "name": "DeVonta Smith",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -18523,7 +18523,7 @@
         "rank": 1021,
         "player_id": "5848",
         "name": "Marquise Brown",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -26229,7 +26229,7 @@
         "rank": 512,
         "player_id": "5022",
         "name": "Dallas Goedert",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
