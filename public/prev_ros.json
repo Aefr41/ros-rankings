@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-27T18:46:29.233756",
+  "timestamp": "2026-09-27T21:44:22.047466",
   "players": {
     "QB": [
       {
@@ -150,7 +150,7 @@
         "rank": 17,
         "player_id": "11565",
         "name": "J.J. McCarthy",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -897,7 +897,7 @@
         "rank": 100,
         "player_id": "12477",
         "name": "Kurtis Rourke",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -1077,7 +1077,7 @@
         "rank": 120,
         "player_id": "13350",
         "name": "Joe Fagnano",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -1473,7 +1473,7 @@
         "rank": 164,
         "player_id": "7538",
         "name": "Zach Wilson",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -3302,7 +3302,7 @@
         "rank": 12,
         "player_id": "12495",
         "name": "Ollie Gordon",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -4472,7 +4472,7 @@
         "rank": 142,
         "player_id": "9226",
         "name": "De'Von Achane",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -5516,7 +5516,7 @@
         "rank": 258,
         "player_id": "9508",
         "name": "Tyjae Spears",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5768,7 +5768,7 @@
         "rank": 286,
         "player_id": "8155",
         "name": "Breece Hall",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -6596,7 +6596,7 @@
         "rank": 378,
         "player_id": "8136",
         "name": "Rachaad White",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7091,7 +7091,7 @@
         "rank": 433,
         "player_id": "11199",
         "name": "Emari Demercado",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -9532,7 +9532,7 @@
         "rank": 22,
         "player_id": "13726",
         "name": "Camden Brown",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9820,7 +9820,7 @@
         "rank": 54,
         "player_id": "13268",
         "name": "Elijah Sarratt",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11206,7 +11206,7 @@
         "rank": 208,
         "player_id": "11618",
         "name": "Jalen McMillan",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11989,7 +11989,7 @@
         "rank": 295,
         "player_id": "11646",
         "name": "Jalen Coker",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12070,7 +12070,7 @@
         "rank": 304,
         "player_id": "13477",
         "name": "Colbie Young",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -15544,7 +15544,7 @@
         "rank": 690,
         "player_id": "9997",
         "name": "Zay Flowers",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16822,7 +16822,7 @@
         "rank": 832,
         "player_id": "6794",
         "name": "Justin Jefferson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -22134,7 +22134,7 @@
         "rank": 57,
         "player_id": "11604",
         "name": "Brock Bowers",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -23043,7 +23043,7 @@
         "rank": 158,
         "player_id": "12079",
         "name": "Treyton Welch",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -26301,7 +26301,7 @@
         "rank": 520,
         "player_id": "5012",
         "name": "Mark Andrews",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
