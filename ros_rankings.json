@@ -6426,12 +6426,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Spencer Rattler (NO)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Xavier Legette (CAR)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7596,12 +7590,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyler Shough (NO)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jeremy Ruckert (NYJ)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8703,6 +8691,12 @@
     "player": "Ellis Merriweather (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Spencer Rattler (NO)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -9912,6 +9906,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Tyler Shough (NO)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Matt Colburn (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11029,12 +11029,6 @@
   },
   {
     "player": "Spencer Schnell (None)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Luke Schoonmaker (DAL)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -12621,6 +12615,12 @@
     "player": "Kyle Sloter (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Luke Schoonmaker (DAL)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
