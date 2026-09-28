@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-27T21:44:22.047466",
+  "timestamp": "2026-09-28T00:08:00.404871",
   "players": {
     "QB": [
       {
@@ -177,7 +177,7 @@
         "rank": 20,
         "player_id": "13275",
         "name": "Ty Simpson",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -1491,7 +1491,7 @@
         "rank": 166,
         "player_id": "7583",
         "name": "Sam Ehlinger",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -2292,7 +2292,7 @@
         "rank": 255,
         "player_id": "4892",
         "name": "Baker Mayfield",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -7001,7 +7001,7 @@
         "rank": 423,
         "player_id": "7543",
         "name": "Travis Etienne",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -10252,7 +10252,7 @@
         "rank": 102,
         "player_id": "12483",
         "name": "Jack Bech",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -10945,7 +10945,7 @@
         "rank": 179,
         "player_id": "13270",
         "name": "CJ Daniels",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11647,7 +11647,7 @@
         "rank": 257,
         "player_id": "9494",
         "name": "Marvin Mims",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -13213,7 +13213,7 @@
         "rank": 431,
         "player_id": "9493",
         "name": "Puka Nacua",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -14797,7 +14797,7 @@
         "rank": 607,
         "player_id": "7562",
         "name": "Tutu Atwell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16822,7 +16822,7 @@
         "rank": 832,
         "player_id": "6794",
         "name": "Justin Jefferson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -17380,7 +17380,7 @@
         "rank": 894,
         "player_id": "5938",
         "name": "Lil'Jordan Humphrey",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -20125,7 +20125,7 @@
         "rank": 1199,
         "player_id": "2216",
         "name": "Mike Evans",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
@@ -23304,7 +23304,7 @@
         "rank": 187,
         "player_id": "13577",
         "name": "Dallen Bentley",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -24996,7 +24996,7 @@
         "rank": 375,
         "player_id": "6865",
         "name": "Colby Parkinson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -25608,7 +25608,7 @@
         "rank": 443,
         "player_id": "5973",
         "name": "Josh Oliver",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
