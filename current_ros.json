@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-28T14:44:04.854430",
+  "timestamp": "2026-09-28T20:56:12.920080",
   "players": {
     "QB": [
       {
@@ -2292,7 +2292,7 @@
         "rank": 255,
         "player_id": "4892",
         "name": "Baker Mayfield",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -4472,7 +4472,7 @@
         "rank": 142,
         "player_id": "9226",
         "name": "De'Von Achane",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -7001,7 +7001,7 @@
         "rank": 423,
         "player_id": "7543",
         "name": "Travis Etienne",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -25608,7 +25608,7 @@
         "rank": 443,
         "player_id": "5973",
         "name": "Josh Oliver",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
