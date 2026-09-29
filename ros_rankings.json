@@ -1152,7 +1152,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Devin Neal (None)",
+    "player": "Devin Neal (MIN)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7448,7 +7448,7 @@
   {
     "player": "John FitzPatrick (CLE)",
     "ros_points": 74,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
@@ -14232,12 +14232,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Austin Ekeler (None)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Shaquelle Evans (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -14352,7 +14346,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brett Rypien (None)",
+    "player": "Brett Rypien (TB)",
     "ros_points": 70,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -14811,6 +14805,12 @@
     "player": "Christian Powell (None)",
     "ros_points": 69,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Austin Ekeler (WAS)",
+    "ros_points": 69,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
@@ -15624,7 +15624,7 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Dare Ogunbowale (LV)",
+    "player": "Dare Ogunbowale (HOU)",
     "ros_points": 68,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
@@ -16242,7 +16242,7 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Phillip Dorsett (None)",
+    "player": "Phillip Dorsett (LV)",
     "ros_points": 67,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
