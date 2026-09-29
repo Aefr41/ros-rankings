@@ -672,12 +672,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Miles Kitselman (None)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Elijah Sarratt (BAL)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -969,7 +963,7 @@
     "player": "Cole Payton (PHI)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Seth Dawkins (None)",
@@ -2322,6 +2316,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Miles Kitselman (DET)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Miller Moss (CHI)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -2577,7 +2577,7 @@
     "player": "Jalen McMillan (TB)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Dalevon Campbell (None)",
@@ -4146,7 +4146,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyler Scott (None)",
+    "player": "Tyler Scott (LV)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8226,12 +8226,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Julian Hicks (SEA)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Trey Lance (LAC)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8775,7 +8769,7 @@
     "player": "Tanner McKee (PHI)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "James Butler (None)",
@@ -10395,6 +10389,12 @@
     "player": "Johnny Lumpkin (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Julian Hicks (SEA)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
