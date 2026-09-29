@@ -4866,12 +4866,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "John FitzPatrick (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Dallin Holker (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7452,6 +7446,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "John FitzPatrick (CLE)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Jason Reese (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -7656,7 +7656,7 @@
     "quick_why": "Injury concern"
   },
   {
-    "player": "Ronnie Bell (LV)",
+    "player": "Ronnie Bell (None)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9996,7 +9996,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jake Haener (NYG)",
+    "player": "Jake Haener (None)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -18180,7 +18180,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Treyvhon Saunders (None)",
+    "player": "Treyvhon Saunders (HOU)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
