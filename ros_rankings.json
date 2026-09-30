@@ -9672,12 +9672,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Sam Ehlinger (DEN)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Keon Hatcher (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11490,6 +11484,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Sam Ehlinger (DEN)",
+    "ros_points": 72,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
+  },
+  {
     "player": "Ka'Raun White (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12097,12 +12097,6 @@
   },
   {
     "player": "Valdez Showers (None)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jonathan Ward (BAL)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13488,6 +13482,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jonathan Ward (BAL)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Austin Aune (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13980,7 +13980,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dante Pettis (None)",
+    "player": "Dante Pettis (SF)",
     "ros_points": 70,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -14810,7 +14810,7 @@
   {
     "player": "Austin Ekeler (WAS)",
     "ros_points": 69,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Veteran downgrade"
   },
   {
@@ -16161,7 +16161,7 @@
     "player": "Marvin Jones (None)",
     "ros_points": 67,
     "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "LeSean McCoy (None)",
