@@ -294,12 +294,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Fernando Mendoza (LV)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Quinshon Judkins (CLE)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -963,7 +957,7 @@
     "player": "Cole Payton (PHI)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Seth Dawkins (None)",
@@ -1353,6 +1347,12 @@
     "player": "Dominic Lovett (DET)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Fernando Mendoza (LV)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -2538,12 +2538,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Garrett Greene (TB)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Marcus Yarns (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -2758,12 +2752,6 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
-  },
-  {
-    "player": "Caleb Lohner (DEN)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
   },
   {
     "player": "Snoop Conner (None)",
@@ -4968,6 +4956,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Garrett Greene (TB)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Joseph Parker (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5224,6 +5218,12 @@
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Caleb Lohner (DEN)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "George Pickens (DAL)",
@@ -6072,7 +6072,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Coleman Owen (None)",
+    "player": "Coleman Owen (GB)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6331,12 +6331,6 @@
   },
   {
     "player": "AJ Henning (MIA)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jordan Whittington (LAR)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8634,6 +8628,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jordan Whittington (LAR)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Carson Meier (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8775,7 +8775,7 @@
     "player": "Tanner McKee (PHI)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "James Butler (None)",
