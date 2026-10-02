@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-01T22:08:55.891658",
+  "timestamp": "2026-10-02T01:53:23.624511",
   "players": {
     "QB": [
       {
@@ -15,7 +15,7 @@
         "rank": 2,
         "player_id": "13289",
         "name": "Drew Allar",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -231,7 +231,7 @@
         "rank": 26,
         "player_id": "13306",
         "name": "Taylen Green",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -870,7 +870,7 @@
         "rank": 97,
         "player_id": "12511",
         "name": "Will Howard",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -3590,7 +3590,7 @@
         "rank": 44,
         "player_id": "13423",
         "name": "Eli Heidenreich",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -20278,7 +20278,7 @@
         "rank": 1215,
         "player_id": "1067",
         "name": "Marvin Jones",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
