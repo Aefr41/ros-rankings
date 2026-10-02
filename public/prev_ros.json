@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-02T19:40:34.392235",
+  "timestamp": "2026-10-02T23:26:03.634843",
   "players": {
     "QB": [
       {
@@ -3266,7 +3266,7 @@
         "rank": 8,
         "player_id": "13286",
         "name": "Jadarian Price",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -3428,7 +3428,7 @@
         "rank": 26,
         "player_id": "12544",
         "name": "LeQuint Allen",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -4040,7 +4040,7 @@
         "rank": 94,
         "player_id": "11584",
         "name": "Bucky Irving",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -4283,7 +4283,7 @@
         "rank": 121,
         "player_id": "9511",
         "name": "Keaton Mitchell",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -4355,7 +4355,7 @@
         "rank": 129,
         "player_id": "11577",
         "name": "Will Shipley",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -6038,7 +6038,7 @@
         "rank": 316,
         "player_id": "12171",
         "name": "British Brooks",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6092,7 +6092,7 @@
         "rank": 322,
         "player_id": "12048",
         "name": "George Holani",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6164,7 +6164,7 @@
         "rank": 330,
         "player_id": "11655",
         "name": "Tyrone Tracy",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -9460,7 +9460,7 @@
         "rank": 13,
         "player_id": "13311",
         "name": "Chris Bell",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9811,7 +9811,7 @@
         "rank": 52,
         "player_id": "13380",
         "name": "Brenen Thompson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -10162,7 +10162,7 @@
         "rank": 91,
         "player_id": "13859",
         "name": "Jalen Walthall",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -15445,7 +15445,7 @@
         "rank": 678,
         "player_id": "9489",
         "name": "Justin Shorter",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -15544,7 +15544,7 @@
         "rank": 689,
         "player_id": "9997",
         "name": "Zay Flowers",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16372,7 +16372,7 @@
         "rank": 781,
         "player_id": "7569",
         "name": "Nico Collins",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -16615,7 +16615,7 @@
         "rank": 808,
         "player_id": "7525",
         "name": "DeVonta Smith",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -18298,7 +18298,7 @@
         "rank": 995,
         "player_id": "5947",
         "name": "Jakobi Meyers",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -18532,7 +18532,7 @@
         "rank": 1021,
         "player_id": "5848",
         "name": "Marquise Brown",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -21891,7 +21891,7 @@
         "rank": 29,
         "player_id": "12487",
         "name": "Terrance Ferguson",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -23025,7 +23025,7 @@
         "rank": 155,
         "player_id": "13299",
         "name": "Nate Boerkircher",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -23727,7 +23727,7 @@
         "rank": 233,
         "player_id": "8145",
         "name": "Jeremy Ruckert",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -24861,7 +24861,7 @@
         "rank": 359,
         "player_id": "8127",
         "name": "Charlie Kolar",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -26238,7 +26238,7 @@
         "rank": 512,
         "player_id": "5022",
         "name": "Dallas Goedert",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
