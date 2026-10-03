@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-03T18:27:20.012546",
+  "timestamp": "2026-10-03T21:54:16.201601",
   "players": {
     "QB": [
       {
@@ -1878,7 +1878,7 @@
         "rank": 209,
         "player_id": "10866",
         "name": "Aidan O'Connell",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -3266,7 +3266,7 @@
         "rank": 8,
         "player_id": "13286",
         "name": "Jadarian Price",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9559,7 +9559,7 @@
         "rank": 24,
         "player_id": "13533",
         "name": "Barion Brown",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -13888,7 +13888,7 @@
         "rank": 505,
         "player_id": "11626",
         "name": "Xavier Legette",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
