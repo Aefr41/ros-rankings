@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-04T20:40:20.867495",
+  "timestamp": "2026-10-04T23:43:12.244986",
   "players": {
     "QB": [
       {
@@ -753,7 +753,7 @@
         "rank": 84,
         "player_id": "13415",
         "name": "Haynes King",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -4670,7 +4670,7 @@
         "rank": 164,
         "player_id": "12534",
         "name": "Kyle Monangai",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -10360,7 +10360,7 @@
         "rank": 113,
         "player_id": "12492",
         "name": "Pat Bryant",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11053,7 +11053,7 @@
         "rank": 190,
         "player_id": "11635",
         "name": "Ladd McConkey",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11998,7 +11998,7 @@
         "rank": 295,
         "player_id": "11646",
         "name": "Jalen Coker",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -15076,7 +15076,7 @@
         "rank": 637,
         "player_id": "10229",
         "name": "Rashee Rice",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -15940,7 +15940,7 @@
         "rank": 733,
         "player_id": "8188",
         "name": "Tyquan Thornton",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16282,7 +16282,7 @@
         "rank": 771,
         "player_id": "6801",
         "name": "Tee Higgins",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -16318,7 +16318,7 @@
         "rank": 775,
         "player_id": "8180",
         "name": "Jalen Nailor",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -22035,7 +22035,7 @@
         "rank": 45,
         "player_id": "11600",
         "name": "Ja'Tavion Sanders",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -26238,7 +26238,7 @@
         "rank": 512,
         "player_id": "5133",
         "name": "Tyler Conklin",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
