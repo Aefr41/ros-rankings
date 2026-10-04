@@ -726,12 +726,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Max Bredeson (MIN)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Michael Pratt (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1668,12 +1662,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kalel Mullings (TEN)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Dean Connors (LAR)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2433,6 +2421,12 @@
     "player": "DaMarkus Lodge (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Max Bredeson (MIN)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -4029,6 +4023,12 @@
     "player": "Quentin Skinner (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Kalel Mullings (TEN)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -10584,12 +10584,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Stone Smartt (NO)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Nate Iese (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -12213,6 +12207,12 @@
     "player": "Mike Thomas (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Stone Smartt (NO)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
