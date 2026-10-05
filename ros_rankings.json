@@ -1800,12 +1800,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Israel Abanikanda (DAL)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "ShunDerrick Powell (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -4197,6 +4191,12 @@
     "player": "Shaquan Davis (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Israel Abanikanda (DAL)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -12744,12 +12744,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Michael Pittman (PIT)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "DeAndre Washington (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -13899,6 +13893,12 @@
     "player": "Andre Baccellia (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Michael Pittman (PIT)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -16590,12 +16590,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Travis Kelce (KC)",
-    "ros_points": 64,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Corey Knox (None)",
     "ros_points": 64,
     "trend": "+0.0",
@@ -16671,6 +16665,12 @@
     "player": "Drew Stanton (None)",
     "ros_points": 63,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Travis Kelce (KC)",
+    "ros_points": 63,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
