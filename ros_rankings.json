@@ -483,7 +483,7 @@
     "player": "Jack Strand (ATL)",
     "ros_points": 78,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Kobe Prentice (None)",
@@ -3843,7 +3843,7 @@
     "player": "Tank Bigsby (PHI)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "AJ Barner (SEA)",
@@ -4573,12 +4573,6 @@
   },
   {
     "player": "Devontez Walker (BAL)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Kyle Pitts (ATL)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7122,6 +7116,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Kyle Pitts (ATL)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Sean Modster (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -7975,12 +7975,6 @@
   },
   {
     "player": "James Gilbert (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Trevor Lawrence (JAX)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9645,7 +9639,7 @@
     "player": "Zach Wilson (NO)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Case Cookus (None)",
@@ -10233,6 +10227,12 @@
     "player": "Deon Yelder (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Trevor Lawrence (JAX)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -11688,12 +11688,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Chris Blair (ATL)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Lil'Jordan Humphrey (DEN)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12393,7 +12387,7 @@
     "player": "Noah Fant (NO)",
     "ros_points": 72,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jake Rudock (None)",
@@ -13140,6 +13134,12 @@
     "quick_why": "Injury concern"
   },
   {
+    "player": "Chris Blair (ATL)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Kristian Wilkerson (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13662,12 +13662,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Joe Mixon (None)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Mason Schreck (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -14088,12 +14082,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Braxton Berrios (NYG)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Chris Godwin (TB)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -14448,6 +14436,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Joe Mixon (SEA)",
+    "ros_points": 70,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Seth Roberts (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -14491,12 +14485,6 @@
   },
   {
     "player": "Jamal Agnew (None)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Chris Myarick (LV)",
     "ros_points": 70,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -14746,6 +14734,12 @@
     "ros_points": 69,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Braxton Berrios (NYG)",
+    "ros_points": 69,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Carlos Hyde (None)",
@@ -15102,6 +15096,12 @@
     "quick_why": "Injury concern"
   },
   {
+    "player": "Chris Myarick (LV)",
+    "ros_points": 69,
+    "trend": "-1.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
     "player": "Jonnu Smith (GB)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -15321,7 +15321,7 @@
     "player": "Cooper Rush (ATL)",
     "ros_points": 68,
     "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Taylor Heinicke (None)",
