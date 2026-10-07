@@ -60,7 +60,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kenny Fletcher (IND)",
+    "player": "Kenny Fletcher (None)",
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -369,7 +369,7 @@
     "player": "Mason Taylor (NYJ)",
     "ros_points": 78,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Zavion Thomas (CHI)",
@@ -1140,7 +1140,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Devin Neal (MIN)",
+    "player": "Devin Neal (None)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -1392,7 +1392,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Anthony Tyus (CAR)",
+    "player": "Anthony Tyus (None)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2592,12 +2592,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Mark Gronowski (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Shea Patterson (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3348,7 +3342,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cash Jones (ATL)",
+    "player": "Cash Jones (None)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5073,6 +5067,12 @@
     "player": "Emory Jones (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Mark Gronowski (HOU)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -8424,7 +8424,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Eric Gray (CLE)",
+    "player": "Eric Gray (None)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8802,7 +8802,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jaret Patterson (None)",
+    "player": "Jaret Patterson (CLE)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9180,7 +9180,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jeshaun Jones (None)",
+    "player": "Jeshaun Jones (MIN)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10602,7 +10602,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Carlos Washington (None)",
+    "player": "Carlos Washington (MIA)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13752,7 +13752,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Xavier Smith (None)",
+    "player": "Xavier Smith (SF)",
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13977,7 +13977,7 @@
     "player": "Dante Pettis (SF)",
     "ros_points": 70,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Melvin Gordon (None)",
@@ -14919,7 +14919,7 @@
     "player": "Dallas Goedert (PHI)",
     "ros_points": 69,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Veteran downgrade"
   },
   {
     "player": "Darius Prince (None)",
@@ -16104,7 +16104,7 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Odell Beckham (None)",
+    "player": "Odell Beckham (MIN)",
     "ros_points": 67,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
@@ -17802,7 +17802,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Nick DeGennaro (None)",
+    "player": "Nick DeGennaro (WAS)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -18186,7 +18186,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Treyvhon Saunders (HOU)",
+    "player": "Treyvhon Saunders (None)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
