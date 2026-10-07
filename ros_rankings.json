@@ -4974,7 +4974,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cameron Ross (None)",
+    "player": "Cameron Ross (DEN)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5192,7 +5192,7 @@
   {
     "player": "Dontae McMillan (SEA)",
     "ros_points": 75,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
@@ -6876,12 +6876,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jared Wayne (HOU)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "JJ Galbreath (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7777,12 +7771,6 @@
   },
   {
     "player": "A.J. Ouellette (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Tutu Atwell (LAR)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9108,6 +9096,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jared Wayne (HOU)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Cole Turner (MIA)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -10029,6 +10023,12 @@
     "player": "Blake Jarwin (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tutu Atwell (LAR)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -17532,7 +17532,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jam Miller (None)",
+    "player": "Jam Miller (ATL)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
