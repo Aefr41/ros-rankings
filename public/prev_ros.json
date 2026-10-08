@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-08T14:13:56.777477",
+  "timestamp": "2026-10-08T20:22:39.072791",
   "players": {
     "QB": [
       {
@@ -15346,7 +15346,7 @@
         "rank": 667,
         "player_id": "7571",
         "name": "Rashod Bateman",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -18811,7 +18811,7 @@
         "rank": 1052,
         "player_id": "6819",
         "name": "Michael Pittman",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -20053,7 +20053,7 @@
         "rank": 1190,
         "player_id": "3269",
         "name": "Chris Moore",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
