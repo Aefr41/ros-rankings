@@ -1188,12 +1188,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Malik McClain (NYJ)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Corey Crooms (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1476,12 +1470,6 @@
     "quick_why": "Injury concern"
   },
   {
-    "player": "Brian Thomas (JAX)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jonathon Brooks (CAR)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1636,12 +1624,6 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
-  },
-  {
-    "player": "Adonai Mitchell (NYJ)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
   },
   {
     "player": "DJ Giddens (IND)",
@@ -3306,6 +3288,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Malik McClain (NYJ)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Thomas Fidone (NYG)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3756,6 +3744,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Brian Thomas (JAX)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Darius Cooper (PHI)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3964,6 +3958,12 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Adonai Mitchell (NYJ)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Malik Henry (None)",
@@ -5072,7 +5072,7 @@
   {
     "player": "Mark Gronowski (HOU)",
     "ros_points": 75,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
@@ -8808,7 +8808,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Erik Ezukanma (None)",
+    "player": "Erik Ezukanma (PHI)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
