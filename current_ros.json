@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-09T19:55:12.320409",
+  "timestamp": "2026-10-09T23:43:20.229202",
   "players": {
     "QB": [
       {
@@ -1248,7 +1248,7 @@
         "rank": 139,
         "player_id": "7610",
         "name": "Trey Lance",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -2526,7 +2526,7 @@
         "rank": 281,
         "player_id": "2307",
         "name": "Marcus Mariota",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -3203,7 +3203,7 @@
         "rank": 1,
         "player_id": "13287",
         "name": "Jeremiyah Love",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -4697,7 +4697,7 @@
         "rank": 167,
         "player_id": "12481",
         "name": "Cam Skattebo",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -5318,7 +5318,7 @@
         "rank": 236,
         "player_id": "12533",
         "name": "Jacory Croskey-Merritt",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -6614,7 +6614,7 @@
         "rank": 380,
         "player_id": "8136",
         "name": "Rachaad White",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7973,7 +7973,7 @@
         "rank": 531,
         "player_id": "4866",
         "name": "Saquon Barkley",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -9469,7 +9469,7 @@
         "rank": 13,
         "player_id": "13311",
         "name": "Chris Bell",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9820,7 +9820,7 @@
         "rank": 52,
         "player_id": "13380",
         "name": "Brenen Thompson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9955,7 +9955,7 @@
         "rank": 67,
         "player_id": "13296",
         "name": "Caleb Douglas",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -10189,7 +10189,7 @@
         "rank": 93,
         "player_id": "11632",
         "name": "Malik Nabers",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -10360,7 +10360,7 @@
         "rank": 112,
         "player_id": "12492",
         "name": "Pat Bryant",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -12079,7 +12079,7 @@
         "rank": 303,
         "player_id": "13477",
         "name": "Colbie Young",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12970,7 +12970,7 @@
         "rank": 402,
         "player_id": "9486",
         "name": "Dontayvion Wicks",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13960,7 +13960,7 @@
         "rank": 512,
         "player_id": "9754",
         "name": "Quentin Johnston",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -16624,7 +16624,7 @@
         "rank": 808,
         "player_id": "7525",
         "name": "DeVonta Smith",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -18523,7 +18523,7 @@
         "rank": 1019,
         "player_id": "5848",
         "name": "Marquise Brown",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -18784,7 +18784,7 @@
         "rank": 1048,
         "player_id": "6149",
         "name": "Darius Slayton",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -18856,7 +18856,7 @@
         "rank": 1056,
         "player_id": "6427",
         "name": "Ashton Dulin",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -20143,7 +20143,7 @@
         "rank": 1199,
         "player_id": "2216",
         "name": "Mike Evans",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
@@ -21711,7 +21711,7 @@
         "rank": 8,
         "player_id": "13400",
         "name": "Justin Joly",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -23709,7 +23709,7 @@
         "rank": 230,
         "player_id": "8131",
         "name": "Isaiah Likely",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -24888,7 +24888,7 @@
         "rank": 361,
         "player_id": "8210",
         "name": "Chig Okonkwo",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -24978,7 +24978,7 @@
         "rank": 371,
         "player_id": "6865",
         "name": "Colby Parkinson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -26220,7 +26220,7 @@
         "rank": 509,
         "player_id": "5022",
         "name": "Dallas Goedert",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -26760,7 +26760,7 @@
         "rank": 569,
         "player_id": "3048",
         "name": "Chris Manhertz",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 66,
         "rank_change": 0,
         "trend": ""
