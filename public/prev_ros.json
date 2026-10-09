@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-09T14:13:25.967174",
+  "timestamp": "2026-10-09T19:55:12.320409",
   "players": {
     "QB": [
       {
@@ -573,7 +573,7 @@
         "rank": 64,
         "player_id": "11560",
         "name": "Caleb Williams",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -2022,7 +2022,7 @@
         "rank": 225,
         "player_id": "4881",
         "name": "Lamar Jackson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -4652,7 +4652,7 @@
         "rank": 162,
         "player_id": "12534",
         "name": "Kyle Monangai",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -5786,7 +5786,7 @@
         "rank": 288,
         "player_id": "8155",
         "name": "Breece Hall",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5894,7 +5894,7 @@
         "rank": 300,
         "player_id": "11370",
         "name": "Chris Brooks",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6641,7 +6641,7 @@
         "rank": 383,
         "player_id": "6790",
         "name": "D'Andre Swift",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -8054,7 +8054,7 @@
         "rank": 540,
         "player_id": "7204",
         "name": "Reggie Gilliam",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -10360,7 +10360,7 @@
         "rank": 112,
         "player_id": "12492",
         "name": "Pat Bryant",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -12115,7 +12115,7 @@
         "rank": 307,
         "player_id": "11625",
         "name": "Adonai Mitchell",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -15499,7 +15499,7 @@
         "rank": 683,
         "player_id": "8144",
         "name": "Chris Olave",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16318,7 +16318,7 @@
         "rank": 774,
         "player_id": "8180",
         "name": "Jalen Nailor",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -16633,7 +16633,7 @@
         "rank": 809,
         "player_id": "7039",
         "name": "Cody White",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -16822,7 +16822,7 @@
         "rank": 830,
         "player_id": "7595",
         "name": "Tylan Wallace",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -19891,7 +19891,7 @@
         "rank": 1171,
         "player_id": "2449",
         "name": "Stefon Diggs",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -20197,7 +20197,7 @@
         "rank": 1205,
         "player_id": "4177",
         "name": "Mack Hollins",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
@@ -22134,7 +22134,7 @@
         "rank": 55,
         "player_id": "13580",
         "name": "Carsen Ryan",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -22665,7 +22665,7 @@
         "rank": 114,
         "player_id": "12502",
         "name": "Gunnar Helm",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -25347,7 +25347,7 @@
         "rank": 412,
         "player_id": "5857",
         "name": "Noah Fant",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
