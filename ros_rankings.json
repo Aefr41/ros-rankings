@@ -114,12 +114,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Demond Claiborne (MIN)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Dae'Quan Wright (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -214,12 +208,6 @@
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
-  },
-  {
-    "player": "Jadarian Price (SEA)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
   },
   {
     "player": "Tiyon Evans (None)",
@@ -327,7 +315,7 @@
     "player": "Camden Brown (DAL)",
     "ros_points": 78,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Omar Cooper (NYJ)",
@@ -684,6 +672,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Demond Claiborne (MIN)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Ethan Garbers (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1005,6 +999,12 @@
     "player": "Chris Brazzell (CAR)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Injury concern"
+  },
+  {
+    "player": "Jadarian Price (SEA)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Injury concern"
   },
   {
@@ -10626,12 +10626,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jelani Woods (NYJ)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Mark Thompson (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -12243,6 +12237,12 @@
     "player": "Austin Appleby (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jelani Woods (NYJ)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -13977,7 +13977,7 @@
     "player": "Dante Pettis (SF)",
     "ros_points": 70,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Melvin Gordon (None)",
@@ -15504,12 +15504,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "George Kittle (SF)",
-    "ros_points": 68,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Jameis Winston (NYG)",
     "ros_points": 68,
     "trend": "+0.0",
@@ -16065,6 +16059,12 @@
     "player": "Timothy Flanders (None)",
     "ros_points": 67,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "George Kittle (SF)",
+    "ros_points": 67,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
