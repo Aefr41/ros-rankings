@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-10T10:16:43.927082",
+  "timestamp": "2026-10-10T16:01:45.549889",
   "players": {
     "QB": [
       {
@@ -11818,7 +11818,7 @@
         "rank": 274,
         "player_id": "11628",
         "name": "Marvin Harrison",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -16759,7 +16759,7 @@
         "rank": 823,
         "player_id": "7670",
         "name": "Joshua Palmer",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
