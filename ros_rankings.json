@@ -300,12 +300,6 @@
     "quick_why": "Injury concern"
   },
   {
-    "player": "Cade Klubnik (NYJ)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Cameron Dorner (NE)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -325,12 +319,6 @@
   },
   {
     "player": "Barion Brown (NO)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Emmett Johnson (KC)",
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -1392,6 +1380,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Cade Klubnik (NYJ)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Pat Bryant (DEN)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1468,6 +1462,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Injury concern"
+  },
+  {
+    "player": "Emmett Johnson (KC)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Jonathon Brooks (CAR)",
@@ -3244,12 +3244,6 @@
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
-  },
-  {
-    "player": "DJ Rogers (DAL)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
   },
   {
     "player": "Tyler Hoosman (None)",
@@ -5764,6 +5758,12 @@
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "DJ Rogers (DAL)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Antoine Wesley (None)",
@@ -12090,12 +12090,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brittain Brown (CHI)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Scott Orndoff (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -13482,6 +13476,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Brittain Brown (CHI)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
+  },
+  {
     "player": "Austin Aune (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -14520,12 +14520,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Courtland Sutton (DEN)",
-    "ros_points": 70,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jaydon Mickens (None)",
     "ros_points": 70,
     "trend": "+0.0",
@@ -15114,6 +15108,12 @@
     "quick_why": "Veteran downgrade"
   },
   {
+    "player": "Courtland Sutton (DEN)",
+    "ros_points": 69,
+    "trend": "-1.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
     "player": "Tyler Kroft (None)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -15199,12 +15199,6 @@
   },
   {
     "player": "Nick Mullens (JAX)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
-    "player": "Marquez Valdes-Scantling (LAC)",
     "ros_points": 69,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
@@ -15675,6 +15669,12 @@
     "player": "Blake Bell (None)",
     "ros_points": 68,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Marquez Valdes-Scantling (LAC)",
+    "ros_points": 68,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
@@ -16452,12 +16452,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Geno Smith (NYJ)",
-    "ros_points": 65,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Ryan Tannehill (None)",
     "ros_points": 65,
     "trend": "+0.0",
@@ -16545,6 +16539,12 @@
     "player": "Taiwan Jones (None)",
     "ros_points": 65,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Geno Smith (NYJ)",
+    "ros_points": 64,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
