@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-10T16:01:45.549889",
+  "timestamp": "2026-10-10T20:23:20.862459",
   "players": {
     "QB": [
       {
@@ -5894,7 +5894,7 @@
         "rank": 300,
         "player_id": "11370",
         "name": "Chris Brooks",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16759,7 +16759,7 @@
         "rank": 823,
         "player_id": "7670",
         "name": "Joshua Palmer",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -18784,7 +18784,7 @@
         "rank": 1048,
         "player_id": "6149",
         "name": "Darius Slayton",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -18820,7 +18820,7 @@
         "rank": 1052,
         "player_id": "6819",
         "name": "Michael Pittman",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
