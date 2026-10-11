@@ -3444,12 +3444,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Arian Smith (NYJ)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Oliver Martin (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3463,12 +3457,6 @@
   },
   {
     "player": "Rodney Hammond (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Lan Larison (NE)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5952,6 +5940,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Arian Smith (NYJ)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
+  },
+  {
     "player": "Dimitri Stanley (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5961,6 +5955,12 @@
     "player": "Anthony Gordon (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Lan Larison (NE)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
