@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-12T16:20:33.740668",
+  "timestamp": "2026-10-12T23:23:23.685357",
   "players": {
     "QB": [
       {
@@ -159,7 +159,7 @@
         "rank": 18,
         "player_id": "13275",
         "name": "Ty Simpson",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -1968,7 +1968,7 @@
         "rank": 219,
         "player_id": "5854",
         "name": "Drew Lock",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -10936,7 +10936,7 @@
         "rank": 176,
         "player_id": "13270",
         "name": "CJ Daniels",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -10981,7 +10981,7 @@
         "rank": 181,
         "player_id": "9488",
         "name": "Jaxon Smith-Njigba",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -14140,7 +14140,7 @@
         "rank": 532,
         "player_id": "9490",
         "name": "Tyler Scott",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -15940,7 +15940,7 @@
         "rank": 732,
         "player_id": "8188",
         "name": "Tyquan Thornton",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -18460,7 +18460,7 @@
         "rank": 1012,
         "player_id": "4983",
         "name": "DJ Moore",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -18604,7 +18604,7 @@
         "rank": 1028,
         "player_id": "7757",
         "name": "Ben Skowronek",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -19297,7 +19297,7 @@
         "rank": 1105,
         "player_id": "6588",
         "name": "Tom Kennedy",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -22071,7 +22071,7 @@
         "rank": 48,
         "player_id": "13278",
         "name": "Max Klare",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -26400,7 +26400,7 @@
         "rank": 529,
         "player_id": "5409",
         "name": "Tanner Hudson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
