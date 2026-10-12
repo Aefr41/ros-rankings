@@ -459,7 +459,7 @@
     "player": "Jack Strand (ATL)",
     "ros_points": 78,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Kobe Prentice (None)",
@@ -645,7 +645,7 @@
     "player": "Elijah Sarratt (BAL)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Seth Henigan (None)",
@@ -943,12 +943,6 @@
   },
   {
     "player": "Tai Felton (MIN)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Tre Watson (MIA)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2886,6 +2880,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Tre Watson (MIA)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Trestan Ebner (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3414,7 +3414,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Marvin Harrison (ARI)",
+    "player": "Marvin Harrison (HOU)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Injury concern"
@@ -4099,12 +4099,6 @@
   },
   {
     "player": "Ty Fryfogle (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Tyler Scott (LV)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6741,6 +6735,12 @@
     "player": "Roschon Johnson (CHI)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tyler Scott (LV)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -14169,7 +14169,7 @@
     "player": "Deebo Samuel (SF)",
     "ros_points": 70,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Adam Humphries (None)",
@@ -15315,7 +15315,7 @@
     "player": "Cooper Rush (ATL)",
     "ros_points": 68,
     "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Taylor Heinicke (None)",
