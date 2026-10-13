@@ -564,13 +564,13 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Audric Estime (MIN)",
+    "player": "Audric Estime (CLE)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
-    "player": "Jamaal Pritchett (None)",
+    "player": "Jamaal Pritchett (NYJ)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -1122,7 +1122,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Devin Neal (None)",
+    "player": "Devin Neal (WAS)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -1722,7 +1722,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jarquez Hunter (MIA)",
+    "player": "Jarquez Hunter (None)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3595,12 +3595,6 @@
   },
   {
     "player": "Mark Walton (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Brady Cook (None)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6099,6 +6093,12 @@
     "player": "T.J. Luther (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Brady Cook (MIA)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -9096,7 +9096,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jared Wayne (HOU)",
+    "player": "Jared Wayne (None)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10716,7 +10716,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Emari Demercado (None)",
+    "player": "Emari Demercado (DAL)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -12726,7 +12726,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyler Johnson (NYJ)",
+    "player": "Tyler Johnson (None)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -15219,7 +15219,7 @@
     "player": "Tanner Hudson (CIN)",
     "ros_points": 69,
     "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Nelson Agholor (None)",
