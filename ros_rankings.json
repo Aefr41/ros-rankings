@@ -834,12 +834,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Emeka Egbuka (TB)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Terrance Ferguson (LAR)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2667,6 +2661,12 @@
     "player": "Michael Dereus (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Emeka Egbuka (TB)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -11520,12 +11520,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Luke Farrell (SF)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Devon Cajuste (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -13014,6 +13008,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Luke Farrell (SF)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Curtis Samuel (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -14058,7 +14058,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jake Browning (None)",
+    "player": "Jake Browning (LAC)",
     "ros_points": 70,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -14964,12 +14964,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Jared Goff (DET)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Keelan Cole (None)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -15495,6 +15489,12 @@
     "player": "Kasey Closs (None)",
     "ros_points": 68,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Jared Goff (DET)",
+    "ros_points": 68,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
