@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T14:12:27.719455",
+  "timestamp": "2026-10-14T19:04:44.028152",
   "players": {
     "QB": [
       {
@@ -2292,7 +2292,7 @@
         "rank": 255,
         "player_id": "4892",
         "name": "Baker Mayfield",
-        "injury_status": "Out",
+        "injury_status": "Doubtful",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -5786,7 +5786,7 @@
         "rank": 288,
         "player_id": "8155",
         "name": "Breece Hall",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -7973,7 +7973,7 @@
         "rank": 531,
         "player_id": "5967",
         "name": "Tony Pollard",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -12106,7 +12106,7 @@
         "rank": 306,
         "player_id": "11625",
         "name": "Adonai Mitchell",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -20404,7 +20404,7 @@
         "rank": 1228,
         "player_id": "1479",
         "name": "Keenan Allen",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 66,
         "rank_change": 0,
         "trend": ""
