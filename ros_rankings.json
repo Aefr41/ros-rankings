@@ -7854,12 +7854,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Andrei Iosivas (CIN)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Robert Davis (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -10120,6 +10114,12 @@
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Andrei Iosivas (CIN)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jaylon Moore (None)",
