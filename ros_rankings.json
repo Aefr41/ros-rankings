@@ -1791,7 +1791,7 @@
     "player": "Jalen Milroe (SEA)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Isaiah Bowser (None)",
@@ -2133,7 +2133,7 @@
     "player": "Robert Henry (SEA)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Efton Chism (NE)",
@@ -4977,7 +4977,7 @@
     "player": "Montorie Foster (SEA)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Joey Aguilar (JAX)",
@@ -5462,7 +5462,7 @@
   {
     "player": "Ian Wheeler (PHI)",
     "ros_points": 75,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
@@ -6279,7 +6279,7 @@
     "player": "Dallen Bentley (DEN)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Ainias Smith (None)",
@@ -11481,7 +11481,7 @@
     "player": "Sam Ehlinger (DEN)",
     "ros_points": 72,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Ka'Raun White (None)",
@@ -15390,12 +15390,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "DeAndre Carter (None)",
-    "ros_points": 68,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Dontrelle Inman (None)",
     "ros_points": 68,
     "trend": "+0.0",
@@ -15939,6 +15933,12 @@
     "player": "Michael Miller (None)",
     "ros_points": 67,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "DeAndre Carter (DET)",
+    "ros_points": 67,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
