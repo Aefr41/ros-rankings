@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-17T17:38:28.749725",
+  "timestamp": "2026-10-17T19:52:23.582019",
   "players": {
     "QB": [
       {
@@ -3329,7 +3329,7 @@
         "rank": 15,
         "player_id": "12531",
         "name": "Trevor Etienne",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -6614,7 +6614,7 @@
         "rank": 380,
         "player_id": "8136",
         "name": "Rachaad White",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -8513,7 +8513,7 @@
         "rank": 591,
         "player_id": "4663",
         "name": "Austin Ekeler",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -13060,7 +13060,7 @@
         "rank": 412,
         "player_id": "11630",
         "name": "Roman Wilson",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -14752,7 +14752,7 @@
         "rank": 600,
         "player_id": "8135",
         "name": "Treylon Burks",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -19567,7 +19567,7 @@
         "rank": 1135,
         "player_id": "5927",
         "name": "Terry McLaurin",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
