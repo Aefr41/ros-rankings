@@ -1776,12 +1776,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Malik Benson (LV)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Evan Svoboda (LAC)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -3114,12 +3108,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Kaelon Black (SF)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Kerryon Johnson (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4185,6 +4173,12 @@
     "player": "Brennan Presley (LAR)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Malik Benson (LV)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -5613,6 +5607,12 @@
     "player": "Marquez Stevenson (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Kaelon Black (SF)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -7267,12 +7267,6 @@
   },
   {
     "player": "Marquis Young (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Brenden Bates (JAX)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9561,6 +9555,12 @@
     "player": "Cade Otton (TB)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Brenden Bates (JAX)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
