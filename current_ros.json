@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-17T19:52:23.582019",
+  "timestamp": "2026-10-17T21:53:03.080941",
   "players": {
     "QB": [
       {
@@ -1734,7 +1734,7 @@
         "rank": 193,
         "player_id": "6904",
         "name": "Jalen Hurts",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -9559,7 +9559,7 @@
         "rank": 23,
         "player_id": "13276",
         "name": "Omar Cooper",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9640,7 +9640,7 @@
         "rank": 32,
         "player_id": "13293",
         "name": "Ja'Kobi Lane",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -11395,7 +11395,7 @@
         "rank": 227,
         "player_id": "12482",
         "name": "Savion Williams",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -14221,7 +14221,7 @@
         "rank": 541,
         "player_id": "12670",
         "name": "KeAndre Lambert-Smith",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -15553,7 +15553,7 @@
         "rank": 689,
         "player_id": "8168",
         "name": "Skyy Moore",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -18415,7 +18415,7 @@
         "rank": 1007,
         "player_id": "5859",
         "name": "A.J. Brown",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
