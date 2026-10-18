@@ -1794,12 +1794,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Taylen Green (CLE)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Wyatt Houston (CAR)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -4200,6 +4194,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Taylen Green (CLE)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "J. Michael Sturdivant (GB)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -5662,12 +5662,6 @@
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Injury concern"
-  },
-  {
-    "player": "Patrick Herbert (LAC)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
   },
   {
     "player": "Damon Hazelton (None)",
@@ -8070,6 +8064,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Patrick Herbert (LAC)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Rashee Rice (KC)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -8335,12 +8335,6 @@
   },
   {
     "player": "Shedrick Jackson (ARI)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Dalton Kincaid (BUF)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10485,6 +10479,12 @@
     "player": "Connor Heyward (LV)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Dalton Kincaid (BUF)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
