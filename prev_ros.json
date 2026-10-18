@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T19:06:05.160511",
+  "timestamp": "2026-10-18T22:04:49.303230",
   "players": {
     "QB": [
       {
@@ -528,7 +528,7 @@
         "rank": 59,
         "player_id": "13404",
         "name": "Garrett Nussmeier",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -1878,7 +1878,7 @@
         "rank": 209,
         "player_id": "10866",
         "name": "Aidan O'Connell",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -9730,7 +9730,7 @@
         "rank": 42,
         "player_id": "13294",
         "name": "Makai Lemon",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9820,7 +9820,7 @@
         "rank": 52,
         "player_id": "13380",
         "name": "Brenen Thompson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11017,7 +11017,7 @@
         "rank": 185,
         "player_id": "11635",
         "name": "Ladd McConkey",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12943,7 +12943,7 @@
         "rank": 399,
         "player_id": "9486",
         "name": "Dontayvion Wicks",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -14221,7 +14221,7 @@
         "rank": 541,
         "player_id": "12670",
         "name": "KeAndre Lambert-Smith",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -17632,7 +17632,7 @@
         "rank": 920,
         "player_id": "7090",
         "name": "Darnell Mooney",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -23178,7 +23178,7 @@
         "rank": 171,
         "player_id": "11595",
         "name": "Jared Wiley",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
