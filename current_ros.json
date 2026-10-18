@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T07:34:23.316195",
+  "timestamp": "2026-10-18T12:17:53.649283",
   "players": {
     "QB": [
       {
@@ -9388,7 +9388,7 @@
         "rank": 4,
         "player_id": "13554",
         "name": "CJ Williams",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -22386,7 +22386,7 @@
         "rank": 83,
         "player_id": "13307",
         "name": "Marlin Klein",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
