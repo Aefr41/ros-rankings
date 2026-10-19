@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-19T17:59:32.598731",
+  "timestamp": "2026-10-19T22:05:53.180734",
   "players": {
     "QB": [
       {
@@ -5291,7 +5291,7 @@
         "rank": 233,
         "player_id": "12533",
         "name": "Jacory Croskey-Merritt",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -8279,7 +8279,7 @@
         "rank": 565,
         "player_id": "4219",
         "name": "Jeremy McNichols",
-        "injury_status": "IR",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -15409,7 +15409,7 @@
         "rank": 673,
         "player_id": "8121",
         "name": "Romeo Doubs",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -20098,7 +20098,7 @@
         "rank": 1194,
         "player_id": "2133",
         "name": "Davante Adams",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
