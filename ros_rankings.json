@@ -5883,7 +5883,7 @@
     "player": "Kurtis Rourke (SF)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Travis Jonsen (None)",
@@ -5983,12 +5983,6 @@
   },
   {
     "player": "Eno Benjamin (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Kenneth Walker (KC)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8334,9 +8328,9 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Shedrick Jackson (ARI)",
+    "player": "Kenneth Walker (KC)",
     "ros_points": 74,
-    "trend": "+0.0",
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -10473,6 +10467,12 @@
     "player": "Nick Holley (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Shedrick Jackson (ARI)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -15027,7 +15027,7 @@
     "player": "Terry McLaurin (WAS)",
     "ros_points": 69,
     "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Aaron Jones (MIN)",
