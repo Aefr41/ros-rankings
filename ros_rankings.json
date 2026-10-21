@@ -8100,12 +8100,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Thomas Yassmin (GB)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Da'Mari Scott (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9402,12 +9396,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Davis Mills (HOU)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Paul Perkins (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -10236,12 +10224,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Isaiah Hodgins (PIT)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Chris Rodriguez (JAX)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -10312,6 +10294,12 @@
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Thomas Yassmin (GB)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Francis Owusu (None)",
@@ -11346,6 +11334,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Davis Mills (HOU)",
+    "ros_points": 72,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Travis Wilson (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -11805,6 +11799,12 @@
     "player": "Sean Culkin (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Isaiah Hodgins (PIT)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
