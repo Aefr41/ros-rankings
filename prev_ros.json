@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-20T21:01:22.008648",
+  "timestamp": "2026-10-21T00:14:32.671861",
   "players": {
     "QB": [
       {
@@ -3788,7 +3788,7 @@
         "rank": 66,
         "player_id": "11582",
         "name": "Carson Steele",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -20098,7 +20098,7 @@
         "rank": 1194,
         "player_id": "2133",
         "name": "Davante Adams",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
