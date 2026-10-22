@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-22T12:38:36.226689",
+  "timestamp": "2026-10-22T17:45:00.772299",
   "players": {
     "QB": [
       {
@@ -3779,7 +3779,7 @@
         "rank": 65,
         "player_id": "11582",
         "name": "Carson Steele",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -9820,7 +9820,7 @@
         "rank": 52,
         "player_id": "13380",
         "name": "Brenen Thompson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
