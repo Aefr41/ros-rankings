@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-22T20:59:41.026547",
+  "timestamp": "2026-10-22T23:54:58.940058",
   "players": {
     "QB": [
       {
@@ -249,7 +249,7 @@
         "rank": 28,
         "player_id": "13295",
         "name": "Behren Morton",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -2868,7 +2868,7 @@
         "rank": 319,
         "player_id": "1737",
         "name": "Case Keenum",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 62,
         "rank_change": 0,
         "trend": ""
@@ -3203,7 +3203,7 @@
         "rank": 1,
         "player_id": "13287",
         "name": "Jeremiyah Love",
-        "injury_status": "Doubtful",
+        "injury_status": "Questionable",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -12934,7 +12934,7 @@
         "rank": 398,
         "player_id": "9486",
         "name": "Dontayvion Wicks",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13195,7 +13195,7 @@
         "rank": 427,
         "player_id": "9493",
         "name": "Puka Nacua",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -16606,7 +16606,7 @@
         "rank": 806,
         "player_id": "7525",
         "name": "DeVonta Smith",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -16831,7 +16831,7 @@
         "rank": 831,
         "player_id": "6794",
         "name": "Justin Jefferson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -17470,7 +17470,7 @@
         "rank": 902,
         "player_id": "8676",
         "name": "Rashid Shaheed",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -19180,7 +19180,7 @@
         "rank": 1092,
         "player_id": "6154",
         "name": "David Sills V",
-        "injury_status": "IR",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -19197,7 +19197,7 @@
       {
         "rank": 1094,
         "player_id": "5154",
-        "name": "Trent Sherfield Sr.",
+        "name": "Trent Sherfield",
         "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
@@ -22134,7 +22134,7 @@
         "rank": 55,
         "player_id": "11604",
         "name": "Brock Bowers",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -23907,7 +23907,7 @@
         "rank": 252,
         "player_id": "7568",
         "name": "Brevin Jordan",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -26220,7 +26220,7 @@
         "rank": 509,
         "player_id": "5022",
         "name": "Dallas Goedert",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
