@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-22T17:45:00.772299",
+  "timestamp": "2026-10-22T20:59:41.026547",
   "players": {
     "QB": [
       {
@@ -1464,7 +1464,7 @@
         "rank": 163,
         "player_id": "6804",
         "name": "Jordan Love",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -3203,7 +3203,7 @@
         "rank": 1,
         "player_id": "13287",
         "name": "Jeremiyah Love",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -3275,7 +3275,7 @@
         "rank": 9,
         "player_id": "13277",
         "name": "CJ Donaldson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -5750,7 +5750,7 @@
         "rank": 284,
         "player_id": "9753",
         "name": "Zach Charbonnet",
-        "injury_status": "PUP",
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -6434,7 +6434,7 @@
         "rank": 360,
         "player_id": "11773",
         "name": "Keilan Robinson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -8081,7 +8081,7 @@
         "rank": 543,
         "player_id": "5892",
         "name": "David Montgomery",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -8774,7 +8774,7 @@
         "rank": 620,
         "player_id": "2749",
         "name": "Raheem Mostert",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
@@ -13060,7 +13060,7 @@
         "rank": 412,
         "player_id": "8137",
         "name": "George Pickens",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -15337,7 +15337,7 @@
         "rank": 665,
         "player_id": "7571",
         "name": "Rashod Bateman",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -18604,7 +18604,7 @@
         "rank": 1028,
         "player_id": "7757",
         "name": "Ben Skowronek",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -22026,7 +22026,7 @@
         "rank": 43,
         "player_id": "12521",
         "name": "Elijah Arroyo",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -22755,7 +22755,7 @@
         "rank": 124,
         "player_id": "13324",
         "name": "Matt Hibner",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -25401,7 +25401,7 @@
         "rank": 418,
         "player_id": "8489",
         "name": "Drew Ogletree",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -26760,7 +26760,7 @@
         "rank": 569,
         "player_id": "3048",
         "name": "Chris Manhertz",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 66,
         "rank_change": 0,
         "trend": ""
