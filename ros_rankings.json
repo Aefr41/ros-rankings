@@ -636,12 +636,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "TreVeyon Henderson (NE)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Elijah Sarratt (BAL)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1836,12 +1830,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Luke Altmyer (DET)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jaylen Wright (MIA)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2253,6 +2241,12 @@
     "player": "Xavier Jones (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "TreVeyon Henderson (NE)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -2965,12 +2959,6 @@
   },
   {
     "player": "Je'Quan Burton (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Stephen Gosnell (BUF)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4260,6 +4248,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Luke Altmyer (DET)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Levi Lewis (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -5457,6 +5451,12 @@
     "player": "Jonah Trinnaman (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Stephen Gosnell (BUF)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
