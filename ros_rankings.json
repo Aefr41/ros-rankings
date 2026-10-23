@@ -66,12 +66,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "CJ Williams (JAX)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Jack Endries (CIN)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -586,6 +580,12 @@
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "CJ Williams (JAX)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Josh Cuevas (BAL)",
@@ -2797,12 +2797,6 @@
   },
   {
     "player": "Collin Schlee (None)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Seth McGowan (IND)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5331,6 +5325,12 @@
     "player": "Spencer Brown (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Seth McGowan (IND)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
