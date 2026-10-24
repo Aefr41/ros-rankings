@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-24T14:10:00.614023",
+  "timestamp": "2026-10-24T17:43:34.627528",
   "players": {
     "QB": [
       {
@@ -3356,7 +3356,7 @@
         "rank": 18,
         "player_id": "12469",
         "name": "Dylan Sampson",
-        "injury_status": "IR",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -3509,7 +3509,7 @@
         "rank": 35,
         "player_id": "12455",
         "name": "Brashard Smith",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -22998,7 +22998,7 @@
         "rank": 151,
         "player_id": "11597",
         "name": "Theo Johnson",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
