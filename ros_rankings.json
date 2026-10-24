@@ -1344,12 +1344,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Konata Mumpfield (LAR)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jaydn Ott (KC)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1873,12 +1867,6 @@
   },
   {
     "player": "Lewis Bond (HOU)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Phil Mafah (NYG)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -3516,6 +3504,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Konata Mumpfield (LAR)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Camren McDonald (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4347,6 +4341,12 @@
     "player": "Patrick Gurd (LV)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Phil Mafah (NYG)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -8340,12 +8340,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Amon-Ra St. Brown (DET)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jacob Kibodi (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -10479,6 +10473,12 @@
     "player": "William Stanback (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Amon-Ra St. Brown (DET)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
