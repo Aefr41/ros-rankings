@@ -2538,12 +2538,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Sean Tucker (TB)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Tyrion Davis-Price (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -5034,6 +5028,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Sean Tucker (TB)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Caleb Scott (TEN)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5875,12 +5875,6 @@
   },
   {
     "player": "Devin Leary (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Kurtis Rourke (SF)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8247,6 +8241,12 @@
     "player": "Zimari Manning (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Kurtis Rourke (SF)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -10692,12 +10692,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Pat Freiermuth (PIT)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Dareke Young (LV)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -12321,6 +12315,12 @@
     "player": "Javon Wims (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Pat Freiermuth (PIT)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
