@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-26T17:58:05.137199",
+  "timestamp": "2026-10-26T22:18:53.758620",
   "players": {
     "QB": [
       {
@@ -10738,7 +10738,7 @@
         "rank": 154,
         "player_id": "12501",
         "name": "Matthew Golden",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11962,7 +11962,7 @@
         "rank": 290,
         "player_id": "11646",
         "name": "Jalen Coker",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -15769,7 +15769,7 @@
         "rank": 713,
         "player_id": "11034",
         "name": "Jalen Brooks",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16669,7 +16669,7 @@
         "rank": 813,
         "player_id": "7547",
         "name": "Amon-Ra St. Brown",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -21864,7 +21864,7 @@
         "rank": 25,
         "player_id": "13349",
         "name": "Eli Stowers",
-        "injury_status": "IR",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -24474,7 +24474,7 @@
         "rank": 315,
         "player_id": "8177",
         "name": "Grant Calcaterra",
-        "injury_status": "IR",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
