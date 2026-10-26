@@ -918,12 +918,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cole Payton (PHI)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Seth Dawkins (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2100,12 +2094,6 @@
     "quick_why": "Injury concern"
   },
   {
-    "player": "Efton Chism III (NE)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Blake Proehl (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -2793,6 +2781,12 @@
     "player": "Treveyon Pratt (None)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Cole Payton (PHI)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -3843,7 +3837,7 @@
     "player": "Garrett Nussmeier (KC)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Kentrel Bullock (CIN)",
@@ -4584,6 +4578,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Efton Chism III (NE)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Malik Washington (MIA)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5286,12 +5286,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Julius Chestnut (TEN)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "RJ Harvey (DEN)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5359,12 +5353,6 @@
   },
   {
     "player": "Josh Rosen (None)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Evan Hull (ARI)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7371,7 +7359,7 @@
     "player": "Ben VanSumeren (KC)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Michael Wilson (ARI)",
@@ -7758,6 +7746,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Julius Chestnut (TEN)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Ja'Marcus Bradley (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -7821,6 +7815,12 @@
     "player": "Eli Pancol (None)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Evan Hull (ARI)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
