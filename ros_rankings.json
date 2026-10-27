@@ -120,7 +120,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jack Velling (ATL)",
+    "player": "Jack Velling (None)",
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -1782,7 +1782,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Carsen Ryan (CLE)",
+    "player": "Carsen Ryan (None)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4944,7 +4944,7 @@
     "quick_why": "Injury concern"
   },
   {
-    "player": "Montorie Foster Jr. (None)",
+    "player": "Montorie Foster Jr. (SEA)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6048,7 +6048,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Malick Meiga (None)",
+    "player": "Malick Meiga (SEA)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7395,7 +7395,7 @@
     "player": "Erick All Jr. (CIN)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "John FitzPatrick (CLE)",
@@ -8043,7 +8043,7 @@
     "player": "Tyrone Tracy Jr. (NYG)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Patrick Herbert (LAC)",
@@ -8509,12 +8509,6 @@
   },
   {
     "player": "James Morgan (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Caden Prieskorn (None)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10593,6 +10587,12 @@
     "player": "Sergio Bailey (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Caden Prieskorn (CIN)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -18429,7 +18429,7 @@
     "player": "Josh Kattus (CIN)",
     "ros_points": 0.0,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Trevon Bradford (None)",
