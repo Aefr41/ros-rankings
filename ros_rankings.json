@@ -276,12 +276,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Quinshon Judkins (CLE)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Damien Martinez (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -1302,6 +1296,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Quinshon Judkins (CLE)",
+    "ros_points": 77,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Franko House (CHI)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -1453,12 +1453,6 @@
   },
   {
     "player": "Ja'seem Reed (CAR)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jalon Daniels (TB)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2498,7 +2492,7 @@
   {
     "player": "Bryson Nesbit (MIN)",
     "ros_points": 76,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
@@ -3672,6 +3666,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jalon Daniels (TB)",
+    "ros_points": 76,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Isaiah Searight (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -3912,7 +3912,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Quentin Skinner (None)",
+    "player": "Quentin Skinner (PHI)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9036,12 +9036,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tank Dell (HOU)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Braylon Sanders (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9463,12 +9457,6 @@
   },
   {
     "player": "Darrius Shepherd (None)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Charlie Jones (NYG)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10692,7 +10680,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Emari Demercado (None)",
+    "player": "Emari Demercado (HOU)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -11025,6 +11013,12 @@
     "player": "Nate Adkins (DEN)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Tank Dell (HOU)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -11361,6 +11355,12 @@
     "player": "James Washington (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Charlie Jones (NYG)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -11971,12 +11971,6 @@
   },
   {
     "player": "Cornell Powell (None)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Darnell Mooney (NYG)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13437,6 +13431,12 @@
     "player": "Ross Travis (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Darnell Mooney (NYG)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -15072,12 +15072,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Austin Hooper (ATL)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Durham Smythe (BAL)",
     "ros_points": 69,
     "trend": "+0.0",
@@ -15555,6 +15549,12 @@
     "player": "Garrett Gilbert (None)",
     "ros_points": 68,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Austin Hooper (ATL)",
+    "ros_points": 68,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
@@ -16686,12 +16686,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Andy Dalton (ATL)",
-    "ros_points": 62,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Brian Hoyer (None)",
     "ros_points": 62,
     "trend": "+0.0",
@@ -16731,6 +16725,12 @@
     "player": "Matthew Slater (None)",
     "ros_points": 62,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Andy Dalton (ATL)",
+    "ros_points": 61,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
