@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-29T19:58:15.193670",
+  "timestamp": "2026-10-29T23:47:50.358743",
   "players": {
     "QB": [
       {
@@ -87,7 +87,7 @@
         "rank": 10,
         "player_id": "13272",
         "name": "Carson Beck",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -744,7 +744,7 @@
         "rank": 83,
         "player_id": "13415",
         "name": "Haynes King",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -3248,7 +3248,7 @@
         "rank": 6,
         "player_id": "11576",
         "name": "Braelon Allen",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -3347,7 +3347,7 @@
         "rank": 17,
         "player_id": "12469",
         "name": "Dylan Sampson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -3392,7 +3392,7 @@
         "rank": 22,
         "player_id": "12544",
         "name": "LeQuint Allen Jr.",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -3527,7 +3527,7 @@
         "rank": 37,
         "player_id": "12504",
         "name": "Kaleb Johnson",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -4436,7 +4436,7 @@
         "rank": 138,
         "player_id": "9221",
         "name": "Jahmyr Gibbs",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -5057,7 +5057,7 @@
         "rank": 207,
         "player_id": "11237",
         "name": "Jacob Saylors",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5192,7 +5192,7 @@
         "rank": 222,
         "player_id": "12489",
         "name": "RJ Harvey",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -7784,7 +7784,7 @@
         "rank": 510,
         "player_id": "6828",
         "name": "AJ Dillon",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -10738,7 +10738,7 @@
         "rank": 154,
         "player_id": "12501",
         "name": "Matthew Golden",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11602,7 +11602,7 @@
         "rank": 250,
         "player_id": "9494",
         "name": "Marvin Mims Jr.",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -14617,7 +14617,7 @@
         "rank": 585,
         "player_id": "7564",
         "name": "Ja'Marr Chase",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16642,7 +16642,7 @@
         "rank": 810,
         "player_id": "7547",
         "name": "Amon-Ra St. Brown",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -19873,7 +19873,7 @@
         "rank": 1169,
         "player_id": "2449",
         "name": "Stefon Diggs",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -21882,7 +21882,7 @@
         "rank": 27,
         "player_id": "12700",
         "name": "Gavin Bartholomew",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -22026,7 +22026,7 @@
         "rank": 43,
         "player_id": "11600",
         "name": "Ja'Tavion Sanders",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -22125,7 +22125,7 @@
         "rank": 54,
         "player_id": "11604",
         "name": "Brock Bowers",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -25437,7 +25437,7 @@
         "rank": 422,
         "player_id": "10871",
         "name": "Luke Schoonmaker",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -26328,7 +26328,7 @@
         "rank": 521,
         "player_id": "4144",
         "name": "Jonnu Smith",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -26877,7 +26877,7 @@
         "rank": 582,
         "player_id": "1466",
         "name": "Travis Kelce",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 63,
         "rank_change": 0,
         "trend": ""
