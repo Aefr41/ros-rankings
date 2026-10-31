@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-31T18:55:53.655141",
+  "timestamp": "2026-10-31T22:05:29.181727",
   "players": {
     "QB": [
       {
@@ -5192,7 +5192,7 @@
         "rank": 222,
         "player_id": "12489",
         "name": "RJ Harvey",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5732,7 +5732,7 @@
         "rank": 282,
         "player_id": "9753",
         "name": "Zach Charbonnet",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -10252,7 +10252,7 @@
         "rank": 100,
         "player_id": "12483",
         "name": "Jack Bech",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -17470,7 +17470,7 @@
         "rank": 902,
         "player_id": "8676",
         "name": "Rashid Shaheed",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -18361,7 +18361,7 @@
         "rank": 1001,
         "player_id": "8223",
         "name": "Velus Jones Jr.",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -21675,7 +21675,7 @@
         "rank": 4,
         "player_id": "12517",
         "name": "Colston Loveland",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
