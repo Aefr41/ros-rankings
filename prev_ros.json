@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-01T19:58:56.478938",
+  "timestamp": "2026-11-01T23:23:54.940472",
   "players": {
     "QB": [
       {
@@ -231,7 +231,7 @@
         "rank": 26,
         "player_id": "13295",
         "name": "Behren Morton",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -519,7 +519,7 @@
         "rank": 58,
         "player_id": "13404",
         "name": "Garrett Nussmeier",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -1743,7 +1743,7 @@
         "rank": 194,
         "player_id": "7583",
         "name": "Sam Ehlinger",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -1797,7 +1797,7 @@
         "rank": 200,
         "player_id": "7083",
         "name": "Tyler Huntley",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -2121,7 +2121,7 @@
         "rank": 236,
         "player_id": "5849",
         "name": "Kyler Murray",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -3203,7 +3203,7 @@
         "rank": 1,
         "player_id": "13287",
         "name": "Jeremiyah Love",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -5624,7 +5624,7 @@
         "rank": 270,
         "player_id": "8122",
         "name": "Zonovan Knight",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5939,7 +5939,7 @@
         "rank": 305,
         "player_id": "11273",
         "name": "Ben VanSumeren",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6605,7 +6605,7 @@
         "rank": 379,
         "player_id": "8138",
         "name": "James Cook III",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -14527,7 +14527,7 @@
         "rank": 575,
         "player_id": "10232",
         "name": "Michael Wilson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -15715,7 +15715,7 @@
         "rank": 707,
         "player_id": "11056",
         "name": "Jared Wayne",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16021,7 +16021,7 @@
         "rank": 741,
         "player_id": "7526",
         "name": "Jaylen Waddle",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -16723,7 +16723,7 @@
         "rank": 819,
         "player_id": "7670",
         "name": "Joshua Palmer",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -18451,7 +18451,7 @@
         "rank": 1011,
         "player_id": "4983",
         "name": "DJ Moore",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -19576,7 +19576,7 @@
         "rank": 1136,
         "player_id": "4454",
         "name": "Kendrick Bourne",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -21711,7 +21711,7 @@
         "rank": 8,
         "player_id": "13400",
         "name": "Justin Joly",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -23286,7 +23286,7 @@
         "rank": 183,
         "player_id": "13577",
         "name": "Dallen Bentley",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -24447,7 +24447,7 @@
         "rank": 312,
         "player_id": "8110",
         "name": "Jake Ferguson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -26211,7 +26211,7 @@
         "rank": 508,
         "player_id": "3214",
         "name": "Hunter Henry",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
