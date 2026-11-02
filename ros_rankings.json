@@ -711,7 +711,7 @@
     "player": "Athan Kaliakmanis (WAS)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Dontay Demus (None)",
@@ -4182,12 +4182,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Deuce Vaughn (HOU)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Romello Brinson (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -5862,12 +5856,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jared Wiley (KC)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Blake Mack (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6886,6 +6874,12 @@
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Injury concern"
+  },
+  {
+    "player": "Deuce Vaughn (HOU)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Josh Love (None)",
@@ -8241,6 +8235,12 @@
     "player": "Jordan Scarlett (MIA)",
     "ros_points": 74,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jared Wiley (KC)",
+    "ros_points": 74,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -9631,12 +9631,6 @@
   },
   {
     "player": "DeAngelo Yancey (None)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jordan Love (GB)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -11458,6 +11452,12 @@
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Injury concern"
+  },
+  {
+    "player": "Jordan Love (GB)",
+    "ros_points": 72,
+    "trend": "-1.0",
+    "quick_why": "Steady"
   },
   {
     "player": "Ka'Raun White (None)",
@@ -14901,7 +14901,7 @@
     "player": "Hunter Henry (NE)",
     "ros_points": 69,
     "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Will Grier (None)",
