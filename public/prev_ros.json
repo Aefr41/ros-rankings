@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-03T18:51:03.451199",
+  "timestamp": "2026-11-03T23:47:53.710625",
   "players": {
     "QB": [
       {
@@ -1356,7 +1356,7 @@
         "rank": 151,
         "player_id": "11851",
         "name": "Carter Bradley",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -3203,7 +3203,7 @@
         "rank": 1,
         "player_id": "13287",
         "name": "Jeremiyah Love",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -3824,7 +3824,7 @@
         "rank": 70,
         "player_id": "13315",
         "name": "Dean Connors",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -5993,7 +5993,7 @@
         "rank": 311,
         "player_id": "7599",
         "name": "Jermar Jefferson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -8279,7 +8279,7 @@
         "rank": 565,
         "player_id": "4219",
         "name": "Jeremy McNichols",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -10828,7 +10828,7 @@
         "rank": 164,
         "player_id": "13898",
         "name": "Corey Rucker",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -19576,7 +19576,7 @@
         "rank": 1136,
         "player_id": "4454",
         "name": "Kendrick Bourne",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -25212,7 +25212,7 @@
         "rank": 397,
         "player_id": "7597",
         "name": "Kenny Yeboah",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -27084,7 +27084,7 @@
         "rank": 605,
         "player_id": "13839",
         "name": "Chase Curtis",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 0.0,
         "rank_change": 0,
         "trend": ""
