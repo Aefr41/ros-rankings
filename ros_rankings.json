@@ -603,7 +603,7 @@
     "player": "Brenen Thompson (LAC)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Dominick Wood-Anderson (None)",
@@ -6537,7 +6537,7 @@
     "player": "Carter Runyon (LV)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Jalin Hyatt (NYG)",
@@ -7542,7 +7542,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jermar Jefferson (None)",
+    "player": "Jermar Jefferson (ARI)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9132,7 +9132,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Adrian Martinez (None)",
+    "player": "Adrian Martinez (SEA)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -11478,12 +11478,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Simi Fehoko (ARI)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Trevor Knight (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12972,6 +12966,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Simi Fehoko (ARI)",
+    "ros_points": 71,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "K.J. Osborn (TEN)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -13569,7 +13569,7 @@
     "player": "David Montgomery (HOU)",
     "ros_points": 71,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Scotty Miller (CHI)",
@@ -14148,7 +14148,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Alex Bachman (None)",
+    "player": "Alex Bachman (LAR)",
     "ros_points": 70,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -14298,7 +14298,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "James Proche (None)",
+    "player": "James Proche II (ARI)",
     "ros_points": 70,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -16098,12 +16098,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Odell Beckham Jr. (MIN)",
-    "ros_points": 67,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Jordan Akins (None)",
     "ros_points": 67,
     "trend": "+0.0",
@@ -16191,7 +16185,7 @@
     "player": "Jacoby Brissett (ARI)",
     "ros_points": 67,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Veteran downgrade"
   },
   {
     "player": "Ryan Griffin (None)",
@@ -16353,6 +16347,12 @@
     "player": "Latavius Murray (None)",
     "ros_points": 66,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Odell Beckham Jr. (MIN)",
+    "ros_points": 66,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
@@ -17628,7 +17628,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jacob De Jesus (None)",
+    "player": "Jacob De Jesus (KC)",
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
