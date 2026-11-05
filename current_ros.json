@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-05T16:57:26.740326",
+  "timestamp": "2026-11-05T22:30:28.911756",
   "players": {
     "QB": [
       {
@@ -1797,7 +1797,7 @@
         "rank": 200,
         "player_id": "7083",
         "name": "Tyler Huntley",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -2013,7 +2013,7 @@
         "rank": 224,
         "player_id": "4881",
         "name": "Lamar Jackson",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -5471,7 +5471,7 @@
         "rank": 253,
         "player_id": "11581",
         "name": "MarShawn Lloyd",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -6893,7 +6893,7 @@
         "rank": 411,
         "player_id": "11299",
         "name": "Zavier Scott",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7010,7 +7010,7 @@
         "rank": 424,
         "player_id": "7567",
         "name": "Kenny Gainwell",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -8108,7 +8108,7 @@
         "rank": 546,
         "player_id": "6039",
         "name": "Ty Johnson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -10180,7 +10180,7 @@
         "rank": 92,
         "player_id": "11632",
         "name": "Malik Nabers",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -10504,7 +10504,7 @@
         "rank": 128,
         "player_id": "11637",
         "name": "Keon Coleman",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11287,7 +11287,7 @@
         "rank": 215,
         "player_id": "12514",
         "name": "Emeka Egbuka",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -15049,7 +15049,7 @@
         "rank": 633,
         "player_id": "10229",
         "name": "Rashee Rice",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -20134,7 +20134,7 @@
         "rank": 1198,
         "player_id": "2216",
         "name": "Mike Evans",
-        "injury_status": "Doubtful",
+        "injury_status": "Questionable",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
@@ -21765,7 +21765,7 @@
         "rank": 14,
         "player_id": "12498",
         "name": "Mason Taylor",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -21783,7 +21783,7 @@
         "rank": 16,
         "player_id": "12506",
         "name": "Harold Fannin Jr.",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -24636,7 +24636,7 @@
         "rank": 333,
         "player_id": "10236",
         "name": "Dalton Kincaid",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -26877,7 +26877,7 @@
         "rank": 582,
         "player_id": "1466",
         "name": "Travis Kelce",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 63,
         "rank_change": 0,
         "trend": ""
