@@ -462,12 +462,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Dillon Bell (MIN)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "KC Concepcion Jr. (CLE)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -579,7 +573,7 @@
     "player": "CJ Williams (JAX)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Josh Cuevas (BAL)",
@@ -633,7 +627,7 @@
     "player": "Elijah Sarratt (BAL)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Seth Henigan (None)",
@@ -1827,6 +1821,12 @@
     "player": "Isaiah Washington (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Dillon Bell (MIN)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -5463,7 +5463,7 @@
     "player": "Kedon Slovis (BAL)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Phillip Brooks (None)",
@@ -6618,7 +6618,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Bub Means (None)",
+    "player": "Bub Means (KC)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10290,7 +10290,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Cody White (None)",
+    "player": "Cody White (LV)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -12720,12 +12720,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "John Bates (WAS)",
-    "ros_points": 72,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Jordan Howard (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -13911,6 +13905,12 @@
     "player": "Kivon Cartwright (None)",
     "ros_points": 71,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "John Bates (WAS)",
+    "ros_points": 71,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
