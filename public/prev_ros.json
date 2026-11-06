@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-06T10:24:31.514522",
+  "timestamp": "2026-11-06T17:44:36.636855",
   "players": {
     "QB": [
       {
@@ -6641,7 +6641,7 @@
         "rank": 383,
         "player_id": "8154",
         "name": "Brian Robinson Jr.",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -11287,7 +11287,7 @@
         "rank": 215,
         "player_id": "12514",
         "name": "Emeka Egbuka",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -14752,7 +14752,7 @@
         "rank": 600,
         "player_id": "8146",
         "name": "Garrett Wilson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
