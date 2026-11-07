@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-07T15:58:25.168872",
+  "timestamp": "2026-11-07T19:54:41.074219",
   "players": {
     "QB": [
       {
@@ -2121,7 +2121,7 @@
         "rank": 236,
         "player_id": "5849",
         "name": "Kyler Murray",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -3455,7 +3455,7 @@
         "rank": 29,
         "player_id": "13347",
         "name": "Demond Claiborne",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -7037,7 +7037,7 @@
         "rank": 427,
         "player_id": "8195",
         "name": "Ronnie Rivers",
-        "injury_status": "IR",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -10495,7 +10495,7 @@
         "rank": 127,
         "player_id": "11637",
         "name": "Keon Coleman",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -16714,7 +16714,7 @@
         "rank": 818,
         "player_id": "7670",
         "name": "Joshua Palmer",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -18154,7 +18154,7 @@
         "rank": 978,
         "player_id": "7049",
         "name": "Jauan Jennings",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -18451,7 +18451,7 @@
         "rank": 1011,
         "player_id": "4983",
         "name": "DJ Moore",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
