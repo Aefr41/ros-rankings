@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-08T20:53:41.914975",
+  "timestamp": "2026-11-09T00:20:40.049708",
   "players": {
     "QB": [
       {
@@ -2283,7 +2283,7 @@
         "rank": 254,
         "player_id": "4046",
         "name": "Patrick Mahomes",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -2859,7 +2859,7 @@
         "rank": 318,
         "player_id": "1737",
         "name": "Case Keenum",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 62,
         "rank_change": 0,
         "trend": ""
@@ -4589,7 +4589,7 @@
         "rank": 155,
         "player_id": "12534",
         "name": "Kyle Monangai",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -7586,7 +7586,7 @@
         "rank": 488,
         "player_id": "7611",
         "name": "Rhamondre Stevenson",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -7748,7 +7748,7 @@
         "rank": 506,
         "player_id": "5850",
         "name": "Josh Jacobs",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -10207,7 +10207,7 @@
         "rank": 95,
         "player_id": "11624",
         "name": "Xavier Worthy",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -10990,7 +10990,7 @@
         "rank": 182,
         "player_id": "11635",
         "name": "Ladd McConkey",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11278,7 +11278,7 @@
         "rank": 214,
         "player_id": "12514",
         "name": "Emeka Egbuka",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -13186,7 +13186,7 @@
         "rank": 426,
         "player_id": "9493",
         "name": "Puka Nacua",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13312,7 +13312,7 @@
         "rank": 440,
         "player_id": "10225",
         "name": "Jonathan Mingo",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -26580,7 +26580,7 @@
         "rank": 549,
         "player_id": "4054",
         "name": "Mo Alie-Cox",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
