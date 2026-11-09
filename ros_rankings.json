@@ -12273,7 +12273,7 @@
     "player": "Rhamondre Stevenson (NE)",
     "ros_points": 72,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Temarrick Hemingway (WAS)",
@@ -13069,12 +13069,6 @@
   },
   {
     "player": "Dom Williams (None)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Jakobi Meyers (JAX)",
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -14181,6 +14175,12 @@
     "player": "Tyler Bray (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jakobi Meyers (JAX)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
