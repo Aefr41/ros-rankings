@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-10T16:49:49.776875",
+  "timestamp": "2026-11-10T22:03:38.379715",
   "players": {
     "QB": [
       {
@@ -1608,7 +1608,7 @@
         "rank": 179,
         "player_id": "8161",
         "name": "Malik Willis",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -15355,7 +15355,7 @@
         "rank": 667,
         "player_id": "11623",
         "name": "Jordan Whittington",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16894,7 +16894,7 @@
         "rank": 838,
         "player_id": "7559",
         "name": "Ihmir Smith-Marsette",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -22044,7 +22044,7 @@
         "rank": 45,
         "player_id": "12938",
         "name": "Jackson Meeks",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
