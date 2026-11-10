@@ -3987,7 +3987,7 @@
     "player": "Skyler Bell (BUF)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Chase Garbers (None)",
@@ -5700,12 +5700,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tyler Goodson (DAL)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Tyler Vaughns (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7341,7 +7335,7 @@
     "player": "Michael Wilson (ARI)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Keelan Marion (None)",
@@ -8104,6 +8098,12 @@
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Tyler Goodson (DAL)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Nick Nash (None)",
@@ -9687,7 +9687,7 @@
     "player": "Jake Ferguson (DAL)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Isaiah Winstead (None)",
@@ -12639,7 +12639,7 @@
     "player": "Josh Jacobs (GB)",
     "ros_points": 72,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Parris Campbell (None)",
@@ -12835,12 +12835,6 @@
   },
   {
     "player": "Matt Weiser (None)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Drew Lock (SEA)",
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13989,6 +13983,12 @@
     "player": "Theo Riddick (None)",
     "ros_points": 70,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Drew Lock (SEA)",
+    "ros_points": 70,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -16458,12 +16458,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Zach Ertz (PHI)",
-    "ros_points": 65,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Marshawn Lynch (None)",
     "ros_points": 65,
     "trend": "+0.0",
@@ -16545,6 +16539,12 @@
     "player": "Geno Smith (NYJ)",
     "ros_points": 64,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Zach Ertz (PHI)",
+    "ros_points": 64,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
@@ -16752,7 +16752,7 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Josh Johnson (CIN)",
+    "player": "Josh Johnson (ARI)",
     "ros_points": 60,
     "trend": "-17.0",
     "quick_why": "Veteran downgrade"
