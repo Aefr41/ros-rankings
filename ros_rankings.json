@@ -1584,7 +1584,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jackson Meeks (None)",
+    "player": "Jackson Meeks (DET)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -1800,7 +1800,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Tanner Arkin (None)",
+    "player": "Tanner Arkin (NE)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -1878,7 +1878,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Damon Bankston (None)",
+    "player": "Damon Bankston (MIN)",
     "ros_points": 77,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -2205,7 +2205,7 @@
     "player": "TreVeyon Henderson (NE)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Miles Kitselman (DET)",
@@ -15012,7 +15012,7 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "David Moore (None)",
+    "player": "David Moore (CAR)",
     "ros_points": 69,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
@@ -15202,12 +15202,6 @@
     "ros_points": 69,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
-  },
-  {
-    "player": "Tanner Hudson (CIN)",
-    "ros_points": 69,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
   },
   {
     "player": "Nelson Agholor (None)",
@@ -15714,6 +15708,12 @@
     "quick_why": "Veteran downgrade"
   },
   {
+    "player": "Tanner Hudson (CIN)",
+    "ros_points": 68,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
+  },
+  {
     "player": "Jarius Wright (None)",
     "ros_points": 68,
     "trend": "+0.0",
@@ -16062,7 +16062,7 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Nick Vannett (None)",
+    "player": "Nick Vannett (BAL)",
     "ros_points": 67,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
@@ -16350,7 +16350,7 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Odell Beckham Jr. (None)",
+    "player": "Odell Beckham Jr. (MIN)",
     "ros_points": 66,
     "trend": "+0.0",
     "quick_why": "Veteran downgrade"
