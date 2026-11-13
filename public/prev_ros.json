@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-13T11:43:58.525841",
+  "timestamp": "2026-11-13T18:58:05.941795",
   "players": {
     "QB": [
       {
@@ -5606,7 +5606,7 @@
         "rank": 268,
         "player_id": "8122",
         "name": "Zonovan Knight",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -6452,7 +6452,7 @@
         "rank": 362,
         "player_id": "11963",
         "name": "Chris Collier",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -9361,7 +9361,7 @@
         "rank": 1,
         "player_id": "13279",
         "name": "Carnell Tate",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 79,
         "rank_change": 0,
         "trend": ""
@@ -9460,7 +9460,7 @@
         "rank": 12,
         "player_id": "13311",
         "name": "Chris Bell",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9514,7 +9514,7 @@
         "rank": 18,
         "player_id": "13320",
         "name": "Zachariah Branch",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9550,7 +9550,7 @@
         "rank": 22,
         "player_id": "13276",
         "name": "Omar Cooper Jr.",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -20349,7 +20349,7 @@
       {
         "rank": 1222,
         "player_id": "2334",
-        "name": "Phillip Dorsett II",
+        "name": "Phillip Dorsett",
         "injury_status": null,
         "ros_pts": 67,
         "rank_change": 0,
@@ -26211,7 +26211,7 @@
         "rank": 508,
         "player_id": "3214",
         "name": "Hunter Henry",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -26580,7 +26580,7 @@
         "rank": 549,
         "player_id": "4054",
         "name": "Mo Alie-Cox",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
