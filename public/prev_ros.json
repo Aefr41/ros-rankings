@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-13T18:58:05.941795",
+  "timestamp": "2026-11-14T00:09:45.597958",
   "players": {
     "QB": [
       {
@@ -2112,7 +2112,7 @@
         "rank": 235,
         "player_id": "5849",
         "name": "Kyler Murray",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -2130,7 +2130,7 @@
         "rank": 237,
         "player_id": "5854",
         "name": "Drew Lock",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -2607,7 +2607,7 @@
         "rank": 290,
         "player_id": "3161",
         "name": "Carson Wentz",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
@@ -3275,7 +3275,7 @@
         "rank": 9,
         "player_id": "13277",
         "name": "CJ Donaldson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -3626,7 +3626,7 @@
         "rank": 48,
         "player_id": "12490",
         "name": "Bhayshul Tuten",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -5156,7 +5156,7 @@
         "rank": 218,
         "player_id": "12474",
         "name": "Woody Marks",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -6245,7 +6245,7 @@
         "rank": 339,
         "player_id": "8151",
         "name": "Kenneth Walker III",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6839,7 +6839,7 @@
         "rank": 405,
         "player_id": "10219",
         "name": "Chris Rodriguez Jr.",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7973,7 +7973,7 @@
         "rank": 531,
         "player_id": "5967",
         "name": "Tony Pollard",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -9550,7 +9550,7 @@
         "rank": 22,
         "player_id": "13276",
         "name": "Omar Cooper Jr.",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -10297,7 +10297,7 @@
         "rank": 105,
         "player_id": "12541",
         "name": "Dont'e Thornton Jr.",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -11170,7 +11170,7 @@
         "rank": 202,
         "player_id": "12509",
         "name": "Tre' Harris",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11350,7 +11350,7 @@
         "rank": 222,
         "player_id": "12482",
         "name": "Savion Williams",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -11755,7 +11755,7 @@
         "rank": 267,
         "player_id": "11628",
         "name": "Marvin Harrison Jr.",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12061,7 +12061,7 @@
         "rank": 301,
         "player_id": "11625",
         "name": "Adonai Mitchell",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12430,7 +12430,7 @@
         "rank": 342,
         "player_id": "9756",
         "name": "Jordan Addison",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -13051,7 +13051,7 @@
         "rank": 411,
         "player_id": "8137",
         "name": "George Pickens",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13312,7 +13312,7 @@
         "rank": 440,
         "player_id": "10225",
         "name": "Jonathan Mingo",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -15319,7 +15319,7 @@
         "rank": 663,
         "player_id": "7571",
         "name": "Rashod Bateman",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -15706,7 +15706,7 @@
         "rank": 706,
         "player_id": "11056",
         "name": "Jared Wayne",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -18154,7 +18154,7 @@
         "rank": 978,
         "player_id": "7049",
         "name": "Jauan Jennings",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -19000,7 +19000,7 @@
         "rank": 1072,
         "player_id": "5872",
         "name": "Deebo Samuel Sr.",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -19018,7 +19018,7 @@
         "rank": 1074,
         "player_id": "5947",
         "name": "Jakobi Meyers",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -19090,7 +19090,7 @@
         "rank": 1082,
         "player_id": "8917",
         "name": "KaVontae Turpin",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
@@ -20134,7 +20134,7 @@
         "rank": 1198,
         "player_id": "2216",
         "name": "Mike Evans",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
@@ -21783,7 +21783,7 @@
         "rank": 16,
         "player_id": "12506",
         "name": "Harold Fannin Jr.",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -22071,7 +22071,7 @@
         "rank": 48,
         "player_id": "13434",
         "name": "Will Kacmarek",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -23880,7 +23880,7 @@
         "rank": 249,
         "player_id": "7568",
         "name": "Brevin Jordan",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -24420,7 +24420,7 @@
         "rank": 309,
         "player_id": "10220",
         "name": "Will Mallory",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -24636,7 +24636,7 @@
         "rank": 333,
         "player_id": "10236",
         "name": "Dalton Kincaid",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -24726,7 +24726,7 @@
         "rank": 343,
         "player_id": "10212",
         "name": "Josh Whyle",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -24951,7 +24951,7 @@
         "rank": 368,
         "player_id": "6865",
         "name": "Colby Parkinson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -25554,7 +25554,7 @@
         "rank": 435,
         "player_id": "5844",
         "name": "T.J. Hockenson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -26598,7 +26598,7 @@
         "rank": 551,
         "player_id": "3271",
         "name": "Tyler Higbee",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
