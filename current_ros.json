@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T14:39:17.533526",
+  "timestamp": "2026-11-14T19:36:55.839996",
   "players": {
     "QB": [
       {
@@ -6182,7 +6182,7 @@
         "rank": 332,
         "player_id": "8207",
         "name": "Tyler Goodson",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6245,7 +6245,7 @@
         "rank": 339,
         "player_id": "8151",
         "name": "Kenneth Walker III",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -8081,7 +8081,7 @@
         "rank": 543,
         "player_id": "5892",
         "name": "David Montgomery",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -13870,7 +13870,7 @@
         "rank": 502,
         "player_id": "11626",
         "name": "Xavier Legette",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -24420,7 +24420,7 @@
         "rank": 309,
         "player_id": "10220",
         "name": "Will Mallory",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -25311,7 +25311,7 @@
         "rank": 408,
         "player_id": "7600",
         "name": "Pat Freiermuth",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -26580,7 +26580,7 @@
         "rank": 549,
         "player_id": "4054",
         "name": "Mo Alie-Cox",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 67,
         "rank_change": 0,
         "trend": ""
