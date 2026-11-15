@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-15T11:41:29.979228",
+  "timestamp": "2026-11-15T18:14:55.670356",
   "players": {
     "QB": [
       {
@@ -15,7 +15,7 @@
         "rank": 2,
         "player_id": "13602",
         "name": "Jack Strand",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -231,7 +231,7 @@
         "rank": 26,
         "player_id": "13295",
         "name": "Behren Morton",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -402,7 +402,7 @@
         "rank": 45,
         "player_id": "12470",
         "name": "Riley Leonard",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -519,7 +519,7 @@
         "rank": 58,
         "player_id": "13404",
         "name": "Garrett Nussmeier",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -555,7 +555,7 @@
         "rank": 62,
         "player_id": "13306",
         "name": "Taylen Green",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -591,7 +591,7 @@
         "rank": 66,
         "player_id": "11564",
         "name": "Drake Maye",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -744,7 +744,7 @@
         "rank": 83,
         "player_id": "13415",
         "name": "Haynes King",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -834,7 +834,7 @@
         "rank": 93,
         "player_id": "12775",
         "name": "Max Brosmer",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -969,7 +969,7 @@
         "rank": 108,
         "player_id": "12486",
         "name": "Dillon Gabriel",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -1446,7 +1446,7 @@
         "rank": 161,
         "player_id": "7538",
         "name": "Zach Wilson",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -1860,7 +1860,7 @@
         "rank": 207,
         "player_id": "8002",
         "name": "Shane Buechele",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -2292,7 +2292,7 @@
         "rank": 255,
         "player_id": "4892",
         "name": "Baker Mayfield",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 69,
         "rank_change": 0,
         "trend": ""
@@ -2868,7 +2868,7 @@
         "rank": 319,
         "player_id": "829",
         "name": "Andy Dalton",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 61,
         "rank_change": 0,
         "trend": ""
@@ -3365,7 +3365,7 @@
         "rank": 19,
         "player_id": "13288",
         "name": "Nicholas Singleton",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -3707,7 +3707,7 @@
         "rank": 57,
         "player_id": "13419",
         "name": "Jaydn Ott",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -5489,7 +5489,7 @@
         "rank": 255,
         "player_id": "9508",
         "name": "Tyjae Spears",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5552,7 +5552,7 @@
         "rank": 262,
         "player_id": "11729",
         "name": "Sione Vaki",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5858,7 +5858,7 @@
         "rank": 296,
         "player_id": "11370",
         "name": "Chris Brooks",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -5930,7 +5930,7 @@
         "rank": 304,
         "player_id": "11273",
         "name": "Ben VanSumeren",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -6551,7 +6551,7 @@
         "rank": 373,
         "player_id": "8116",
         "name": "Pierre Strong Jr.",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7010,7 +7010,7 @@
         "rank": 424,
         "player_id": "7543",
         "name": "Travis Etienne Jr.",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -7577,7 +7577,7 @@
         "rank": 487,
         "player_id": "7611",
         "name": "Rhamondre Stevenson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -7775,7 +7775,7 @@
         "rank": 509,
         "player_id": "6828",
         "name": "AJ Dillon",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -8045,7 +8045,7 @@
         "rank": 539,
         "player_id": "7204",
         "name": "Reggie Gilliam",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -9460,7 +9460,7 @@
         "rank": 12,
         "player_id": "13311",
         "name": "Chris Bell",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9550,7 +9550,7 @@
         "rank": 22,
         "player_id": "13276",
         "name": "Omar Cooper Jr.",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9622,7 +9622,7 @@
         "rank": 30,
         "player_id": "13346",
         "name": "Denzel Boston",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9784,7 +9784,7 @@
         "rank": 48,
         "player_id": "13554",
         "name": "CJ Williams",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -12052,7 +12052,7 @@
         "rank": 300,
         "player_id": "11625",
         "name": "Adonai Mitchell",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12421,7 +12421,7 @@
         "rank": 341,
         "player_id": "9756",
         "name": "Jordan Addison",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -13870,7 +13870,7 @@
         "rank": 502,
         "player_id": "11626",
         "name": "Xavier Legette",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -14761,7 +14761,7 @@
         "rank": 601,
         "player_id": "8146",
         "name": "Garrett Wilson",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -15535,7 +15535,7 @@
         "rank": 687,
         "player_id": "8168",
         "name": "Skyy Moore",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -16633,7 +16633,7 @@
         "rank": 809,
         "player_id": "7547",
         "name": "Amon-Ra St. Brown",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -18406,7 +18406,7 @@
         "rank": 1006,
         "player_id": "5859",
         "name": "A.J. Brown",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -19810,7 +19810,7 @@
         "rank": 1162,
         "player_id": "4351",
         "name": "Tim Patrick",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 68,
         "rank_change": 0,
         "trend": ""
@@ -21720,7 +21720,7 @@
         "rank": 8,
         "player_id": "13400",
         "name": "Justin Joly",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -22035,7 +22035,7 @@
         "rank": 43,
         "player_id": "11600",
         "name": "Ja'Tavion Sanders",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -23916,7 +23916,7 @@
         "rank": 252,
         "player_id": "10210",
         "name": "Cameron Latu",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -25275,7 +25275,7 @@
         "rank": 403,
         "player_id": "8219",
         "name": "Jelani Woods",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
