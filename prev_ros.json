@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-15T23:16:13.989546",
+  "timestamp": "2026-11-16T03:56:15.375706",
   "players": {
     "QB": [
       {
         "rank": 1,
         "player_id": "13289",
         "name": "Drew Allar",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -852,7 +852,7 @@
         "rank": 95,
         "player_id": "12511",
         "name": "Will Howard",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -3545,7 +3545,7 @@
         "rank": 39,
         "player_id": "13423",
         "name": "Eli Heidenreich",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -25320,7 +25320,7 @@
         "rank": 408,
         "player_id": "7600",
         "name": "Pat Freiermuth",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
