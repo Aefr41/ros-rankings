@@ -228,7 +228,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jaydon Blue (None)",
+    "player": "Jaydon Blue (PHI)",
     "ros_points": 78,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -627,7 +627,7 @@
     "player": "Elijah Sarratt (BAL)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Seth Henigan (None)",
@@ -5463,7 +5463,7 @@
     "player": "Kedon Slovis (BAL)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Phillip Brooks (None)",
@@ -6222,7 +6222,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Xavier Gipson (PHI)",
+    "player": "Xavier Gipson (NYG)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6426,7 +6426,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Hayden Rucci (None)",
+    "player": "Hayden Rucci (PHI)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -9444,7 +9444,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jason Brownlee (None)",
+    "player": "Jason Brownlee (TEN)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13692,12 +13692,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "D.J. Montgomery (IND)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "David Wells (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -14340,7 +14334,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brett Rypien (None)",
+    "player": "Brett Rypien (LV)",
     "ros_points": 70,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -14488,6 +14482,12 @@
     "ros_points": 70,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "D.J. Montgomery (IND)",
+    "ros_points": 70,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jamal Agnew (None)",
