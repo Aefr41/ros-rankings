@@ -2382,7 +2382,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brady Boyd (None)",
+    "player": "Brady Boyd (MIA)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -4002,12 +4002,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Caleb Williams (CHI)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Ty Fryfogle (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -4110,7 +4104,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Brennan Presley (None)",
+    "player": "Brennan Presley (LAR)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5976,7 +5970,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Coleman Owen (None)",
+    "player": "Coleman Owen (GB)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -6672,6 +6666,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Caleb Williams (CHI)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Tyler Scott (LAR)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -7081,12 +7081,6 @@
   },
   {
     "player": "Brandon Dillon (None)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Brycen Tremayne (CAR)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7584,7 +7578,7 @@
     "quick_why": "Injury concern"
   },
   {
-    "player": "Ronnie Bell (None)",
+    "player": "Ronnie Bell (ARI)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7696,12 +7690,6 @@
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
-  },
-  {
-    "player": "British Brooks (HOU)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
   },
   {
     "player": "Jordan Leggett (None)",
@@ -9330,6 +9318,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Brycen Tremayne (CAR)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Brian Brown (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -9928,6 +9922,12 @@
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "British Brooks (HOU)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Blake Jarwin (None)",
@@ -13602,12 +13602,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Christian Kirk (SF)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
     "player": "Xavier Rush (None)",
     "ros_points": 71,
     "trend": "+0.0",
@@ -14416,6 +14410,12 @@
     "ros_points": 70,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Christian Kirk (SF)",
+    "ros_points": 70,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "David Sills V (TB)",
