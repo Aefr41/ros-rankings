@@ -786,12 +786,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Carson Beck (ARI)",
-    "ros_points": 77,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Zay Malone (None)",
     "ros_points": 77,
     "trend": "+0.0",
@@ -2565,6 +2559,12 @@
     "player": "Dean Patterson IV (TB)",
     "ros_points": 76,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Carson Beck (ARI)",
+    "ros_points": 76,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -6606,7 +6606,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Bub Means (None)",
+    "player": "Bub Means (ARI)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -8299,12 +8299,6 @@
   },
   {
     "player": "Kenneth Walker III (KC)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Cam Grandy (CIN)",
     "ros_points": 74,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10416,6 +10410,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Cam Grandy (CIN)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "William Stanback (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -11334,7 +11334,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Charlie Jones (None)",
+    "player": "Charlie Jones (NYG)",
     "ros_points": 72,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -13418,7 +13418,7 @@
   {
     "player": "Dee Eskridge (MIN)",
     "ros_points": 71,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
