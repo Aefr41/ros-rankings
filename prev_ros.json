@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-20T09:27:15.407153",
+  "timestamp": "2026-11-20T18:09:29.336305",
   "players": {
     "QB": [
       {
@@ -6542,7 +6542,7 @@
         "rank": 372,
         "player_id": "8116",
         "name": "Pierre Strong Jr.",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
@@ -9550,7 +9550,7 @@
         "rank": 22,
         "player_id": "13276",
         "name": "Omar Cooper Jr.",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -12844,7 +12844,7 @@
         "rank": 388,
         "player_id": "11608",
         "name": "Isaiah Williams",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -26094,7 +26094,7 @@
         "rank": 494,
         "player_id": "4995",
         "name": "Ian Thomas",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 70,
         "rank_change": 0,
         "trend": ""
