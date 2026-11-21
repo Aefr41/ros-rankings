@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-21T15:48:14.518584",
+  "timestamp": "2026-11-21T21:21:01.325755",
   "players": {
     "QB": [
       {
@@ -339,7 +339,7 @@
         "rank": 38,
         "player_id": "13272",
         "name": "Carson Beck",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -5489,7 +5489,7 @@
         "rank": 255,
         "player_id": "9508",
         "name": "Tyjae Spears",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -12925,7 +12925,7 @@
         "rank": 397,
         "player_id": "9486",
         "name": "Dontayvion Wicks",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -13042,7 +13042,7 @@
         "rank": 410,
         "player_id": "11630",
         "name": "Roman Wilson",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
