@@ -597,7 +597,7 @@
     "player": "Brenen Thompson (LAC)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Dominick Wood-Anderson (None)",
@@ -4923,7 +4923,7 @@
     "player": "Dontayvion Wicks (PHI)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Montorie Foster Jr. (SEA)",
@@ -5088,7 +5088,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Gregory Desrosiers (NYG)",
+    "player": "Gregory Desrosiers Jr. (NYG)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5529,7 +5529,7 @@
     "player": "Jonathan Mingo (DAL)",
     "ros_points": 75,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Zander Horvath (None)",
@@ -8295,7 +8295,7 @@
     "player": "Kenneth Walker III (KC)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "De'Mornay Pierson-El (None)",
@@ -9009,7 +9009,7 @@
     "player": "Jared Wayne (MIA)",
     "ros_points": 74,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Cole Turner (MIA)",
@@ -10407,7 +10407,7 @@
     "player": "Dalton Kincaid (BUF)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Cam Grandy (CIN)",
@@ -10905,7 +10905,7 @@
     "player": "Ihmir Smith-Marsette (CAR)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Lance McCutcheon (None)",
@@ -15300,12 +15300,6 @@
     "quick_why": "Veteran downgrade"
   },
   {
-    "player": "Cooper Rush (TB)",
-    "ros_points": 68,
-    "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
-  },
-  {
     "player": "Taylor Heinicke (None)",
     "ros_points": 68,
     "trend": "+0.0",
@@ -15831,6 +15825,12 @@
     "player": "Mohamed Sanu (None)",
     "ros_points": 67,
     "trend": "+0.0",
+    "quick_why": "Veteran downgrade"
+  },
+  {
+    "player": "Cooper Rush (TB)",
+    "ros_points": 67,
+    "trend": "-1.0",
     "quick_why": "Veteran downgrade"
   },
   {
