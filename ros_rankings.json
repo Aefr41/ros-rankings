@@ -468,6 +468,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Josh Kattus (CIN)",
+    "ros_points": 78,
+    "trend": "+78.0",
+    "quick_why": "Injury concern"
+  },
+  {
     "player": "C.J. Johnson (None)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -836,7 +842,7 @@
   {
     "player": "Jordan Hudson (DAL)",
     "ros_points": 77,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
@@ -5288,7 +5294,7 @@
   {
     "player": "Savion Williams (GB)",
     "ros_points": 75,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
@@ -6152,7 +6158,7 @@
   {
     "player": "Darius Cooper (PHI)",
     "ros_points": 75,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
@@ -10118,7 +10124,7 @@
   {
     "player": "Trey McBride (ARI)",
     "ros_points": 73,
-    "trend": "-1.0",
+    "trend": "+0.0",
     "quick_why": "Steady"
   },
   {
@@ -18430,12 +18436,6 @@
     "ros_points": 0.0,
     "trend": "+0.0",
     "quick_why": "Steady"
-  },
-  {
-    "player": "Josh Kattus (CIN)",
-    "ros_points": 0.0,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
   },
   {
     "player": "Trevon Bradford (None)",
