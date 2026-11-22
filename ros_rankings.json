@@ -174,12 +174,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jordan Hudson (DAL)",
-    "ros_points": 78,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Chris Bell (MIA)",
     "ros_points": 78,
     "trend": "+0.0",
@@ -837,6 +831,12 @@
     "player": "Daniel Jackson (None)",
     "ros_points": 77,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Jordan Hudson (DAL)",
+    "ros_points": 77,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -2730,12 +2730,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Savion Williams (GB)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Collin Schlee (None)",
     "ros_points": 76,
     "trend": "+0.0",
@@ -2841,7 +2835,7 @@
     "player": "Will Shipley (PHI)",
     "ros_points": 76,
     "trend": "+0.0",
-    "quick_why": "Injury concern"
+    "quick_why": "Steady"
   },
   {
     "player": "Chimere Dike (TEN)",
@@ -3631,12 +3625,6 @@
   },
   {
     "player": "Brian Thomas Jr. (JAX)",
-    "ros_points": 76,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Darius Cooper (PHI)",
     "ros_points": 76,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -5298,6 +5286,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Savion Williams (GB)",
+    "ros_points": 75,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Seth McGowan (IND)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -6153,6 +6147,12 @@
     "player": "Tavonn Salter (None)",
     "ros_points": 75,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Darius Cooper (PHI)",
+    "ros_points": 75,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
@@ -7854,12 +7854,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Trey McBride (ARI)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Alex Wesley (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9324,7 +9318,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Pierre Strong Jr. (None)",
+    "player": "Pierre Strong Jr. (GB)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -10119,6 +10113,12 @@
     "player": "Clayton Tune (None)",
     "ros_points": 73,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Trey McBride (ARI)",
+    "ros_points": 73,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
