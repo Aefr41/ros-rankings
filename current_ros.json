@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-24T11:50:34.842275",
+  "timestamp": "2026-11-24T21:44:56.462032",
   "players": {
     "QB": [
       {
@@ -780,7 +780,7 @@
         "rank": 87,
         "player_id": "11648",
         "name": "Kedon Slovis",
-        "injury_status": "Out",
+        "injury_status": null,
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -5948,7 +5948,7 @@
         "rank": 306,
         "player_id": "11273",
         "name": "Ben VanSumeren",
-        "injury_status": "Questionable",
+        "injury_status": "IR",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -9613,7 +9613,7 @@
         "rank": 29,
         "player_id": "13346",
         "name": "Denzel Boston",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -18613,7 +18613,7 @@
         "rank": 1029,
         "player_id": "7757",
         "name": "Ben Skowronek",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -25095,7 +25095,7 @@
         "rank": 383,
         "player_id": "6964",
         "name": "Sean McKeon",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
