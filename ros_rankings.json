@@ -5178,12 +5178,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Blake Corum (LAR)",
-    "ros_points": 75,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Bryce Pierre (None)",
     "ros_points": 75,
     "trend": "+0.0",
@@ -5418,7 +5412,7 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Ian Wheeler (None)",
+    "player": "Ian Wheeler (LAC)",
     "ros_points": 75,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -7674,6 +7668,12 @@
     "quick_why": "Injury concern"
   },
   {
+    "player": "Blake Corum (LAR)",
+    "ros_points": 74,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Keenen Brown (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9492,12 +9492,6 @@
     "quick_why": "Steady"
   },
   {
-    "player": "Jaylen Waddle (DEN)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Gabe Marks (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -9769,12 +9763,6 @@
   },
   {
     "player": "Leroy Watson (None)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
-    "player": "Nick Muse (ATL)",
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
@@ -11223,7 +11211,7 @@
     "player": "J.K. Dobbins (DEN)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jonathan Taylor (IND)",
@@ -11418,6 +11406,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Jaylen Waddle (DEN)",
+    "ros_points": 72,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "I'Tavius Mathers (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -11583,6 +11577,12 @@
     "player": "Gus Johnson (None)",
     "ros_points": 72,
     "trend": "+0.0",
+    "quick_why": "Steady"
+  },
+  {
+    "player": "Nick Muse (ATL)",
+    "ros_points": 72,
+    "trend": "-1.0",
     "quick_why": "Steady"
   },
   {
