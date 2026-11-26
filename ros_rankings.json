@@ -1275,7 +1275,7 @@
     "player": "Ty Simpson (LAR)",
     "ros_points": 77,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Rashad Rochelle (None)",
@@ -8598,12 +8598,6 @@
     "quick_why": "Injury concern"
   },
   {
-    "player": "Hassan Haskins (CLE)",
-    "ros_points": 74,
-    "trend": "+0.0",
-    "quick_why": "Steady"
-  },
-  {
     "player": "Ellis Merriweather (None)",
     "ros_points": 74,
     "trend": "+0.0",
@@ -9831,7 +9825,7 @@
     "player": "Christian Watson (GB)",
     "ros_points": 73,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Malachi Jones (None)",
@@ -10656,6 +10650,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Hassan Haskins (CLE)",
+    "ros_points": 73,
+    "trend": "-1.0",
+    "quick_why": "Steady"
+  },
+  {
     "player": "Bernhard Seikovits (None)",
     "ros_points": 73,
     "trend": "+0.0",
@@ -10942,12 +10942,6 @@
     "ros_points": 73,
     "trend": "+0.0",
     "quick_why": "Steady"
-  },
-  {
-    "player": "Malik Davis (DAL)",
-    "ros_points": 73,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
   },
   {
     "player": "Sam Hartman (WAS)",
@@ -12546,6 +12540,12 @@
     "quick_why": "Steady"
   },
   {
+    "player": "Malik Davis (DAL)",
+    "ros_points": 72,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
+  },
+  {
     "player": "Easop Winston (None)",
     "ros_points": 72,
     "trend": "+0.0",
@@ -12663,7 +12663,7 @@
     "player": "Josh Jacobs (GB)",
     "ros_points": 72,
     "trend": "+0.0",
-    "quick_why": "Steady"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Parris Campbell (None)",
@@ -13219,12 +13219,6 @@
   },
   {
     "player": "A.J. Brown (NE)",
-    "ros_points": 71,
-    "trend": "+0.0",
-    "quick_why": "Injury concern"
-  },
-  {
-    "player": "Gunner Olszewski (NYG)",
     "ros_points": 71,
     "trend": "+0.0",
     "quick_why": "Injury concern"
@@ -14296,6 +14290,12 @@
     "ros_points": 70,
     "trend": "+0.0",
     "quick_why": "Steady"
+  },
+  {
+    "player": "Gunner Olszewski (NYG)",
+    "ros_points": 70,
+    "trend": "-1.0",
+    "quick_why": "Injury concern"
   },
   {
     "player": "Geremy Davis (None)",
@@ -15915,7 +15915,7 @@
     "player": "Tyler Higbee (LAR)",
     "ros_points": 67,
     "trend": "+0.0",
-    "quick_why": "Veteran downgrade"
+    "quick_why": "Injury concern"
   },
   {
     "player": "Jarred Haggins (None)",
