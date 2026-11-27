@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-27T10:19:13.460102",
+  "timestamp": "2026-11-27T19:44:14.677201",
   "players": {
     "QB": [
       {
         "rank": 1,
         "player_id": "13289",
         "name": "Drew Allar",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -339,7 +339,7 @@
         "rank": 38,
         "player_id": "13272",
         "name": "Carson Beck",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -1734,7 +1734,7 @@
         "rank": 193,
         "player_id": "7583",
         "name": "Sam Ehlinger",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -3554,7 +3554,7 @@
         "rank": 40,
         "player_id": "13423",
         "name": "Eli Heidenreich",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 77,
         "rank_change": 0,
         "trend": ""
@@ -6011,7 +6011,7 @@
         "rank": 313,
         "player_id": "8208",
         "name": "Tyler Badie",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -9505,7 +9505,7 @@
         "rank": 17,
         "player_id": "13320",
         "name": "Zachariah Branch",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -9541,7 +9541,7 @@
         "rank": 21,
         "player_id": "13276",
         "name": "Omar Cooper Jr.",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 78,
         "rank_change": 0,
         "trend": ""
@@ -10738,7 +10738,7 @@
         "rank": 154,
         "player_id": "9487",
         "name": "Parker Washington",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -12340,7 +12340,7 @@
         "rank": 332,
         "player_id": "13491",
         "name": "Kaden Wetjen",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 76,
         "rank_change": 0,
         "trend": ""
@@ -14437,7 +14437,7 @@
         "rank": 565,
         "player_id": "8119",
         "name": "Jahan Dotson",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 74,
         "rank_change": 0,
         "trend": ""
@@ -17389,7 +17389,7 @@
         "rank": 893,
         "player_id": "5938",
         "name": "Lil'Jordan Humphrey",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 72,
         "rank_change": 0,
         "trend": ""
@@ -18415,7 +18415,7 @@
         "rank": 1007,
         "player_id": "5859",
         "name": "A.J. Brown",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "ros_pts": 71,
         "rank_change": 0,
         "trend": ""
@@ -23286,7 +23286,7 @@
         "rank": 182,
         "player_id": "13577",
         "name": "Dallen Bentley",
-        "injury_status": null,
+        "injury_status": "Out",
         "ros_pts": 75,
         "rank_change": 0,
         "trend": ""
@@ -24429,7 +24429,7 @@
         "rank": 309,
         "player_id": "10220",
         "name": "Will Mallory",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "ros_pts": 73,
         "rank_change": 0,
         "trend": ""
